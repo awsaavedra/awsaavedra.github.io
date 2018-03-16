@@ -1,11 +1,12 @@
-title: Toughness as a Virtue
+---
+title: Toughness as a virtue
 ---
 
 ## Toughness as a Virtue
 
 
 “The impediment to action advances action. What stands in the way becomes the way.”
-~Marcus Aurelius 
+~Marcus Aurelius
 
 Perhaps being comfortable is not all it is cracked out to be. What is the obstacle
 became the way and the path lay within trial and tribulation? Not the easy route.
