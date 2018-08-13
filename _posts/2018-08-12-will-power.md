@@ -1,6 +1,8 @@
 ---
-title: The Willpower Instinct Summary
+title: The Willpower Instinct Google Talk Summary
 ---
+
+Link: https://www.youtube.com/watch?v=V5BXuZL1HAg
 
 Sleep intervention — sleep more
 
@@ -8,13 +10,9 @@ mindfulness meditation + Physical exercise
 
 Goal: Make willpower system (prefrontal cortex) bigger and better connected
 
-Low glycemic plant based diet
+Low glycemic plant based diet is ideal
 
-
-Feeling guilty actually drains willpower
-	-self forgiveness message
-
-Self-compassion message
+Feeling guilty actually drains willpower so instead...self-compassion message
 
 1. Mindfulness of what you are thinking and feeling
 
@@ -22,7 +20,7 @@ Self-compassion message
 
 3. Encouragement over criticism
 
-	learning how to talk to yourself as a good person, encouraging and being nice
+	learning how to talk to yourself as a good person, encouraging, and being nice
 
 Power of self continuity: Keep of your future self as a dear friend
 
@@ -44,8 +42,6 @@ Using Pessimism
 	-keep projections pessimistic
 
 	-Don’t set super high ideals and get annoyed with setbacks
-
-
 
 Willpower Challenge
 
