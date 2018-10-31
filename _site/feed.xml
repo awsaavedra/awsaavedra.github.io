@@ -1,28 +1,159 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.7.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2018-07-17T22:58:53-07:00</updated><id>http://localhost:4000/</id><subtitle>“Being a hacker means appreciating playful cleverness”</subtitle><entry><title type="html">Daily Lifestyle Checklist</title><link href="http://localhost:4000/2018/07/17/Daily-lifestyle-checklist.html" rel="alternate" type="text/html" title="Daily Lifestyle Checklist" /><published>2018-07-17T00:00:00-07:00</published><updated>2018-07-17T00:00:00-07:00</updated><id>http://localhost:4000/2018/07/17/Daily-lifestyle-checklist</id><content type="html" xml:base="http://localhost:4000/2018/07/17/Daily-lifestyle-checklist.html">&lt;p&gt;A short guide to what I have found useful in my
-lifestyle over the past couple years based on the latest
-scientific evidence.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.7.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2018-10-30T23:07:50-07:00</updated><id>http://localhost:4000/</id><subtitle>“Being a hacker means appreciating playful cleverness”</subtitle><entry><title type="html">The Originals</title><link href="http://localhost:4000/jekyll/update/2018/10/21/the-originals.html" rel="alternate" type="text/html" title="The Originals" /><published>2018-10-21T22:40:05-07:00</published><updated>2018-10-21T22:40:05-07:00</updated><id>http://localhost:4000/jekyll/update/2018/10/21/the-originals</id><content type="html" xml:base="http://localhost:4000/jekyll/update/2018/10/21/the-originals.html">&lt;p&gt;I rarely come away from a book with some solid actionable insights but luckily for me
+this book had some stellar information and a solid data driven approach to viewing
+the power of original thinking.&lt;/p&gt;
 
-&lt;p&gt;Further reading:
--How Not to die
--The Telomere Effect&lt;/p&gt;
+&lt;p&gt;Before I get into the actionable insights from the book let me point out the most
+shocking data table I saw in the book:&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;https://docs.google.com/spreadsheets/d/1BBoh2uDIJZaSN9J02xgVUy8vIzA6ArudeQTO7kVi-kQ/edit?usp=sharing&quot;&gt;Here is the checklist&lt;/a&gt;&lt;/p&gt;</content><author><name></name></author><summary type="html">A short guide to what I have found useful in my lifestyle over the past couple years based on the latest scientific evidence.</summary></entry><entry><title type="html">Toughness as a virtue</title><link href="http://localhost:4000/2018/03/15/virtues-of-toughness.html" rel="alternate" type="text/html" title="Toughness as a virtue" /><published>2018-03-15T00:00:00-07:00</published><updated>2018-03-15T00:00:00-07:00</updated><id>http://localhost:4000/2018/03/15/virtues-of-toughness</id><content type="html" xml:base="http://localhost:4000/2018/03/15/virtues-of-toughness.html">&lt;p&gt;“The impediment to action advances action. What stands in the way becomes the way.”
-~Marcus Aurelius&lt;/p&gt;
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt;Artistic hobby&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;Odds for Nobel Prize winners relative to typical scientist&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Music: playing an instrument, composing, conducting&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;2x greater&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Arts: drawing, painting, printmaking, sculpting&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;7x greater&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Crafts: woodworking, mechanics, electronics, glassblowing&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;7.5x greater&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Writing: poetry, plays, novels, short stories,  essays, popular books&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;12x greater&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Performing: amateur actor, dancer, magician&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;22x greater&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
 
-&lt;p&gt;Perhaps being comfortable is not all it is cracked out to be. What is the obstacle
-became the way and the path lay within trial and tribulation? Not the easy route.&lt;/p&gt;
+&lt;p&gt;In Adam Grant’s words&lt;/p&gt;
 
-&lt;p&gt;A useful heuristic for myself is “What is it that I do not want to do the most?”
-If it is something I deem meaningful and important I do that first. Go towards
-the pain, towards the discomfort, and many times you will find a better life
-at the other end. Suffer for what matters and nothing less.&lt;/p&gt;
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&quot;Interest in the arts among entrepreneurs, inventors, and eminent
+scientists obviously reflects their curiosity and aptitude. People who are open to new ways of looking at science and business also tend to be fascinated by the expression of ideas and emotions through
+images, sounds, and words.*
 
-&lt;p&gt;Toughness seems to be synonymous with “being a man” but often being tough is
-stupidity in disguise. I believe in resilience and perseverance towards a worthy
-goals, choose where to thread wisely, but do not hesitate once you have chosen
-and do not make excuses for failure.&lt;/p&gt;
 
-&lt;p&gt;Move on when needed.&lt;/p&gt;</content><author><name></name></author><summary type="html">“The impediment to action advances action. What stands in the way becomes the way.” ~Marcus Aurelius</summary></entry><entry><title type="html">Learning How to Learn</title><link href="http://localhost:4000/2018/01/25/learning-how-to-learn.html" rel="alternate" type="text/html" title="Learning How to Learn" /><published>2018-01-25T00:00:00-08:00</published><updated>2018-01-25T00:00:00-08:00</updated><id>http://localhost:4000/2018/01/25/learning-how-to-learn</id><content type="html" xml:base="http://localhost:4000/2018/01/25/learning-how-to-learn.html">&lt;h2 id=&quot;metaskills-part-1-learning-tolearn&quot;&gt;Metaskills Part 1: Learning to Learn&lt;/h2&gt;
+*The personality trait most associated with an interest in the arts is called openness, the
+tendency to seek out novelty and variety in intellectual, aesthetic, and emotional pursuits&quot;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;Without further adieu, the actionable items:&lt;/p&gt;
+
+&lt;p&gt;Individual actions:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;Question the default. The status quo is simply a construction of conventional thoughts, learn to distinguish between social conventions, fake stories, and the actual reality of the situation.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Triple the number of ideas you generate. The vast majority of ideas are just wrong or should contain a penumbra of doubt. Get used to the creative process of ideation. It is the process of generating, developing, and communicating new ideas. Although I focus on generation, then once they’re all laid you can start testing them out against the real world.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Immerse yourself in a new domain. “Who has not learned something more about themselves by watching the activities of others? To learn the sword study the guitar. To learn the fist study commerce. To just study the sword will make you narrow-minded and will not permit you to grow outward.” – Miyamoto Musashi, “A Book of Five Rings”&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Procrastinate strategically. Basically, you want to make sure you have time to chew things over, come back to them, engage in divergent thinking, and give ideas time to be fully gestated.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Seek more feedback from peers. You are biased towards your own ideas, get a pool of feedback from trusted peers and believable characters you know. Opinion pooling is a fantastic source of disconfirming or confirming views on an idea, project, etc.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Voicing and Championing Original Ideas&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;Balance your first portfolio. Your risk adjusted return should be thought of as a balancing act between weights. If you take lots of risk in one area of your life, make sure the others are more conservative. &lt;a href=&quot;https://www.investopedia.com/terms/r/riskadjustedreturn.asp&quot;&gt;Here is more on risk adjusted return.&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Highlight the reasons not to support your idea. Why? If no other reason, people will probably trust you more because you aren’t being one of those &lt;a href=&quot;https://www.youtube.com/watch?v=Us3JQh-m2FM&amp;amp;feature=youtu.be&amp;amp;t=79&quot;&gt;psychotically positive camp counselors&lt;/a&gt;.
+￼&lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Make your ideas more familiar. Once someone is exposed to an idea enough to seems familiar and more likely to be accepted. I’ll be honest, I don’t feel like coming up with an example because this seems so obvious.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Speak to a different audience. Try talking to more disagreeable people who share your methodology. Yes people are not helpful to battle testing an idea or product.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Be a tempered radical. The term “Social Justice Warrior” exists for a reason, or that vegan that has to tell everyone why they’re vegan. Don’t be that person, people won’t listen anyways.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Managing emotions&lt;/p&gt;
+&lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;Motivate yourself differently when you’re committed vs. uncertain. Committed–close the gap to the finish line. Uncertain–look at all that sweet progress. This isn’t a contradiction, but a perspective change.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Don’t try to calm down. Reframe anxiety as interest or enthusiasm. Think about how you can challenge yourself and know that if things go wrong it won’t be so bad. I have been doing this a lot recently.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Focus on the victim, not the perpetrator. Punitive actions won’t mend broken wounds or bring those we love back to life. Try to help those who have been harmed. The world does not need more hate filled people trying to punish those who have harmed them.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;“Look, everyone! This is what hatred looks like! This is what it does when it catches hold of you! It’s eating me alive and very soon now it will kill me. Fear and anger only make it grow faster.” ~ Prince Ashitaka from Princess Mononoke.&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Realize you’re not alone. Two is better than one, find others who share your visions and solving your same problems.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;“United with his fellow-men by the strongest of all ties, the tie of a common doom, the free man finds that a new vision is with him always, shedding over every daily task the light of love. The life of Man is a long march through the night, surrounded by invisible foes, tortured by weariness and pain, towards a goal that few can hope to reach, and where none may tarry long. One by one, as they march, our comrades vanish from our sight, seized by the silent orders of omnipotent Death. Very brief is the time in which we can help them, in which their happiness or misery is decided.” ~Bertrand Russel, A Free Man’s Worship&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Remember that if you don’t take initiative, the status quo will persist. One I felt someone should stand up, and I then realized I was someone.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Leader Actions:&lt;/p&gt;
+
+&lt;p&gt;A. Sparking Original ideas&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;Run an innovation tournament. Create a focused hub for ideas to solve a particular problem or meet an untapped need. Let the best ideas win and then give those people the resources to make it happen. Hackathons are a great example of this.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Picture yourself as the enemy. Find threats, identify them, and then pursue them.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Invite employees from different functions and levels to pitch ideas. Flat hierarchies, and letting ideas come from everywhere creates a fertile ground for ideas.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Hold an opposite day. People choose different points of view or ideas that are taken from granted. “When is the opposite true?”&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Choose words that not visceral, so do NOT use: like, love, and hate. Get people to explain their reasoning.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;B. Building Cultures of Originality&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;Hire on cultural contribution, not “fit”. Think of a company as an immune system, it needs diversity to respond to many types of potential change and cover it’s bases.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Shift from exit interviews to entry interviews. It explains itself.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Ask for problems, not solutions. Bring together people on a monthly basis to review problems and figure out which ones are worth solving.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;The devil doesn’t need an advocate, unearth real advocates of the opposite. Dissenting opinions are powerful to either destroy or strengthen your solution, proposal, etc.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Welcome criticism. &lt;a href=&quot;https://www.radicalcandor.com/&quot;&gt;Radical Candor&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;￼&lt;/p&gt;</content><author><name></name></author><summary type="html">I rarely come away from a book with some solid actionable insights but luckily for me this book had some stellar information and a solid data driven approach to viewing the power of original thinking.</summary></entry><entry><title type="html">Learning How to Learn</title><link href="http://localhost:4000/jekyll/update/2018/01/25/learning-how-to-learn.html" rel="alternate" type="text/html" title="Learning How to Learn" /><published>2018-01-25T21:40:05-08:00</published><updated>2018-01-25T21:40:05-08:00</updated><id>http://localhost:4000/jekyll/update/2018/01/25/learning-how-to-learn</id><content type="html" xml:base="http://localhost:4000/jekyll/update/2018/01/25/learning-how-to-learn.html">&lt;h2 id=&quot;metaskills-part-1-learning-tolearn&quot;&gt;Metaskills Part 1: Learning to Learn&lt;/h2&gt;
 
 &lt;h3 id=&quot;introduction&quot;&gt;Introduction&lt;/h3&gt;
 
@@ -30,13 +161,13 @@ and do not make excuses for failure.&lt;/p&gt;
 
 &lt;p&gt;I recently finished a coursea course on learning how to learn provided for free on the subject. I am going to provide an outline of what the course covered and Cliff Notes for anyone who has already covered the course material in great detail.&lt;/p&gt;
 
-&lt;h5 id=&quot;the-spectrum-ofknowing&quot;&gt;The Spectrum of Knowing&lt;/h5&gt;
+&lt;h3 id=&quot;the-spectrum-ofknowing&quot;&gt;The Spectrum of Knowing&lt;/h3&gt;
 
 &lt;p&gt;The atoms of learning can be a fact/thought/idea/etc., but ideas will easily be lost within the noise of lots of other ideas without some cohesion between them. A chunk is that cohesion created from meaning to tie together ideas into some coherent structure. Think of a chunk as an element whose atoms are bonded together into a molecule, many related ideas in one stable form. Now further up the spectrum is when multiple chunks get together to form larger pieces still, as we move away we need some way of putting all these chunks together. The way we do this is still through meaning but on a grander level; understanding.&lt;/p&gt;
 
 &lt;p&gt;Think of understanding as the strongest bond between chunks, ionic/covalent bonds that form between chunks that you have related to one another. Understanding can be thought of like a strong bond created after different elements react with one another and create compounds. These reactions of compounds can continue further and further until one is an expert in a field. All that being said, many skills found in some areas can easy be applied to others like mathematics to economics so your domain knowledge can be easily applied elsewhere depending on what field you are in. That being said, some fields produce metaskills and others do not — mathematics is one while pottery barn class is not.&lt;/p&gt;
 
-&lt;h5 id=&quot;general-learning-habitslist&quot;&gt;General Learning Habits List&lt;/h5&gt;
+&lt;h3 id=&quot;general-learning-habitslist&quot;&gt;General Learning Habits List&lt;/h3&gt;
 
 &lt;p&gt;“&lt;em&gt;Tell me and I forget. Teach me and I remember. Involve me and I learn&lt;/em&gt;.”&lt;/p&gt;
 
@@ -52,7 +183,7 @@ and do not make excuses for failure.&lt;/p&gt;
   &lt;li&gt;Space out your study time over days and/or weeks, never cram. Your brain needs time to consolidate memories and understanding the information you have learned. Non-study time is time for diffused modelearning which is casual connections you make outside of focused mode — like when you are running, walking, etc. and think of something between major concepts you have been covering.&lt;/li&gt;
 &lt;/ol&gt;
 
-&lt;h5 id=&quot;will-powerlist&quot;&gt;Will Power List&lt;/h5&gt;
+&lt;h3 id=&quot;will-powerlist&quot;&gt;Will Power List&lt;/h3&gt;
 
 &lt;ol&gt;
   &lt;li&gt;Use your willpower resources sparingly, you have a finite amount per day.&lt;/li&gt;
@@ -65,22 +196,85 @@ and do not make excuses for failure.&lt;/p&gt;
   &lt;li&gt;Focus on the process of the goal, not the target itself. No one climbed everest in a day.&lt;/li&gt;
 &lt;/ol&gt;
 
-&lt;h5 id=&quot;memory-effectiveness-list&quot;&gt;Memory Effectiveness List&lt;/h5&gt;
+&lt;h3 id=&quot;memory-effectiveness-list&quot;&gt;Memory Effectiveness List&lt;/h3&gt;
 
 &lt;ol&gt;
   &lt;li&gt;Memory palace technique: look it up, numerous videos explain it in extremely rich and vivid detail.&lt;/li&gt;
   &lt;li&gt;Keep the things are you learning in working memory continuously to get the things done.&lt;/li&gt;
   &lt;li&gt;Tap into your visual memory by creating those visually rich examples.&lt;/li&gt;
   &lt;li&gt;Also remember, meaning and understanding are the greatest glue to understand something.&lt;/li&gt;
-&lt;/ol&gt;</content><author><name></name></author><summary type="html">Metaskills Part 1: Learning to Learn</summary></entry><entry><title type="html">Transforming Generic Interview Questions</title><link href="http://localhost:4000/2017/11/02/Interviewing-transformation.html" rel="alternate" type="text/html" title="Transforming Generic Interview Questions" /><published>2017-11-02T00:00:00-07:00</published><updated>2017-11-02T00:00:00-07:00</updated><id>http://localhost:4000/2017/11/02/Interviewing-transformation</id><content type="html" xml:base="http://localhost:4000/2017/11/02/Interviewing-transformation.html">&lt;h2 id=&quot;transforming-generic-interview-questions&quot;&gt;Transforming Generic Interview Questions&lt;/h2&gt;
+&lt;/ol&gt;</content><author><name></name></author><summary type="html">Metaskills Part 1: Learning to Learn</summary></entry><entry><title type="html">Google Talk Summary: The Willpower Instinct</title><link href="http://localhost:4000/jekyll/update/2017/11/02/will-power.html" rel="alternate" type="text/html" title="Google Talk Summary: The Willpower Instinct" /><published>2017-11-02T22:40:05-07:00</published><updated>2017-11-02T22:40:05-07:00</updated><id>http://localhost:4000/jekyll/update/2017/11/02/will-power</id><content type="html" xml:base="http://localhost:4000/jekyll/update/2017/11/02/will-power.html">&lt;p&gt;Link: https://www.youtube.com/watch?v=V5BXuZL1HAg&lt;/p&gt;
 
-&lt;h1&gt;#&lt;/h1&gt;
+&lt;p&gt;Sleep intervention — sleep more&lt;/p&gt;
+
+&lt;p&gt;mindfulness meditation + Physical exercise&lt;/p&gt;
+
+&lt;p&gt;Goal: Make willpower system (prefrontal cortex) bigger and better connected&lt;/p&gt;
+
+&lt;p&gt;Low glycemic plant based diet is ideal&lt;/p&gt;
+
+&lt;p&gt;Feeling guilty actually drains willpower so instead…self-compassion message&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;Mindfulness of what you are thinking and feeling&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Common humanity—everyone makes mistakes&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Encouragement over criticism&lt;/p&gt;
+
+    &lt;p&gt;learning how to talk to yourself as a good person, encouraging, and being nice&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Power of self continuity: Keep of your future self as a dear friend&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;-get to know your future self
+
+	-write a letter as your future self to your present self
+
+		BE OPTIMISTIC
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;Know how to predict your failure — then you will succeed more easily&lt;/p&gt;
+
+&lt;p&gt;!!!!!!Tracking your success is actually BAD!!!!!&lt;/p&gt;
+
+&lt;p&gt;Using Pessimism&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;-Believe failure can happen, optimism about    getting result is bad
+
+-keep projections pessimistic
+
+-Don’t set super high ideals and get annoyed with setbacks
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;Willpower Challenge&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;-torture challenge
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;—surfing the urge&lt;/p&gt;
+
+&lt;p&gt;—any craving and any emotion will eventually pass if you ride it out&lt;/p&gt;
+
+&lt;p&gt;￼&lt;/p&gt;
+
+&lt;p&gt;￼&lt;/p&gt;</content><author><name></name></author><summary type="html">Link: https://www.youtube.com/watch?v=V5BXuZL1HAg</summary></entry><entry><title type="html">Daily Lifestyle Checklist</title><link href="http://localhost:4000/jekyll/update/2017/11/02/Daily-lifestyle-checklist.html" rel="alternate" type="text/html" title="Daily Lifestyle Checklist" /><published>2017-11-02T22:40:05-07:00</published><updated>2017-11-02T22:40:05-07:00</updated><id>http://localhost:4000/jekyll/update/2017/11/02/Daily-lifestyle-checklist</id><content type="html" xml:base="http://localhost:4000/jekyll/update/2017/11/02/Daily-lifestyle-checklist.html">&lt;p&gt;A short guide to what I have found useful in my
+lifestyle over the past couple years based on the latest
+scientific evidence.&lt;/p&gt;
+
+&lt;p&gt;Further reading:
+-How Not to die
+-The Telomere Effect&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://docs.google.com/spreadsheets/d/1BBoh2uDIJZaSN9J02xgVUy8vIzA6ArudeQTO7kVi-kQ/edit?usp=sharing&quot;&gt;Here is the checklist&lt;/a&gt;&lt;/p&gt;</content><author><name></name></author><summary type="html">A short guide to what I have found useful in my lifestyle over the past couple years based on the latest scientific evidence.</summary></entry><entry><title type="html">Transforming Generic Interview Questions</title><link href="http://localhost:4000/jekyll/update/2017/11/02/Interviewing-transformation.html" rel="alternate" type="text/html" title="Transforming Generic Interview Questions" /><published>2017-11-02T22:40:05-07:00</published><updated>2017-11-02T22:40:05-07:00</updated><id>http://localhost:4000/jekyll/update/2017/11/02/Interviewing-transformation</id><content type="html" xml:base="http://localhost:4000/jekyll/update/2017/11/02/Interviewing-transformation.html">&lt;h2 id=&quot;transforming-generic-interview-questions&quot;&gt;Transforming Generic Interview Questions&lt;/h2&gt;
 
 &lt;p&gt;This is an ongoing culmination of general interviewing tips. I hope these are helpful to you as well.&lt;/p&gt;
 
-&lt;h5 id=&quot;1-tell-me-aboutyourself&quot;&gt;1. Tell me about yourself&lt;/h5&gt;
-
-&lt;h1 id=&quot;-1&quot;&gt;#&lt;/h1&gt;
+&lt;h2 id=&quot;1-tell-me-aboutyourself&quot;&gt;1. Tell me about yourself&lt;/h2&gt;
 
 &lt;p&gt;“You are not your job, you’re not how much money you have in the bank. You are not the car you drive. You’re not the contents of your wallet.” ~ Fight Club&lt;/p&gt;
 
@@ -102,9 +296,7 @@ and do not make excuses for failure.&lt;/p&gt;
 
 &lt;p&gt;“When I discovered software engineering and UX, I became enamored with designing and creating great products for users. I believe that engineering and intelligent design are integral parts to satisfy customers. If I have learned anything from working in tech it is to see how your product is being used and create a better one based on that evidence. I try to remain agnostic towards tools and frameworks — picking them based on their relevancy to business needs, not the shiniest or trendiest at the moment. Additionally, I try to get involved with users as much as possible as you can see from my projects and work experience since I see customer satisfaction as my number one goal. Outside of work I bike 3–7 miles a day because I know how important exercise and happiness are to being successful in life.”&lt;/p&gt;
 
-&lt;h5 id=&quot;2what-is-your-greatest-weakness&quot;&gt;2.What is your greatest weakness?&lt;/h5&gt;
-
-&lt;h1 id=&quot;-2&quot;&gt;#&lt;/h1&gt;
+&lt;h2 id=&quot;2what-is-your-greatest-weakness&quot;&gt;2.What is your greatest weakness?&lt;/h2&gt;
 
 &lt;p&gt;“My biggest weakness is my sensitivity. I am too sensitive a person.” ~Mike Tyson&lt;/p&gt;
 
@@ -114,56 +306,52 @@ and do not make excuses for failure.&lt;/p&gt;
 
 &lt;p&gt;The second approach is to answer the question honestly and directly, but don’t shoot yourself in the foot with tackless candor. I would have to say “overly ambitious about my goals, which means I can spread myself too thin, but one of my greatest strengths is pivoting when I realize my strategy isn’t optimal.” This is just an example, but it shows self awareness and covers the doubt that one can perform the job correctly with this weakness. Make sure to anticipate doubts and weaknesses in your own thinking. Think of this type of question as a thesis defense, be able to acknowledge your shortcomings but also summarize EXACTLY how to compensate for them. Be sure to give examples of overcoming this.&lt;/p&gt;
 
-&lt;h5 id=&quot;3what-is-your-strategy-forsuccess&quot;&gt;3.What is your strategy for success?&lt;/h5&gt;
-
-&lt;h1 id=&quot;-3&quot;&gt;#&lt;/h1&gt;
+&lt;h2 id=&quot;3what-is-your-strategy-forsuccess&quot;&gt;3.What is your strategy for success?&lt;/h2&gt;
 
 &lt;p&gt;Open ended questions are sometimes the worst types since you can go many directions with them — make sure to ask clarifying questions, but also realize they may just want a general response back. Make sure to emphasize what makes YOUR strategy for success unique and powerful. Saying “ I listened to a couple Tim Ferris podcasts and casually read Tony Robbins stuff.” No, you’re being &lt;em&gt;hella&lt;/em&gt; basic and need more depth of knowledge.These are some of mine.&lt;/p&gt;
 
 &lt;p&gt;A great outline for skills to develop comes from the book &lt;em&gt;Metaskills: Five Talents for the Robotic Ag__e&lt;/em&gt;. The fox and the hedgehog strategies are a good one as well, look them up after you read this. Remember that “Success is built sequentially. It’s one thing at a time” Gary Keller, &lt;em&gt;The ONE Thing&lt;/em&gt;. Lay your foundation one brick at a time, make sure it is strong, and make sure you don’t spread yourself too thin. Focus on fundamentals as Elon Musk said. Have measurable and planned out REALISTIC results for yourself. Give an anecdote about how you achieved a result and overcame obstacles. Read the Art of War, a lot of potent ideas can be gained such as “a leader leads by example not force.” &lt;a href=&quot;https://medium.com/@awsaavedra/metaskills-part-1-learning-to-learn-1d59a14b37e2#.2p9clkds8&quot;&gt;Understand the mind,&lt;/a&gt; take a course on learning how to learn (coursera offers one). Make success a habit, and another book: 7 Habits of Highly Effective People by Stephen Covey. Never forget to embrace the growth mindset — struggles are good not bad. Last one for now is How to Win Friends and Influence People by Dale Carnegie.&lt;/p&gt;
 
-&lt;h5 id=&quot;4-what-do-you-know-about-the-persons-that-will-be-interviewing-you&quot;&gt;4. What do you know about the person(s) that will be interviewing you?&lt;/h5&gt;
-
-&lt;h1 id=&quot;-4&quot;&gt;#&lt;/h1&gt;
+&lt;h2 id=&quot;4-what-do-you-know-about-the-persons-that-will-be-interviewing-you&quot;&gt;4. What do you know about the person(s) that will be interviewing you?&lt;/h2&gt;
 
 &lt;p&gt;Find common ground and get them on common ground quickly. Turn a skeptic into an advocate. They have a public profile and HOPEFULLY list lots of information about themselves, don’t feel uncomfortable having a strong command of knowledge about your common ground from public information. They list that for a reason and will be delighted/surprised that you took the time to get to know more about them. They are not their job either.&lt;/p&gt;
 
 &lt;p&gt;If nothing or little is publicly available, be genuinely interested and ask questions about how they got there. Learn from them and try to make them see parts of themselves in you. “Oh you studied computer science before becoming a designer, that’s awesome! I really enjoyed the coursework too, but really saw this as a calling after doing straight up engineering work first.”&lt;/p&gt;
 
-&lt;h5 id=&quot;4-what-do-you-know-about-therole&quot;&gt;4. What do you know about the role?&lt;/h5&gt;
-
-&lt;h1 id=&quot;-5&quot;&gt;#&lt;/h1&gt;
+&lt;h2 id=&quot;4-what-do-you-know-about-therole&quot;&gt;4. What do you know about the role?&lt;/h2&gt;
 
 &lt;p&gt;Do not memorize the role, talk about how your background complements the role and were your biggest strengths are. Know your resume in relation to the role itself. Emphasize the strengthens within skills/experience/etc. that you DO possess. Address how you will overcome the weaknesses. “I know I haven’t worked with Atlassian products a lot, but I have plenty of experience with numerous other software tools as you can see from my resume. I’m sure I can pick it up in a short time.” Remember the thesis defense.&lt;/p&gt;
 
-&lt;h5 id=&quot;5-do-you-know-the-company-do-you-really-know-thecompany&quot;&gt;5. Do you know the company? Do you REALLY know the company?&lt;/h5&gt;
-
-&lt;h1 id=&quot;-6&quot;&gt;#&lt;/h1&gt;
+&lt;h2 id=&quot;5-do-you-know-the-company-do-you-really-know-thecompany&quot;&gt;5. Do you know the company? Do you REALLY know the company?&lt;/h2&gt;
 
 &lt;p&gt;You should be spending lots of time learning their business model, company culture, and latest news.&lt;/p&gt;
 
 &lt;p&gt;How are they differentiated from their competitors? What do they lack compared to competitors?&lt;/p&gt;
 
-&lt;h5 id=&quot;5-do-you-know-the-climate-they-workin&quot;&gt;5. Do you know the climate they work in?&lt;/h5&gt;
-
-&lt;h1 id=&quot;-7&quot;&gt;#&lt;/h1&gt;
+&lt;h2 id=&quot;5-do-you-know-the-climate-they-workin&quot;&gt;5. Do you know the climate they work in?&lt;/h2&gt;
 
 &lt;p&gt;Are they in open source? Government contracting? Learn the landscape.&lt;/p&gt;
 
-&lt;h5 id=&quot;6-what-are-you-looking-for-in-your-next-role-nextcompany&quot;&gt;6. What are you looking for in your next role? Next Company?&lt;/h5&gt;
-
-&lt;h1 id=&quot;-8&quot;&gt;#&lt;/h1&gt;
+&lt;h2 id=&quot;6-what-are-you-looking-for-in-your-next-role-nextcompany&quot;&gt;6. What are you looking for in your next role? Next Company?&lt;/h2&gt;
 
 &lt;p&gt;Do not try to please them with an answer, try to describe exactly why this role and company are right for you. If it isn’t then you made a big mistake and with honesty will come an answer to whether it is a fit for both of you.&lt;/p&gt;
 
-&lt;h5 id=&quot;7-do-you-have-any-questions-for-usme-why-do-you-want-to-work-for-insert-company&quot;&gt;7. Do you have any questions for us/me? Why do you want to work for [insert company]?&lt;/h5&gt;
-
-&lt;h1 id=&quot;-9&quot;&gt;#&lt;/h1&gt;
+&lt;h2 id=&quot;7-do-you-have-any-questions-for-usme-why-do-you-want-to-work-for-insert-company&quot;&gt;7. Do you have any questions for us/me? Why do you want to work for [insert company]?&lt;/h2&gt;
 
 &lt;p&gt;Have questions ready, I think a good rule of thumb is 7 to 10 go to questions about the company, person, role, etc. Cater them to the organization as much as possible.&lt;/p&gt;
 
-&lt;h5 id=&quot;8-what-questions-do-you-have-for-mecome-up-with-questions&quot;&gt;8. What questions do you have for me…[come up with questions]?&lt;/h5&gt;
+&lt;h2 id=&quot;8-what-questions-do-you-have-for-mecome-up-with-questions&quot;&gt;8. What questions do you have for me…[come up with questions]?&lt;/h2&gt;
 
-&lt;h1 id=&quot;-10&quot;&gt;#&lt;/h1&gt;
+&lt;p&gt;About the product itself, the culture from their vantage point, how your day to day experience will start and evolve over the following months. &lt;a href=&quot;http://www.inc.com/jeff-haden/5-questions-great-job-candidates-ask-interviewers.html&quot;&gt;A nice list is here&lt;/a&gt; or &lt;a href=&quot;http://mashable.com/2014/06/09/job-interview-questions/#McrSg9KSH5qs&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;</content><author><name></name></author><summary type="html">Transforming Generic Interview Questions</summary></entry><entry><title type="html">Placeholder</title><link href="http://localhost:4000/jekyll/update/2017/10/30/welcome-to-jekyll.html" rel="alternate" type="text/html" title="Placeholder" /><published>2017-10-30T22:40:05-07:00</published><updated>2017-10-30T22:40:05-07:00</updated><id>http://localhost:4000/jekyll/update/2017/10/30/welcome-to-jekyll</id><content type="html" xml:base="http://localhost:4000/jekyll/update/2017/10/30/welcome-to-jekyll.html">&lt;p&gt;You’ll find this post in your &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run &lt;code class=&quot;highlighter-rouge&quot;&gt;jekyll serve&lt;/code&gt;, which launches a web server and auto-regenerates your site when a file is updated.&lt;/p&gt;
 
-&lt;p&gt;About the product itself, the culture from their vantage point, how your day to day experience will start and evolve over the following months. &lt;a href=&quot;http://www.inc.com/jeff-haden/5-questions-great-job-candidates-ask-interviewers.html&quot;&gt;A nice list is here&lt;/a&gt; or &lt;a href=&quot;http://mashable.com/2014/06/09/job-interview-questions/#McrSg9KSH5qs&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;</content><author><name></name></author><summary type="html">Transforming Generic Interview Questions</summary></entry></feed>
+&lt;p&gt;To add new posts, simply add a file in the &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory that follows the convention &lt;code class=&quot;highlighter-rouge&quot;&gt;YYYY-MM-DD-name-of-post.ext&lt;/code&gt; and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.&lt;/p&gt;
+
+&lt;p&gt;Jekyll also offers powerful support for code snippets:&lt;/p&gt;
+
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-ruby&quot; data-lang=&quot;ruby&quot;&gt;&lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+  &lt;span class=&quot;nb&quot;&gt;puts&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;Hi, &lt;/span&gt;&lt;span class=&quot;si&quot;&gt;#{&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;si&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;&lt;/span&gt;
+&lt;span class=&quot;k&quot;&gt;end&lt;/span&gt;
+&lt;span class=&quot;n&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;'Tom'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+&lt;span class=&quot;c1&quot;&gt;#=&amp;gt; prints 'Hi, Tom' to STDOUT.&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+
+&lt;p&gt;Check out the &lt;a href=&quot;https://jekyllrb.com/docs/home&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;. If you have questions, you can ask them on &lt;a href=&quot;https://talk.jekyllrb.com/&quot;&gt;Jekyll Talk&lt;/a&gt;.&lt;/p&gt;</content><author><name></name></author><summary type="html">You’ll find this post in your _posts directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run jekyll serve, which launches a web server and auto-regenerates your site when a file is updated.</summary></entry></feed>

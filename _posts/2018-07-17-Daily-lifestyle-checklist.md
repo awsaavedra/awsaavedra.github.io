@@ -1,6 +1,10 @@
 ---
-title: Daily Lifestyle Checklist
+layout: post
+title:  "Daily Lifestyle Checklist"
+date:   2017-11-02 22:40:05 -0700
+categories: jekyll update
 ---
+
 A short guide to what I have found useful in my
 lifestyle over the past couple years based on the latest
 scientific evidence.
