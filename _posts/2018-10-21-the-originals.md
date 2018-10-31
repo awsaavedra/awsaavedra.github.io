@@ -1,5 +1,8 @@
 ---
-title: The Originals: Actionable Items from the book
+layout: post
+title:  "The Originals"
+date:   2018-10-21 22:40:05 -0700
+categories: jekyll update
 ---
 
 I rarely come away from a book with some solid actionable insights but luckily for me

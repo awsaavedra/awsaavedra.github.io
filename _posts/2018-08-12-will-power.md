@@ -1,5 +1,8 @@
 ---
-title: The Willpower Instinct Google Talk Summary
+layout: post
+title:  "Google Talk Summary: The Willpower Instinct"
+date:   2017-11-02 22:40:05 -0700
+categories: jekyll update
 ---
 
 Link: https://www.youtube.com/watch?v=V5BXuZL1HAg
