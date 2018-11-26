@@ -1,4 +1,78 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.7.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2018-10-30T23:07:50-07:00</updated><id>http://localhost:4000/</id><subtitle>“Being a hacker means appreciating playful cleverness”</subtitle><entry><title type="html">The Originals</title><link href="http://localhost:4000/jekyll/update/2018/10/21/the-originals.html" rel="alternate" type="text/html" title="The Originals" /><published>2018-10-21T22:40:05-07:00</published><updated>2018-10-21T22:40:05-07:00</updated><id>http://localhost:4000/jekyll/update/2018/10/21/the-originals</id><content type="html" xml:base="http://localhost:4000/jekyll/update/2018/10/21/the-originals.html">&lt;p&gt;I rarely come away from a book with some solid actionable insights but luckily for me
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2018-11-25T17:11:10-07:00</updated><id>http://localhost:4000/</id><subtitle>“Being a hacker means appreciating playful cleverness”</subtitle><entry><title type="html">Book Summary: So Good They Can’t Ignore You</title><link href="http://localhost:4000/jekyll/update/2018/11/25/so-good.html" rel="alternate" type="text/html" title="Book Summary: So Good They Can't Ignore You" /><published>2018-11-25T15:40:05-07:00</published><updated>2018-11-25T15:40:05-07:00</updated><id>http://localhost:4000/jekyll/update/2018/11/25/so-good</id><content type="html" xml:base="http://localhost:4000/jekyll/update/2018/11/25/so-good.html">&lt;p&gt;###Why is Following the Romantic Notion of Passion Bad Advice?&lt;/p&gt;
+
+&lt;p&gt;I have read many books on productivity but this one stood out to me since the thesis was taking on a central dogma of a large portion of the US society: that following your passion is the key to happiness and fulfillment in the modern world. I have always been skeptical of this hypothesis, but I have not seen a well stated alternative worldview that does not have tremendous downsides. One of the primary ones I have dealt with is, I am naming it it, the prestige hypothesis which is: get so rich/famous/powerful/etc. that people will respect and like you, then and only then will you be happy and fulfilled. This hypothesis seemed even worse than the passion hypothesis since it makes you a slave to others opinions and does not lead to fulfillment, something many of us yearn for.&lt;/p&gt;
+
+&lt;p&gt;Cal Newport goes over the overwhelming body of work covering the passion hypothesis and it’s merits, then destroys them. I see humans belief in simple solutions to complex problems in many places, but sadly, the world is much too complex for such simple solutions at many turns. One anecdote was from the meta-research on different highly successful individuals in technology including Steve Jobs who did not follow his passion, he actually wasn’t initially interested in business or electronics early on–he fell into it for pragmatic reasons. Another romantic and naive idea that Steve Job’s didn’t follow was jumping blindly head first into his risky venture of a personal computer system, he did it as a side job and saw what happens.&lt;/p&gt;
+
+&lt;p&gt;Many of us are told at a young age to follow your passion, what if you don’t have one, and even if you do, do you know it will work out? The reality is that finding a passion that sustains you for a long time and pans out into a fantastic career is the exception.&lt;/p&gt;
+
+&lt;p&gt;To quote from the book “Compelling careers often have complex origins that reject the simple idea that all you have to do is follow your passion.”&lt;/p&gt;
+
+&lt;p&gt;The reality is quiet simple: it takes time to develop a passion. Amy Wrzesniewski, from Yale’s department of organizational behavior, goes over this in her paper in Journal of Research in Personality distinguishes between jobs, careers, and callings: paying bills, path towards iteratively better work, and important part of your life and integral part of your identity.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;To summarize the findings&lt;/em&gt;: more experience and skill, the more enjoyment one will feel for their job. Thus, passion is a side effect of mastery.&lt;/p&gt;
+
+&lt;p&gt;What is the best theory we currently have? &lt;em&gt;Self Determination Theory (SDT)&lt;/em&gt;: Motivation requires:&lt;/p&gt;
+&lt;ol&gt;
+  &lt;li&gt;&lt;em&gt;Autonomy&lt;/em&gt;: I have control over my day and my actions matter.&lt;/li&gt;
+  &lt;li&gt;&lt;em&gt;Competence&lt;/em&gt;: I am good at what I do.&lt;/li&gt;
+  &lt;li&gt;&lt;em&gt;Relatedness&lt;/em&gt;: I feel connected to others.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;So “working right trumps finding the right work.”&lt;/p&gt;
+
+&lt;p&gt;The Passion Hypothesis basic problems:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;It Be counter productive and cause people to move from one profession to another without ever developing a complementary or transferable set of skills.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;It can Turn into an elusive and unsatisfying chase, the more we try to find a passion we end up liking what we do less.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;One is giving people bad advice, it actually ends up hurting many people and impeding their chances of actually being happy and fulfilled in their job, career, or profession.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h3 id=&quot;so-what-is-the-alternative-to-passion&quot;&gt;So What is the Alternative to Passion?&lt;/h3&gt;
+
+&lt;p&gt;&lt;em&gt;The Craftsman Mindset&lt;/em&gt;: I attempt to build, learn, innovate, improve, and repeat this cycle constantly. Through my practice I will grow and love the work that I have built. I will focus on creating more, my goal is output. The world does not owe me anything, I must show the world that I can produce something of value and good things will follow. The process will not be easy.&lt;/p&gt;
+
+&lt;p&gt;Steve Martin quote embodies the essence of the Craftsman Mindset “Nobody ever takes note of [my advice], because it’s not the answer they wanted to hear. […] Be so good they can’t ignore you. If somebody’s thinking, ‘How can I be really good?’ people are going to come to you.” In short, dedicate yourself to getting better and producing more. The rest is noise.&lt;/p&gt;
+
+&lt;h3 id=&quot;what-are-the-key-components-to-a-great-job&quot;&gt;What are the Key Components to a Great Job?&lt;/h3&gt;
+
+&lt;p&gt;The big ones mentioned are: &lt;em&gt;creativity&lt;/em&gt; in your work, &lt;em&gt;impact&lt;/em&gt; on the world, and &lt;em&gt;control&lt;/em&gt; within your position. He then goes onto list how you get these into your work and relates them back to the central thesis, I will not be summarizing these since they’re not particularly applicable to me and I write these posts to myself. The short version is: get really good and then you can negotiate your way into a position with these key components. You need to focus on forcing yourself through the work, you need &lt;em&gt;deliberate practice&lt;/em&gt;.&lt;/p&gt;
+
+&lt;p&gt;After adopting a craftsman mindset with deliberate practice, you will have a significant amount of &lt;em&gt;career capital&lt;/em&gt; to throw your weight around. You need great skills and courage to develop these things. You need courage to apply a &lt;em&gt;growth mindset&lt;/em&gt; within your working life.&lt;/p&gt;
+
+&lt;p&gt;However, what disqualifies a job from applying the craftsman mindset?&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;The job presents few opportunities to distinguish yourself by developing relevant skills that are rare and valuable.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;It focuses on trivial, useless, or things that are bad for the world.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;You don’t like the people you work with.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;This is my own: It is extremely difficult to determine if you are progressing.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;If a job contains any or all of these, you need to leave it sooner rather than later. Anything useful to gain short term should be done with haste. It is also important to note that you want to pop your head out and see if any better opportunities are available.&lt;/p&gt;
+
+&lt;h3 id=&quot;how-do-i-become-a-craftsman&quot;&gt;How do I Become a Craftsman?&lt;/h3&gt;
+
+&lt;p&gt;I will not get into too much detail since my other summaries will cover this topic more extensively. In short: you want to employ the growth mindset, deliberate practice, removing low priority things that sap your time and willpower, stretch goals, immediate and clear feedback loops when deliberately practicing.&lt;/p&gt;
+
+&lt;p&gt;He goes over the 10,000-hour rule, which basically states there exists some critical minimum level of practice to obtain expertise. I personally think this time can be shortened, but that’s a topic for another post as well. Also remember that genius and expertise are not the same thing, experts are typically highly trained people with cognitive abilities in the normal range. We don’t know how to train or create geniuses for now.&lt;/p&gt;
+
+&lt;p&gt;The illustrative example used: of the 10,000 hours poured into chess by grand masters, they spent an average of 5,000 hours, five times more hours than typical players, in serious study of the game. Again, experts are not geniuses, just highly trained normal people.&lt;/p&gt;</content><author><name></name></author><summary type="html">###Why is Following the Romantic Notion of Passion Bad Advice?</summary></entry><entry><title type="html">The Originals</title><link href="http://localhost:4000/jekyll/update/2018/10/21/the-originals.html" rel="alternate" type="text/html" title="The Originals" /><published>2018-10-21T23:40:05-06:00</published><updated>2018-10-21T23:40:05-06:00</updated><id>http://localhost:4000/jekyll/update/2018/10/21/the-originals</id><content type="html" xml:base="http://localhost:4000/jekyll/update/2018/10/21/the-originals.html">&lt;p&gt;I rarely come away from a book with some solid actionable insights but luckily for me
 this book had some stellar information and a solid data driven approach to viewing
 the power of original thinking.&lt;/p&gt;
 
@@ -153,7 +227,7 @@ tendency to seek out novelty and variety in intellectual, aesthetic, and emotion
   &lt;/li&gt;
 &lt;/ol&gt;
 
-&lt;p&gt;￼&lt;/p&gt;</content><author><name></name></author><summary type="html">I rarely come away from a book with some solid actionable insights but luckily for me this book had some stellar information and a solid data driven approach to viewing the power of original thinking.</summary></entry><entry><title type="html">Learning How to Learn</title><link href="http://localhost:4000/jekyll/update/2018/01/25/learning-how-to-learn.html" rel="alternate" type="text/html" title="Learning How to Learn" /><published>2018-01-25T21:40:05-08:00</published><updated>2018-01-25T21:40:05-08:00</updated><id>http://localhost:4000/jekyll/update/2018/01/25/learning-how-to-learn</id><content type="html" xml:base="http://localhost:4000/jekyll/update/2018/01/25/learning-how-to-learn.html">&lt;h2 id=&quot;metaskills-part-1-learning-tolearn&quot;&gt;Metaskills Part 1: Learning to Learn&lt;/h2&gt;
+&lt;p&gt;￼&lt;/p&gt;</content><author><name></name></author><summary type="html">I rarely come away from a book with some solid actionable insights but luckily for me this book had some stellar information and a solid data driven approach to viewing the power of original thinking.</summary></entry><entry><title type="html">Learning How to Learn</title><link href="http://localhost:4000/jekyll/update/2018/01/25/learning-how-to-learn.html" rel="alternate" type="text/html" title="Learning How to Learn" /><published>2018-01-25T22:40:05-07:00</published><updated>2018-01-25T22:40:05-07:00</updated><id>http://localhost:4000/jekyll/update/2018/01/25/learning-how-to-learn</id><content type="html" xml:base="http://localhost:4000/jekyll/update/2018/01/25/learning-how-to-learn.html">&lt;h2 id=&quot;metaskills-part-1-learning-tolearn&quot;&gt;Metaskills Part 1: Learning to Learn&lt;/h2&gt;
 
 &lt;h3 id=&quot;introduction&quot;&gt;Introduction&lt;/h3&gt;
 
@@ -203,7 +277,7 @@ tendency to seek out novelty and variety in intellectual, aesthetic, and emotion
   &lt;li&gt;Keep the things are you learning in working memory continuously to get the things done.&lt;/li&gt;
   &lt;li&gt;Tap into your visual memory by creating those visually rich examples.&lt;/li&gt;
   &lt;li&gt;Also remember, meaning and understanding are the greatest glue to understand something.&lt;/li&gt;
-&lt;/ol&gt;</content><author><name></name></author><summary type="html">Metaskills Part 1: Learning to Learn</summary></entry><entry><title type="html">Google Talk Summary: The Willpower Instinct</title><link href="http://localhost:4000/jekyll/update/2017/11/02/will-power.html" rel="alternate" type="text/html" title="Google Talk Summary: The Willpower Instinct" /><published>2017-11-02T22:40:05-07:00</published><updated>2017-11-02T22:40:05-07:00</updated><id>http://localhost:4000/jekyll/update/2017/11/02/will-power</id><content type="html" xml:base="http://localhost:4000/jekyll/update/2017/11/02/will-power.html">&lt;p&gt;Link: https://www.youtube.com/watch?v=V5BXuZL1HAg&lt;/p&gt;
+&lt;/ol&gt;</content><author><name></name></author><summary type="html">Metaskills Part 1: Learning to Learn</summary></entry><entry><title type="html">Google Talk Summary: The Willpower Instinct</title><link href="http://localhost:4000/jekyll/update/2017/11/02/will-power.html" rel="alternate" type="text/html" title="Google Talk Summary: The Willpower Instinct" /><published>2017-11-02T23:40:05-06:00</published><updated>2017-11-02T23:40:05-06:00</updated><id>http://localhost:4000/jekyll/update/2017/11/02/will-power</id><content type="html" xml:base="http://localhost:4000/jekyll/update/2017/11/02/will-power.html">&lt;p&gt;Link: https://www.youtube.com/watch?v=V5BXuZL1HAg&lt;/p&gt;
 
 &lt;p&gt;Sleep intervention — sleep more&lt;/p&gt;
 
@@ -262,7 +336,7 @@ tendency to seek out novelty and variety in intellectual, aesthetic, and emotion
 
 &lt;p&gt;￼&lt;/p&gt;
 
-&lt;p&gt;￼&lt;/p&gt;</content><author><name></name></author><summary type="html">Link: https://www.youtube.com/watch?v=V5BXuZL1HAg</summary></entry><entry><title type="html">Daily Lifestyle Checklist</title><link href="http://localhost:4000/jekyll/update/2017/11/02/Daily-lifestyle-checklist.html" rel="alternate" type="text/html" title="Daily Lifestyle Checklist" /><published>2017-11-02T22:40:05-07:00</published><updated>2017-11-02T22:40:05-07:00</updated><id>http://localhost:4000/jekyll/update/2017/11/02/Daily-lifestyle-checklist</id><content type="html" xml:base="http://localhost:4000/jekyll/update/2017/11/02/Daily-lifestyle-checklist.html">&lt;p&gt;A short guide to what I have found useful in my
+&lt;p&gt;￼&lt;/p&gt;</content><author><name></name></author><summary type="html">Link: https://www.youtube.com/watch?v=V5BXuZL1HAg</summary></entry><entry><title type="html">Daily Lifestyle Checklist</title><link href="http://localhost:4000/jekyll/update/2017/11/02/Daily-lifestyle-checklist.html" rel="alternate" type="text/html" title="Daily Lifestyle Checklist" /><published>2017-11-02T23:40:05-06:00</published><updated>2017-11-02T23:40:05-06:00</updated><id>http://localhost:4000/jekyll/update/2017/11/02/Daily-lifestyle-checklist</id><content type="html" xml:base="http://localhost:4000/jekyll/update/2017/11/02/Daily-lifestyle-checklist.html">&lt;p&gt;A short guide to what I have found useful in my
 lifestyle over the past couple years based on the latest
 scientific evidence.&lt;/p&gt;
 
@@ -270,7 +344,7 @@ scientific evidence.&lt;/p&gt;
 -How Not to die
 -The Telomere Effect&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;https://docs.google.com/spreadsheets/d/1BBoh2uDIJZaSN9J02xgVUy8vIzA6ArudeQTO7kVi-kQ/edit?usp=sharing&quot;&gt;Here is the checklist&lt;/a&gt;&lt;/p&gt;</content><author><name></name></author><summary type="html">A short guide to what I have found useful in my lifestyle over the past couple years based on the latest scientific evidence.</summary></entry><entry><title type="html">Transforming Generic Interview Questions</title><link href="http://localhost:4000/jekyll/update/2017/11/02/Interviewing-transformation.html" rel="alternate" type="text/html" title="Transforming Generic Interview Questions" /><published>2017-11-02T22:40:05-07:00</published><updated>2017-11-02T22:40:05-07:00</updated><id>http://localhost:4000/jekyll/update/2017/11/02/Interviewing-transformation</id><content type="html" xml:base="http://localhost:4000/jekyll/update/2017/11/02/Interviewing-transformation.html">&lt;h2 id=&quot;transforming-generic-interview-questions&quot;&gt;Transforming Generic Interview Questions&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&quot;https://docs.google.com/spreadsheets/d/1BBoh2uDIJZaSN9J02xgVUy8vIzA6ArudeQTO7kVi-kQ/edit?usp=sharing&quot;&gt;Here is the checklist&lt;/a&gt;&lt;/p&gt;</content><author><name></name></author><summary type="html">A short guide to what I have found useful in my lifestyle over the past couple years based on the latest scientific evidence.</summary></entry><entry><title type="html">Transforming Generic Interview Questions</title><link href="http://localhost:4000/jekyll/update/2017/11/02/Interviewing-transformation.html" rel="alternate" type="text/html" title="Transforming Generic Interview Questions" /><published>2017-11-02T23:40:05-06:00</published><updated>2017-11-02T23:40:05-06:00</updated><id>http://localhost:4000/jekyll/update/2017/11/02/Interviewing-transformation</id><content type="html" xml:base="http://localhost:4000/jekyll/update/2017/11/02/Interviewing-transformation.html">&lt;h2 id=&quot;transforming-generic-interview-questions&quot;&gt;Transforming Generic Interview Questions&lt;/h2&gt;
 
 &lt;p&gt;This is an ongoing culmination of general interviewing tips. I hope these are helpful to you as well.&lt;/p&gt;
 
@@ -342,7 +416,7 @@ scientific evidence.&lt;/p&gt;
 
 &lt;h2 id=&quot;8-what-questions-do-you-have-for-mecome-up-with-questions&quot;&gt;8. What questions do you have for me…[come up with questions]?&lt;/h2&gt;
 
-&lt;p&gt;About the product itself, the culture from their vantage point, how your day to day experience will start and evolve over the following months. &lt;a href=&quot;http://www.inc.com/jeff-haden/5-questions-great-job-candidates-ask-interviewers.html&quot;&gt;A nice list is here&lt;/a&gt; or &lt;a href=&quot;http://mashable.com/2014/06/09/job-interview-questions/#McrSg9KSH5qs&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;</content><author><name></name></author><summary type="html">Transforming Generic Interview Questions</summary></entry><entry><title type="html">Placeholder</title><link href="http://localhost:4000/jekyll/update/2017/10/30/welcome-to-jekyll.html" rel="alternate" type="text/html" title="Placeholder" /><published>2017-10-30T22:40:05-07:00</published><updated>2017-10-30T22:40:05-07:00</updated><id>http://localhost:4000/jekyll/update/2017/10/30/welcome-to-jekyll</id><content type="html" xml:base="http://localhost:4000/jekyll/update/2017/10/30/welcome-to-jekyll.html">&lt;p&gt;You’ll find this post in your &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run &lt;code class=&quot;highlighter-rouge&quot;&gt;jekyll serve&lt;/code&gt;, which launches a web server and auto-regenerates your site when a file is updated.&lt;/p&gt;
+&lt;p&gt;About the product itself, the culture from their vantage point, how your day to day experience will start and evolve over the following months. &lt;a href=&quot;http://www.inc.com/jeff-haden/5-questions-great-job-candidates-ask-interviewers.html&quot;&gt;A nice list is here&lt;/a&gt; or &lt;a href=&quot;http://mashable.com/2014/06/09/job-interview-questions/#McrSg9KSH5qs&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;</content><author><name></name></author><summary type="html">Transforming Generic Interview Questions</summary></entry><entry><title type="html">Placeholder</title><link href="http://localhost:4000/jekyll/update/2017/10/30/welcome-to-jekyll.html" rel="alternate" type="text/html" title="Placeholder" /><published>2017-10-30T23:40:05-06:00</published><updated>2017-10-30T23:40:05-06:00</updated><id>http://localhost:4000/jekyll/update/2017/10/30/welcome-to-jekyll</id><content type="html" xml:base="http://localhost:4000/jekyll/update/2017/10/30/welcome-to-jekyll.html">&lt;p&gt;You’ll find this post in your &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run &lt;code class=&quot;highlighter-rouge&quot;&gt;jekyll serve&lt;/code&gt;, which launches a web server and auto-regenerates your site when a file is updated.&lt;/p&gt;
 
 &lt;p&gt;To add new posts, simply add a file in the &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory that follows the convention &lt;code class=&quot;highlighter-rouge&quot;&gt;YYYY-MM-DD-name-of-post.ext&lt;/code&gt; and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.&lt;/p&gt;
 
