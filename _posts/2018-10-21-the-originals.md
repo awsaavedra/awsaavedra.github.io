@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "The Originals"
+title:  "Book Review: The Originals"
 date:   2018-10-21 22:40:05 -0700
 categories: jekyll update
 ---
@@ -9,14 +9,14 @@ I rarely come away from a book with some solid actionable insights but luckily f
 this book had some stellar information and a solid data driven approach to viewing
 the power of original thinking.
 
-A valuable cognitive strategy I learned from the book is called *defensive pessimism* which can be defined by wikipedia as: 
+A valuable cognitive strategy I learned from the book is called *defensive pessimism* which can be defined by wikipedia as:
 
-	"When implementing defensive pessimism, individuals set low expectations for their performance, 
-	regardless of how well they have done in the past. 
-	
-	Defensive pessimists then think through specific negative events and setbacks that could adversely 
-	influence their goal pursuits.  By envisioning possible negative outcomes, defensive pessimists 
-	can take action to avoid or prepare for them. Using this strategy, defensive pessimists 
+	"When implementing defensive pessimism, individuals set low expectations for their performance,
+	regardless of how well they have done in the past.
+
+	Defensive pessimists then think through specific negative events and setbacks that could adversely
+	influence their goal pursuits.  By envisioning possible negative outcomes, defensive pessimists
+	can take action to avoid or prepare for them. Using this strategy, defensive pessimists
 	can advantageously harness anxiety that might otherwise harm their performance."
 
 Before I get into the actionable insights from the book let me point out the most

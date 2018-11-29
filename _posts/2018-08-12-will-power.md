@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Google Talk Summary: The Willpower Instinct"
-date:   2017-11-02 22:40:05 -0700
+date:   2017-07-02 22:40:05 -0700
 categories: jekyll update
 ---
 
