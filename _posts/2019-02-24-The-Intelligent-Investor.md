@@ -5,6 +5,9 @@ date:   2019-02-24 22:40:05
 categories: jekyll update
 ---
 
+### Background
+Around 2014 after being recommended this book by numerous sources I picked it up and gave it a read. Great books profoundly influence the way you think for the rest of your life. The Intelligent Investor is such a book. It challenged my initial ideas on investment, how to think about assets, and how to think about wealth. Contained within it are sound principles for first preserving what one has and then increase that pile of money safely with time. Benjamin Graham gave me the tools to navigate the waters of finance without making the big mistakes. This is not a book for how to make a quick buck from bitcoin or the next craze or fad. This is a book on careful and conservative thinking in making returns while considering many factors for oneself.
+
 ### Disclaimer and Basics on Retirement
 
 I am simply an enthusiastic lay person
@@ -18,11 +21,11 @@ markets, etc.
 
 ### The Gist
 
-_The Intelligent Investor_ and _Security Analysis_ is the only investment books I ever needed to read, all the others were further elaboration on Benjamin Graham's points. I decided to do this book review because the principles to preserve wealth, reducing the amount of false positives, and truly invest for the long run (the only investment that exists) are timeless techniques. For the purposes of brevity I will focus primarily on what Benjamin Graham calls a Defensive Investor instead of the Enterprising Investor.
+_The Intelligent Investor_ and _Security Analysis_ are the only investment books I ever needed to read, all the others were further elaboration on Benjamin Graham's points. I decided to do this book review because his principles to preserve wealth, reducing the amount of false positives, and truly invest for the long run <sup>1</sup> are timeless techniques. For the purposes of brevity, I will focus on what Benjamin Graham calls a _Defensive Investor_ instead of the _Enterprising Investor_.
 
-Intelligent investing is not about being the smartest person in the room, it is about following sound principles through to their ends. An intelligent investor is someone who develops temperance, patience, control, is learned, meticulous in their reasoning, defensive in their thinking, and becoming familiar with the major ideas in many fields related to investing. These fields include, but are not limited to: psychology, history, basic statistics, meditation, and human evolution. An intelligent investor has more in common with an endurance athlete than a superstar sports player, in this game consistency can beat talent in many cases.
+Intelligent investing is not about being the smartest person in the room, it is about following sound principles to their ends. An intelligent investor is someone who develops temperance, patience, and control. She is learned, meticulous in their reasoning, and defensive in their thinking. She becomes familiar with the major ideas in many fields related to investing. These fields include, but are not limited to: psychology, history, basic statistics, meditation, and human evolution. An intelligent investor has more in common with an endurance athlete than a superstar sports player, in this game consistency can beat talent in many cases.
 
-One of the worst investors of all time is Sir Isaac Newton. I don't think many people would consider him stupid, but he was a stupid investor. 
+One of the worst investors of all time is Sir Isaac Newton. I don't think many people would consider him stupid, but he was a stupid investor.<sup>2</sup>
 
 ### How does Benjamin Graham Define These Two Types of Investors?
 
@@ -45,7 +48,7 @@ Benjamin Graham doesn't go into a ton of detail of this, but I think it is safe 
 
 ### Why Am I Focusing on Defensive Investors and not talking about Enterprising Investors?
 
-Many people try, and typically fail, to beat the market averages for many reasons, but the reality is that most people think they're above average [lake will-ba-gon example] when in fact that's statistically impossible. Can _YOU_ beat the market consistently for decades? You can try, but it is likely that you will fail due to sheer time required, temperamental and intellectual advantage within the market, and the element of markets becoming more efficient particularly at the large capital end i.e. companies in the S&P 500.
+Many people try, and typically fail, to beat the market averages for many reasons, but the reality is that most people think they're above average<sup>3</sup> when in fact that's statistically impossible. Can _YOU_ beat the market consistently for decades? You can try, but it is likely that you will fail due to sheer time required, temperamental and intellectual advantage within the market, and the element of markets becoming more efficient particularly at the large capital end i.e. companies in the S&P 500.
 
 To truly beat the market over long time spans one has to have patience, extreme patience, and an ability to focus on the larger goal while keeping their emotions in check for decades. It is a slow, turbulent, and boring process for most. People like Warren Buffett, Joel Greenblatt, Charlie Munger, and Ray Dalio are not just rare, they're exceptional in ways beyond just mental powers that we can measure, like IQ.
 
@@ -100,26 +103,35 @@ So Mr Market is a manic-depressive dude whose got some issues in the market, par
 
 ### Who are Speculators?
 
-People aren't investors are speculators: focused on short term gains, growth stocks (i.e. technology companies like Amazon), etc. They may make it big, but their path is more uncertain than the more consistent and conservative intelligent investors.
+People aren't investors are speculators: focused on short term gains, growth stocks <sup>4</sup> , etc. They may make it big, but their path is more uncertain than the more consistent and conservative intelligent investors.
 
 ### How do Defensive Investors Invest?
 
 Well that's complicated, JK! That's the whole point silly willy, it's supposed to be simple: 50% diversified bonds 50% stocks. What are [bonds](https://www.investopedia.com/university/bonds/)? What are [stocks](https://www.investopedia.com/university/stocks/)? The simple version is:
 
-    Stocks, yin: aggressive, lots of trading, high volatility
-     (fluctuations in price) shares of a business,
-     theoretically higher returns over long periods of time.
-
-
+    Stocks, yin: aggressive, lots of trading, high volatility <sup>5</sup>
+    shares of a business, theoretically higher returns over long periods of time.
 
     Bonds, yang: stable, low frequency of trading, low fluctuations
     in price in government debt, theoretically lower returns
     over long periods of time.
 
 Is that the full picture? No. Many options exist,
-[here are some that I'd](https://www.bogleheads.org/wiki/Three-fund_portfolio#Vanguard_funds). Don't like them? Read more and make your own. Not interested in that? Look into a [target date fund](https://investor.vanguard.com/mutual-funds/target-retirement/#/).
+[here are some that I'd](https://www.bogleheads.org/wiki/Three-fund_portfolio#Vanguard_funds). Don't like them? Read more and make your own. Not interested in that? Look into a [target date funds](https://investor.vanguard.com/mutual-funds/target-retirement/#/).
 
 
+Footnotes:
+
+<sup>1</sup> Benjamin Graham's definition of an investor: "An investment operation is one which, upon thorough analysis, promises safety of principal and an adequate return. Operations not meeting these requirements are speculative."
+
+<sup>2</sub> https://www.sovereignman.com/finance/how-isaac-newton-went-flat-broke-chasing-a-stock-bubble-13268/
+Might be a myth, but it is mostly for illustrative purposes and doesn't matter much whether it is true.
+
+<sup>3</sup> https://en.wikipedia.org/wiki/Lake_Wobegon
+
+<sup>4</sup> Amazon, Google, Facebook, etc. companies focused on expansion
+
+<sup>5</sup> Fluctuations in price
 
 Recommended Further Research:
 
