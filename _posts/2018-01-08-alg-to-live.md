@@ -58,4 +58,7 @@ Key Concepts and Algorithms:
 
   18) Computational Kindness
 
-    Ask for meetings, appointments, etc. at specific times. Adding constraints to problems helps elimination ambiguity.
+      Ask for meetings, appointments, etc. at specific times. Adding
+       constraints to problems helps elimination ambiguity.
+
+      Say your preferences instead being "open to whatever."
