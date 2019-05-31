@@ -4,5 +4,10 @@ title: About
 permalink: /about/
 ---
 
-This is primarily a dumping ground for ideas I have found useful
-or things I have needed to reflect on.
+Please expect long delays when contacting me.
+
+Throughput > responsiveness.
+
+Quality > quantity.
+
+Emergentism > reductionism.
