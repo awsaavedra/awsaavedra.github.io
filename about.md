@@ -11,3 +11,5 @@ Throughput > responsiveness.
 Quality > quantity.
 
 Emergentism > reductionism.
+
+Multiplicity > consistency.
