@@ -6,6 +6,7 @@ categories: jekyll update
 ---
 
 ### Background
+
 Around 2014, after being recommended this book by numerous sources, I picked it up and gave it a read. Great books profoundly influence the way you think for the rest of your life. The Intelligent Investor is such a book. It challenged my initial ideas on investment, how to think about assets, and how to think about wealth. Contained within it are sound principles for first preserving what one has and then increase that pile of money safely with time. Benjamin Graham gave me the tools to navigate the waters of finance without making the big mistakes. This is not a book for how to make a quick buck from bitcoin or the next craze or fad. This is a book on careful and conservative thinking in making returns while considering many factors for oneself.
 
 ### Disclaimer and Basics on Retirement
