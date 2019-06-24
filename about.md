@@ -4,11 +4,21 @@ title: About
 permalink: /about/
 ---
 
-# About
+# About Me
 
 Please expect long delays when contacting me.
 
 Throughput > responsiveness.
+
+## Three Virtues of a Programmer
+
+According to Larry Wall, the original author of the Perl programming language, there are three great virtues of a programmer; Laziness, Impatience and Hubris.
+
+**Laziness**: The quality that makes you go to great effort to reduce overall energy expenditure. It makes you write labor-saving programs that other people will find useful and document what you wrote so you don't have to answer so many questions about it.
+
+**Impatience**: The anger you feel when the computer is being lazy. This makes you write programs that don't just react to your needs, but actually anticipate them. Or at least pretend to.
+
+**Hubris**: The quality that makes you write (and maintain) programs that other people won't want to say bad things about.
 
 ## Quotes
 
@@ -23,6 +33,8 @@ Throughput > responsiveness.
 "To fear love is to fear life, and those who fear life are already three parts dead."
 
 "If there is one there that's biologically certain about the human species is that it is a human species. One species. The similarities among us are enormous. The differences are trivial." ~ Isaac Asimov, Climate Change and Humanity (1989)
+
+"Make sure that your religion is a matter between you and God only." ~ Wittgenstein
 
 “In the end, only three things matter: how much you loved, how gently you lived, and how gracefully you let go of things not meant for you.” ~ Jack Kornfield
 
