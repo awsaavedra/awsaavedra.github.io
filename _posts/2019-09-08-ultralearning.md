@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Ultralearning"
-date:   2019-02-24 22:40:05
+date:   2019-09-08 22:40:05
 categories: jekyll update
 tags: book-review
 ---
