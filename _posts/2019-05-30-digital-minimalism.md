@@ -1,8 +1,9 @@
 ---
 layout: post
-title:  "Book Review: Digital Minimalism"
+title:  "Digital Minimalism"
 date:   2019-05-30 22:40:05
 categories: jekyll update
+tags: book-review
 ---
 
 ### Background
