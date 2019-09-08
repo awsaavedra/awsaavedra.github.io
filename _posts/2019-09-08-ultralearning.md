@@ -95,7 +95,7 @@ As Scott Young puts it
     The best ultralearners are those who blend the practical reasons for learning
     a skill with an inspiration that comes from something that excites them.
 
-# What about Talent?
+## What about Talent?
 
 It exists and of course it matters sometimes, but it's clearer now more than ever
 that methods and drive mean a lot more than previously thought in many places.
@@ -105,7 +105,7 @@ composition of training and talent but we know we can grow so let's just work on
 that. Jumping into ultralearning means you too can radically shift your skill in an
 area and it's quite empowering. Results may vary.
 
-# How to Become an Ultralearner
+## How to Become an Ultralearner
 
     What differentiated de Montebello wasn’t that he thought he could go from
     near-zero experience to the finalist for the World Championship in six months.
@@ -148,6 +148,27 @@ Principles of the Ultralearner:
 
 Scott Young got these principles from meta-analysis, personal experience, and the available cognitive science literature. Many of us have used these ideas in our studies
 and lives but to systemize this into an extremely effective process takes a lot more than understanding these concepts in principle. The practice is hard. Put another way **common sense isn't common practice**. And remember kids, sometimes you need to know when to break the rules. These are all heuristics mind you, not scientific laws.
+
+
+## Metalearning
+
+**Cross pollination between skills**:
+
+    "Who has not learned something more about themselves
+    by watching the activities of others?
+    To learn the sword study the guitar.
+    To learn the fist study commerce.
+    To just study the sword will make you
+    narrow-minded and will not permit you to grow outward."
+
+Miyamoto Musashi, _A Book of Five Rings_. This kind of skill interaction can sometimes even be between seemingly unrelated skills.
+The story Scott Young covers is how multilingual people vs. monolingual do on acquiring a new language. The multilingual people learn faster. What happens is a form of meta awareness, in this case between different languages.
+
+I am a philosophical _patternist_ so this philosophy of acquiring numerous skills to weave even more
+sophisticated patterns between things in the world cannot be emphasize enough.
+Patterns have _emergent_ properties to them, put simply:
+patterns have a power that transcends the parts of that pattern.
+The whole is greater than the sum of it's parts. As was true above, so is it is true below. This is one of the reasons acquiring metaskills is such a powerful skill. [**TODO**:] link to a large metaskills markdown doc
 
 
 
