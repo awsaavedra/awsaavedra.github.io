@@ -162,13 +162,90 @@ and lives but to systemize this into an extremely effective process takes a lot 
     narrow-minded and will not permit you to grow outward."
 
 Miyamoto Musashi, _A Book of Five Rings_. This kind of skill interaction can sometimes even be between seemingly unrelated skills.
-The story Scott Young covers is how multilingual people vs. monolingual do on acquiring a new language. The multilingual people learn faster. What happens is a form of meta awareness, in this case between different languages.
+The story Scott Young covers is how multilingual people vs. monolingual do on acquiring a new language. The multilingual people learn faster.
+ What happens is a form of meta awareness, in this case between different languages. This meta-framework can be derived more easily from studying in a formal setting.
 
 I am a philosophical _patternist_ so this philosophy of acquiring numerous skills to weave even more
-sophisticated patterns between things in the world cannot be emphasize enough.
+sophisticated patterns between things in the world cannot be emphasized enough.
 Patterns have _emergent_ properties to them, put simply:
 patterns have a power that transcends the parts of that pattern.
-The whole is greater than the sum of it's parts. As was true above, so is it is true below. This is one of the reasons acquiring metaskills is such a powerful skill. [**TODO**:] link to a large metaskills markdown doc
+The whole is greater than the sum of it's parts. As was true above, so is it is true below. This is one of the reasons acquiring metaskills is such a powerful skill. [**TODO**:] link to a large metaskills markdown doc.
+
+So how do you draw your metalearning map?
+
+    Over the short term, you can do research to focus on improving your
+     metalearning before and during a learning project. Ultralearning,
+    owing to its intensity and self-directed nature,
+    has the opportunity for a lot higher variance than normal
+    schooling efforts do. A good ultralearning project, with excellent materials and an awareness of what needs to be learned, has the potential to be completed faster than formal schooling.
+
+How is this possible according to Scott Young?
+
+    This is because you can tailor your project to your exact needs and
+    abilities, avoiding the one-size-fits-all approach taken in school.
+    [...] Metalearning research avoids this problem and helps you seek
+    out points where you might even be able to get a significant
+    advantage over the status quo.
+
+Scott Young breaks up metalearning stages into "Why?", "What?", and "How?".
+
+  1. **Why** am I learning this? Motivation.
+
+      - Is the project intrinsic (for it's own sake) or instrumental (with a particular goal).
+
+      - If the project is for more _instrumental_ reasons, do an additional step of research to answer whether the skill will actually help you toward your goal.
+
+      - Conduct expert interviews, if they think your methodology and map are not effective further evaluate. You don't want
+       misalignment between goal and project. Don't ask for long chunks of time, 30 minutes will do.
+
+Young, Scott. Ultralearning (p. 59). HarperBusiness. Kindle Edition.
+
+  2. **What** knowledges and abilities do I need to acquire to learn
+   this? Break things down into things like concepts, facts, and procedures.
+
+  3. **How** will I learn this? Resources, environment, and methods
+  you will need to learn. Evaluate each carefully.
+
+      - Emphasize/Exclude Method happens after you have found the default
+      curriculum to use
+      i.e. if you goal is app development build apps and don't study upper level computational math. Also, remove or delay elemnts of your curriculum that don't align with your goals.
+
+How much time should you up into your research? Probably 10 percent, but this is highly contextual and the law of diminishing
+returns applies on the other end of doing too much research.
+
+The long term benefit of these projects is clear though: they develop the ability to learn hard things which is typically more valuable than
+any one skillset.
+
+## Focus
+
+Everyone knows it matters. However, becoming unfocused is much more common and a bigger problem. What are the types of ways to lose focus? Starting/procrastinating, sustaining, and optimizing the quality of focus.
+
+
+  1. **Procrastinating** is a systemic issue for many people and we all know it. Some people procrastinate everything, others only in particular areas. Figure out which areas are your worst and use techniques like: timeboxing, the pomodoro technique, and shutting off distracting technologies like cellphones, computers, etc. I wrote a blog post on both removing distractions (digital minimalism) and sustaining focus (deep work). You need to recognize your procrastination triggers and work hard to resist them. Sometimes you can just say "we only need to do this for 5 minutes." If you are taking too many breaks timeboxing or the pomodoro technique are your best bet. If one stage is too hard, don't feel bad about rolling things back and working from a previous stage.
+
+  2. **Sustaining** focus on a specific task is the goal. Flow is typically touted as the ability to sustain focus for long stretches of time and is considered desirable. However, flow can be a major issue since hard and meaningful tasks can cause flow to be removed since the struggle is not comfortable. Scott Young also doesn't seem to be really into this trendy idea of low. Be skeptical of things that seem easy or enjoyable when it comes to accomplishing hard things. Toilets need proper flow, people do not.
+
+      - Interleaving: the process of studying in spaced out chunks. Not too long you forget, but not too short to be cramming. So study different topics in a chunk of time, not just one small area.
+
+      - Rule of thumb for deeply focused studying: 45 minutes to 1 hour. You probably have 4-5 solid chunks you can take advantage of intense study. Then you need to switch to shallow work like email and light reading.
+
+      - Distraction sources: environment, your task, your minded
+
+          - Environment: no multitasking, flashing lights, random noises, lighting that will make you drowsy, etc. The most hardcore is Linus Torvalds workspace.
+
+          - Task: Take notes, reexplain concepts to yourself, recall ideas, walk around. Many tips exist and I put many in the deep work section I wrote about.
+
+          - Mind: Meditation, taking 30 minutes before a task to do something like shower, cook, etc. that dump distractions from your brain.
+
+  3. **
+
+
+
+
+
+
+
+
 
 
 
