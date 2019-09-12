@@ -229,15 +229,123 @@ Everyone knows it matters. However, becoming unfocused is much more common and a
 
       - Rule of thumb for deeply focused studying: 45 minutes to 1 hour. You probably have 4-5 solid chunks you can take advantage of intense study. Then you need to switch to shallow work like email and light reading.
 
-      - Distraction sources: environment, your task, your minded
+      - Distraction sources: environment, your task, your minded, the right kind of focus
 
-          - Environment: no multitasking, flashing lights, random noises, lighting that will make you drowsy, etc. The most hardcore is Linus Torvalds workspace.
+          - Environment: No multitasking, flashing lights, random noises, lighting that will make you drowsy, etc. The most hardcore is Linus Torvalds workspace.
 
           - Task: Take notes, reexplain concepts to yourself, recall ideas, walk around. Many tips exist and I put many in the deep work section I wrote about.
 
           - Mind: Meditation, taking 30 minutes before a task to do something like shower, cook, etc. that dump distractions from your brain.
 
-  3. **
+          - Right focus: This is a tough one to pin down but let's give it a try. For instance, creative problems require intense focus and then diffused learning. If you want to know about this I suggest Barbara Oakley's class on _Learning how to Learn_ or my blog notes on the book. I wrote them to reference later on.
+
+How can you get better at focusing? It is like a muscle and muscles must be trained. Periods of time focusing and stretching ones upper limit can help. I tend to approach it from a mental, nutritional, and exercise standpoints. The best diet for focus is the whole foods plant based diet with the proper supplementation I provided on the daily lifestyle checklist. For exercise and mental biking, meditation, and getting outside really help you out. The mental side is training and is probably the most straight forward of all: do the thing for long and longer with greater intensity of focus.
+
+
+## Directness
+
+    He who can go to the fountain does not go to the water jar.
+
+~ Leonardo Da Vinci
+
+What is directness? Directness is the idea of learning being tied closely to the situation or context you want to use it in.
+
+Who is a better maker of ceramics? Someone who philosophizes about the best pot, looks into the details, and finally attempts or someone who jumps right in and continuously improves their craft? The craftsman mindset has direct application here. You need to research and learn the theory, but the difference between theory and practice is in the practice.
+
+One of my friends from University ended up finishing a degree and after working a couple years in industry said "that degree taught me nothing!"
+We see this over and over again with things being taught at particular place and then not having direct or sometimes even tangental application.
+
+This leads us to the dirty secret of education: **transfer** which
+is that you learn something in a classroom and are able to apply it
+to a real situation. Don't believe me?
+
+    Despite the importance of transfer of learning, research
+    findings over
+    the past nine decades clearly show that as individuals, and as
+    educational institutions, we have failed to achieve transfer of
+    learning on any significant level [...] Without
+    exaggeration, it’s an education scandal.[...] We expect that there
+    will be transfer of learning, for example,
+    from a high school course in introductory psychology to a college-
+    level introduction to psychology course.
+    It has been known for years, however, that students who enter
+    college having taken a high school psychology course do no better
+    than students who didn’t take psychology in high school. Some
+    students who have taken a psychology course in high school
+    do even worse in the college course.
+
+~ Psychologist Robert Haskell after doing a meta-analysis of the education literature. On the further reading section
+I included more things to read if you are interested.
+One of the most recent forms of trying to learn skills that people
+assume are generally applicable is the whole learn to code movement or learning critical thinking.
+Have fun with that, the research is clearly against you.
+The reality is that you can train in certain ways,
+but don't expect a powerlifter to be a long distance
+runner or vice versa.
+
+How does directness solve the problem of transfer though? One, by directly connecting it to the material. Two, real life is like real life so wouldn't that be the ultimate context to learn in? Scott Young thinks so. Transfer is the holy grail of education, but it doesn't look like we found it yet. Thus the lesson is clear: keep the learning in the right context so you can demonstrate this knowledge in the highest value situations you want that learning in.
+
+### How to learn directly? The tactics.
+
+  1. **Project-Based Learning**: Learn by doing.
+
+  2. **Immersive Learning**: Surrounding yourself with the target environment.
+
+  3. **Flight Simulator Method**: if the context is too expensive to keep simulate, use the next best thing. Mock interviews, flight simulators, coding challenges that are timed, etc.
+
+  4. **Overkill approach**: The overkill approach is to put yourself into an environment where the demands are going to be extremely high, so you’re unlikely to miss any important lessons or feedback. Throw yourself into the deep end.
+
+
+## Drill
+
+Although not the core components of this chapter is the idea of acting as a humble inquirer and doubter as opposed to "abrupt contradiction
+and positive argumentation."
+Which is part of the socratic method and stands as a great spirit of
+self discovery as well as discovery about others way of doing things.
+This is the opposite of the more arrogant styles you commonly see in the arrogant circles who are constantly probing for contradictions and seeming inconsistencies which have shorter evaluation loops and more trigger switches of skepticism.
+
+
+A simple idea to understand why drilling, or focusing on your weakest points first, is so important is simply that you have laggers and
+ leaders. The laggers determine the speed of the process many times.
+ If someone has conceptual holes or major gaps in knowledge the foundation is shaky.
+
+     By identifying a rate-determining step in your learning reaction,
+     you can isolate it and work on it specifically.
+
+What is the high level strategy of a drill?
+
+    The reason is that when you are practicing a complex skill, your cognitive resources (attention, memory, effort, etc.) must be spread
+    over many different aspects of the task. When Franklin was writing,
+    he had to consider not only the logical content of the argument he was
+    making but word choice and rhetorical style. This can create a
+    learning trap. In order to improve your performance in
+    one aspect, you
+    may need to devote so much attention to that one aspect that the
+    other parts of your performance start to go down. If you can judge
+    yourself only on how much you improve at the overall task, it can
+    lead to a situation in which your improvement slows down because you
+    will be getting worse at the overall task while becoming better at a
+    specific component of it. Drills resolve this problem by simplifying
+    a skill enough that you can focus your cognitive resources on a
+    single aspect.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -255,9 +363,9 @@ Everyone knows it matters. However, becoming unfocused is much more common and a
 
 ## Further Reading
 
-1. Outliers: The Story of Success by Malcolm Gladwell
+1. “The Influence of Improvement in One Mental Function upon the Efficiency of Other Functions.” By Edward Thorndike and Robert Woodsworth.
 
-2. The Blank Slate by Steven Pinker
+Young, Scott. Ultralearning (p. 95). HarperBusiness. Kindle Edition.
 
 3. What Is Intelligence?: Beyond the Flynn Effect by James R. Flynn
 
