@@ -312,34 +312,133 @@ A simple idea to understand why drilling, or focusing on your weakest points fir
      By identifying a rate-determining step in your learning reaction,
      you can isolate it and work on it specifically.
 
-What is the high level strategy of a drill?
+What is the high level strategy of a drill that resolves this issue? The direct-then-drill approach
 
-    The reason is that when you are practicing a complex skill, your cognitive resources (attention, memory, effort, etc.) must be spread
-    over many different aspects of the task. When Franklin was writing,
-    he had to consider not only the logical content of the argument he was
-    making but word choice and rhetorical style. This can create a
-    learning trap. In order to improve your performance in
-    one aspect, you
-    may need to devote so much attention to that one aspect that the
-    other parts of your performance start to go down. If you can judge
-    yourself only on how much you improve at the overall task, it can
-    lead to a situation in which your improvement slows down because you
-    will be getting worse at the overall task while becoming better at a
-    specific component of it. Drills resolve this problem by simplifying
-    a skill enough that you can focus your cognitive resources on a
-    single aspect.
+  1. The first step is to try to practice the skill directly.
+
+  2. The next step is to analyze the direct skill and try to isolate components that are either rate-determining steps in your performance or subskills you find difficult to improve because there are too many other things going on for you to focus on them.
+
+  3. The final step is to go back to direct practice and integrate what you’ve learned. This has two purposes: even in well designed drills there will be transfer problems and second is that you need feedback whether your drill was well design and appropriate.
+
+It may seem hard to figure out which is things to drill but this breaks
+down to experimentation. You get feedback fast and iterate.
+
+ Drill types:
+
+  1. **Time slicing**: look for components of the skill that can be decomposed into specific moments that have particular significance
+
+  2. **Cognitive Components**: Isolating a certain cognitive component. The goal here is to find a way to drill only one component when, in practice, others would be applied at the same time.
+
+  3. **Copycat**: Copy the parts of the skill you don't want to drill you can focus exclusively on what you want to practice. You may even want to selectively copy your older work and modify specific parts.
+
+  4. **The Magnifying Glass Method**: Which focuses on one component of the skill than you might otherwise. For instance, spending way more time research than previously to improve your ability to search for answers and improve research methods.
+
+  5. **Prerequisite Chaining**: Start with a skill you don't have all the prerequisites for and go back a step to practice foundational knowledge when they do poorly.
+
+Be mindful when drilling, in Scott Young's words:
+
+    Drills require the learner not only to think deeply about what is
+    being learned but also figure out what is most difficult and attack
+    that weakness directly rather than focus on what is the most fun or
+    what has already been mastered.
 
 
+    [...]The difficulty and usefulness of drills repeat a pattern that
+    will recur throughout the ultralearning principles: that something
+    mentally strenuous provides a greater benefit to learning than
+    something easy.
 
 
+## Retrieval
 
+The summary of this chapter is that trying to test yourself and summoning things from memory is a highly effective strategy. It helps create depth of connection and makes someone an effective test taker as well as creator. Having to recall information strengthens connections between things (concepts, facts, etc). Basically, being active with material and having to test whether you _really_ knew something is highly effective.
 
+In addition to retrieval, you can create tests for yourself to get even better at a specific subject. The act of creating tests, studying material for others, etc. gives you a platform to clarify your ideas. Other students can ask you questions and sometimes expose areas of lack of understanding since you have put your ideas on a platform.
 
+The primary idea is this:
 
+    Pushing difficulty higher and opting for testing oneself well
+    before you are “ready” is more efficient.
 
+    [...]Although waiting too long before you test yourself may have disadvantages, increasing difficulty by giving yourself fewer clues and prompts are likely helpful, provided that you can get some feedback on them later.
 
+Could you even take the final exam before the class begins? A provoactive idea, but apparently testing oneself may be a better solution than simply going through material. Speaking personally, I didn't want to study almost at all for the DMV exam and I passed it purely by taking the practice tests for a grand total of 1.5 hours of studying instead of trying to go through the whole booklet over and over.
 
+The said effect is known as **the forward-testing effect** , shows that retrieval not only helps enhance what you’ve learned but can enhance new learnings on the subject. Talk about more bang for your buck!
 
+So start early, dive into the deep end when you're not ready, and get to learning by doing the harder stuff quickly. Don't be afraid of feedback.
+
+However, let's remember that there will always been areas you can say "I'll just look that up." It's almost impossible to have everything you are looking for, focus on the highest impact material first.
+
+From Scott's perspective:
+
+    1. Being able to look things up is certainly an advantage, but without
+    a certain amount of knowledge inside your head, it doesn’t help you
+    solve hard problems.
+
+    2. This may sound abstract, but I’d argue that this is quite common
+    with programmers, and often the thing separating mediocre
+    programmers from great ones isn’t the range of problems they can
+    solve but that the latter often know dozens of ways to solve
+    problems and can select the best one for each situation.
+
+For point 2, this requires retrieval.
+
+What are the best ways to practice retrieval?
+
+  1. **Flash cards**, like Anki.
+
+  2. **Free recall**, try to recall everything you read or worked on a particular page after you have read it.
+
+  3. **The Question-Book Method**: rephrase what you recorded as questions for later.
+
+  4. **Self-Generated Challenges**: i.e. for programmers it is not enough to know what an algorithm means, you got to write the code. Another way is what I use here, which is writing blog posts about books I am reading or read. I try only to look at the chapters and basic sections instead of just reading everything from the book and trying to re-phrase it.
+
+  5. **Close-Book Learning**: By preventing yourself from consulting the source the information is more easily stored inside your mind.
+
+A final quote in this chapter that really wraps up the ideas mentioned:
+
+    Just as we often avoid testing ourselves until we’re ready because
+    struggling with a test is uncomfortable, we often avoid seeking
+    information about our skill level until we think it will be
+    favorable.
+
+## Feedback
+
+Best quote in the entire book:
+
+    Everyone has a plan until they get punched in the mouth.
+    ~ Mike Tyson, Scholar and ear enthusiast
+
+The major distinction for ultralearning is the efficiency, accuracy, intensity, and immediacy of feedback being provided. Immersing oneself in the discomfort of numbs one to the feedback and allows progress to be made. I was a garbage presenter so I decided to present every week at work. To keep this skill going I like to lecture in front of classes and I will also be giving presentations at toastmasters meetups (WIP).
+
+On the opposite end, no feedback and the result is often stagnation--you stay at the same level with a still. If there is no growth and discomfort, there is no progress.
+
+What types of feedback are detrimental:
+
+  1. Feedback aimed at the ultralearners ego, either positively or negatively.
+
+  2. Inappropriately applied feedback (not super clear on this one)
+
+What types of feedback are positive:
+
+  1. **Outcome feedback**: Tells you something about how you are doing overall, but offers no ideas as to what you're doing better or worse.
+
+  2. **Informational feedback**: It tells you what you're doing wrong, but it doesn't necessarily tell you how to fix it.
+
+  3. **Corrective feedback**: This is the best feedback, which is informative and usable by students who get it. On the other hand, it can be unreliable. The major benefit of specific feedback is that it is more falsifiable so if you get corrective feedback only evaluate whether it is true or not. Try not to let it hurt your ego.
+
+Although according to the author, the literature is unclear, he recommends faster feedback cycles. This is because it allows faster recognition of mistakes. Using the pomodoro technique or some timer technique to struggle on problems before giving up is a solid solution. If you are stuck for too long you are wasting time, if you are struggling for too short a time you won't grow.
+
+Concrete tactics to focus on getting better Feedback
+
+  1. **Noise Cancellation**: For instance, he states "for blog writing, one way to do so would be to use tracking code to figure out what percentage of people read your articles all the way to the end." Instead of the one off comment on "your article is good" or "this article sucks."
+
+  2. **Hitting the difficulty sweet spot**. Try to dance between failing and succeeding in a specific domain. This means an ultralearners learning environment would be right in-between these two. Balancing on the edge of a knife.
+
+  3. **Metafeedback**: one important type of this feedback is learning rate. Another way, is comparing two different study methods and seeing which one works better.
+
+  4. **High-Intensity, Rapid Feedback**: the biggest advantage is emotional since fear of receiving feedback can hold you back more than anything else. Knowing your work will be evaluated is a powerful incentive to try your best. Put another way, get in and get used to taking punches at the beginning so you're tougher when it matters. Boxing.
 
 
 
@@ -365,7 +464,7 @@ What is the high level strategy of a drill?
 
 1. “The Influence of Improvement in One Mental Function upon the Efficiency of Other Functions.” By Edward Thorndike and Robert Woodsworth.
 
-Young, Scott. Ultralearning (p. 95). HarperBusiness. Kindle Edition.
+2. Bloom’s Taxonomy
 
 3. What Is Intelligence?: Beyond the Flynn Effect by James R. Flynn
 
@@ -374,3 +473,5 @@ Young, Scott. Ultralearning (p. 95). HarperBusiness. Kindle Edition.
 5. Intelligence A Multidisciplinary Journal Editor: R.J. Haier
 
 6. The Mismeasure of Man by Stephen Jay Gould
+
+7. A Mind for Number's by Barbara Oakley
