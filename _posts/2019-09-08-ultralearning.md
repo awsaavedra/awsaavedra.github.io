@@ -6,6 +6,8 @@ categories: jekyll update
 tags: book-review
 ---
 
+
+
 # Background
 
 We live in a time when you can go on the internet and read about most things
@@ -438,7 +440,156 @@ Concrete tactics to focus on getting better Feedback
 
   3. **Metafeedback**: one important type of this feedback is learning rate. Another way, is comparing two different study methods and seeing which one works better.
 
-  4. **High-Intensity, Rapid Feedback**: the biggest advantage is emotional since fear of receiving feedback can hold you back more than anything else. Knowing your work will be evaluated is a powerful incentive to try your best. Put another way, get in and get used to taking punches at the beginning so you're tougher when it matters. Boxing.
+  4. **High-Intensity, Rapid Feedback**: the biggest advantage is emotional since fear of receiving feedback can hold you back more than anything else. Knowing your work will be evaluated is a powerful incentive to try your best. Put another way, get in and get used to taking punches at the beginning so you're tougher when it matters. Boxing analogies are great.
+
+## Retention
+
+An interesting study which I'll summarize: physicians who have been practicing medicine longer are actually worse than fresh ones. Now we could argue about methodology, but this illustrates something called The Forgetting Curve.
+
+Theories of Forgetting
+
+  1. Decay, forgetting with time.
+
+  2. Interference, overwriting old memories with new ones causes more issues. Retrieval becomes harder.
+
+  3. Forgotten cues, the memories are inaccessible. This is the one I tend to believe in true after taking many neuroscience and psychology classes. People who have "forgotten" something tend to be able to learn the skill much faster than those without prior memory.
+
+  4. Mnemonics: a picture is worth a thousand words. I am not particularly sold on this technique, but feel free to look more info it. It's very brittle. I only use it for remembering things I'd get in trouble if I forgot: peoples names, locations, etc. Things I know I don't really care to remember so I force myself to.
+
+Ways to reducing forgetting:
+
+  1. **Spaced repitition**: spaced-repition systems (SRS) like Anki mentioned above.
+
+  2. **Proceduralization**: Automatic will endure. Procedural skills like riding a bike and declarative skills like math formula's are stored in different ways. A strategy is start with declarative techniques then move onto procedural to have it be part of "muscle memory."
+
+  3. **Overlearning**: Practice Beyond Perfect. If you train yourself past the point of knowing something well you retain it much better. Potentially useful in a complementary way with 1 and 2. Overlearning can be applied in two ways: continually practices the core of the skill and the second being advanced practice by going above a certain level of skill so the core is learned plus the new set of skills. Two birds with one stone. I prefer the second method because it is more exciting and harder.
+
+To elaborate on overlearning, those that learned calculus didn't forget as much of algebra since they had to use it and the other skills. I call this the nautilus approach to learning, the insides of the skills are learned by focusing on the outside.
+
+## Intuition
+
+    Do not ask whether a statement is true until you know what it means.
+    ~ Errett Bishop, mathematician
+
+
+Scott Young goes over an important point about intuition in mathematician
+
+    If the principles-first way of thinking of problems is so much more
+    effective, why don’t students start there instead of attending to
+    superficial characteristics? The simple answer may be that they
+    can’t. Only by developing enough experience with problem solving
+    can you build up a deep mental model of how other problems work.
+
+What is the difference between a grand master chess player and a novice?
+The grand masters have a huge library of ways to solve chess problems
+and an intuition built up from all that experience. Although, granted,
+certain strategies for becoming more effective exist. They have an
+elaborate network to pull from. This principle first approach is not
+only powerful, it can separate the wheat from the chaff.
+
+However, let's remember that intuition isn't useful for problems that go
+against it. Problems that are outside ones domain and completely novel.
+Intuition will fail us and we must go back to procedure. One reason in
+mathematics many areas "defy" intuition completely except for a select
+few people who have studied these outskirts.
+
+Ways to build your Intuition
+
+  1. **Don't give up on hard problems easily**. Back to the pomodoro technique or a struggle timer. Advantages in doing this are you likely can solve the problem are you faced with given some extra time and if you fail you will still likely remember how you arrived at a solution.
+
+  2. **Prove things to understand them**. One of my biggest pet peeves is someone say "well that's obvious" when it is only obvious due to lots of foundational work before. For instance, why is the sky blue? Is that really obvious? Before you bake an apple pie from scratch you must first invent the universe. Working from first principles gives someone a deep intuition for the results but also adds many layers of understanding and many angles of view.
+
+  To quote Scott Young on Feynman
+
+    Feynman’s scoffing at not understanding Lee and Yang wasn’t because
+    there was no understanding; indeed, he was familiar with much of the
+    background work on the problem. Instead, it was probably because his
+    notion of understanding was much deeper and more based on
+    demonstrating results himself, rather than merely nodding along
+    while reading.
+Saying simply "I understand" does not mean much unless you know the many layers that could be possible. What I cannot create, I cannot fully understand. Many times, the illusion of knowledge and understanding are barriers to deeper forms of knowledge and understanding.
+
+
+  3. **Always start with a concrete example**. Get some concrete examples going and see if you can apply the concepts you have learned. For instance, when I am checking whether I understand object oriented design in programming I test it by building a particular thing. For instance, a parking lot or a zoo full of animals. Do I really know how to do all the particulars and do I have a mastery of the language? On a deeper level, did I apply proper design and coding principles? This is an endless process.
+
+
+A concept from memory research is **levels-of-processing** effect is dependent on how much you think about that information when paying attention to it.
+
+  4. **Don't fool yourself**. You are the easiest person to fool, so become deeply skeptical of your understanding. Whenever you hear someone exuding confidence and understand remember about the Dunning-Kruger effect.
+
+Often times, people will pretend to "know the problem" to save face. This is more of a social issue, and frankly, the problem is that the social cost of not knowing is very high. I'd recommend fostering a learning culture more clearly. If you don't know, just work on learning it and less time shaming people or thinking knowledge === intelligence. Clearly this is not the case.
+
+
+Feynman technique.
+
+  1. Write down the concept or problem you want to understand at the top of a piece of paper.
+
+  2. In the space below, explain the idea as if you had to teach it to someone else.  
+
+    a. If it’s a concept, ask yourself how you would convey the
+    idea to someone who has never heard of it before.
+
+    b. If it’s a problem, explain how to solve it
+    and—crucially—why that solution procedure makes sense to you.
+
+  3. When you get stuck, meaning your understanding fails to provide a clear answer, go back to your book, notes, teacher, or reference material to find the answer.  
+
+The goal is to remove the illusion of knowledge or not having a solid explanation of things. It helps expose you to times when you're fooling yourself.
+
+In short, Feynman was used throughout this chapter to illustrate an
+important point: his spirit of tenacious practice and play helped
+amplify his abilities in physics, mathematics, and various other
+skills he picked up like. As Feynman says "there are no magic people. I was an ordinary person just like you, then I got interested in science."
+Instead of focusing on "genius" we can focus on these individuals
+methods and see what results we can get. After all, we are all only
+human.
+
+## Experimentation
+
+It is not enough to follow the well trodden path,
+at some point you must go it alone.
+This is the essence of experimentation.
+Don't be afraid to go it alone. You will inevitably enter realms in which you are "unqualified," but this is the whole point. After you have all the necessary general training, you must carve a path and sometimes that's alone. Innovation doesn't typically come from established places or groups, it comes from small teams and unusual points of view. Especially points of view who may have trained themselves in an unusual way. An astounding example of this Srinivasa Ramanujan, who had no formal training in mathematics but was able to make sizable contributions in mathematical analysis, number theory, numerous other areas. He combined many of the tools mentioned in this book, but above all I think a quote that struck me when I first read it about the obsession with geniuses and lack of understanding of untapped human potential around the world.
+
+    I am, somehow, less interested in the weight and convolutions of
+    Einstein’s brain than in the near certainty that people of equal
+    talent have lived and died in cotton fields and sweatshops.
+    ~ Stephen Jay Gould, "Wide hats and narrow minds" New Scientist 8 March 1979, p. 777.
+
+How many more people are left untapped in the world in which they could make major contributions to their civilization? Clearly that number is not zero.
+
+If qualification was required how would boundaries ever be pushed? Those who are qualified once had to push those same areas into existence. By the logic of "I'm not qualified to try this" very little exploration would ever get done. Take on risk and try usual things. Experimentation is the essence of science and it is the spirit of exploration. Leave standardization to the engineers and the others.
+
+Experimentation's spirit is also dancing constantly with being wrong. Are you wrong? Ideation is key here, try things from many angles and throw things at the wall. If someone shames you for overly experimenting they don't understand the creative process. I see a major problem in our society is a lack of experimentation and creativity. People want clear answers to things and simply solutions. Life isn't like that, it is full of greys and all sorts of other colors. Experiment.
+
+For after you have created a strong foundation, experimentation is key to mastery. How can you experiment?
+
+  1. **Learning resources** must exist and try strange things. Your drive to experiment must match your drive to do the necessary work.
+
+  2. **Experiment with techniques** once you have learned the fundamentals. Then the question changes from "how can I learn X" to "What should I learn next?"
+
+  3. **Experimenting with style** which changes the focus from techniques you want to obtain to which style you'd like to express. Picking something unique.
+
+How to experiment
+
+  1. **Copy, then create.**
+
+  2. **Compare methods side-by-side.**
+
+  3. **Introduce new constraints.**
+
+  4. **Find your superpower in the hybrid of unrelated skills**.
+
+  5. **Explore the extremes**. For only after looking into the extremes are the averages clear.
+
+Number 4 is a foreign concept to many people so I'll get into this. What if the whole is greater than the sum of it's parts? For instance, in the bay area we have many great software engineers and mathematically gifted people but do we have many people like this who are also incredible with groups of people? I think not. The best way to do this is in the idea of creating loosely coupled skills that are tightly aligned toward a goal.
+Getting complementary skills combined can be deadly to competition when everyones blindly over optimizing a particular skill which will eventually hit the law of diminishing returns.
+
+
+
+
+
+
 
 
 
@@ -475,3 +626,5 @@ Concrete tactics to focus on getting better Feedback
 6. The Mismeasure of Man by Stephen Jay Gould
 
 7. A Mind for Number's by Barbara Oakley
+
+8. Moonwalking with Einstein: The Art and Science of Remembering Everything by Joshua Foer.
