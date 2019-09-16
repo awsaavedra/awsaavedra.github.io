@@ -583,31 +583,106 @@ How to experiment
   5. **Explore the extremes**. For only after looking into the extremes are the averages clear.
 
 Number 4 is a foreign concept to many people so I'll get into this. What if the whole is greater than the sum of it's parts? For instance, in the bay area we have many great software engineers and mathematically gifted people but do we have many people like this who are also incredible with groups of people? I think not. The best way to do this is in the idea of creating loosely coupled skills that are tightly aligned toward a goal.
-Getting complementary skills combined can be deadly to competition when everyones blindly over optimizing a particular skill which will eventually hit the law of diminishing returns.
+Getting complementary skills combined can be deadly to competition when everyones blindly over optimizing a particular skill which will eventually hit the law of diminishing returns. A highly
+effective tactic to gaining a competition advantage in a world in which most people
+specialize and don't focus as much on things without immediately clear advantage.
+
+However, I believe the most important idea in this chapter is this:
+
+    Experimentation is the principle that ties all the others together.
+    Not only does it make you try new things and
+    think hard about how to solve specific learning challenges,
+    it also encourages you to be ruthless in discarding methods that
+    don’t work. Careful experimentation not only brings out your
+    best potential, it also eliminates bad habits and superstitions
+    by putting them to the test of real-world results.
+
+## Your First Ultralearning Project
+
+  1. **Do Your Research**.
+
+    a. What topic are you going to learn and what's it's approximate scope? Don't
+    allow scope creep to interfere with this step. Keep the borders clear.
+
+    b. What primary resources will you use?
+
+    c. A benchmark for how others have successfully learned this skill or subject.
+
+    d. Direct Practice Activities
+
+    e. Backup Materials and Drills
+
+  2. **Schedule Your Time**. Again, setting up timeblocks, a schedule, etc. for learning,
+  leave as little as possible to willpower. Try a pilot week with your schedule,
+  sometimes we are too aggressive or idealistic about how much energy or motivation
+  we can summon in a given day.
+
+  3. *Execute* the plan.
+
+Are you slipping from the ideal situation? Reference the 9 principles and whether
+you are meeting all the criteria for metalearning, focus, directness, drill,
+retrieval, feedback, retention, intuition, and experimentation.
+
+  4. **Review the Results**. Besides willpower and motivation, sometimes the issue
+  breaks down to the conception of the plan.  
+
+  5. **Maintain or Master What You've Learned**. Which would you like to do with
+  this new found skill?
+
+    a. **Maintenance**, for instance after learning all the fundamentals of interviewing
+    for software engineering companies you will eventually need this skill again.
+    How will you maintain this skill? Doing Leetcode twice a week? Working as a tutor?
+
+    b. **Relearning**, if you won't need the skill in the immediate future.
+
+    c. **Mastery**, after doing an ultralearning project that's broad you may find
+    a subdomain or area you really want to dive deeper into. For instance, I have
+    been exploring functional programming more in depth so I have a firmer grasp
+    of another paradigm beyond OOP and procedural programming.
 
 
+The three alternatives to ultralearning mentioned in the book are Low-Intensity Habits
+and Formal, Structured Education, and lifelong learning. Both have their place and obviously the second
+is a solid way to skip the line when people are curious whether or not you
+truly know something. However, I would definitely say in Software Engineering the
+second is actually only entrance into the exam and not a pass by any stretch of
+the imagination. You see this all the time with people from bootcamps with
+almost no formal training in computer science acing the technical interviews
+and very senior people with Ph.Ds who can barely pass basic interviews.
 
+## Unconventional Education
 
+So the last chapter of the book gets into some territory that is by no means relevant
+to most unless your goal is to make geniuses. I'll just say this: apparently
+it is possible to make geniuses in the right home and it is hard to figure out
+how much of this is nature or nurture but the methods can definitely be applied to
+almost any healthy household.
 
+  1. Start the children learning around 3 and the specialization no later than 6.
 
+  2. Turn the games into forms of play and learn through positive feedback.
 
+Apparently no ill effects of this strategy of parenting were shown. An important
+insight the parent, László Polgár, showed was that "play is not the opposite of
+work [...] a child does not need play separate from work, but meaningful action,
+[...] learning presents them with more enjoyment than a sterile game."
 
+He also states about awaking interest in the children and love what they do. I
+think his book _Raise a Genius!_ seems like a good place to start if you want to
+learn more. The perceived problem many people in high achieving households
+suffer from is "tiger" parenting or extreme forced practice that borders on child
+abuse.
 
+## Conclusion
+You too can foster these techniques and incorporate them into your
+workplace, home, and school. Anyone can pick up new skills and further develop
+already existing ones. The process does not need to be painful but enjoyable
+in the long run. Rather than low quality leisure, we can focus on high quality
+leisure activities that build us up and help us grow.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+Ultralearning is something everyone can do. We all have the power to radically
+improve in many ways and Scott Young gives a create methodology to doing just that.
+May your learning, whether they be ultralearning or otherwise, continue.
 
 
 
@@ -628,3 +703,5 @@ Getting complementary skills combined can be deadly to competition when everyone
 7. A Mind for Number's by Barbara Oakley
 
 8. Moonwalking with Einstein: The Art and Science of Remembering Everything by Joshua Foer.
+
+9. Raising a Genius! by László Polgár
