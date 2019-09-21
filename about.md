@@ -4,10 +4,8 @@ title: About
 permalink: /about/
 ---
 
-# About Me
-
 I focus on production over connectivity. Please allow 24 hours when contacting
-me. 
+me.
 
 [My resume](https://drive.google.com/file/d/1sxZ3XsTd9JUqencmjleqJPpHgdAqK0mC/view?usp=sharing)
 
@@ -20,18 +18,3 @@ According to Larry Wall, the original author of the Perl programming language, t
 **Impatience**: The anger you feel when the computer is being lazy. This makes you write programs that don't just react to your needs, but actually anticipate them. Or at least pretend to.
 
 **Hubris**: The quality that makes you write (and maintain) programs that other people won't want to say bad things about.
-
-## Quotes
-
-"I should wish to preach the "will-to-doubt." None of our beliefs are quite true; all at least have a penumbra of vagueness and error. What is wanted is not the will to believe, but the will to find out, which is the exact opposite."
-
-“It doesn't matter how beautiful your theory is, it doesn't matter how smart you are. If it doesn't agree with experiment, it's wrong.” ~ Richard Feynman
-
-"Premature optimization is the root of all evil (or at least most of it) in programming." ~ Donald Knuth
-
-"Any word you have to hunt for in a thesaurus is the wrong word."
-~ Stephen King
-
-"Get the important things right." ~ N. P. Calderwood
-
-"Focusing is about saying no." ~ Steve Jobs
