@@ -25,10 +25,10 @@ github_username:  awsaavedra
 # Build settings
 markdown: kramdown
 # theme: minima
-remote_theme: mmistakes/minimal-mistakes
+remote_theme: mmistakes/jekyll-theme-basically-basic
 plugins:
   - jekyll-feed
-
+  - jekyll-include-cache
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.
