@@ -225,29 +225,65 @@ any one skillset in the long run.
 
 ## Focus
 
-Everyone knows it matters. However, becoming unfocused is much more common and a bigger problem. What are the types of ways to lose focus? Starting/procrastinating, sustaining, and optimizing the quality of focus.
+Everyone knows it matters. However, becoming unfocused is much more common and
+a bigger problem. What are the types of ways to lose focus?
+Starting/procrastinating, sustaining, and optimizing the quality of focus.
 
+  1. **Procrastinating** is a systemic issue for many people and we all know it.
+  Some people procrastinate everything, others only in particular areas.
+  Figure out which areas are your worst and use techniques like: timeboxing,
+  the pomodoro technique, and shutting off distracting technologies like cellphones,
+  computers, etc.
+  I wrote a blog post on both removing distractions (digital minimalism)
+  and sustaining focus (deep work). You need to recognize your procrastination
+  triggers and work hard to resist them. Sometimes you can just say "we only need
+  to do this for 5 minutes." If you are taking too many breaks timeboxing or the
+  pomodoro technique are your best bet. If one stage is too hard, don't feel bad
+  about rolling things back and working from a previous stage.
 
-  1. **Procrastinating** is a systemic issue for many people and we all know it. Some people procrastinate everything, others only in particular areas. Figure out which areas are your worst and use techniques like: timeboxing, the pomodoro technique, and shutting off distracting technologies like cellphones, computers, etc. I wrote a blog post on both removing distractions (digital minimalism) and sustaining focus (deep work). You need to recognize your procrastination triggers and work hard to resist them. Sometimes you can just say "we only need to do this for 5 minutes." If you are taking too many breaks timeboxing or the pomodoro technique are your best bet. If one stage is too hard, don't feel bad about rolling things back and working from a previous stage.
+  2. **Sustaining** focus on a specific task is the goal.
+  Flow is typically touted as the ability to sustain focus for long stretches of
+  time and is considered desirable. However, flow can be a major issue since
+  hard and meaningful tasks can cause flow to be removed since the struggle is
+  not comfortable. Scott Young also doesn't seem to be really into this trendy
+  idea of low. Be skeptical of things that seem easy or enjoyable when it
+  comes to accomplishing hard things. Toilets need proper flow, people do not.
 
-  2. **Sustaining** focus on a specific task is the goal. Flow is typically touted as the ability to sustain focus for long stretches of time and is considered desirable. However, flow can be a major issue since hard and meaningful tasks can cause flow to be removed since the struggle is not comfortable. Scott Young also doesn't seem to be really into this trendy idea of low. Be skeptical of things that seem easy or enjoyable when it comes to accomplishing hard things. Toilets need proper flow, people do not.
+      - **Interleaving**: the process of studying in spaced out chunks.
+      Not too long you forget, but not too short to be cramming.
+      So study different topics in a chunk of time, not just one small area.
 
-      - Interleaving: the process of studying in spaced out chunks. Not too long you forget, but not too short to be cramming. So study different topics in a chunk of time, not just one small area.
+      - Rule of thumb for deeply focused studying: 45 minutes to 1 hour.
+      You probably have 3-5 solid chunks you can take advantage of intense
+      study per day. Then you need to switch to shallow work like email and reading.
 
-      - Rule of thumb for deeply focused studying: 45 minutes to 1 hour. You probably have 4-5 solid chunks you can take advantage of intense study. Then you need to switch to shallow work like email and light reading.
+      - **Distraction sources**: environment, your task, your mind, the right kind of focus
 
-      - Distraction sources: environment, your task, your minded, the right kind of focus
+          - Environment: No multitasking, flashing lights, random noises,
+          lighting that will make you drowsy, etc.
+          The most hardcore I have seen is Linus Torvald's workspace.
 
-          - Environment: No multitasking, flashing lights, random noises, lighting that will make you drowsy, etc. The most hardcore is Linus Torvalds workspace.
+          - Task: Take notes, re-explain concepts to yourself, recall ideas,
+          walk around. Many tips exist and I put many in the deep work
+          section I wrote about.
 
-          - Task: Take notes, reexplain concepts to yourself, recall ideas, walk around. Many tips exist and I put many in the deep work section I wrote about.
+          - Mind: Meditation, taking 30 minutes before a task to do something
+          like shower, cook, etc. these activities help dump distractions from your brain.
 
-          - Mind: Meditation, taking 30 minutes before a task to do something like shower, cook, etc. that dump distractions from your brain.
+          - Right focus: This is a tough one to pin down but let's give it a try.
+          For instance, creative problems require intense focus and then diffused learning.
+          If you want to know about this I suggest Barbara Oakley's class
+          on _Learning how to Learn_ or my blog notes on the book.
+          I wrote them to reference later on.
 
-          - Right focus: This is a tough one to pin down but let's give it a try. For instance, creative problems require intense focus and then diffused learning. If you want to know about this I suggest Barbara Oakley's class on _Learning how to Learn_ or my blog notes on the book. I wrote them to reference later on.
-
-How can you get better at focusing? It is like a muscle and muscles must be trained. Periods of time focusing and stretching ones upper limit can help. I tend to approach it from a mental, nutritional, and exercise standpoints. The best diet for focus is the whole foods plant based diet with the proper supplementation I provided on the daily lifestyle checklist. For exercise and mental biking, meditation, and getting outside really help you out. The mental side is training and is probably the most straight forward of all: do the thing for long and longer with greater intensity of focus.
-
+How can you get better at focusing? It is like a muscle and muscles must be trained.
+Periods of time focusing and stretching ones upper limit can help.
+I tend to approach it from a mental, nutritional, and exercise standpoints.
+The best diet for focus is the whole foods plant based diet with the proper
+supplementation I provided on the daily lifestyle checklist.
+For exercise and mental biking, meditation, and getting outside really help you out.
+The mental side is training and is probably the most straight forward of all:
+do the thing for long and longer with greater intensity of focus.
 
 ## Directness
 
@@ -255,12 +291,13 @@ How can you get better at focusing? It is like a muscle and muscles must be trai
 
 ~ Leonardo Da Vinci
 
-What is directness? Directness is the idea of learning being tied closely to the situation or context you want to use it in.
+Directness is the idea of learning being tied closely to the situation
+or context you want to use it in.
 
 Who is a better maker of ceramics? Someone who philosophizes about the best pot, looks into the details, and finally attempts or someone who jumps right in and continuously improves their craft? The craftsman mindset has direct application here. You need to research and learn the theory, but the difference between theory and practice is in the practice.
 
 One of my friends from University ended up finishing a degree and after working a couple years in industry said "that degree taught me nothing!"
-We see this over and over again with things being taught at particular place and then not having direct or sometimes even tangental application.
+We see this over and over again with things being taught at particular place and then not having direct application.
 
 This leads us to the dirty secret of education: **transfer** which
 is that you learn something in a classroom and are able to apply it
@@ -281,16 +318,24 @@ to a real situation. Don't believe me?
     students who have taken a psychology course in high school
     do even worse in the college course.
 
-~ Psychologist Robert Haskell after doing a meta-analysis of the education literature. On the further reading section
+~ Psychologist Robert Haskell after doing a meta-analysis of the education literature.
+On the further reading section
 I included more things to read if you are interested.
 One of the most recent forms of trying to learn skills that people
-assume are generally applicable is the whole learn to code movement or learning critical thinking.
+assume are generally applicable is the whole learn to code movement or
+learning critical thinking.
 Have fun with that, the research is clearly against you.
 The reality is that you can train in certain ways,
 but don't expect a powerlifter to be a long distance
-runner or vice versa.
+runner or vice versa. They are different kinds of exercise and don't transfer.
 
-How does directness solve the problem of transfer though? One, by directly connecting it to the material. Two, real life is like real life so wouldn't that be the ultimate context to learn in? Scott Young thinks so. Transfer is the holy grail of education, but it doesn't look like we found it yet. Thus the lesson is clear: keep the learning in the right context so you can demonstrate this knowledge in the highest value situations you want that learning in.
+How does directness solve the problem of transfer though?
+One, by directly connecting it to the material.
+Two, real life is like real life so wouldn't that be the ultimate context to learn in?
+Scott Young thinks so. Transfer is the holy grail of education, but it doesn't
+look like we found it yet. Thus the lesson is clear: keep the learning in the
+right context so you can demonstrate this knowledge in the highest value
+situations you want that learning in.
 
 ### How to learn directly? The tactics.
 
@@ -298,41 +343,53 @@ How does directness solve the problem of transfer though? One, by directly conne
 
   2. **Immersive Learning**: Surrounding yourself with the target environment.
 
-  3. **Flight Simulator Method**: if the context is too expensive to keep simulate, use the next best thing. Mock interviews, flight simulators, coding challenges that are timed, etc.
+  3. **Flight Simulator Method**: If the context is too expensive to keep simulating,
+  use the next best thing. Mock interviews, flight simulators, coding challenges
+  that are timed, etc.
 
-  4. **Overkill approach**: The overkill approach is to put yourself into an environment where the demands are going to be extremely high, so you’re unlikely to miss any important lessons or feedback. Throw yourself into the deep end.
+  4. **Overkill approach**: The overkill approach is to put yourself into
+  an environment where the demands are going to be extremely high,
+  so you’re unlikely to miss any important lessons or feedback.
+  Throw yourself into the deep end.
 
 
 ## Drill
 
-Although not the core components of this chapter is the idea of acting as a humble inquirer and doubter as opposed to "abrupt contradiction
+Although not the core components of this chapter is the idea of acting as a
+humble inquirer and doubter as opposed to "abrupt contradiction
 and positive argumentation."
 Which is part of the socratic method and stands as a great spirit of
 self discovery as well as discovery about others way of doing things.
-This is the opposite of the more arrogant styles you commonly see in the arrogant circles who are constantly probing for contradictions and seeming inconsistencies which have shorter evaluation loops and more trigger switches of skepticism.
+This is the opposite of the more arrogant styles you commonly see in the
+circles who are constantly probing for contradictions and
+seeming inconsistencies which have shorter evaluation loops in their thinking and
+more trigger switches of skepticism. It is an unsophisticated form of skepticism
+that takes statements at face value without seeking first to understand the others
+point of view before being understood.
 
-
-A simple idea to understand why drilling, or focusing on your weakest points first, is so important is simply that you have laggers and
- leaders. The laggers determine the speed of the process many times.
- If someone has conceptual holes or major gaps in knowledge the foundation is shaky.
+A simple idea to understand why drilling, or focusing on your weakest points first,
+is so important is simply that you have laggers and leaders.
+The laggers determine the speed of the process in many cases.
+If someone has conceptual holes or major gaps in knowledge the foundation is shaky.
 
      By identifying a rate-determining step in your learning reaction,
      you can isolate it and work on it specifically.
 
-What is the high level strategy of a drill that resolves this issue? The direct-then-drill approach
+What is the high level strategy of a drill that resolves this issue?
+The **direct-then-drill approach**
 
   1. The first step is to try to practice the skill directly.
 
   2. The next step is to analyze the direct skill and try to isolate components that are either rate-determining steps in your performance or subskills you find difficult to improve because there are too many other things going on for you to focus on them.
 
-  3. The final step is to go back to direct practice and integrate what you’ve learned. This has two purposes: even in well designed drills there will be transfer problems and second is that you need feedback whether your drill was well design and appropriate.
+  3. The final step is to go back to direct practice and integrate what you’ve learned. This has two purposes: even in well designed drills there will be transfer problems and second is that you need feedback whether your drill was well designed and appropriate.
 
-It may seem hard to figure out which is things to drill but this breaks
+It may seem hard to figure out what are the things to drill but this breaks
 down to experimentation. You get feedback fast and iterate.
 
  Drill types:
 
-  1. **Time slicing**: look for components of the skill that can be decomposed into specific moments that have particular significance
+  1. **Time slicing**: Look for components of the skill that can be decomposed into specific moments that have particular significance.
 
   2. **Cognitive Components**: Isolating a certain cognitive component. The goal here is to find a way to drill only one component when, in practice, others would be applied at the same time.
 
@@ -354,7 +411,8 @@ Be mindful when drilling, in Scott Young's words:
     will recur throughout the ultralearning principles: that something
     mentally strenuous provides a greater benefit to learning than
     something easy.
-
+Key idea: that something mentally strenuous provides a greater
+benefit to learning than something easy.
 
 ## Retrieval
 
