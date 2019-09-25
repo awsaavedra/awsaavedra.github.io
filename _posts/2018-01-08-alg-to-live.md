@@ -1,8 +1,9 @@
 ---
 layout: post
-title:  "Book Review: Algorithms to Live By"
+title:  "Algorithms to Live By"
 date:   2018-01-08 22:40:05
 categories: jekyll update
+tags: book-review
 ---
 
 
