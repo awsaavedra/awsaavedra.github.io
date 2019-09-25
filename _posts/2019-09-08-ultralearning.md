@@ -7,91 +7,87 @@ tags: book-review
 ---
 
 
-
 # Background
 
 We live in a time when you can go on the internet and read about most things
-to some level. However, can you learning the equivalent to getting an
+to some level. So can you learning the equivalent to getting an
 undergraduate degree from a top university? Scott Young set out on a bold project
-of simulating obtaining the knowledge of a Computer Science degree from MIT
+of obtaining the equivalent knowledge of an undergraduate Computer Science degree from MIT
 in a year. He called this project the MIT Challenge. Did he succeed in this
 challenge? Up to you to decide but he did all the projects, homework, and
 passed all the final exams of the classes.
 
 Can others succeed on major projects like this with short time horizons and
-aggressive milestones? It turns out a rather sizable learning community exists
-from people who can pick up proficiency Common European Framework of Reference for
-Languages (CEFR) at B2 level in a month to learning everything required to build
-a video game from scratch called _Stardew Valley_ by Eric Barone.
+aggressive milestones? It turns out, a rather sizable learning community exists
+of people who have done everything from picking up proficiency in a foreign language (CEFR) at B2 level in a month to learning everything required to build
+a video game from scratch (_Stardew Valley_ by Eric Barone).
+
+    Better beware of notions like genius and inspiration; they are a sort of magic
+    wand and should be used sparingly by anybody who wants to see things clearly.
+
+~José Ortega y Gasset, “Notes on the novel”
 
 I know what you may be thinking, these people are geniuses and I could never do that
 or "I don't have the determination or willpower." I disagree. With practice
 many things that seem unreachable are possible and just spending that extra time
-can change you a lot in powerful and positive ways. The defining characteristic for
-these projects is actually persistence and methods. If you take a step back from
-being dazzled by genius, we can see more clearly:
-
-  Better beware of notions like genius and inspiration; they are a sort of magic
-  wand and should be used sparingly by anybody who wants to see things clearly.
-
-~José Ortega y Gasset, “Notes on the novel”
+can change you in long lasting, positive ways. The defining characteristic for
+these projects is persistence and methods. If you take a step back from
+being dazzled by genius, we can see more clearly.
 
 Are certain things out of reach? The quote that encapsulates this best is
 
-  I don't believe in setting limits...I find them...
-
-# The Gist
-
-[Placeholder]
+    I don't believe in setting limits...I find them...
 
 # Why does Ultralearning Matter?
 
 First, an operable definition:
 
-    A strategy for acquiring skills and knowledge that is both self-directed and intense.
-    Deeply and effectively learning things is always the main priority.
+    A strategy for acquiring skills and knowledge that is both self-directed
+    and intense. Deeply and effectively learning things is always the main
+    priority.
 
 We live in a society in which learning new skills incredibly quickly is rapidly
-becoming not just important, but without the ability to do so one can become _economically
-irrelevant_ incredibly fast. I wrote about this in more depth on my post _Deep Work_
+becoming not just important, but critical because an individual becomes _economically
+irrelevant_ without it. I wrote about this in more depth on my post _Deep Work_
 if you would like more details. Given how power laws work, i.e. the 80/20 principle,
 the top one percent in many areas will be getting the majority of the wealth,
-fame, skills, and everything that goes along with a field. How the world is changing
-puts one in a position in which it is no longer acceptable to say "I am just no
-good at X or Y." When X or Y could very well quickly become part of your job.
+fame, skills, and everything that goes along with it. We live in a time in which
+it is no longer acceptable to say "I am just no good at X or Y."
+When X or Y could very well quickly become part of your job.
 
 Learning new things doesn't necessarily diminish the other skills you have, in fact,
-I have found it helps inform other fields through cross pollination of ideas.
+I have found it helps inform other fields through cross pollination.
 
 Our deepest moment of happiness don't come from simple and easy things,
 it comes from wrestling with hard, meaningful things to obtain mastery and self
 discovery. Hard decisions, easy life. Easy decisions, hard life.
 
-Education is also getting too expensive, and sometimes too slow, for what you can get online.
+Education is also getting too expensive, and sometimes moves too slow, for what you can get from intense self directed study.
 One of my best lectures on programming in College pales in comparison to the material I
-got online for Java or even the right books on programming. A lot of the course
-material in school may not even be indirectly or directly applicable to you as a
-learner.
+have gotten online or the right books on. A lot of the course
+material in school may not even be indirectly or directly applicable to you as
+an employee or hobbist.
 
 Can technology help solve learning? With websites like Khan Academy, Udacity, Udemy,
 Coursera, TedX, etc. We are rapidly seeing the physical lecture room is becoming
-less and less relevant. However, a coding Dojo or study Dojos are popping up and
-this may become a useful style for us.
+less and less relevant. However, a learning Dojos and bootcamps seem to be useful
+alternatives to typical educational formats.
 
-So have I convinced you yet? Good. So the three main strategy Scott Young mentions
-for acquiring these skills?
+So have I convinced you that ultralearning is possible and desirable? I hope so.
+So what are the three main reasons Scott Young mentions for acquiring ultralearning
+as a skill?
 
   1. Accelerating the career you have.
 
   2. Transitioning to a new career.
 
-  3. Cultivating a hidden advantage in a competitive world.
+  3. Cultivating a hidden advantage in a highly competitive world.
 
 However, many ultralearners are not compelled by professional success. The major
 reasons were a vision of what they wanted to do, a deep curiosity, or the challenge
 that drove these individuals forward. I can say this is highly congruent with
 the research I have seen on motivation out of MIT on motivation being tied to
-mastery and skill acquisition instead of money. (see link) [RSA animations on motivation].
+mastery and skill acquisition instead of money: [See here](https://www.youtube.com/watch?v=u6XAPnuFjJc).
 As Scott Young puts it
 
     The best ultralearners are those who blend the practical reasons for learning
@@ -99,7 +95,7 @@ As Scott Young puts it
 
 ## What about Talent?
 
-It exists and of course it matters sometimes, but it's clearer now more than ever
+It exists and of course it matters, but it's clearer now more than ever
 that methods and drive mean a lot more than previously thought in many places.
 Most people don't say "wow, that persons memory is so good because of talent" at the memory
 expert contests--we all know it is training. No one seems to fully know the
@@ -144,13 +140,12 @@ Principles of the Ultralearner:
 
     8. **Intuition**: Dig Deep Before Building Up.
     Develop your intuition through play and exploration of concepts and skills.
-    Understand how understanding works, and don’t recourse to cheap. tricks of memorization to avoid deeply knowing things.
+    Understand how understanding works, and don’t recourse to cheap tricks of memorization to avoid deeply knowing things.
 
     9. **Experimentation**: Explore Outside Your Comfort Zone. All of these principles are only starting points. True mastery comes not just from following the path trodden by others but from exploring possibilities they haven’t yet imagined.
 
 Scott Young got these principles from meta-analysis, personal experience, and the available cognitive science literature. Many of us have used these ideas in our studies
 and lives but to systemize this into an extremely effective process takes a lot more than understanding these concepts in principle. The practice is hard. Put another way **common sense isn't common practice**. And remember kids, sometimes you need to know when to break the rules. These are all heuristics mind you, not scientific laws.
-
 
 ## Metalearning
 
@@ -164,22 +159,28 @@ and lives but to systemize this into an extremely effective process takes a lot 
     narrow-minded and will not permit you to grow outward."
 
 Miyamoto Musashi, _A Book of Five Rings_. This kind of skill interaction can sometimes even be between seemingly unrelated skills.
-The story Scott Young covers is how multilingual people vs. monolingual do on acquiring a new language. The multilingual people learn faster.
- What happens is a form of meta awareness, in this case between different languages. This meta-framework can be derived more easily from studying in a formal setting.
+The story Scott Young covers is how multilingual people vs. monolingual do on acquiring a new language.
+The multilingual people learn faster. What happens is a form of meta awareness,
+in this case between different languages. This meta-framework can be derived
+more easily from studying in a formal setting.
 
-I am a philosophical _patternist_ so this philosophy of acquiring numerous skills to weave even more
+I am a philosophical _patternist_ so this philosophy of acquiring numerous skills
+to weave even more
 sophisticated patterns between things in the world cannot be emphasized enough.
 Patterns have _emergent_ properties to them, put simply:
 patterns have a power that transcends the parts of that pattern.
-The whole is greater than the sum of it's parts. As was true above, so is it is true below. This is one of the reasons acquiring metaskills is such a powerful skill. [**TODO**:] link to a large metaskills markdown doc.
+The whole is greater than the sum of it's parts. As was true above, so is it is true below.
+This is one of the reasons acquiring metaskills is such a powerful skill. [Metaskills list I am currently working on](https://docs.google.com/document/d/1wfN8wJrAlh6z8m7XY_Fd9lvDCBzwPbqKOUQZWfS5OkQ/edit?usp=sharing).
 
 So how do you draw your metalearning map?
 
     Over the short term, you can do research to focus on improving your
-     metalearning before and during a learning project. Ultralearning,
+    metalearning before and during a learning project. Ultralearning,
     owing to its intensity and self-directed nature,
     has the opportunity for a lot higher variance than normal
-    schooling efforts do. A good ultralearning project, with excellent materials and an awareness of what needs to be learned, has the potential to be completed faster than formal schooling.
+    schooling efforts do. A good ultralearning project, with
+    excellent materials and an awareness of what needs to be learned,
+    has the potential to be completed faster than formal schooling.
 
 How is this possible according to Scott Young?
 
@@ -193,14 +194,13 @@ Scott Young breaks up metalearning stages into "Why?", "What?", and "How?".
 
   1. **Why** am I learning this? Motivation.
 
-      - Is the project intrinsic (for it's own sake) or instrumental (with a particular goal).
+      - Is the project **intrinsic** (for it's own sake) or **instrumental** (with a particular goal).
 
       - If the project is for more _instrumental_ reasons, do an additional step of research to answer whether the skill will actually help you toward your goal.
 
-      - Conduct expert interviews, if they think your methodology and map are not effective further evaluate. You don't want
-       misalignment between goal and project. Don't ask for long chunks of time, 30 minutes will do.
-
-Young, Scott. Ultralearning (p. 59). HarperBusiness. Kindle Edition.
+      - Conduct expert interviews, if they think your methodology and map are not
+      effective further evaluate. You don't want misalignment between goal and
+      project. Don't ask for long chunks of time, 30 minutes will do.
 
   2. **What** knowledges and abilities do I need to acquire to learn
    this? Break things down into things like concepts, facts, and procedures.
@@ -210,13 +210,18 @@ Young, Scott. Ultralearning (p. 59). HarperBusiness. Kindle Edition.
 
       - Emphasize/Exclude Method happens after you have found the default
       curriculum to use
-      i.e. if you goal is app development build apps and don't study upper level computational math. Also, remove or delay elemnts of your curriculum that don't align with your goals.
 
-How much time should you up into your research? Probably 10 percent, but this is highly contextual and the law of diminishing
+        i.e. if you goal is app development build apps and don't study upper
+        level computational math. Also, remove or delay elements of your
+        curriculum that don't align with your goals.
+
+How much time should you up into your research? Probably 10 percent,
+but this is highly contextual and the law of diminishing
 returns applies on the other end of doing too much research.
 
-The long term benefit of these projects is clear though: they develop the ability to learn hard things which is typically more valuable than
-any one skillset.
+The long term benefit of these projects is clear though: they develop
+the ability to learn hard things rapidly which is typically more valuable than
+any one skillset in the long run.
 
 ## Focus
 
@@ -688,6 +693,24 @@ May your learning, whether they be ultralearning or otherwise, continue.
 
 ## Further Reading
 
+**An important note**: I tried to include a fair mix between the nature and nurture side of the
+arguments on talent because I believe most people come from one camp without wrestling
+with the enormous complexity of what intelligence and talent are and how little we fully
+understand. It is similar to heat: what is heat really? You can define it with an
+operable definition, try to measure it, but still not truly understand how it
+has emerged over time or if you are just measuring subsets. Speaking personally,
+I think intelligence is so much richer than any test could hope to encapsulate
+at this time and so varied and rich in where it is expressed that it is unclear
+whether we will soon have a full taxonomy on the types of expressions or dimensions
+that intelligence and talent can exist in. Evaluate others slowly and with kindness,
+people will surprise you. I'll leave you with one last quote:
+
+    I am, somehow, less interested in the weight and convolutions of Einstein’s
+    brain than in the near certainty that people of equal talent have lived
+    and died in cotton fields and sweatshops.
+
+― Stephen Jay Gould, The Panda's Thumb: More Reflections in Natural History
+
 1. “The Influence of Improvement in One Mental Function upon the Efficiency of Other Functions.” By Edward Thorndike and Robert Woodsworth.
 
 2. Bloom’s Taxonomy
@@ -705,3 +728,7 @@ May your learning, whether they be ultralearning or otherwise, continue.
 8. Moonwalking with Einstein: The Art and Science of Remembering Everything by Joshua Foer.
 
 9. Raising a Genius! by László Polgár
+
+10. [Intelligence Matters More than you Think](https://80000hours.org/2013/05/intelligence-matters-more-than-you-think-for-career-success/)
+
+11. The Blank Slate by Steven Pinker
