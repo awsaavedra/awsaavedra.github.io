@@ -6,7 +6,6 @@ categories: jekyll update
 tags: book-review
 ---
 
-
 # Background
 
 We live in a time when you can go on the internet and read about most things
@@ -411,25 +410,31 @@ Be mindful when drilling, in Scott Young's words:
     will recur throughout the ultralearning principles: that something
     mentally strenuous provides a greater benefit to learning than
     something easy.
-Key idea: that something mentally strenuous provides a greater
-benefit to learning than something easy.
+**Key idea**: "something mentally strenuous provides a greater
+benefit to learning than something easy."
 
 ## Retrieval
 
-The summary of this chapter is that trying to test yourself and summoning things from memory is a highly effective strategy. It helps create depth of connection and makes someone an effective test taker as well as creator. Having to recall information strengthens connections between things (concepts, facts, etc). Basically, being active with material and having to test whether you _really_ knew something is highly effective.
+The summary of this chapter is that trying to test yourself and summoning things from memory is a highly effective strategy. It helps create depth of connection and makes someone an effective test taker as well as creator. Having to recall information strengthens connections between things (concepts, facts, etc). Basically, being active with material and having to test whether you _really_ know something is highly effective.
 
-In addition to retrieval, you can create tests for yourself to get even better at a specific subject. The act of creating tests, studying material for others, etc. gives you a platform to clarify your ideas. Other students can ask you questions and sometimes expose areas of lack of understanding since you have put your ideas on a platform.
-
-The primary idea is this:
+In addition to retrieval, you can create tests for yourself to get even better at a specific subject. The act of creating tests, studying material for others, etc. gives you a platform to clarify your ideas. Other students can ask you questions and sometimes expose holes in your understanding since you have put your ideas out in the open.
 
     Pushing difficulty higher and opting for testing oneself well
     before you are “ready” is more efficient.
 
     [...]Although waiting too long before you test yourself may have disadvantages, increasing difficulty by giving yourself fewer clues and prompts are likely helpful, provided that you can get some feedback on them later.
 
-Could you even take the final exam before the class begins? A provoactive idea, but apparently testing oneself may be a better solution than simply going through material. Speaking personally, I didn't want to study almost at all for the DMV exam and I passed it purely by taking the practice tests for a grand total of 1.5 hours of studying instead of trying to go through the whole booklet over and over.
+**Key idea**: "Pushing difficulty higher and opting for testing oneself well
+before you are “ready” is more efficient."
 
-The said effect is known as **the forward-testing effect** , shows that retrieval not only helps enhance what you’ve learned but can enhance new learnings on the subject. Talk about more bang for your buck!
+Could you even take the final exam before the class begins?
+A provoactive idea, but apparently testing oneself may be a better solution than simply going through material.
+Speaking personally, I didn't want to study almost at all for the DMV
+exam and I passed it purely by taking the practice tests for a grand
+total of 1.5 hours of studying instead of trying to go through
+the whole booklet over and over.
+
+The side effect is known as **the forward-testing effect** , shows that retrieval not only helps enhance what you’ve learned but can enhance new learnings on the subject. Talk about more bang for your buck!
 
 So start early, dive into the deep end when you're not ready, and get to learning by doing the harder stuff quickly. Don't be afraid of feedback.
 
@@ -439,7 +444,8 @@ From Scott's perspective:
 
     1. Being able to look things up is certainly an advantage, but without
     a certain amount of knowledge inside your head, it doesn’t help you
-    solve hard problems.
+    solve hard problems. How are you supposed to look something up
+    if you can't even formulate the right question to ask?
 
     2. This may sound abstract, but I’d argue that this is quite common
     with programmers, and often the thing separating mediocre
@@ -457,9 +463,14 @@ What are the best ways to practice retrieval?
 
   3. **The Question-Book Method**: rephrase what you recorded as questions for later.
 
-  4. **Self-Generated Challenges**: i.e. for programmers it is not enough to know what an algorithm means, you got to write the code. Another way is what I use here, which is writing blog posts about books I am reading or read. I try only to look at the chapters and basic sections instead of just reading everything from the book and trying to re-phrase it.
+  4. **Self-Generated Challenges**: i.e. for programmers it is not enough to know what an algorithm means, you got to
+  write the code and know how to implement it in different ways.
+  Another way is what I use here, which is writing blog posts about
+  books I am reading or read.
+  I try only to look at the chapters and basic sections instead of
+  just reading everything from the book and trying to re-phrase it.
 
-  5. **Close-Book Learning**: By preventing yourself from consulting the source the information is more easily stored inside your mind.
+  5. **Close-Book Learning**: By preventing yourself from consulting the source of the information, it is more easily stored inside your mind.
 
 A final quote in this chapter that really wraps up the ideas mentioned:
 
@@ -468,6 +479,8 @@ A final quote in this chapter that really wraps up the ideas mentioned:
     information about our skill level until we think it will be
     favorable.
 
+In short, dive into the deep end early and test yourself early because struggle is where progress happens the fastest. You are never fully ready or qualified for the situation, just try and celebrate a FAIL (first attempt at learning).
+
 ## Feedback
 
 Best quote in the entire book:
@@ -475,17 +488,25 @@ Best quote in the entire book:
     Everyone has a plan until they get punched in the mouth.
     ~ Mike Tyson, Scholar and ear enthusiast
 
-The major distinction for ultralearning is the efficiency, accuracy, intensity, and immediacy of feedback being provided. Immersing oneself in the discomfort of numbs one to the feedback and allows progress to be made. I was a garbage presenter so I decided to present every week at work. To keep this skill going I like to lecture in front of classes and I will also be giving presentations at toastmasters meetups (WIP).
+The major distinction for ultralearning is the efficiency, accuracy,
+intensity, and immediacy of feedback being provided.
+Immersing oneself in the discomfort numbs one to the feedback and
+allows progress to be made. I was a garbage presenter so I decided to
+present every week at work. To keep this skill going I like to lecture
+in front of classes and I will also be giving presentations at
+toastmasters meetups (WIP).
 
-On the opposite end, no feedback and the result is often stagnation--you stay at the same level with a still. If there is no growth and discomfort, there is no progress.
+On the opposite end, no feedback and the result is often
+stagnation--you stay at the same level.
+If there is no discomfort, there is no progress.
 
 What types of feedback are detrimental:
 
-  1. Feedback aimed at the ultralearners ego, either positively or negatively.
+  1. Feedback aimed at the learners ego, either positive or negative.
 
-  2. Inappropriately applied feedback (not super clear on this one)
+  2. Inappropriately applied feedback (not clear on this one)
 
-What types of feedback are positive:
+What types of feedback are helpful to the learning process:
 
   1. **Outcome feedback**: Tells you something about how you are doing overall, but offers no ideas as to what you're doing better or worse.
 
@@ -493,62 +514,91 @@ What types of feedback are positive:
 
   3. **Corrective feedback**: This is the best feedback, which is informative and usable by students who get it. On the other hand, it can be unreliable. The major benefit of specific feedback is that it is more falsifiable so if you get corrective feedback only evaluate whether it is true or not. Try not to let it hurt your ego.
 
-Although according to the author, the literature is unclear, he recommends faster feedback cycles. This is because it allows faster recognition of mistakes. Using the pomodoro technique or some timer technique to struggle on problems before giving up is a solid solution. If you are stuck for too long you are wasting time, if you are struggling for too short a time you won't grow.
+Although according to the author, the literature is unclear, but he recommends faster feedback cycles.
+This is because it allows faster recognition of mistakes.
+Using the pomodoro technique or some timer technique to struggle on
+problems before giving up is a solid solution.
+If you are stuck for too long you are wasting time,
+if you are struggling for too short a time you won't grow.
 
 Concrete tactics to focus on getting better Feedback
 
-  1. **Noise Cancellation**: For instance, he states "for blog writing, one way to do so would be to use tracking code to figure out what percentage of people read your articles all the way to the end." Instead of the one off comment on "your article is good" or "this article sucks."
+  1. **Noise Cancellation**: For instance, he states "for blog writing,
+  one way to do so would be to use tracking codes to figure out what
+  percentage of people read your articles all the way to the end."
+  Instead of the one off comment on "your article is good" or "this
+  article sucks."
 
   2. **Hitting the difficulty sweet spot**. Try to dance between failing and succeeding in a specific domain. This means an ultralearners learning environment would be right in-between these two. Balancing on the edge of a knife.
 
-  3. **Metafeedback**: one important type of this feedback is learning rate. Another way, is comparing two different study methods and seeing which one works better.
+  3. **Metafeedback**: One important type of feedback is learning rate. Another way, is comparing two different study methods and seeing which one works better-- AB testing.
 
-  4. **High-Intensity, Rapid Feedback**: the biggest advantage is emotional since fear of receiving feedback can hold you back more than anything else. Knowing your work will be evaluated is a powerful incentive to try your best. Put another way, get in and get used to taking punches at the beginning so you're tougher when it matters. Boxing analogies are great.
+  4. **High-Intensity, Rapid Feedback**: The biggest advantage is
+  emotional since fear of receiving feedback can hold you back more
+  than anything else. Knowing your work will be evaluated is a
+  powerful incentive to try your best. Put another way, get in and
+  get used to taking punches at the beginning so you're tougher
+  when it matters. Boxing analogies are great.
 
 ## Retention
 
-An interesting study which I'll summarize: physicians who have been practicing medicine longer are actually worse than fresh ones. Now we could argue about methodology, but this illustrates something called The Forgetting Curve.
+Physicians who have been practicing medicine longer are actually worse than fresh ones. Why? Now we could argue about methodology, but this illustrates something called **The Forgetting Curve**.
 
 Theories of Forgetting
 
-  1. Decay, forgetting with time.
+  1. **Decay**, forgetting with time.
 
-  2. Interference, overwriting old memories with new ones causes more issues. Retrieval becomes harder.
+  2. **Interference**, overwriting old memories with new ones causes more issues. Retrieval becomes harder.
 
-  3. Forgotten cues, the memories are inaccessible. This is the one I tend to believe in true after taking many neuroscience and psychology classes. People who have "forgotten" something tend to be able to learn the skill much faster than those without prior memory.
+  3. **Forgotten cues**, the memories are inaccessible. This is the one I tend to believe is true after taking many neuroscience and
+  cognitive science classes. People who have "forgotten" something
+  tend to be able to learn the skill much faster than those without
+  prior memory.
 
-  4. Mnemonics: a picture is worth a thousand words. I am not particularly sold on this technique, but feel free to look more info it. It's very brittle. I only use it for remembering things I'd get in trouble if I forgot: peoples names, locations, etc. Things I know I don't really care to remember so I force myself to.
+  4. **Mnemonics**: a picture is worth a thousand words.
+  I am not particularly sold on this technique, but feel free to look
+  more info it. It's very brittle.
+  I only use it for remembering things I'd get in trouble if I forgot:
+  peoples names, locations, etc. Things I know I don't really care to
+  remember so I force myself to.
 
 Ways to reducing forgetting:
 
-  1. **Spaced repitition**: spaced-repition systems (SRS) like Anki mentioned above.
+  1. **Spaced repitition**: Spaced-repition systems (SRS) like Anki mentioned above.
 
-  2. **Proceduralization**: Automatic will endure. Procedural skills like riding a bike and declarative skills like math formula's are stored in different ways. A strategy is start with declarative techniques then move onto procedural to have it be part of "muscle memory."
+  2. **Proceduralization**: Automatic will endure. Procedural skills like riding a bike and declarative skills like math formula's are stored in different ways. A strategy is to start with declarative techniques then move into procedural to have it be part of "muscle memory."
 
-  3. **Overlearning**: Practice Beyond Perfect. If you train yourself past the point of knowing something well you retain it much better. Potentially useful in a complementary way with 1 and 2. Overlearning can be applied in two ways: continually practices the core of the skill and the second being advanced practice by going above a certain level of skill so the core is learned plus the new set of skills. Two birds with one stone. I prefer the second method because it is more exciting and harder.
+  3. **Overlearning**: Practice Beyond Perfect. If you train yourself
+  past the point of knowing something well you retain it much better.
+  Potentially useful in a complementary way with 1 and 2.
+  Overlearning can be applied in two ways: continually practices the
+  core of the skill and the second being advanced practice by going
+  above a certain level of skill so the core is learned plus the
+  new set of skills. Two birds with one stone. I prefer the
+  second method because it is more exciting and harder.
 
-To elaborate on overlearning, those that learned calculus didn't forget as much of algebra since they had to use it and the other skills. I call this the nautilus approach to learning, the insides of the skills are learned by focusing on the outside.
+To elaborate on overlearning, those that learned calculus didn't forget
+as much of algebra since they had to use it and the other skills.
+I call this **the nautilus approach to learning**, the insides of the
+skills are learned by focusing on the outside.
 
 ## Intuition
 
     Do not ask whether a statement is true until you know what it means.
     ~ Errett Bishop, mathematician
 
-
-Scott Young goes over an important point about intuition in mathematician
+Scott Young goes over an important point about intuition in mathematics
 
     If the principles-first way of thinking of problems is so much more
     effective, why don’t students start there instead of attending to
     superficial characteristics? The simple answer may be that they
     can’t. Only by developing enough experience with problem solving
-    can you build up a deep mental model of how other problems work.
+    can you build up a deep mental model of how other problems work similar to it work.
 
 What is the difference between a grand master chess player and a novice?
 The grand masters have a huge library of ways to solve chess problems
-and an intuition built up from all that experience. Although, granted,
-certain strategies for becoming more effective exist. They have an
-elaborate network to pull from. This principle first approach is not
-only powerful, it can separate the wheat from the chaff.
+and an intuition built up from all that experience. They have an
+elaborate network to pull from.
 
 However, let's remember that intuition isn't useful for problems that go
 against it. Problems that are outside ones domain and completely novel.
@@ -556,13 +606,22 @@ Intuition will fail us and we must go back to procedure. One reason in
 mathematics many areas "defy" intuition completely except for a select
 few people who have studied these outskirts.
 
-Ways to build your Intuition
+Ways to build your Intuition:
 
-  1. **Don't give up on hard problems easily**. Back to the pomodoro technique or a struggle timer. Advantages in doing this are you likely can solve the problem are you faced with given some extra time and if you fail you will still likely remember how you arrived at a solution.
+  1. **Don't give up on hard problems easily**. Back to the pomodoro technique or a struggle timer.
+  Advantages in doing this are you likely can solve the problem are you
+  faced with given some extra time and if you fail you will still
+  likely remember how you arrived at a solution.
 
-  2. **Prove things to understand them**. One of my biggest pet peeves is someone say "well that's obvious" when it is only obvious due to lots of foundational work before. For instance, why is the sky blue? Is that really obvious? Before you bake an apple pie from scratch you must first invent the universe. Working from first principles gives someone a deep intuition for the results but also adds many layers of understanding and many angles of view.
+  2. **Prove things to understand them**. One of my biggest pet peeves
+  is someone saying "well that's obvious" when it is only obvious due to
+  lots of foundational knowledge beforehand. For instance, why is the sky blue?
+  Is that really obvious? Carl Sagan once said: If you wish to bake an
+  apple pie from scratch you must first invent the universe.
+  Working from first principles gives someone a deep intuition for the
+  results but also adds many layers of understanding and many angles of view.
 
-  To quote Scott Young on Feynman
+To quote Scott Young:
 
     Feynman’s scoffing at not understanding Lee and Yang wasn’t because
     there was no understanding; indeed, he was familiar with much of the
@@ -570,18 +629,38 @@ Ways to build your Intuition
     notion of understanding was much deeper and more based on
     demonstrating results himself, rather than merely nodding along
     while reading.
-Saying simply "I understand" does not mean much unless you know the many layers that could be possible. What I cannot create, I cannot fully understand. Many times, the illusion of knowledge and understanding are barriers to deeper forms of knowledge and understanding.
 
+Saying simply "I understand" does not mean much unless you know the
+many layers that could be possible. What I cannot create, I cannot
+fully understand. Many times, the illusion of knowledge and
+understanding are barriers to real forms of knowledge and
+understanding.
 
-  3. **Always start with a concrete example**. Get some concrete examples going and see if you can apply the concepts you have learned. For instance, when I am checking whether I understand object oriented design in programming I test it by building a particular thing. For instance, a parking lot or a zoo full of animals. Do I really know how to do all the particulars and do I have a mastery of the language? On a deeper level, did I apply proper design and coding principles? This is an endless process.
+  3. **Always start with a concrete example**. Get some concrete
+  examples going and see if you can apply the concepts you have
+  learned. For instance, when I am checking whether I understand object
+  oriented design in programming I test it by building a particular
+  thing. For instance, a parking lot or a zoo full of animals. Do I
+  really know how to do all the particulars and do I have a mastery of
+  the language? On a deeper level, did I apply proper design and coding
+  principles? This is an endless process.
 
+A concept from memory research is **levels-of-processing** effect is
+dependent on how much you think about that information when paying
+attention to it.
 
-A concept from memory research is **levels-of-processing** effect is dependent on how much you think about that information when paying attention to it.
+  4. **Don't fool yourself**. And you are the easiest person to fool,
+  so become deeply skeptical of your understanding. Whenever you hear
+  someone exuding confidence and understanding remember about the
+  Dunning-Kruger effect.
 
-  4. **Don't fool yourself**. You are the easiest person to fool, so become deeply skeptical of your understanding. Whenever you hear someone exuding confidence and understand remember about the Dunning-Kruger effect.
-
-Often times, people will pretend to "know the problem" to save face. This is more of a social issue, and frankly, the problem is that the social cost of not knowing is very high. I'd recommend fostering a learning culture more clearly. If you don't know, just work on learning it and less time shaming people or thinking knowledge === intelligence. Clearly this is not the case.
-
+Often times, people will pretend to "know the problem" to save face.
+This is more of a social issue, and frankly, the problem is that the
+social cost of not knowing is very high in many cases. I'd recommend
+fostering a learning culture more clearly in your workplace.
+If you don't know, just work on learning it and less time shaming
+people or thinking knowledge === intelligence.
+Clearly this is not the case.
 
 Feynman technique.
 
@@ -589,20 +668,26 @@ Feynman technique.
 
   2. In the space below, explain the idea as if you had to teach it to someone else.  
 
-    a. If it’s a concept, ask yourself how you would convey the
+  - If it’s a concept, ask yourself how you would convey the
     idea to someone who has never heard of it before.
 
-    b. If it’s a problem, explain how to solve it
+  - If it’s a problem, explain how to solve it
     and—crucially—why that solution procedure makes sense to you.
 
-  3. When you get stuck, meaning your understanding fails to provide a clear answer, go back to your book, notes, teacher, or reference material to find the answer.  
+  3. When you get stuck, meaning your understanding fails to provide a
+  clear answer, go back to your book, notes, teacher, or reference
+  material to find the answer.  
 
-The goal is to remove the illusion of knowledge or not having a solid explanation of things. It helps expose you to times when you're fooling yourself.
+The goal is to remove the illusion of knowledge or not having a solid
+explanation of things. It helps expose you to times when you're fooling
+yourself.
 
 In short, Feynman was used throughout this chapter to illustrate an
 important point: his spirit of tenacious practice and play helped
 amplify his abilities in physics, mathematics, and various other
-skills he picked up like. As Feynman says "there are no magic people. I was an ordinary person just like you, then I got interested in science."
+skills he picked up along the way. As Feynman says "there are no magic
+people. I was an ordinary person just like you, then I got interested
+in science."
 Instead of focusing on "genius" we can focus on these individuals
 methods and see what results we can get. After all, we are all only
 human.
@@ -612,26 +697,54 @@ human.
 It is not enough to follow the well trodden path,
 at some point you must go it alone.
 This is the essence of experimentation.
-Don't be afraid to go it alone. You will inevitably enter realms in which you are "unqualified," but this is the whole point. After you have all the necessary general training, you must carve a path and sometimes that's alone. Innovation doesn't typically come from established places or groups, it comes from small teams and unusual points of view. Especially points of view who may have trained themselves in an unusual way. An astounding example of this Srinivasa Ramanujan, who had no formal training in mathematics but was able to make sizable contributions in mathematical analysis, number theory, numerous other areas. He combined many of the tools mentioned in this book, but above all I think a quote that struck me when I first read it about the obsession with geniuses and lack of understanding of untapped human potential around the world.
+Don't be afraid to go it alone. You will inevitably enter realms in
+which you are "unqualified," but this is the whole point. After you
+have all the necessary general training, you must carve a path.
+Innovation doesn't typically come from
+established places or groups, it comes from small teams and unusual
+points of view after a strong foundation in obtained. Especially points
+of view who may have trained themselves in an unusual way
+or come from the outside. Don't always trust experts, find out for yourself.
 
-    I am, somehow, less interested in the weight and convolutions of
-    Einstein’s brain than in the near certainty that people of equal
-    talent have lived and died in cotton fields and sweatshops.
-    ~ Stephen Jay Gould, "Wide hats and narrow minds" New Scientist 8 March 1979, p. 777.
+An astounding example of this Srinivasa
+Ramanujan, who had no formal training in mathematics but was able to
+make sizable contributions in mathematical analysis, number theory,
+numerous other areas. He combined many of the tools mentioned in this
+book.
 
-How many more people are left untapped in the world in which they could make major contributions to their civilization? Clearly that number is not zero.
+If qualification was required how would boundaries ever be pushed?
+Those who are qualified once had to push those same areas into
+existence. By the logic of "I'm not qualified to try this" no
+exploration would ever get done. Take on risk and try unusual things
+once the foundation is there and sometimes when it isn't--who is to say
+in all cases?
+Experimentation is the essence of science and it is the spirit of
+exploration. Leave standardization once the rules are discovered.
 
-If qualification was required how would boundaries ever be pushed? Those who are qualified once had to push those same areas into existence. By the logic of "I'm not qualified to try this" very little exploration would ever get done. Take on risk and try usual things. Experimentation is the essence of science and it is the spirit of exploration. Leave standardization to the engineers and the others.
+Experimentation's spirit is also dancing constantly with being wrong.
+Are you wrong? Ideation is key here, try things from many angles and
+throw things at the wall. If someone shames you for overly
+experimenting they don't understand the creative process. I see a major
+problem in our society is a lack of experimentation and creativity.
+People want clear answers to things and simple solutions. Life isn't
+like that, it is full of grey areas and all sorts of other colors we
+may not even be able to see. Experiment.
 
-Experimentation's spirit is also dancing constantly with being wrong. Are you wrong? Ideation is key here, try things from many angles and throw things at the wall. If someone shames you for overly experimenting they don't understand the creative process. I see a major problem in our society is a lack of experimentation and creativity. People want clear answers to things and simply solutions. Life isn't like that, it is full of greys and all sorts of other colors. Experiment.
-
-For after you have created a strong foundation, experimentation is key to mastery. How can you experiment?
+For after you have created a strong foundation, experimentation is key to further mastery. How can you experiment?
 
   1. **Learning resources** must exist and try strange things. Your drive to experiment must match your drive to do the necessary work.
 
-  2. **Experiment with techniques** once you have learned the fundamentals. Then the question changes from "how can I learn X" to "What should I learn next?"
+  2. **Experiment with techniques** once you have learned the
+  fundamentals. Then the question changes from "how can I learn X" to
+  "What should I learn next?"
 
-  3. **Experimenting with style** which changes the focus from techniques you want to obtain to which style you'd like to express. Picking something unique.
+  3. **Experimenting with style** which changes the focus from
+  techniques you want to obtain to which style you'd like to express.
+  Pick something unique.
+
+As Feynman said:
+
+    [quote about putting down books]
 
 How to experiment
 
@@ -639,16 +752,28 @@ How to experiment
 
   2. **Compare methods side-by-side.**
 
-  3. **Introduce new constraints.**
+  3. **Introduce new constraints.** With constraints, creativity can
+  grow since you have to try things a new way.
 
-  4. **Find your superpower in the hybrid of unrelated skills**.
+  4. **Find your superpower in the hybrid of unrelated skills**. The
+  renaissance ideal or the polymath. I may try to encapsulate this
+  further another blog post.
 
   5. **Explore the extremes**. For only after looking into the extremes are the averages clear.
 
-Number 4 is a foreign concept to many people so I'll get into this. What if the whole is greater than the sum of it's parts? For instance, in the bay area we have many great software engineers and mathematically gifted people but do we have many people like this who are also incredible with groups of people? I think not. The best way to do this is in the idea of creating loosely coupled skills that are tightly aligned toward a goal.
-Getting complementary skills combined can be deadly to competition when everyones blindly over optimizing a particular skill which will eventually hit the law of diminishing returns. A highly
-effective tactic to gaining a competition advantage in a world in which most people
-specialize and don't focus as much on things without immediately clear advantage.
+Number 4 is a foreign concept to many people so I'll get into this.
+What if the whole is greater than the sum of it's parts? For instance,
+in the bay area we have many great software engineers and
+mathematically gifted people but do we have many people like this who
+are also incredible with groups of people? I think not. The best way to
+do this is in the idea of creating loosely coupled skills that are
+tightly aligned toward a goal.
+Getting complementary skills combined can be deadly to competition when
+everyones blindly over optimizing a particular skill which will
+eventually hit the law of diminishing returns. A highly
+effective tactic to gaining a competitive advantage in a world in which
+most people specialize and don't focus as much on things without
+immediately clear advantage.
 
 However, I believe the most important idea in this chapter is this:
 
@@ -665,7 +790,8 @@ However, I believe the most important idea in this chapter is this:
   1. **Do Your Research**.
 
     a. What topic are you going to learn and what's it's approximate scope? Don't
-    allow scope creep to interfere with this step. Keep the borders clear.
+    allow scope creep to interfere with this step.
+    Keep the borders clear.
 
     b. What primary resources will you use?
 
@@ -692,20 +818,27 @@ retrieval, feedback, retention, intuition, and experimentation.
   5. **Maintain or Master What You've Learned**. Which would you like to do with
   this new found skill?
 
-    a. **Maintenance**, for instance after learning all the fundamentals of interviewing
+  - **Maintenance**, for instance after learning all the fundamentals
+    of interviewing
     for software engineering companies you will eventually need this skill again.
     How will you maintain this skill? Doing Leetcode twice a week? Working as a tutor?
 
-    b. **Relearning**, if you won't need the skill in the immediate future.
+  - **Relearning**, if you won't need the skill in the immediate future.
 
-    c. **Mastery**, after doing an ultralearning project that's broad you may find
-    a subdomain or area you really want to dive deeper into. For instance, I have
-    been exploring functional programming more in depth so I have a firmer grasp
+  - **Mastery**, after doing an ultralearning project that's broad you  
+    may find
+    a subdomain or area you really want to dive deeper into.
+    For instance, I have been exploring functional programming more
+    in depth so I have a firmer grasp
     of another paradigm beyond OOP and procedural programming.
 
 
-The three alternatives to ultralearning mentioned in the book are Low-Intensity Habits
-and Formal, Structured Education, and lifelong learning. Both have their place and obviously the second
+The three alternatives to ultralearning mentioned in the book are
+  1. Low-Intensity Habits
+  2. Formal & Structured Education
+  3. Lifelong learning
+
+Both have their place and obviously the second
 is a solid way to skip the line when people are curious whether or not you
 truly know something. However, I would definitely say in Software Engineering the
 second is actually only entrance into the exam and not a pass by any stretch of
@@ -715,8 +848,10 @@ and very senior people with Ph.Ds who can barely pass basic interviews.
 
 ## Unconventional Education
 
-So the last chapter of the book gets into some territory that is by no means relevant
-to most unless your goal is to make geniuses. I'll just say this: apparently
+So the last chapter of the book gets into some territory that is by
+no means relevant
+to most unless your goal is to make geniuses.
+I'll just say this: apparently
 it is possible to make geniuses in the right home and it is hard to figure out
 how much of this is nature or nurture but the methods can definitely be applied to
 almost any healthy household.
@@ -726,15 +861,15 @@ almost any healthy household.
   2. Turn the games into forms of play and learn through positive feedback.
 
 Apparently no ill effects of this strategy of parenting were shown. An important
-insight the parent, László Polgár, showed was that "play is not the opposite of
+insight the parent László Polgár showed was that "play is not the opposite of
 work [...] a child does not need play separate from work, but meaningful action,
 [...] learning presents them with more enjoyment than a sterile game."
 
-He also states about awaking interest in the children and love what they do. I
+He also states about awakening interest in the children and loving what they do. I
 think his book _Raise a Genius!_ seems like a good place to start if you want to
 learn more. The perceived problem many people in high achieving households
-suffer from is "tiger" parenting or extreme forced practice that borders on child
-abuse.
+suffer from is "tiger" parenting or extreme forced practice that
+borders on child abuse.
 
 ## Conclusion
 You too can foster these techniques and incorporate them into your
@@ -744,21 +879,19 @@ in the long run. Rather than low quality leisure, we can focus on high quality
 leisure activities that build us up and help us grow.
 
 Ultralearning is something everyone can do. We all have the power to radically
-improve in many ways and Scott Young gives a create methodology to doing just that.
+improve in many ways and Scott Young gives a great methodology to doing just that.
 May your learning, whether they be ultralearning or otherwise, continue.
-
-
 
 ## Further Reading
 
 **An important note**: I tried to include a fair mix between the nature and nurture side of the
 arguments on talent because I believe most people come from one camp without wrestling
 with the enormous complexity of what intelligence and talent are and how little we fully
-understand. It is similar to heat: what is heat really? You can define it with an
+understand the space. It is similar to heat: what is heat really? You can define it with an
 operable definition, try to measure it, but still not truly understand how it
-has emerged over time or if you are just measuring subsets. Speaking personally,
+has emerged over time or if you are just measuring subsets of the complex multidimensional object. Speaking personally,
 I think intelligence is so much richer than any test could hope to encapsulate
-at this time and so varied and rich in where it is expressed that it is unclear
+at this time and so varied in where it is expressed that it is unclear
 whether we will soon have a full taxonomy on the types of expressions or dimensions
 that intelligence and talent can exist in. Evaluate others slowly and with kindness,
 people will surprise you. I'll leave you with one last quote:
