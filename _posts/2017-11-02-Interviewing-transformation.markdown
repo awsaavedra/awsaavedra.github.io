@@ -3,6 +3,7 @@ layout: post
 title:  "Transforming Generic Interview Questions"
 date:   2017-11-02 22:40:05 -0700
 categories: jekyll update
+tags: interview
 ---
 
 ## Transforming Generic Interview Questions
