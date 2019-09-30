@@ -1,8 +1,9 @@
 ---
 layout: post
-title:  "Book Review: The Intelligent Investor"
+title:  "The Intelligent Investor"
 date:   2019-02-24 22:40:05
 categories: jekyll update
+tags: book-review
 ---
 
 ### Background

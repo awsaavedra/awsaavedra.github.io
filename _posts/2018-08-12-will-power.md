@@ -1,8 +1,9 @@
 ---
 layout: post
-title:  "Google Talk Summary: The Willpower Instinct"
+title:  "The Willpower Instinct"
 date:   2017-07-02 22:40:05 -0700
 categories: jekyll update
+tags: talk-summary
 ---
 
 Link: https://www.youtube.com/watch?v=V5BXuZL1HAg
