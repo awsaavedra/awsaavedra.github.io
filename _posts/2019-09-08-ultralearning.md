@@ -8,12 +8,12 @@ tags: book-review
 
 # Background
 
-We live in a time when you can go on the Internet and read about most things
-to some level. So can you learn the equivalent to getting an
+We live in a time when you can go on the internet and read about most things
+to some level. So can you learning the equivalent to getting an
 undergraduate degree from a top university? Scott Young set out on a bold project
 of obtaining the equivalent knowledge of an undergraduate Computer Science degree from MIT
 in a year. He called this project the MIT Challenge. Did he succeed in this
-challenge? Up to you to decide-- but he did all the projects, homework, and
+challenge? Up to you to decide but he did all the projects, homework, and
 passed all the final exams of the classes.
 
 Can others succeed on major projects like this with short time horizons and
@@ -54,8 +54,8 @@ fame, skills, and everything that goes along with it. We live in a time in which
 it is no longer acceptable to say "I am just no good at X or Y."
 When X or Y could very well quickly become part of your job.
 
-Learning new things doesn't necessarily diminish the other skills you have; in fact, 
-I have found that it helps inform other fields through cross pollination.
+Learning new things doesn't necessarily diminish the other skills you have, in fact,
+I have found it helps inform other fields through cross pollination.
 
 Our deepest moment of happiness don't come from simple and easy things,
 it comes from wrestling with hard, meaningful things to obtain mastery and self
@@ -68,8 +68,8 @@ material in school may not even be indirectly or directly applicable to you as
 an employee or hobbist.
 
 Can technology help solve learning? With websites like Khan Academy, Udacity, Udemy,
-Coursera, TedX, etc. we are rapidly seeing that the physical lecture room is becoming
-less and less relevant. Learning Dojos and bootcamps seem to be useful
+Coursera, TedX, etc. We are rapidly seeing the physical lecture room is becoming
+less and less relevant. However, a learning Dojos and bootcamps seem to be useful
 alternatives to typical educational formats.
 
 So have I convinced you that ultralearning is possible and desirable? I hope so.
@@ -96,8 +96,8 @@ As Scott Young puts it
 
 It exists and of course it matters, but it's clearer now more than ever
 that methods and drive mean a lot more than previously thought in many places.
-Most people don't say "wow, that person's memory is so good because of talent" at the memory
-expert contests-- we all know it's training. No one seems to fully know the
+Most people don't say "wow, that persons memory is so good because of talent" at the memory
+expert contests--we all know it is training. No one seems to fully know the
 composition of training and talent but we know we can grow so let's just work on
 that. Jumping into ultralearning means you too can radically shift your skill in an
 area and it's quite empowering. Results may vary.
@@ -117,37 +117,34 @@ Principles of the Ultralearner:
     or skill you want to tackle. Discover how to do good research and how to draw on
     your past competencies to learn new skills more easily.  
 
-  2. **Focus** Sharpen Your Knife. Cultivate the ability to concentrate.
+    2. **Focus** Sharpen Your Knife. Cultivate the ability to concentrate.
     Carve out chunks of time when you can focus on learning, and make it easy to just do it.  
 
-  3. **Directness**: Go Straight Ahead. Learn by doing the thing you want to become good at.
+    3. **Directness**: Go Straight Ahead. Learn by doing the thing you want to become good at.
     Don’t trade it off for other tasks, just because those are more convenient or comfortable.  
 
-  4. **Drill**: Attack Your Weakest Point. Be ruthless in improving your weakest points.
+    4. **Drill**: Attack Your Weakest Point. Be ruthless in improving your weakest points.
     Break down complex skills into small parts; then master those parts and build them back together again.  
 
-  5. **Retrieval**: Test to Learn. Testing isn’t simply a way of assessing knowledge but a way of creating it.
+    5. **Retrieval**: Test to Learn. Testing isn’t simply a way of assessing knowledge but a way of creating it.
     Test yourself before you feel confident, and push yourself to actively recall information
     rather than passively review it.  
 
-  6. **Feedback**: Don’t Dodge the Punches. Feedback is harsh and uncomfortable.
+    6. **Feedback**: Don’t Dodge the Punches. Feedback is harsh and uncomfortable.
     Know how to use it without letting your ego get in the way.
     Extract the signal from the noise, so you know what to pay attention to and what to ignore.  
 
-  7. **Retention**: Don’t Fill a Leaky Bucket. Understand what you forget and why.
+    7. **Retention**: Don’t Fill a Leaky Bucket. Understand what you forget and why.
     Learn to remember things not just for now but forever.  
 
-  8. **Intuition**: Dig Deep Before Building Up.
+    8. **Intuition**: Dig Deep Before Building Up.
     Develop your intuition through play and exploration of concepts and skills.
     Understand how understanding works, and don’t recourse to cheap tricks of memorization to avoid deeply knowing things.
 
-  9. **Experimentation**: Explore Outside Your Comfort Zone. All of these principles are only starting points. True mastery comes 
-  not just from following the path trodden by others but from exploring possibilities they haven’t yet imagined.
+    9. **Experimentation**: Explore Outside Your Comfort Zone. All of these principles are only starting points. True mastery comes not just from following the path trodden by others but from exploring possibilities they haven’t yet imagined.
 
-Scott Young got these principles from meta-analysis, personal experience, and the available cognitive science literature. Many of us
-have used these ideas in our studies and lives but to systemize this into an extremely effective process takes a lot more than
-understanding these concepts in principle. The practice is hard. Put another way **common sense isn't common practice**. 
-And remember kids, sometimes you need to know when to break the rules. These are all heuristics mind you, not scientific laws.
+Scott Young got these principles from meta-analysis, personal experience, and the available cognitive science literature. Many of us have used these ideas in our studies
+and lives but to systemize this into an extremely effective process takes a lot more than understanding these concepts in principle. The practice is hard. Put another way **common sense isn't common practice**. And remember kids, sometimes you need to know when to break the rules. These are all heuristics mind you, not scientific laws.
 
 ## Metalearning
 
@@ -171,7 +168,7 @@ to weave even more
 sophisticated patterns between things in the world cannot be emphasized enough.
 Patterns have _emergent_ properties to them, put simply:
 patterns have a power that transcends the parts of that pattern.
-The whole is greater than the sum of its parts. As was true above, so is it is true below.
+The whole is greater than the sum of it's parts. As was true above, so is it is true below.
 This is one of the reasons acquiring metaskills is such a powerful skill. [Metaskills list I am currently working on](https://docs.google.com/document/d/1wfN8wJrAlh6z8m7XY_Fd9lvDCBzwPbqKOUQZWfS5OkQ/edit?usp=sharing).
 
 So how do you draw your metalearning map?
@@ -198,8 +195,7 @@ Scott Young breaks up metalearning stages into "Why?", "What?", and "How?".
 
       - Is the project **intrinsic** (for it's own sake) or **instrumental** (with a particular goal).
 
-      - If the project is for more _instrumental_ reasons, do an additional step of research to answer whether the skill will 
-      actually help you toward your goal.
+      - If the project is for more _instrumental_ reasons, do an additional step of research to answer whether the skill will actually help you toward your goal.
 
       - Conduct expert interviews, if they think your methodology and map are not
       effective further evaluate. You don't want misalignment between goal and
@@ -285,7 +281,7 @@ I tend to approach it from a mental, nutritional, and exercise standpoints.
 The best diet for focus is the whole foods plant based diet with the proper
 supplementation I provided on the daily lifestyle checklist.
 For exercise and mental biking, meditation, and getting outside really help you out.
-The mental side is training and is probably the most straightforward of all:
+The mental side is training and is probably the most straight forward of all:
 do the thing for long and longer with greater intensity of focus.
 
 ## Directness
@@ -294,15 +290,13 @@ do the thing for long and longer with greater intensity of focus.
 
 ~ Leonardo Da Vinci
 
-Directness is the idea of learning being tied closely to the situation or context you want to use it in.
+Directness is the idea of learning being tied closely to the situation
+or context you want to use it in.
 
-Who is a better maker of ceramics? Someone who philosophizes about the best pot, looks into the details, and finally attempts it?
-Or someone who jumps right in and continuously improves their craft? The craftsman mindset has direct application here. You need 
-to research and learn the theory, but the difference between theory and practice is in the practice.
+Who is a better maker of ceramics? Someone who philosophizes about the best pot, looks into the details, and finally attempts or someone who jumps right in and continuously improves their craft? The craftsman mindset has direct application here. You need to research and learn the theory, but the difference between theory and practice is in the practice.
 
-One of my friends from University ended up finishing a degree and after working a couple years in industry said "that degree 
-taught me nothing!" We see this over and over again with things being taught at particular place and then not having direct 
-application.
+One of my friends from University ended up finishing a degree and after working a couple years in industry said "that degree taught me nothing!"
+We see this over and over again with things being taught at particular place and then not having direct application.
 
 This leads us to the dirty secret of education: **transfer** which
 is that you learn something in a classroom and are able to apply it
@@ -360,9 +354,22 @@ situations you want that learning in.
 
 ## Drill
 
-To understand drilling, i.e. focusing on your weakest points first, simply look to the laggers and leaders in your projects. Laggers,
-moreso than leaders, determine the speed of the project in many cases. If someone has conceptual holes or major gaps in knowledge, 
-their foundation is shaky, and that slows progress down.
+Although not the core components of this chapter is the idea of acting as a
+humble inquirer and doubter as opposed to "abrupt contradiction
+and positive argumentation."
+Which is part of the socratic method and stands as a great spirit of
+self discovery as well as discovery about others way of doing things.
+This is the opposite of the more arrogant styles you commonly see in the
+circles who are constantly probing for contradictions and
+seeming inconsistencies which have shorter evaluation loops in their thinking and
+more trigger switches of skepticism. It is an unsophisticated form of skepticism
+that takes statements at face value without seeking first to understand the others
+point of view before being understood.
+
+A simple idea to understand why drilling, or focusing on your weakest points first,
+is so important is simply that you have laggers and leaders.
+The laggers determine the speed of the process in many cases.
+If someone has conceptual holes or major gaps in knowledge the foundation is shaky.
 
      By identifying a rate-determining step in your learning reaction,
      you can isolate it and work on it specifically.
@@ -372,29 +379,24 @@ The **direct-then-drill approach**
 
   1. The first step is to try to practice the skill directly.
 
-  2. The next step is to analyze the direct skill and try to isolate components that are either rate-determining steps in your
-  performance or subskills you find difficult to improve because there are too many other things going on for you to focus on them.
+  2. The next step is to analyze the direct skill and try to isolate components that are either rate-determining steps in your performance or subskills you find difficult to improve because there are too many other things going on for you to focus on them.
 
-  3. The final step is to go back to direct practice and integrate what you’ve learned. This has two purposes: even in well designed
-  drills there will be transfer problems and second is that you need feedback whether your drill was well designed and appropriate.
+  3. The final step is to go back to direct practice and integrate what you’ve learned. This has two purposes: even in well designed drills there will be transfer problems and second is that you need feedback whether your drill was well designed and appropriate.
 
-It may seem hard to figure out what to drill but this breaks down to experimentation. You get feedback fast and iterate.
+It may seem hard to figure out what are the things to drill but this breaks
+down to experimentation. You get feedback fast and iterate.
 
  Drill types:
 
   1. **Time slicing**: Look for components of the skill that can be decomposed into specific moments that have particular significance.
 
-  2. **Cognitive Components**: Isolating a certain cognitive component. The goal here is to find a way to drill only one component 
-  when, in practice, others would be applied at the same time.
+  2. **Cognitive Components**: Isolating a certain cognitive component. The goal here is to find a way to drill only one component when, in practice, others would be applied at the same time.
 
-  3. **Copycat**: Copy the parts of the skill you don't want to drill you can focus exclusively on what you want to practice. 
-  You may even want to selectively copy your older work and modify specific parts.
+  3. **Copycat**: Copy the parts of the skill you don't want to drill you can focus exclusively on what you want to practice. You may even want to selectively copy your older work and modify specific parts.
 
-  4. **The Magnifying Glass Method**: Which focuses on one component of the skill than you might otherwise. For instance, spending way
-  more time research than previously to improve your ability to search for answers and improve research methods.
+  4. **The Magnifying Glass Method**: Which focuses on one component of the skill than you might otherwise. For instance, spending way more time research than previously to improve your ability to search for answers and improve research methods.
 
-  5. **Prerequisite Chaining**: Start with a skill you don't have all the prerequisites for and go back a step to practice foundational
-  knowledge when they do poorly.
+  5. **Prerequisite Chaining**: Start with a skill you don't have all the prerequisites for and go back a step to practice foundational knowledge when they do poorly.
 
 Be mindful when drilling, in Scott Young's words:
 
@@ -403,30 +405,24 @@ Be mindful when drilling, in Scott Young's words:
     that weakness directly rather than focus on what is the most fun or
     what has already been mastered.
 
+
     [...]The difficulty and usefulness of drills repeat a pattern that
     will recur throughout the ultralearning principles: that something
     mentally strenuous provides a greater benefit to learning than
     something easy.
-    
 **Key idea**: "something mentally strenuous provides a greater
 benefit to learning than something easy."
 
 ## Retrieval
 
-The summary of this chapter is that trying to test yourself and summoning things from memory is a highly effective strategy. 
-It helps create depth of connection and makes someone an effective test taker as well as creator. Having to recall information
-strengthens connections between things (concepts, facts, etc). Being active with material and having to test whether you
-_really_ know something is highly effective.
+The summary of this chapter is that trying to test yourself and summoning things from memory is a highly effective strategy. It helps create depth of connection and makes someone an effective test taker as well as creator. Having to recall information strengthens connections between things (concepts, facts, etc). Basically, being active with material and having to test whether you _really_ know something is highly effective.
 
-In addition to retrieval, you can create tests for yourself to get even better at a specific subject. The act of creating tests,
-studying material for others, etc. gives you a platform to clarify your ideas. Other students can ask you questions and sometimes 
-expose holes in your understanding since you have put your ideas out in the open.
+In addition to retrieval, you can create tests for yourself to get even better at a specific subject. The act of creating tests, studying material for others, etc. gives you a platform to clarify your ideas. Other students can ask you questions and sometimes expose holes in your understanding since you have put your ideas out in the open.
 
     Pushing difficulty higher and opting for testing oneself well
     before you are “ready” is more efficient.
 
-    [...]Although waiting too long before you test yourself may have disadvantages, increasing difficulty by giving yourself fewer 
-    clues and prompts are likely helpful, provided that you can get some feedback on them later.
+    [...]Although waiting too long before you test yourself may have disadvantages, increasing difficulty by giving yourself fewer clues and prompts are likely helpful, provided that you can get some feedback on them later.
 
 **Key idea**: "Pushing difficulty higher and opting for testing oneself well
 before you are “ready” is more efficient."
@@ -438,14 +434,11 @@ exam and I passed it purely by taking the practice tests for a grand
 total of 1.5 hours of studying instead of trying to go through
 the whole booklet over and over.
 
-The side effect is known as **the forward-testing effect**, shows that retrieval not only helps enhance what you’ve learned but
-can enhance new learnings on the subject. Talk about more bang for your buck!
+The side effect is known as **the forward-testing effect** , shows that retrieval not only helps enhance what you’ve learned but can enhance new learnings on the subject. Talk about more bang for your buck!
 
-So start early, dive into the deep end when you're not ready, and get to learning by doing the harder stuff quickly. Don't be afraid
-of feedback.
+So start early, dive into the deep end when you're not ready, and get to learning by doing the harder stuff quickly. Don't be afraid of feedback.
 
-However, let's remember that there will always been areas you can say "I'll just look that up." It's almost impossible to have
-everything you are looking for, focus on the highest impact material first.
+However, let's remember that there will always been areas you can say "I'll just look that up." It's almost impossible to have everything you are looking for, focus on the highest impact material first.
 
 From Scott's perspective:
 
@@ -477,8 +470,7 @@ What are the best ways to practice retrieval?
   I try only to look at the chapters and basic sections instead of
   just reading everything from the book and trying to re-phrase it.
 
-  5. **Close-Book Learning**: By preventing yourself from consulting the source of the information, it is more easily stored 
-  inside your mind.
+  5. **Close-Book Learning**: By preventing yourself from consulting the source of the information, it is more easily stored inside your mind.
 
 A final quote in this chapter that really wraps up the ideas mentioned:
 
@@ -487,8 +479,7 @@ A final quote in this chapter that really wraps up the ideas mentioned:
     information about our skill level until we think it will be
     favorable.
 
-In short, dive into the deep end early and test yourself early because struggle is where progress happens the fastest. You are never
-fully ready or qualified for the situation, just try and celebrate a FAIL (first attempt at learning).
+In short, dive into the deep end early and test yourself early because struggle is where progress happens the fastest. You are never fully ready or qualified for the situation, just try and celebrate a FAIL (first attempt at learning).
 
 ## Feedback
 
@@ -517,14 +508,11 @@ What types of feedback are detrimental:
 
 What types of feedback are helpful to the learning process:
 
-  1. **Outcome feedback**: Tells you something about how you are doing overall, but offers no ideas as to what you're doing 
-  better or worse.
+  1. **Outcome feedback**: Tells you something about how you are doing overall, but offers no ideas as to what you're doing better or worse.
 
   2. **Informational feedback**: It tells you what you're doing wrong, but it doesn't necessarily tell you how to fix it.
 
-  3. **Corrective feedback**: This is the best feedback, which is informative and usable by students who get it. On the other hand,
-  it can be unreliable. The major benefit of specific feedback is that it is more falsifiable so if you get corrective feedback only
-  evaluate whether it is true or not. Try not to let it hurt your ego.
+  3. **Corrective feedback**: This is the best feedback, which is informative and usable by students who get it. On the other hand, it can be unreliable. The major benefit of specific feedback is that it is more falsifiable so if you get corrective feedback only evaluate whether it is true or not. Try not to let it hurt your ego.
 
 Although according to the author, the literature is unclear, but he recommends faster feedback cycles.
 This is because it allows faster recognition of mistakes.
@@ -541,11 +529,9 @@ Concrete tactics to focus on getting better Feedback
   Instead of the one off comment on "your article is good" or "this
   article sucks."
 
-  2. **Hitting the difficulty sweet spot**. Try to dance between failing and succeeding in a specific domain. 
-  This means an ultralearner's learning environment would be right in-between these two. Balancing on the edge of a knife.
+  2. **Hitting the difficulty sweet spot**. Try to dance between failing and succeeding in a specific domain. This means an ultralearners learning environment would be right in-between these two. Balancing on the edge of a knife.
 
-  3. **Metafeedback**: One important type of feedback is learning rate. Another way, is comparing two different study methods and 
-  seeing which one works better-- AB testing.
+  3. **Metafeedback**: One important type of feedback is learning rate. Another way, is comparing two different study methods and seeing which one works better-- AB testing.
 
   4. **High-Intensity, Rapid Feedback**: The biggest advantage is
   emotional since fear of receiving feedback can hold you back more
@@ -553,19 +539,10 @@ Concrete tactics to focus on getting better Feedback
   powerful incentive to try your best. Put another way, get in and
   get used to taking punches at the beginning so you're tougher
   when it matters. Boxing analogies are great.
-  
-As an aside, with receiving or giving feedback, be a humble inquirer and doubter rather than an abrupt contradictarian.
-
-This is the socratic method-- in the great spirit of self-discovery, and the discovery of others' way of doing things. This is 
-the opposite of the more arrogant styles of argumentation you see in some circles. Constantly probing for contradictions and seeming
-inconsistencies demonstrates shorter evaluation loops in thinking and more trigger switches of skepticism rather than substance in
-argumentation. Contrariness is an unsophisticated form of skepticism that takes statements at face value without seeking first to
-understand the others' point of view. 
 
 ## Retention
 
-Physicians who have been practicing medicine longer are actually worse than fresh ones. Why? Now we could argue about methodology, 
-but this illustrates something called **The Forgetting Curve**.
+Physicians who have been practicing medicine longer are actually worse than fresh ones. Why? Now we could argue about methodology, but this illustrates something called **The Forgetting Curve**.
 
 Theories of Forgetting
 
@@ -574,28 +551,36 @@ Theories of Forgetting
   2. **Interference**, overwriting old memories with new ones causes more issues. Retrieval becomes harder.
 
   3. **Forgotten cues**, the memories are inaccessible. This is the one I tend to believe is true after taking many neuroscience and
-  cognitive science classes. People who have "forgotten" something tend to be able to learn the skill much faster than those without
+  cognitive science classes. People who have "forgotten" something
+  tend to be able to learn the skill much faster than those without
   prior memory.
 
-  4. **Mnemonics**: a picture is worth a thousand words. I am not particularly sold on this technique, but feel free to look
-  more info it. It's very brittle. I only use it for remembering things I'd get in trouble if I forgot: peoples names, locations, etc.
-  Things I know I don't really care to remember so I force myself to.
+  4. **Mnemonics**: a picture is worth a thousand words.
+  I am not particularly sold on this technique, but feel free to look
+  more info it. It's very brittle.
+  I only use it for remembering things I'd get in trouble if I forgot:
+  peoples names, locations, etc. Things I know I don't really care to
+  remember so I force myself to.
 
 Ways to reducing forgetting:
 
   1. **Spaced repitition**: Spaced-repition systems (SRS) like Anki mentioned above.
 
-  2. **Proceduralization**: Automatic will endure. Procedural skills like riding a bike and declarative skills like math formula's 
-  are stored in different ways. A strategy is to start with declarative techniques then move into procedural to have it be part of
-  "muscle memory."
+  2. **Proceduralization**: Automatic will endure. Procedural skills like riding a bike and declarative skills like math formula's are stored in different ways. A strategy is to start with declarative techniques then move into procedural to have it be part of "muscle memory."
 
-  3. **Overlearning**: Practice Beyond Perfect. If you train yourself past the point of knowing something well you retain it much
-  better. Potentially useful in a complementary way with 1 and 2. Overlearning can be applied in two ways: continually practices
-  the core of the skill and the second being advanced practice by going above a certain level of skill so the core is learned plus the
-  new set of skills. Two birds with one stone. I prefer the second method because it is more exciting and harder.
+  3. **Overlearning**: Practice Beyond Perfect. If you train yourself
+  past the point of knowing something well you retain it much better.
+  Potentially useful in a complementary way with 1 and 2.
+  Overlearning can be applied in two ways: continually practices the
+  core of the skill and the second being advanced practice by going
+  above a certain level of skill so the core is learned plus the
+  new set of skills. Two birds with one stone. I prefer the
+  second method because it is more exciting and harder.
 
-To elaborate on overlearning, those that learned calculus didn't forget as much of algebra since they had to use it and the other 
-skills. I call this **the nautilus approach to learning**, the insides of the skills are learned by focusing on the outside.
+To elaborate on overlearning, those that learned calculus didn't forget
+as much of algebra since they had to use it and the other skills.
+I call this **the nautilus approach to learning**, the insides of the
+skills are learned by focusing on the outside.
 
 ## Intuition
 
@@ -703,7 +688,6 @@ amplify his abilities in physics, mathematics, and various other
 skills he picked up along the way. As Feynman says "there are no magic
 people. I was an ordinary person just like you, then I got interested
 in science."
-
 Instead of focusing on "genius" we can focus on these individuals
 methods and see what results we can get. After all, we are all only
 human.
@@ -775,16 +759,15 @@ How to experiment
   renaissance ideal or the polymath. I may try to encapsulate this
   further another blog post.
 
-  5. **Explore the extremes**. Only after looking into the extremes are the averages clear.
+  5. **Explore the extremes**. For only after looking into the extremes are the averages clear.
 
 Number 4 is a foreign concept to many people so I'll get into this.
-What if the whole is greater than the sum of its parts? For instance,
+What if the whole is greater than the sum of it's parts? For instance,
 in the bay area we have many great software engineers and
 mathematically gifted people but do we have many people like this who
 are also incredible with groups of people? I think not. The best way to
 do this is in the idea of creating loosely coupled skills that are
 tightly aligned toward a goal.
-
 Getting complementary skills combined can be deadly to competition when
 everyones blindly over optimizing a particular skill which will
 eventually hit the law of diminishing returns. A highly
@@ -843,7 +826,8 @@ retrieval, feedback, retention, intuition, and experimentation.
   - **Relearning**, if you won't need the skill in the immediate future.
 
   - **Mastery**, after doing an ultralearning project that's broad you  
-    may find a subdomain or area you really want to dive deeper into.
+    may find
+    a subdomain or area you really want to dive deeper into.
     For instance, I have been exploring functional programming more
     in depth so I have a firmer grasp
     of another paradigm beyond OOP and procedural programming.
