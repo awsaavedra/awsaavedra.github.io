@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Book Review: The Originals"
+title:  "The Originals"
 date:   2018-10-21 22:40:05 -0700
 categories: jekyll update
 ---
