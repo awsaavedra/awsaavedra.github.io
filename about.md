@@ -7,7 +7,7 @@ permalink: /about/
 I focus on production over connectivity. Please allow 24 hours when contacting
 me.
 
-[My resume](https://drive.google.com/file/d/1sxZ3XsTd9JUqencmjleqJPpHgdAqK0mC/view?usp=sharing)
+[My resume](https://drive.google.com/file/d/1NHe2PqwbLqVuXom2jhGYxJgzxI6ECrjE/view)
 
 ## Three Virtues of a Programmer
 
