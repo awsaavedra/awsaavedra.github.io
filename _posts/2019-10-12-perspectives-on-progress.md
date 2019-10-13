@@ -15,7 +15,7 @@ somewhat interesting.
 
 However, what I am interested in is not short term prediction or forecasting in this case.
 I have been searching for the perspectives on progress and how it will play out.
-Simply put, which school of thought is correct when it comes to the next 100 years?
+Simply put, which school of thought is correct when it comes to the next 100?
 
 # The One Off Event Scenario
 
@@ -98,4 +98,9 @@ constantly struggle for more often forget the one thing they will never have is
 
 10. [The Story of the Mexican Fisherman by Courtney Carver](https://bemorewithless.com/the-story-of-the-mexican-fisherman/)
 
-11.
+11. [Richard Stallman on the Singularity](https://youtu.be/NB8mCcLRxlg?t=1787)
+
+12. Marooned in Realtime by Vernor Vinge
+
+13. [François Chollet: Scientific Progress is Not Exponential | AI Podcast Clips](https://www.youtube.com/watch?v=-I6plWpbbSQ&t). This is probably the best argument I have found so
+far against the singularity exponential growth argument.
