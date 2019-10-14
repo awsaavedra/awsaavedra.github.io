@@ -14,8 +14,8 @@ the job done. I read a book on it called _Superforecasting_ and I thought it was
 somewhat interesting.
 
 However, what I am interested in is not short term prediction or forecasting in this case.
-I have been searching for the perspectives on progress and how it will play out.
-Simply put, which school of thought is correct when it comes to the next 100?
+I have been searching for the perspectives on technological progress and how it will play out in the next 100 years. What are the majors areas of change that we
+should be expecting?
 
 # The One Off Event Scenario
 
@@ -34,10 +34,8 @@ the simple thesis:
     Things are getting better but exponentially harder to solve as we pick all the
     low hanging fruits of progress.
 
-
 The strongest argument I have heard for this camp comes from the
-Artificial General Intelligence Podcast by Lex Fridman
-[summary of arguments made in video]
+Artificial General Intelligence Podcast by Lex Fridman. Additional resources link 13.
 
 # Only the Software is Improving Rapidly Camp
 
@@ -49,7 +47,7 @@ technologies not improving at the rate of technological destruction.
 Within this camp, we can see that this technological trend has many benefits including
 our progress no longer causes as much ecological damage to the environment.
 
-[Link to Sam Harris podcast guest book]
+Resource link 17.
 
 # The Exponential Progress Folks
 
@@ -72,7 +70,7 @@ Anywhere from the Brave New World argument that simply eliminating undesirable t
 does not, ultimately, make life better. Is the pursuit of happiness the goal?
 
 Another perspective I truly enjoyed was Derek Sivers view, similar to the mexican
-fisherman story, is more really better? Why always strive for more? Those that
+fisherman story, is more really better? Those that
 constantly struggle for more often forget the one thing they will never have is
 **enough**.
 
@@ -80,7 +78,7 @@ constantly struggle for more often forget the one thing they will never have is
 
 1. The Singularity is Near by Ray Kurzweil
 
-2. Superforecasting
+2. Superforecasting: The Art and Science of Prediction by Philip E. Tetlock and Dan Gardner
 
 3. [Myths and The Future](http://earlyretirementextreme.com/myths-andthe-future.html)
 
@@ -92,15 +90,25 @@ constantly struggle for more often forget the one thing they will never have is
 
 7. Enlightenment Now: The Case for Reason, Science, Humanism, and Progress by Steven Pinker
 
-8. Superforecasting: The Art and Science of Prediction by Philip E. Tetlock and Dan Gardner
+8. Enough: True Measures of Money, Business, and Life by Jack C. Bogle
 
-9. Enough: True Measures of Money, Business, and Life by Jack C. Bogle
+9. [The Story of the Mexican Fisherman by Courtney Carver](https://bemorewithless.com/the-story-of-the-mexican-fisherman/)
 
-10. [The Story of the Mexican Fisherman by Courtney Carver](https://bemorewithless.com/the-story-of-the-mexican-fisherman/)
+10. [Richard Stallman on the Singularity](https://youtu.be/NB8mCcLRxlg?t=1787)
 
-11. [Richard Stallman on the Singularity](https://youtu.be/NB8mCcLRxlg?t=1787)
+11. Marooned in Realtime by Vernor Vinge
 
-12. Marooned in Realtime by Vernor Vinge
-
-13. [François Chollet: Scientific Progress is Not Exponential | AI Podcast Clips](https://www.youtube.com/watch?v=-I6plWpbbSQ&t). This is probably the best argument I have found so
+12. [François Chollet: Scientific Progress is Not Exponential | AI Podcast Clips](https://www.youtube.com/watch?v=-I6plWpbbSQ&t). This is probably the best argument I have found so
 far against the singularity exponential growth argument.
+
+13. A Guide to the Good Life: The Ancient Art of Stoic Joy - by William Irvine
+
+14. The Time Paradox by Philip Zimbardo and John Boyd.
+
+15. Life 3.0 by Max Tegmark
+
+16. Thinking in Bets by Annie Duke
+
+17. [Universal story of progress is so fast](https://www.youtube.com/watch?v=nM9f0W2KD5s&feature=youtu.be&t=1400)
+
+18. [A Protectionist Moment?](https://krugman.blogs.nytimes.com/2016/03/09/a-protectionist-moment/)
