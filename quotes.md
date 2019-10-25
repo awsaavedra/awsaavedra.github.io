@@ -13,6 +13,8 @@ permalink: /quotes/
 
 "I should wish to preach the "will-to-doubt." None of our beliefs are quite true; all at least have a penumbra of vagueness and error. What is wanted is not the will to believe, but the will to find out, which is the exact opposite." ~ Betrand Russell
 
+“Success is having everything you need and doing everything you want. It is not doing everything you need to have everything you want. If so then you do not own your things, instead your things own you. I do not need to own a particular kind of vehicle. I need to go from A to B.”
+
 “It doesn't matter how beautiful your theory is, it doesn't matter how smart you are. If it doesn't agree with experiment, it's wrong.” ~ Richard Feynman
 
 "Premature optimization is the root of all evil (or at least most of it) in programming." ~ Donald Knuth
