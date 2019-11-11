@@ -6,6 +6,16 @@ categories: jekyll update
 tags: finance
 ---
 
+# Disclaimer
+
+  I am simply an enthusiastic lay person
+  who happens to know some math, a fair bit of personal finance,
+  and likes reading on the topic. Please consult a professional who is qualified for specific advice related to your financial situation.
+  This means I don't want to answer YOUR specific questions and I don't want to get
+  into the weeds.
+
+**I prefer to teach people how to think about fishing, NOT even how to fish.**
+
 ## Background
 
 After much frustration with overly complex explanations of financial matters I
@@ -14,7 +24,7 @@ average person as a template for life that met the following criteria:
 
   1. **Comprehensible**: Easy to understand.
 
-  2. **Implementable**: Simple to follow.
+  2. **Implementable**: Simple to make.
 
   3. **Maximize Psychological Safety**: Least stress and experiencing of negative emotions while having this portfolio. Ideally, the user will never care of pay attention to almost any market events.
 
@@ -35,16 +45,6 @@ average person as a template for life that met the following criteria:
 
   7. **Optimally shielded**: assets protected from  inflation and other portfolio diminishing scenarios.
 
-### Disclaimer and Basics on Retirement
-
-  I am simply an enthusiastic lay person
-  who happens to know some math, a fair bit of personal finance,
-  and likes reading on the topic. Please consult a professional who is qualified for specific advice related to your financial situation.
-  This means I don't want to answer YOUR specific questions and I don't want to get
-  into the weeds.
-
-**I prefer to teach people how to think about fishing, NOT even how to fish.**
-
 ## Tax Advantaged Accounts
 
 What are tax advantaged accounts? Retirement accounts, health savings accounts, and
@@ -55,57 +55,50 @@ which is an account that is actually NEVER taxed
 
 Madfientists order of investment maxing out accounts
 
+Order of maxing out of tax-sheltered accounts
+1. 401k
+2. HSA
+3. Traditional IRA, or Roth if income is too high
+4. After-Tax Contributions to 401k if possible, [direct rollover to Roth afterward](https://www.madfientist.com/after-tax-contributions/)
+
 [The Guinea Pig Strategy](http://www.madfientist.com/guinea-pig-experiment/)
 [Traditional IRA > Roth](https://www.madfientist.com/traditional-ira-vs-roth-ira/)
 
 
-REMEMBER [Frontloading](http://www.madfientist.com/front-loading/) or, if you’re able to handle spiciness, mega frontloading with [credit card arbitrage](https://www.investopedia.com/terms/c/credit-card-arbitrage.asp)
+REMEMBER [Front-loading](http://www.madfientist.com/front-loading/) or, if you’re able to handle spiciness, mega front-loading with [credit card arbitrage](https://www.investopedia.com/terms/c/credit-card-arbitrage.asp)
 
-Order of maxing out of tax-sheltered accounts
-1) 401k
-2) HSA
-3) Traditional IRA, or Roth if income is too high
-4) After-Tax Contributions to 401k if possible, [direct rollover to Roth afterward](https://www.madfientist.com/after-tax-contributions/)
 
 **NOTES**:
   1. ALL MAX LIMITS AND INCOME LIMITS ARE MOVING TARGETS
   2. RULES AND ACCOUNTS ARE SUBJECT TO CHANGE YEARLY
 
-Total contribution limit per year example: [( pre-tax 401k + post-tax 401k contributions) /SEP IRA] + [Roth + IRA = IRS limit] + HSA
+Total contribution limit per year **example**: [( pre-tax 401k + post-tax 401k contributions) /SEP IRA] + [Roth + IRA = IRS limit] + HSA
 
-Important considerations about the below tax advantaged accounts:
+Important considerations about the tax advantaged accounts:
 
-a. Am I able to contribute to X tax advantaged account? Is my income too high/low,
+1. Am I able to contribute to X tax advantaged account? Is my income too high/low,
 any special rules due to my citizenship, industry, etc.
 
-b. What are the contribution limits for the year?
+2. What are the contribution limits for the year?
 
-c. If I can use X and Y tax advantaged account, which one is better for my situation and why?
+3. If I can use X and Y tax advantaged account, which one is better for my situation and why?
 
-d. Do I need to focus on other matters like paying off debt, saving for a down payment
+4. Do I need to focus on other matters like paying off debt, saving for a down payment
 on a house, paying medical bills, etc. instead of maxing these accounts out?
 
+[Traditional IRA vs Roth IRA, which is right for you?](https://www.irs.gov/retirement-plans/individuals-retirement-arrangements-getting-started)
 
-#### Notable Tax Advantaged Accounts
+[What are 401k plans and how do they work?](https://www.irs.gov/retirement-plans/401k-plans)
 
-1. [Traditional IRA vs Roth IRA, which is right for you?](https://www.irs.gov/retirement-plans/individuals-retirement-arrangements-getting-started)
+[What is a Health Savings Account?](https://www.irs.gov/publications/p969#en_US_2018_publink1000204046)
 
-2. [401k plans and how they work](https://www.irs.gov/retirement-plans/401k-plans)
-
-3. [Health Savings Account](https://www.irs.gov/publications/p969#en_US_2018_publink1000204046)
-
-  a. [Why is it considered the ultimate retirement account?](https://www.madfientist.com/ultimate-retirement-account/)
+[Why is the HSA considered the ultimate retirement account?](https://www.madfientist.com/ultimate-retirement-account/)
 
 ### Safety Margins
 
-[What are safety margins?](https://www.mrmoneymustache.com/2011/10/17/its-all-about-the-safety-margin/)
+Safety margins are simply levels of safety built into a financial architecture: simply put, if a higher level fails then the next layer can back you up. For instance, if one loses their 1. primary income their 2. side hustle(s) could sustain them until they find another primary.
 
 (total assets) / (spending per year) = X years worth of assets
-
-Phase 0 (Financial INSTABILITY): < 10 years worth of assets (cash, bonds, stocks, etc.)
-Phase 1 (FINANCIAL SECURITY): 10 years worth of assets (cash, bonds, stocks, etc.)
-Phase 2 (FINANCIAL INDEPENDENCE): 25 years worth of assets
-Phase 3 (FINANCIAL FREEDOM):  40+ years worth of assets
 
 1. Primary Income Source(s)
 2. Side Hustle(s)
@@ -114,18 +107,22 @@ Phase 3 (FINANCIAL FREEDOM):  40+ years worth of assets
 5. Tax Sheltered Accounts
 6. Post tax portfolio(s), business ventures, gambling, etc.
 
-[How do I save money?](https://docs.google.com/document/d/1AtregvY52ObiO6N3QLDyBk4ZW4DTa89ar1nz9LlI3Ak/edit?usp=sharing)
+### Hierarchy of Financial Stability
 
-[But how do I compare myself to others to validate myself?!](https://www.financialsamurai.com/the-average-net-worth-for-the-above-average-person/)
+0. **Survival**: Living paycheck to paycheck and potentially debt
+1. **Stability**: Able to cover all expenses.
+2. **Accumulation**: Saving excess money income.
+3. **Independence**: Able to pay all expenses with investment income.
+4. **Abundance**: One can spend/give in fulfillment of life's purpose.
 
-### Suggested services
+### Suggested Services
 
 1. A solid checking account that allows international withdraws w/o penalty and ideally
 high interest
 
 2. A command center for all financial flow like spending
 
-3. A cheap mutual fund provider that's cheap i.e. Vanguard
+3. A cheap mutual fund provider that's dirt cheap using index funds
 
 4. Credit lines you can use everyday and receive continuous discounts
 
@@ -138,3 +135,18 @@ high interest
 Without further adieu, the simplified financial architecture diagram
 
 ![SFA](/assets/sfa.png)
+
+
+# Additional resources
+
+1. [How do I save money?](https://docs.google.com/document/d/1AtregvY52ObiO6N3QLDyBk4ZW4DTa89ar1nz9LlI3Ak/edit?usp=sharing)
+
+2. [But how do I compare myself to others to validate myself?!](https://www.financialsamurai.com/the-average-net-worth-for-the-above-average-person/)
+
+3. [More on general investing](http://awsaavedra.com/jekyll/update/2019/02/24/The-Intelligent-Investor.html)
+
+4. [Why do people like vanguard so much?](https://jlcollinsnh.com/2012/09/07/stocks-part-x-what-if-vanguard-gets-nuked/)
+
+5. [The case for index funds](https://personal.vanguard.com/pdf/ISGIDX.pdf)
+
+6. [What are safety margins?](https://www.mrmoneymustache.com/2011/10/17/its-all-about-the-safety-margin/)
