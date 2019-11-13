@@ -19,8 +19,8 @@ tags: finance
 ## Background
 
 After much frustration with overly complex explanations of financial matters I
-decided back to write a simplified version of financial material for the
-average person as a template for life that met the following criteria:
+decided to write a simplified version of financial material for the
+average person as a template for financial solution that met the following criteria:
 
   1. **Comprehensible**: Easy to understand.
 
@@ -51,11 +51,9 @@ What are tax advantaged accounts? Retirement accounts, health savings accounts, 
 numerous others. They typically come in two forms: pre-tax meaning money you can
 set aside before being taxed on the money and post-tax meaning money you have already
 been taxed on. The current notable exception is the health savings account (HSA)  
-which is an account that is actually NEVER taxed
+which is an account that is actually NEVER taxed.
 
-Madfientists order of investment maxing out accounts
-
-Order of maxing out of tax-sheltered accounts
+Typical order of maxing out of tax-sheltered accounts:
 1. 401k
 2. HSA
 3. Traditional IRA, or Roth if income is too high
@@ -130,7 +128,7 @@ high interest
 
 6. Streamline and simplify as much as possible
 
-### Financial Architecture
+### Financial Architecture Diagram
 
 Without further adieu, the simplified financial architecture diagram
 
@@ -150,3 +148,5 @@ Without further adieu, the simplified financial architecture diagram
 5. [The case for index funds](https://personal.vanguard.com/pdf/ISGIDX.pdf)
 
 6. [What are safety margins?](https://www.mrmoneymustache.com/2011/10/17/its-all-about-the-safety-margin/)
+
+7. [Three-fund portfolio, aka, the simplest portfolios](https://www.bogleheads.org/wiki/Three-fund_portfolio)
