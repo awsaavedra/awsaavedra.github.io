@@ -32,13 +32,13 @@ average person as a template for financial solution that met the following crite
 
   5. **Robustness**: in this case meaning most worst case scenarios are covered
 
-    a. Able to handle financial downturns without
-    withdrawing from assets of high volatility
+      a. Able to handle financial downturns without
+      withdrawing from assets of high volatility.
 
-    b. Portfolios with different purposes: one(s) for
-    conservative growth and one
-    for higher growth with optimal risk adjusted return
-    (Sharpe ratio is good).
+      b. Portfolios with different purposes: one(s) for
+      conservative growth and one
+      for higher growth with optimal risk adjusted return
+      (Sharpe ratio is good).
 
   6. **Extensible**: easily extended by users or additional complexity can be added
   without issue.
@@ -53,13 +53,14 @@ set aside before being taxed on the money and post-tax meaning money you have al
 been taxed on. The current notable exception is the health savings account (HSA)  
 which is an account that is actually NEVER taxed.
 
-Typical order of maxing out of tax-sheltered accounts:
+Typical order of maxing out tax-sheltered accounts:
 1. 401k
 2. HSA
-3. Traditional IRA, or Roth if income is too high
+3. Traditional IRA, or Roth IRA if income is too high
 4. After-Tax Contributions to 401k if possible, [direct rollover to Roth afterward](https://www.madfientist.com/after-tax-contributions/)
 
 [The Guinea Pig Strategy](http://www.madfientist.com/guinea-pig-experiment/)
+
 [Traditional IRA > Roth](https://www.madfientist.com/traditional-ira-vs-roth-ira/)
 
 
@@ -107,7 +108,7 @@ Safety margins are simply levels of safety built into a financial architecture: 
 
 ### Hierarchy of Financial Stability
 
-0. **Survival**: Living paycheck to paycheck and potentially debt
+0. **Survival**: Living paycheck to paycheck and potentially in debt.
 1. **Stability**: Able to cover all expenses.
 2. **Accumulation**: Saving excess money income.
 3. **Independence**: Able to pay all expenses with investment income.
@@ -115,18 +116,18 @@ Safety margins are simply levels of safety built into a financial architecture: 
 
 ### Suggested Services
 
-1. A solid checking account that allows international withdraws w/o penalty and ideally
-high interest
+1. A solid checking account that allows international withdrawals w/o penalty and ideally
+high interest.
 
-2. A command center for all financial flow like spending
+2. A command center for all financial flow like spending.
 
-3. A cheap mutual fund provider that's dirt cheap using index funds
+3. A cheap mutual fund provider that's dirt cheap using index funds.
 
-4. Credit lines you can use everyday and receive continuous discounts
+4. Credit lines you can use everyday and receive continuous discounts.
 
-5. Automate, automate, Automate
+5. Automate, Automate, Automate.
 
-6. Streamline and simplify as much as possible
+6. Streamline and simplify as much as possible.
 
 ### Financial Architecture Diagram
 
@@ -141,7 +142,7 @@ Without further adieu, the simplified financial architecture diagram
 
 2. [But how do I compare myself to others to validate myself?!](https://www.financialsamurai.com/the-average-net-worth-for-the-above-average-person/)
 
-3. [More on general investing](http://awsaavedra.com/jekyll/update/2019/02/24/The-Intelligent-Investor.html)
+3. [More on general investing and how to do so](http://awsaavedra.com/jekyll/update/2019/02/24/The-Intelligent-Investor.html)
 
 4. [Why do people like vanguard so much?](https://jlcollinsnh.com/2012/09/07/stocks-part-x-what-if-vanguard-gets-nuked/)
 
@@ -150,3 +151,5 @@ Without further adieu, the simplified financial architecture diagram
 6. [What are safety margins?](https://www.mrmoneymustache.com/2011/10/17/its-all-about-the-safety-margin/)
 
 7. [Three-fund portfolio, aka, the simplest portfolios](https://www.bogleheads.org/wiki/Three-fund_portfolio)
+
+8. [My favorite free series on investing](https://jlcollinsnh.com/stock-series/). Remember, if you need to join some pyramid or pay a wizard for beans it is probably not investing.
