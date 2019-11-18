@@ -21,4 +21,6 @@ permalink: /quotes/
 
 "Premature optimization is the root of all evil (or at least most of it) in programming." ~ Donald Knuth
 
+"Never lose the child-like wonder. It's just too important. It's what drives us." ~ Randy Pausch
+
 "Get the important things right." ~ N. P. Calderwood
