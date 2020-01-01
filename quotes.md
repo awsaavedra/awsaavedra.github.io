@@ -17,6 +17,10 @@ permalink: /quotes/
 
 “Success is having everything you need and doing everything you want. It is not doing everything you need to have everything you want. If so then you do not own your things, instead your things own you. I do not need to own a particular kind of vehicle. I need to go from A to B.”
 
+It is not the critic who counts; not the man who points out how the strong man stumbles, or where the doer of deeds could have done them better. The credit belongs to the man who is actually in the arena, whose face is marred by dust and sweat and blood; who strives valiantly; who errs, who comes short again and again, because there is no effort without error and shortcoming; but who does actually strive to do the deeds; who knows great enthusiasms, the great devotions; who spends himself in a worthy cause; who at the best knows in the end the triumph of high achievement, and who at the worst, if he fails, at least fails while daring greatly, so that his place shall never be with those cold and timid souls who neither know victory nor defeat. ~ Theodore Roosevelt
+
+“Now, my own suspicion is that the universe is not only queerer than we suppose, but queerer than we can suppose. I have read and heard many attempts at a systematic account of it, from materialism and theosophy to the Christian system or that of Kant, and I have always felt that they were much too simple. I suspect that there are more things in heaven and earth that are dreamed of, or can be dreamed of, in any philosophy. That is the reason why I have no philosophy myself, and must be my excuse for dreaming.” ― J. B. S. Haldane, Possible Worlds
+
 “It doesn't matter how beautiful your theory is, it doesn't matter how smart you are. If it doesn't agree with experiment, it's wrong.” ~ Richard Feynman
 
 "Premature optimization is the root of all evil (or at least most of it) in programming." ~ Donald Knuth
