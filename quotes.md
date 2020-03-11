@@ -15,7 +15,7 @@ permalink: /quotes/
 
 "I should wish to preach the "will-to-doubt." None of our beliefs are quite true; all at least have a penumbra of vagueness and error. What is wanted is not the will to believe, but the will to find out, which is the exact opposite." ~ Betrand Russell
 
-“Success is having everything you need and doing everything you want. It is not doing everything you need to have everything you want. If so then you do not own your things, instead your things own you. I do not need to own a particular kind of vehicle. I need to go from A to B.”
+“The greatest thing a man can do in this world, is to make the most possible out of the stuff that has been given him. This is success, and there is no other.”― Orison Swett Marden, Learn to Expect a Great Deal of Life
 
 It is not the critic who counts; not the man who points out how the strong man stumbles, or where the doer of deeds could have done them better. The credit belongs to the man who is actually in the arena, whose face is marred by dust and sweat and blood; who strives valiantly; who errs, who comes short again and again, because there is no effort without error and shortcoming; but who does actually strive to do the deeds; who knows great enthusiasms, the great devotions; who spends himself in a worthy cause; who at the best knows in the end the triumph of high achievement, and who at the worst, if he fails, at least fails while daring greatly, so that his place shall never be with those cold and timid souls who neither know victory nor defeat. ~ Theodore Roosevelt
 
