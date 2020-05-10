@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Reducing Consumption while Increasing Happiness"
-date:   2018-11-25 22:40:05
+date:   2020-02-27 22:40:05
 categories: jekyll update
 tags: book-review
 ---
