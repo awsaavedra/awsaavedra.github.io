@@ -23,10 +23,10 @@ It is not the critic who counts; not the man who points out how the strong man s
 
 “Now, my own suspicion is that the universe is not only queerer than we suppose, but queerer than we can suppose. I have read and heard many attempts at a systematic account of it, from materialism and theosophy to the Christian system or that of Kant, and I have always felt that they were much too simple. I suspect that there are more things in heaven and earth that are dreamed of, or can be dreamed of, in any philosophy. That is the reason why I have no philosophy myself, and must be my excuse for dreaming.” ― J. B. S. Haldane, Possible Worlds
 
-“It doesn't matter how beautiful your theory is, it doesn't matter how smart you are. If it doesn't agree with experiment, it's wrong.” ~ Richard Feynman
-
 "Premature optimization is the root of all evil (or at least most of it) in programming." ~ Donald Knuth
 
 "Never lose the child-like wonder. It's just too important. It's what drives us." ~ Randy Pausch
+
+“Science is the belief in the ignorance of experts.” ~ Richard Feynman
 
 "Get the important things right." ~ N. P. Calderwood
