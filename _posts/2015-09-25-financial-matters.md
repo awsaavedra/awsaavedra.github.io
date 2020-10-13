@@ -138,7 +138,7 @@ Without further adieu, the simplified financial architecture diagram
 
 # Additional resources
 
-1. [How do I save money?](https://docs.google.com/document/d/1AtregvY52ObiO6N3QLDyBk4ZW4DTa89ar1nz9LlI3Ak/edit?usp=sharing)
+1. How do I save Money? See below
 
 2. [But how do I compare myself to others to validate myself?!](https://www.financialsamurai.com/the-average-net-worth-for-the-above-average-person/)
 
@@ -152,4 +152,179 @@ Without further adieu, the simplified financial architecture diagram
 
 7. [Three-fund portfolio, aka, the simplest portfolios](https://www.bogleheads.org/wiki/Three-fund_portfolio)
 
-8. [My favorite free series on investing](https://jlcollinsnh.com/stock-series/). Remember, if you need to join some pyramid or pay a wizard for beans it is probably not investing.
+8. [My favorite free series on investing](https://jlcollinsnh.com/stock-series/). Remember, if you need to join some pyramid or pay a wizard for beans it is probably not investing
+
+# Ways to Safe Money
+
+High level questions before purchasing an item (move down one number if the answer “yes”, else you don’t need it): 
+1. Is the item necessary or critical to me, my family, community, etc.? Take time to make this decision, separate out luxury items from “nice to haves,” and truly mission critical things.
+2. If this item is beneficial, do the pros outweigh the cons of this item? Take long evaluation arches before making final decisions. Smartphones do not pass the test for many people, do not fall prey to the purchase justification machine.
+3. Does a substitute exist or can I redesign my life in a way this item(s) is not needed?
+4. Can I borrow, rent, or trade the item from a neighbor, friend, etc.? 
+5. Can I get a high-quality version for free or cheap (sale, second hand, etc.) if I am patient? 
+6. Now, you can purchase the item.
+   1. You must find the most efficient place to purchase it such as: amazon, costco, etc.
+   2. How do I use the item?
+   3. Does buying X make me more productive in doing Y? Is the output of that productivity worth it (financially, mentally, etc)?
+   4. When does the items use run its course? Everything you own will be returned eventually since we all have an expiration date.
+
+
+Big ways to save on items you enjoy
+## 1. Food 
+   1. Use a Grill instead of the kitchen stove, saves electricity
+   2. Shop at Costco or Aldi and buy in bulk for non-perishables/long lasting
+   3. Don’t eat out habitually/for convenience (obviously)
+   4. Bring lunches to school/work (prep in bulk weekly for simplicity)
+   5. Packaged junk food is expensive
+   6. Recommendation: Become a Vegan/vegetarian (Diet is cheaper)
+   7. Meal prepping 
+   8. Protein
+      1. Lentils, peas, black beans, pinto beans, greek yogurt, milk, eggs
+      2. Hardcore: own layer chickens/ducks/quails
+      3. Nuts/seeds: cashews, almonds, sunflower seeds, etc. 
+   9. Vegetables
+      1. buy bulk frozen veggie (all colors, remember the rainbow) mix
+      2. Hardcore: grow own veggies
+      3. Prebiotic Fibers: jicama, jerusalem artichoke, garlic, onion, leeks, asparagus. A healthy microbiome is essential
+      4. fermented foods: kimchi, sauerkraut, fermented vegetables (can’t think of others)
+   10. Fruits
+      1. Frozen fruits with no sugar added are cheap 
+   11. Grains (carbs + high calorie)
+      1. whole wheat, rice, barley, quinoa, amaranth, teff
+   12. Starches
+      1. sweet potatoes, red potatoes, rice, tortillas, etc.
+   13. Meat
+      1. bivalves (clams, scallops, etc.), chicken and fish (small fish)
+   14. Fats
+      1. Plant based oils are typically cheaper than animal based
+
+## 2. Liquids
+   1. Tea over coffee (black tea, etc.)
+   2. Make your own coffee at home
+      1. Roast it yourself 
+      2. Use a used hot air popcorn popper
+      3. Or a heat gun, dog bowl, and wooden spoon
+   3. NO bottled water, seriously  (1000%-4000% markup! http://www.moneytalksnews.com/20-overpriced-products/ )
+   4. Tap water is fine (can use a water filter (activated charcoal or osmosis filter))
+   5. make juice, don’t buy it
+## 3. Clothing
+   1. Hardcore: only shop at thrift stores besides underwear / socks or make your own
+   2. Medium: Shop after holidays and only on sales, buy in bulk
+   3. Ladies: diva cup and/or gladrags
+   4. Babies: bumpkins
+## 4. Shelter/Home
+   1. Hardcore: vans/yurts/camping style/rv/mobile homes/boat
+   2. Medium: renting in cheaper towns, with friends, looking for deals, craigslist, etc.
+   3. House hacking: buy a duplex and rent half out, buy a house and rent rooms out
+   4. Find a better place to live using this tool or others
+## 5. Transportation
+   1. Use bikes for <= 25 miles away
+   2. Walk / speed walk
+   3. Use public transportation with a card for longer distances
+   4. Carpool / carshare
+   5. Buy a used car that has HIGH MPG and can store a lot in it (honda fit, prius, etc.)
+      1. Wash your own car
+      2. Change own oil/wiper fluid
+      3. Fill gas on lowest nozzle speed for maximum gas filling
+      4. Costco gas
+## 6. Entertainment
+   1. No cable, use internet (youtube, etc. )
+   2. Okay fine, use Netflix or something
+   3. Library: Books, CDs, DVDs, etc.
+   4. If you must use cable, negotiate your bill. See the MMM forums for how-to advice.
+## 7. Utilities
+   1. Electric
+      1. Use reusable candles instead of lights
+      2. Use daytime to get stuff done
+      3. solar panels 
+      4. Turn off electronics when not using them
+      5. Go outside more
+      6. Dry clothes on a line
+      7. Use the cold of winter to store frozen food in broken fridge/place (totally free freezer am I right?!)
+      8. Staple inexpensive mylar blankets to windows facing the sun in the summer. Example: http://smile.amazon.com/Emergency-Mylar-Blankets-84-52/dp/B004356WLY/ref=sr_1_6?ie=UTF8&qid=1448201656&sr=8-6&keywords=mylar+blankets 
+   2. Gas/Heating
+      1. Have a well insulated house
+         1. close the windows
+         2. no skylights to let heat escape
+      2. Hardcore: find firewood and burn it
+      3. Pressure cooking and cast iron
+      4. Hardcore: make less food that requires cooking
+         1. use solar cooker
+         2. wood stoves can double as heating
+      5. Clothing 
+         1. Wear jackets, sweater sweatpants, onesies, etc. for insulation (layers work best)
+         2. Sleep bags, etc. instead of turning on heat when sleeping
+         3. thick socks
+         4. Heated blanket/mattress pad uses less utilities than heating the house
+         5. Heating pad when sitting on the couch, or hot water bottle
+         6. ...
+   3. Sewer
+      1. Hardcore: Have an outhouse? (composting)
+      2. Yellow let it mellow
+##  4. Water 
+      1. use dishwasher only when it is very full
+      2. use bucket to catch shower water while water heats up, then water plants
+      3. Hardcore: grey water filtration system (wood chips, charcoal, sand, plants)
+      4. take less and shorter showers, military showers
+      5. wash clothes less frequently
+      6. Suggestions?
+      7. Rainwater harvesting system to water plants. Some cities will teach you how to make one and even give you supplies/training, or you could ask them to. See for example: http://www.arlington-tx.gov/news/2014/08/26/register-today-rain-barrel-bash-ecofest/ 
+## 8. Communication
+   1. Use only cell phone: republic wireless/project FI
+      1. Pay-as-you-go is cheapest for low use
+      2. Check phone provider website to see personal monthly usage stats
+   2. Low internet bill/none (I use starbucks cafes, free wifi)
+   3. HARDCORE: No bill: Google Voice 
+   4. If you use your phone/Internet for work/business, get your work/business to pay for at least part of it with tax-free dollars
+## 9. Investment
+   1. Use betterment / wisebanyan / Vanguard, use ETFs and/or Index Funds (admiral shares are best)
+   2. Set up auto-deposit each month
+   3. Maximize tax-deductible/tax-advantaged accounts, including HSAs to reduce taxes
+   4. Meet employer’s 401k match at minimum if applicable
+   5. Tax-loss harvest while in your earning phase, tax gain harvest while in your FI phase or in the 15% tax bracket
+## 10. Credit Lines
+   1. cashback cards/mileage cards ONLY, look for the most bang for your buck
+   2. use auto pay and pay off balance each month
+   3. have at least one no foreign transaction fee credit card
+   4. have a no atm fee debit card (charles schwab)
+   5. NOT for the Faint of heart: Extra spicy option for frontloading, credit card arbitrage
+   6. be willing to pay an annual fee for higher rewards if the higher rewards exceed the fee
+## 11. Decluttering
+   1. Start donating anything you don’t use at least once a year that IS replaceable (tv, old shoes, etc.), ALL are tax write-offs (only if you itemize)
+   2. Sell in garage sale, or Craigslist or on Facebook groups (search “buy sell trade <cityname>”) 
+   3. Use freecycle.org
+   4. Craigslist: free and for sale (sell, donate, etc.)
+   5. Goodwill store
+   6. Share/trade with friends to build goodwill
+   7. use marie kondo’s method for tidying
+## 12. Computers + Technology
+   1. Use Linux or Free Software for your needs
+   2. Use Linux installed PCs with Ubuntu, Mint, etc.
+## 13. Misc
+   1. Make your own cleaning/personal care products out of a few cheap ingredients (baking soda, vinegar, borax, washing soda, citrus peels, castile soap)
+   2. “Use it up, wear it out, make it do or do without”
+   3. Don’t buy a gajillion different things that do the same thing (example handheld mixer and countertop mixer)
+   4. Don’t buy things just because it’s on sale unless you were planning on getting it for weeks/months - No impulse purchases!
+      1. Slickdeals Alerts, CamelCamelCamel Alerts, don’t browse the sites
+## 14. Side Gigs/Hustles: more ideas
+   1. Lyft/Uber
+      1. Make sure you account for your time, gas, depreciation, and insurance costs. Many individual policies do not cover ridesharing.
+   2. Focus Groups
+   3. Etsy Shop
+   4. Voice acting
+   5. Air BnB
+   6. mystery shopping
+   7. house sitting/babysitting
+## 15. Use tax return and invest it ALL to knock off time to FI
+## 16. Become a serious DIY person on everything and anything you can knock off even more time to FI
+   1. What are good bang-for-buck DIY hobbies?
+      1. Homebrewing: cheap booze if you can resist the urge to buy shiny stuff
+      2. Gardening/Urban homesteading?
+      3. Making household/personal care products
+      4. Auto repair
+      5. Housecleaning (no maids!)
+
+
+[Ways to save money, the basics](https://www.mrmoneymustache.com/2013/02/22/getting-rich-from-zero-to-hero-in-one-blog-post/)
+[ERE  25 Tips for Saving](http://earlyretirementextreme.com/my-list-of-25-money-saving-tips.html)
+[Helpful but a lot longer](http://earlyretirementextreme.com/wiki/index.php?title=21_Day_Makeover)
