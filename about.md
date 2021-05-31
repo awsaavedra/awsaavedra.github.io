@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-I focus on production over connectivity. Please allow 24 hours when contacting
+I Focus on production over connectivity. Please allow 24 hours when contacting
 me.
 
 ## Three Virtues of a Programmer
