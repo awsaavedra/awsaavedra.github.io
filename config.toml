@@ -1,4 +1,4 @@
-baseURL = "https://awsaavedra.com/"
+baseURL = "http://awsaavedra.com/"
 languageCode = "en"
 DefaultContentLanguage = "en"
 enableInlineShortcodes = true
