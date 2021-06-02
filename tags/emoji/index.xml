@@ -1,0 +1,516 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>emoji on Alexander Saavedra</title><link>https://awsaavedra.com/tags/emoji/</link><description>Recent content in emoji on Alexander Saavedra</description><generator>Hugo -- gohugo.io</generator><language>en</language><copyright>[Home](/) &amp;#183; Theme [Simpleness](https://github.com/RainerChiang/simpleness) Powered by [Hugo](https://gohugo.io/)</copyright><lastBuildDate>Fri, 01 Jan 2010 17:44:14 -0700</lastBuildDate><atom:link href="https://awsaavedra.com/tags/emoji/index.xml" rel="self" type="application/rss+xml"/><item><title>Syntax Cheat Sheet</title><link>https://awsaavedra.com/posts/syntax-cheatsheet/</link><pubDate>Fri, 01 Jan 2010 17:44:14 -0700</pubDate><guid>https://awsaavedra.com/posts/syntax-cheatsheet/</guid><description>&lt;p>Let&amp;rsquo;s face it: Writing content for the Web is tiresome. WYSIWYG editors help alleviate this task, but they generally result in horrible code, or worse yet, ugly web pages.&lt;/p>
+&lt;p>&lt;strong>Markdown&lt;/strong> is a better way to write &lt;strong>HTML&lt;/strong>, without all the complexities and ugliness that usually accompanies it.&lt;/p>
+&lt;p>Some of the key benefits are:&lt;/p>
+&lt;ol>
+&lt;li>Markdown is simple to learn, with minimal extra characters, so it&amp;rsquo;s also quicker to write content.&lt;/li>
+&lt;li>Less chance of errors when writing in markdown.&lt;/li>
+&lt;li>Produces valid XHTML output.&lt;/li>
+&lt;li>Keeps the content and the visual display separate, so you cannot mess up the look of your site.&lt;/li>
+&lt;li>Write in any text editor or Markdown application you like.&lt;/li>
+&lt;li>Markdown is a joy to use!&lt;/li>
+&lt;/ol>
+&lt;p>John Gruber, the author of Markdown, puts it like this:&lt;/p>
+&lt;blockquote>
+&lt;p>The overriding design goal for Markdown’s formatting syntax is to make it as readable as possible. The idea is that a Markdown-formatted document should be publishable as-is, as plain text, without looking like it’s been marked up with tags or formatting instructions. While Markdown’s syntax has been influenced by several existing text-to-HTML filters, the single biggest source of inspiration for Markdown’s syntax is the format of plain text email.
+&amp;ndash; &lt;!-- raw HTML omitted -->John Gruber&lt;!-- raw HTML omitted -->&lt;/p>
+&lt;/blockquote>
+&lt;p>Grav ships with built-in support for &lt;a href="https://daringfireball.net/projects/markdown/">Markdown&lt;/a> and &lt;a href="https://michelf.ca/projects/php-markdown/extra/">Markdown Extra&lt;/a>. You must enable &lt;strong>Markdown Extra&lt;/strong> in your &lt;code>system.yaml&lt;/code> configuration file.&lt;/p>
+&lt;p>Without further delay, let us go over the main elements of Markdown and what the resulting HTML looks like:&lt;/p>
+&lt;p>!! &lt;!-- raw HTML omitted -->&lt;!-- raw HTML omitted --> Bookmark this page for easy future reference!&lt;/p>
+&lt;h2 id="headings">Headings&lt;/h2>
+&lt;p>Headings from &lt;code>h1&lt;/code> through &lt;code>h6&lt;/code> are constructed with a &lt;code>#&lt;/code> for each level:&lt;/p>
+&lt;p>[prism classes=&amp;ldquo;language-markdown&amp;rdquo;]&lt;/p>
+&lt;h1 id="h1-heading">h1 Heading&lt;/h1>
+&lt;h2 id="h2-heading">h2 Heading&lt;/h2>
+&lt;h3 id="h3-heading">h3 Heading&lt;/h3>
+&lt;h4 id="h4-heading">h4 Heading&lt;/h4>
+&lt;h5 id="h5-heading">h5 Heading&lt;/h5>
+&lt;h6 id="h6-heading">h6 Heading&lt;/h6>
+&lt;p>[/prism]&lt;/p>
+&lt;p>Renders to:&lt;/p>
+&lt;h1 id="h1-heading-1">h1 Heading&lt;/h1>
+&lt;h2 id="h2-heading-1">h2 Heading&lt;/h2>
+&lt;h3 id="h3-heading-1">h3 Heading&lt;/h3>
+&lt;h4 id="h4-heading-1">h4 Heading&lt;/h4>
+&lt;h5 id="h5-heading-1">h5 Heading&lt;/h5>
+&lt;h6 id="h6-heading-1">h6 Heading&lt;/h6>
+&lt;p>HTML:&lt;/p>
+&lt;p>[prism classes=&amp;ldquo;language-html&amp;rdquo;]&lt;/p>
+&lt;!-- raw HTML omitted -->
+&lt;h2 id="comments">Comments&lt;/h2>
+&lt;p>Comments should be HTML compatible&lt;/p>
+&lt;p>[prism classes=&amp;ldquo;language-html&amp;rdquo;]&lt;/p>
+&lt;!-- raw HTML omitted -->
+&lt;!-- raw HTML omitted -->
+&lt;p>[/prism]&lt;/p>
+&lt;p>Comment below should &lt;strong>NOT&lt;/strong> be seen:&lt;/p>
+&lt;!-- raw HTML omitted -->
+&lt;!-- raw HTML omitted -->
+&lt;h2 id="horizontal-rules">Horizontal Rules&lt;/h2>
+&lt;p>The HTML &lt;code>&amp;lt;hr&amp;gt;&lt;/code> element is for creating a &amp;ldquo;thematic break&amp;rdquo; between paragraph-level elements. In markdown, you can create a &lt;code>&amp;lt;hr&amp;gt;&lt;/code> with any of the following:&lt;/p>
+&lt;ul>
+&lt;li>&lt;code>___&lt;/code>: three consecutive underscores&lt;/li>
+&lt;li>&lt;code>---&lt;/code>: three consecutive dashes&lt;/li>
+&lt;li>&lt;code>***&lt;/code>: three consecutive asterisks&lt;/li>
+&lt;/ul>
+&lt;p>renders to:&lt;/p>
+&lt;hr>
+&lt;hr>
+&lt;hr>
+&lt;h2 id="body-copy">Body Copy&lt;/h2>
+&lt;p>Body copy written as normal, plain text will be wrapped with &lt;code>&amp;lt;p&amp;gt;&amp;lt;/p&amp;gt;&lt;/code> tags in the rendered HTML.&lt;/p>
+&lt;p>So this body copy:&lt;/p>
+&lt;p>[prism classes=&amp;ldquo;language-markdown&amp;rdquo;]
+Lorem ipsum dolor sit amet, graecis denique ei vel, at duo primis mandamus. Et legere ocurreret pri, animal tacimates complectitur ad cum. Cu eum inermis inimicus efficiendi. Labore officiis his ex, soluta officiis concludaturque ei qui, vide sensibus vim ad.
+[/prism]&lt;/p>
+&lt;p>renders to this HTML:&lt;/p>
+&lt;p>[prism classes=&amp;ldquo;language-html&amp;rdquo;]&lt;/p>
+&lt;!-- raw HTML omitted -->
+&lt;p>A &lt;strong>line break&lt;/strong> can be done with 2 spaces followed by 1 return.&lt;/p>
+&lt;h2 id="inline-html">Inline HTML&lt;/h2>
+&lt;p>If you need a certain HTML tag (with a class) you can simply use HTML:&lt;/p>
+&lt;p>[prism classes=&amp;ldquo;language-html&amp;rdquo;]
+Paragraph in Markdown.&lt;/p>
+&lt;!-- raw HTML omitted -->
+&lt;p>Paragraph in Markdown.
+[/prism]&lt;/p>
+&lt;h2 id="emphasis">Emphasis&lt;/h2>
+&lt;h3 id="bold">Bold&lt;/h3>
+&lt;p>For emphasizing a snippet of text with a heavier font-weight.&lt;/p>
+&lt;p>The following snippet of text is &lt;strong>rendered as bold text&lt;/strong>.&lt;/p>
+&lt;p>[prism classes=&amp;ldquo;language-markdown&amp;rdquo;]
+&lt;strong>rendered as bold text&lt;/strong>
+[/prism]&lt;/p>
+&lt;p>renders to:&lt;/p>
+&lt;p>&lt;strong>rendered as bold text&lt;/strong>&lt;/p>
+&lt;p>and this HTML:&lt;/p>
+&lt;p>[prism classes=&amp;ldquo;language-html&amp;rdquo;]
+&lt;!-- raw HTML omitted -->rendered as bold text&lt;!-- raw HTML omitted -->
+[/prism]&lt;/p>
+&lt;h3 id="italics">Italics&lt;/h3>
+&lt;p>For emphasizing a snippet of text with italics.&lt;/p>
+&lt;p>The following snippet of text is &lt;em>rendered as italicized text&lt;/em>.&lt;/p>
+&lt;p>[prism classes=&amp;ldquo;language-markdown&amp;rdquo;]
+&lt;em>rendered as italicized text&lt;/em>
+[/prism]&lt;/p>
+&lt;p>renders to:&lt;/p>
+&lt;p>&lt;em>rendered as italicized text&lt;/em>&lt;/p>
+&lt;p>and this HTML:&lt;/p>
+&lt;p>[prism classes=&amp;ldquo;language-html&amp;rdquo;]
+&lt;!-- raw HTML omitted -->rendered as italicized text&lt;!-- raw HTML omitted -->
+[/prism]&lt;/p>
+&lt;h3 id="strikethrough">Strikethrough&lt;/h3>
+&lt;p>In GFM (GitHub flavored Markdown) you can do strikethroughs.&lt;/p>
+&lt;p>[prism classes=&amp;ldquo;language-markdown&amp;rdquo;]
+&lt;del>Strike through this text.&lt;/del>
+[/prism]&lt;/p>
+&lt;p>Which renders to:&lt;/p>
+&lt;p>&lt;del>Strike through this text.&lt;/del>&lt;/p>
+&lt;p>HTML:&lt;/p>
+&lt;p>[prism classes=&amp;ldquo;language-html&amp;rdquo;]
+&lt;!-- raw HTML omitted -->Strike through this text.&lt;!-- raw HTML omitted -->
+[/prism]&lt;/p>
+&lt;h2 id="blockquotes">Blockquotes&lt;/h2>
+&lt;p>For quoting blocks of content from another source within your document.&lt;/p>
+&lt;p>Add &lt;code>&amp;gt;&lt;/code> before any text you want to quote.&lt;/p>
+&lt;p>[prism classes=&amp;ldquo;language-markdown&amp;rdquo;]&lt;/p>
+&lt;blockquote>
+&lt;p>&lt;strong>Fusion Drive&lt;/strong> combines a hard drive with a flash storage (solid-state drive) and presents it as a single logical volume with the space of both drives combined.
+[/prism]&lt;/p>
+&lt;/blockquote>
+&lt;p>Renders to:&lt;/p>
+&lt;blockquote>
+&lt;p>&lt;strong>Fusion Drive&lt;/strong> combines a hard drive with a flash storage (solid-state drive) and presents it as a single logical volume with the space of both drives combined.&lt;/p>
+&lt;/blockquote>
+&lt;p>and this HTML:&lt;/p>
+&lt;p>[prism classes=&amp;ldquo;language-html&amp;rdquo;]&lt;/p>
+&lt;!-- raw HTML omitted -->
+&lt;p>Blockquotes can also be nested:&lt;/p>
+&lt;p>[prism classes=&amp;ldquo;language-markdown&amp;rdquo;]&lt;/p>
+&lt;blockquote>
+&lt;p>Donec massa lacus, ultricies a ullamcorper in, fermentum sed augue.
+Nunc augue augue, aliquam non hendrerit ac, commodo vel nisi.&lt;/p>
+&lt;blockquote>
+&lt;p>Sed adipiscing elit vitae augue consectetur a gravida nunc vehicula. Donec auctor
+odio non est accumsan facilisis. Aliquam id turpis in dolor tincidunt mollis ac eu diam.
+[/prism]&lt;/p>
+&lt;/blockquote>
+&lt;/blockquote>
+&lt;p>Renders to:&lt;/p>
+&lt;blockquote>
+&lt;p>Donec massa lacus, ultricies a ullamcorper in, fermentum sed augue.
+Nunc augue augue, aliquam non hendrerit ac, commodo vel nisi.&lt;/p>
+&lt;blockquote>
+&lt;p>Sed adipiscing elit vitae augue consectetur a gravida nunc vehicula. Donec auctor
+odio non est accumsan facilisis. Aliquam id turpis in dolor tincidunt mollis ac eu diam.&lt;/p>
+&lt;/blockquote>
+&lt;/blockquote>
+&lt;h2 id="notices">Notices&lt;/h2>
+&lt;p>! The old mechanism for notices overriding the block quote syntax (&lt;code>&amp;gt;&amp;gt;&amp;gt;&lt;/code>) has been deprecated. Notices are now handled via a dedicated plugin called &lt;a href="https://github.com/getgrav/grav-plugin-markdown-notices">Markdown Notices&lt;/a>&lt;/p>
+&lt;h2 id="lists">Lists&lt;/h2>
+&lt;h3 id="unordered">Unordered&lt;/h3>
+&lt;p>A list of items in which the order of the items does not explicitly matter.&lt;/p>
+&lt;p>You may use any of the following symbols to denote bullets for each list item:&lt;/p>
+&lt;p>[prism classes=&amp;ldquo;language-markdown&amp;rdquo;]&lt;/p>
+&lt;ul>
+&lt;li>valid bullet&lt;/li>
+&lt;/ul>
+&lt;ul>
+&lt;li>valid bullet&lt;/li>
+&lt;/ul>
+&lt;ul>
+&lt;li>valid bullet
+[/prism]&lt;/li>
+&lt;/ul>
+&lt;p>For example&lt;/p>
+&lt;p>[prism classes=&amp;ldquo;language-markdown&amp;rdquo;]&lt;/p>
+&lt;ul>
+&lt;li>Lorem ipsum dolor sit amet&lt;/li>
+&lt;li>Consectetur adipiscing elit&lt;/li>
+&lt;li>Integer molestie lorem at massa&lt;/li>
+&lt;li>Facilisis in pretium nisl aliquet&lt;/li>
+&lt;li>Nulla volutpat aliquam velit
+&lt;ul>
+&lt;li>Phasellus iaculis neque&lt;/li>
+&lt;li>Purus sodales ultricies&lt;/li>
+&lt;li>Vestibulum laoreet porttitor sem&lt;/li>
+&lt;li>Ac tristique libero volutpat at&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>Faucibus porta lacus fringilla vel&lt;/li>
+&lt;li>Aenean sit amet erat nunc&lt;/li>
+&lt;li>Eget porttitor lorem
+[/prism]&lt;/li>
+&lt;/ul>
+&lt;p>Renders to:&lt;/p>
+&lt;ul>
+&lt;li>Lorem ipsum dolor sit amet&lt;/li>
+&lt;li>Consectetur adipiscing elit&lt;/li>
+&lt;li>Integer molestie lorem at massa&lt;/li>
+&lt;li>Facilisis in pretium nisl aliquet&lt;/li>
+&lt;li>Nulla volutpat aliquam velit
+&lt;ul>
+&lt;li>Phasellus iaculis neque&lt;/li>
+&lt;li>Purus sodales ultricies&lt;/li>
+&lt;li>Vestibulum laoreet porttitor sem&lt;/li>
+&lt;li>Ac tristique libero volutpat at&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>Faucibus porta lacus fringilla vel&lt;/li>
+&lt;li>Aenean sit amet erat nunc&lt;/li>
+&lt;li>Eget porttitor lorem&lt;/li>
+&lt;/ul>
+&lt;p>And this HTML&lt;/p>
+&lt;p>[prism classes=&amp;ldquo;language-html&amp;rdquo;]&lt;/p>
+&lt;!-- raw HTML omitted -->
+&lt;h3 id="ordered">Ordered&lt;/h3>
+&lt;p>A list of items in which the order of items does explicitly matter.&lt;/p>
+&lt;p>[prism classes=&amp;ldquo;language-markdown&amp;rdquo;]&lt;/p>
+&lt;ol>
+&lt;li>Lorem ipsum dolor sit amet&lt;/li>
+&lt;li>Consectetur adipiscing elit&lt;/li>
+&lt;li>Integer molestie lorem at massa&lt;/li>
+&lt;li>Facilisis in pretium nisl aliquet&lt;/li>
+&lt;li>Nulla volutpat aliquam velit&lt;/li>
+&lt;li>Faucibus porta lacus fringilla vel&lt;/li>
+&lt;li>Aenean sit amet erat nunc&lt;/li>
+&lt;li>Eget porttitor lorem
+[/prism]&lt;/li>
+&lt;/ol>
+&lt;p>Renders to:&lt;/p>
+&lt;ol>
+&lt;li>Lorem ipsum dolor sit amet&lt;/li>
+&lt;li>Consectetur adipiscing elit&lt;/li>
+&lt;li>Integer molestie lorem at massa&lt;/li>
+&lt;li>Facilisis in pretium nisl aliquet&lt;/li>
+&lt;li>Nulla volutpat aliquam velit&lt;/li>
+&lt;li>Faucibus porta lacus fringilla vel&lt;/li>
+&lt;li>Aenean sit amet erat nunc&lt;/li>
+&lt;li>Eget porttitor lorem&lt;/li>
+&lt;/ol>
+&lt;p>And this HTML:&lt;/p>
+&lt;p>[prism classes=&amp;ldquo;language-html&amp;rdquo;]&lt;/p>
+&lt;!-- raw HTML omitted -->
+&lt;p>&lt;strong>TIP&lt;/strong>: If you just use &lt;code>1.&lt;/code> for each number, Markdown will automatically number each item. For example:&lt;/p>
+&lt;p>[prism classes=&amp;ldquo;language-markdown&amp;rdquo;]&lt;/p>
+&lt;ol>
+&lt;li>Lorem ipsum dolor sit amet&lt;/li>
+&lt;li>Consectetur adipiscing elit&lt;/li>
+&lt;li>Integer molestie lorem at massa&lt;/li>
+&lt;li>Facilisis in pretium nisl aliquet&lt;/li>
+&lt;li>Nulla volutpat aliquam velit&lt;/li>
+&lt;li>Faucibus porta lacus fringilla vel&lt;/li>
+&lt;li>Aenean sit amet erat nunc&lt;/li>
+&lt;li>Eget porttitor lorem
+[/prism]&lt;/li>
+&lt;/ol>
+&lt;p>Renders to:&lt;/p>
+&lt;ol>
+&lt;li>Lorem ipsum dolor sit amet&lt;/li>
+&lt;li>Consectetur adipiscing elit&lt;/li>
+&lt;li>Integer molestie lorem at massa&lt;/li>
+&lt;li>Facilisis in pretium nisl aliquet&lt;/li>
+&lt;li>Nulla volutpat aliquam velit&lt;/li>
+&lt;li>Faucibus porta lacus fringilla vel&lt;/li>
+&lt;li>Aenean sit amet erat nunc&lt;/li>
+&lt;li>Eget porttitor lorem&lt;/li>
+&lt;/ol>
+&lt;h2 id="code">Code&lt;/h2>
+&lt;h3 id="inline-code">Inline code&lt;/h3>
+&lt;p>Wrap inline snippets of code with &lt;code>`&lt;/code>.&lt;/p>
+&lt;p>[prism classes=&amp;ldquo;language-markdown&amp;rdquo;]
+In this example, &lt;code>&amp;lt;section&amp;gt;&amp;lt;/section&amp;gt;&lt;/code> should be wrapped as &lt;strong>code&lt;/strong>.
+[/prism]&lt;/p>
+&lt;p>Renders to:&lt;/p>
+&lt;p>In this example, &lt;code>&amp;lt;section&amp;gt;&amp;lt;/section&amp;gt;&lt;/code> should be wrapped with &lt;strong>code&lt;/strong>.&lt;/p>
+&lt;p>HTML:&lt;/p>
+&lt;p>[prism classes=&amp;ldquo;language-html&amp;rdquo;]&lt;/p>
+&lt;!-- raw HTML omitted -->
+&lt;h3 id="indented-code">Indented code&lt;/h3>
+&lt;p>Or indent several lines of code by at least four spaces, as in:&lt;/p>
+&lt;!-- raw HTML omitted -->
+&lt;!-- raw HTML omitted -->
+&lt;p>Renders to:&lt;/p>
+&lt;p>[prism classes=&amp;ldquo;language-txt&amp;rdquo;]
+// Some comments
+line 1 of code
+line 2 of code
+line 3 of code
+[/prism]&lt;/p>
+&lt;p>HTML:&lt;/p>
+&lt;p>[prism classes=&amp;ldquo;language-html&amp;rdquo;]&lt;/p>
+&lt;!-- raw HTML omitted -->
+&lt;!-- raw HTML omitted -->
+&lt;p>[/prism]&lt;/p>
+&lt;h3 id="block-code-fences">Block code &amp;ldquo;fences&amp;rdquo;&lt;/h3>
+&lt;p>Use &amp;ldquo;fences&amp;rdquo; &lt;code>```&lt;/code> to block in multiple lines of code with a language attribute&lt;/p>
+&lt;!-- raw HTML omitted -->
+&lt;!-- raw HTML omitted -->
+&lt;p>HTML:&lt;/p>
+&lt;p>[prism classes=&amp;ldquo;language-html&amp;rdquo;]&lt;/p>
+&lt;!-- raw HTML omitted -->
+&lt;!-- raw HTML omitted -->
+&lt;p>[/prism]&lt;/p>
+&lt;h3 id="syntax-highlighting">Syntax highlighting&lt;/h3>
+&lt;p>GFM, or &amp;ldquo;GitHub Flavored Markdown&amp;rdquo; also supports syntax highlighting. To activate it, simply add the file extension of the language you want to use directly after the first code &amp;ldquo;fence&amp;rdquo;, &lt;code>```js&lt;/code>, and syntax highlighting will automatically be applied in the rendered HTML. For example, to apply syntax highlighting to JavaScript code:&lt;/p>
+&lt;!-- raw HTML omitted -->
+&lt;!-- raw HTML omitted -->
+&lt;p>Renders to:&lt;/p>
+&lt;p>[prism classes=&amp;ldquo;language-js&amp;rdquo;]
+grunt.initConfig({
+assemble: {
+options: {
+assets: &amp;lsquo;docs/assets&amp;rsquo;,
+data: &amp;lsquo;src/data/&lt;em>.{json,yml}&amp;rsquo;,
+helpers: &amp;lsquo;src/custom-helpers.js&amp;rsquo;,
+partials: [&amp;lsquo;src/partials/**/&lt;/em>.{hbs,md}']
+},
+pages: {
+options: {
+layout: &amp;lsquo;default.hbs&amp;rsquo;
+},
+files: {
+&amp;lsquo;./': [&amp;lsquo;src/templates/pages/index.hbs&amp;rsquo;]
+}
+}
+}
+};
+[/prism]&lt;/p>
+&lt;p>!!! For syntax highlighting to work, the &lt;a href="https://github.com/getgrav/grav-plugin-highlight">Highlight plugin&lt;/a> needs to be installed and enabled. It in turn utilizes a jquery plugin, so jquery needs to be loaded in your theme too.&lt;/p>
+&lt;h2 id="tables">Tables&lt;/h2>
+&lt;p>Tables are created by adding pipes as dividers between each cell, and by adding a line of dashes (also separated by bars) beneath the header. Note that the pipes do not need to be vertically aligned.&lt;/p>
+&lt;p>[prism classes=&amp;ldquo;language-markdown&amp;rdquo;]&lt;/p>
+&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th>Option&lt;/th>
+&lt;th>Description&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td>data&lt;/td>
+&lt;td>path to data files to supply the data that will be passed into templates.&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>engine&lt;/td>
+&lt;td>engine to be used for processing templates. Handlebars is the default.&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>ext&lt;/td>
+&lt;td>extension to be used for dest files.&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>[/prism]&lt;/td>
+&lt;td>&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table>
+&lt;p>Renders to:&lt;/p>
+&lt;p>[div class=&amp;ldquo;table&amp;rdquo;]&lt;/p>
+&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th>Option&lt;/th>
+&lt;th>Description&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td>data&lt;/td>
+&lt;td>path to data files to supply the data that will be passed into templates.&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>engine&lt;/td>
+&lt;td>engine to be used for processing templates. Handlebars is the default.&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>ext&lt;/td>
+&lt;td>extension to be used for dest files.&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>[/div]&lt;/td>
+&lt;td>&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table>
+&lt;p>And this HTML:&lt;/p>
+&lt;p>[prism classes=&amp;ldquo;language-html&amp;rdquo;]&lt;/p>
+&lt;!-- raw HTML omitted -->
+&lt;h3 id="right-aligned-text">Right aligned text&lt;/h3>
+&lt;p>Adding a colon on the right side of the dashes below any heading will right align text for that column.&lt;/p>
+&lt;p>[prism classes=&amp;ldquo;language-markdown&amp;rdquo;]&lt;/p>
+&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th style="text-align:right">Option&lt;/th>
+&lt;th style="text-align:right">Description&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td style="text-align:right">data&lt;/td>
+&lt;td style="text-align:right">path to data files to supply the data that will be passed into templates.&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:right">engine&lt;/td>
+&lt;td style="text-align:right">engine to be used for processing templates. Handlebars is the default.&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:right">ext&lt;/td>
+&lt;td style="text-align:right">extension to be used for dest files.&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:right">[/prism]&lt;/td>
+&lt;td>&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table>
+&lt;p>[div class=&amp;ldquo;table&amp;rdquo;]&lt;/p>
+&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th style="text-align:right">Option&lt;/th>
+&lt;th style="text-align:right">Description&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td style="text-align:right">data&lt;/td>
+&lt;td style="text-align:right">path to data files to supply the data that will be passed into templates.&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:right">engine&lt;/td>
+&lt;td style="text-align:right">engine to be used for processing templates. Handlebars is the default.&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:right">ext&lt;/td>
+&lt;td style="text-align:right">extension to be used for dest files.&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:right">[/div]&lt;/td>
+&lt;td>&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table>
+&lt;h2 id="links">Links&lt;/h2>
+&lt;h3 id="basic-link">Basic link&lt;/h3>
+&lt;p>[prism classes=&amp;ldquo;language-markdown&amp;rdquo;]
+&lt;a href="https://assemble.io">Assemble&lt;/a>
+[/prism]&lt;/p>
+&lt;p>Renders to (hover over the link, there is no tooltip):&lt;/p>
+&lt;p>&lt;a href="https://assemble.io">Assemble&lt;/a>&lt;/p>
+&lt;p>HTML:&lt;/p>
+&lt;p>[prism classes=&amp;ldquo;language-html&amp;rdquo;]
+&lt;!-- raw HTML omitted -->Assemble&lt;!-- raw HTML omitted -->
+[/prism]&lt;/p>
+&lt;h3 id="add-a-title">Add a title&lt;/h3>
+&lt;p>[prism classes=&amp;ldquo;language-markdown&amp;rdquo;]
+&lt;a href="https://github.com/upstage/" title="Visit Upstage!">Upstage&lt;/a>
+[/prism]&lt;/p>
+&lt;p>Renders to (hover over the link, there should be a tooltip):&lt;/p>
+&lt;p>&lt;a href="https://github.com/upstage/" title="Visit Upstage!">Upstage&lt;/a>&lt;/p>
+&lt;p>HTML:&lt;/p>
+&lt;p>[prism classes=&amp;ldquo;language-html&amp;rdquo;]
+&lt;!-- raw HTML omitted -->Upstage&lt;!-- raw HTML omitted -->
+[/prism]&lt;/p>
+&lt;h3 id="named-anchors">Named Anchors&lt;/h3>
+&lt;p>Named anchors enable you to jump to the specified anchor point on the same page. For example, each of these chapters:&lt;/p>
+&lt;p>[prism classes=&amp;ldquo;language-markdown&amp;rdquo;]&lt;/p>
+&lt;h1 id="table-of-contents">Table of Contents&lt;/h1>
+&lt;ul>
+&lt;li>&lt;a href="#chapter-1">Chapter 1&lt;/a>&lt;/li>
+&lt;li>&lt;a href="#chapter-2">Chapter 2&lt;/a>&lt;/li>
+&lt;li>&lt;a href="#chapter-3">Chapter 3&lt;/a>
+[/prism]&lt;/li>
+&lt;/ul>
+&lt;p>will jump to these sections:&lt;/p>
+&lt;p>[prism classes=&amp;ldquo;language-markdown&amp;rdquo;]&lt;/p>
+&lt;h2 id="chapter-1-a-idchapter-1a">Chapter 1 &lt;!-- raw HTML omitted -->&lt;!-- raw HTML omitted -->&lt;/h2>
+&lt;p>Content for chapter one.&lt;/p>
+&lt;h2 id="chapter-2-a-idchapter-2a">Chapter 2 &lt;!-- raw HTML omitted -->&lt;!-- raw HTML omitted -->&lt;/h2>
+&lt;p>Content for chapter one.&lt;/p>
+&lt;h2 id="chapter-3-a-idchapter-3a">Chapter 3 &lt;!-- raw HTML omitted -->&lt;!-- raw HTML omitted -->&lt;/h2>
+&lt;p>Content for chapter one.
+[/prism]&lt;/p>
+&lt;p>&lt;strong>NOTE&lt;/strong> that specific placement of the anchor tag seems to be arbitrary. They are placed inline here since it seems to be unobtrusive, and it works.&lt;/p>
+&lt;h2 id="images">Images&lt;/h2>
+&lt;p>Images have a similar syntax to links but include a preceding exclamation point.&lt;/p>
+&lt;p>[prism classes=&amp;ldquo;language-markdown&amp;rdquo;]
+&lt;img src="https://octodex.github.com/images/minion.png" alt="Minion">
+[/prism]
+&lt;img src="https://octodex.github.com/images/minion.png" alt="Minion">&lt;/p>
+&lt;p>or:&lt;/p>
+&lt;p>[prism classes=&amp;ldquo;language-markdown&amp;rdquo;]
+&lt;img src="https://octodex.github.com/images/stormtroopocat.jpg" alt="Alt text" title="The Stormtroopocat">
+[/prism]
+&lt;img src="https://octodex.github.com/images/stormtroopocat.jpg" alt="Alt text" title="The Stormtroopocat">&lt;/p>
+&lt;p>Like links, images also have a footnote style syntax:&lt;/p>
+&lt;p>[prism classes=&amp;ldquo;language-markdown&amp;rdquo;]
+![Alt text][id]
+[/prism]
+![Alt text][id]&lt;/p>
+&lt;p>Mathematical notation in a Hugo project can be enabled by using third party JavaScript libraries.&lt;/p>
+&lt;p>In this example we will be using &lt;a href="https://katex.org/">KaTeX&lt;/a>&lt;/p>
+&lt;ul>
+&lt;li>Create a partial under &lt;code>/layouts/partials/math.html&lt;/code>&lt;/li>
+&lt;li>Within this partial reference the &lt;a href="https://katex.org/docs/autorender.html">Auto-render Extension&lt;/a> or host these scripts locally.&lt;/li>
+&lt;li>Include the partial in your templates like so:&lt;/li>
+&lt;/ul>
+&lt;div class="highlight">&lt;pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4">&lt;code class="language-bash" data-lang="bash">&lt;span style="color:#f92672">{{&lt;/span> &lt;span style="color:#66d9ef">if&lt;/span> or .Params.math .Site.Params.math &lt;span style="color:#f92672">}}&lt;/span>
+&lt;span style="color:#f92672">{{&lt;/span> partial &lt;span style="color:#e6db74">&amp;#34;math.html&amp;#34;&lt;/span> . &lt;span style="color:#f92672">}}&lt;/span>
+&lt;span style="color:#f92672">{{&lt;/span> end &lt;span style="color:#f92672">}}&lt;/span>
+&lt;/code>&lt;/pre>&lt;/div>&lt;ul>
+&lt;li>To enable KaTex globally set the parameter &lt;code>math&lt;/code> to &lt;code>true&lt;/code> in a project&amp;rsquo;s configuration&lt;/li>
+&lt;li>To enable KaTex on a per page basis include the parameter &lt;code>math: true&lt;/code> in content files&lt;/li>
+&lt;/ul>
+&lt;p>&lt;strong>Note:&lt;/strong> Use the online reference of &lt;a href="https://katex.org/docs/supported.html">Supported TeX Functions&lt;/a>&lt;/p>
+&lt;h3 id="examples">Examples&lt;/h3>
+&lt;p>
+Inline math: \(\varphi = \dfrac{1+\sqrt5}{2}= 1.6180339887…\)
+&lt;/p>
+&lt;p>Block math:
+$$
+\varphi = 1+\frac{1} {1+\frac{1} {1+\frac{1} {1+\cdots} } }
+$$&lt;/p>
+&lt;p>This article offers a sample of basic Markdown syntax that can be used in Hugo content files, also it shows whether basic HTML elements are decorated with CSS in a Hugo theme.&lt;/p></description></item></channel></rss>
