@@ -29,6 +29,7 @@ The information, including but not limited to, text, graphics, images and other 
         5. Eric Weinstein
         6. 
     5. Iconoclast: A Neuroscientist Reveals How to Think Differently by Gregory Berns
+    6. The Scout Mindset: Why Some People See Things Clearly and Others Don't by Julia Galef
 
 3. System Thinking
 
