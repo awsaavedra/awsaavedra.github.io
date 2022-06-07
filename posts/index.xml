@@ -524,9 +524,9 @@ files: {
 &lt;li>Within this partial reference the &lt;a href="https://katex.org/docs/autorender.html">Auto-render Extension&lt;/a> or host these scripts locally.&lt;/li>
 &lt;li>Include the partial in your templates like so:&lt;/li>
 &lt;/ul>
-&lt;div class="highlight">&lt;pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4">&lt;code class="language-bash" data-lang="bash">&lt;span style="color:#f92672">{{&lt;/span> &lt;span style="color:#66d9ef">if&lt;/span> or .Params.math .Site.Params.math &lt;span style="color:#f92672">}}&lt;/span>
-&lt;span style="color:#f92672">{{&lt;/span> partial &lt;span style="color:#e6db74">&amp;#34;math.html&amp;#34;&lt;/span> . &lt;span style="color:#f92672">}}&lt;/span>
-&lt;span style="color:#f92672">{{&lt;/span> end &lt;span style="color:#f92672">}}&lt;/span>
+&lt;div class="highlight">&lt;pre style="color:#f8f8f2;background-color:#282a36;-moz-tab-size:4;-o-tab-size:4;tab-size:4">&lt;code class="language-bash" data-lang="bash">&lt;span style="color:#ff79c6">{{&lt;/span> &lt;span style="color:#ff79c6">if&lt;/span> or .Params.math .Site.Params.math &lt;span style="color:#ff79c6">}}&lt;/span>
+&lt;span style="color:#ff79c6">{{&lt;/span> partial &lt;span style="color:#f1fa8c">&amp;#34;math.html&amp;#34;&lt;/span> . &lt;span style="color:#ff79c6">}}&lt;/span>
+&lt;span style="color:#ff79c6">{{&lt;/span> end &lt;span style="color:#ff79c6">}}&lt;/span>
 &lt;/code>&lt;/pre>&lt;/div>&lt;ul>
 &lt;li>To enable KaTex globally set the parameter &lt;code>math&lt;/code> to &lt;code>true&lt;/code> in a project&amp;rsquo;s configuration&lt;/li>
 &lt;li>To enable KaTex on a per page basis include the parameter &lt;code>math: true&lt;/code> in content files&lt;/li>
