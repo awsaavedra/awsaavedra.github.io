@@ -12,6 +12,8 @@ enableDisqus : true
 enableMathJax: false
 disableToC: false
 disableAutoCollapse: true
+toc: false
+
 ---
 
 ## Projects
