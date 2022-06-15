@@ -5,10 +5,9 @@ lastmod: 2020-10-09
 author: Alexander Saavedra
 
 description: You have a to-do list that scrolls on for days. You are managing multiple projects, getting lots of email and messages on different messaging systems, managing finances and personal health habits and so much more.
-tags: [financial, design]
+tags: [finance, design]
 
 draft: false
-enableDisqus : true
 enableMathJax: false
 disableToC: false
 disableAutoCollapse: true
@@ -142,8 +141,7 @@ high interest.
 
 Without further adieu, the simplified financial architecture diagram
 
-![SFA](/assets/sfa.png)
-
+![Financial Architecture](/financial-architecture.png "Financial Diagram")
 
 # Additional resources
 

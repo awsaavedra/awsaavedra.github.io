@@ -6,11 +6,12 @@ author: Alexander Saavedra
 
 categories: [Hugo]
 tags: [blank]
-draft: false
+draft: true
 enableDisqus : true
 enableMathJax: false
 disableToC: false
 disableAutoCollapse: true
+toc: true
 ---
 
 nothing to see here
