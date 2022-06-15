@@ -1,5 +1,5 @@
 ---
-title: Markdown Hugo Math, and other Mashed
+title: So Good They Can't Ignore You
 date: 2018-11-25T02:01:58+05:30
 author: Alexander Saavedra
 

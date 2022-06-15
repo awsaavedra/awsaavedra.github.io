@@ -42,8 +42,8 @@ googleAnalytics = ""
 
 
   [[menu.main]]
-  name = "Metaskills"
-  url = "/metaskills/"
+  name = "Documentation"
+  url = "/documentation/"
   weight = 1
 
   [[menu.main]]
