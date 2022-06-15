@@ -9,6 +9,7 @@ enableDisqus : true
 enableMathJax: false
 disableToC: false
 disableAutoCollapse: true
+toc: true
 ---
 
 ## Metaskills Part 1: Learning to Learn
