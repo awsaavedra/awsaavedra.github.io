@@ -16,20 +16,26 @@ toc: true
 
 ---
 
+# The Purpose
+
+The purpose of this documentation is a primary list of areas I have documented over time for help with various areas of lifestyle design. When I say lifestyle design I mean "how to design a life worth living and optimized to my needs?" I assume many people struggle with similar problems to myself and that the same solutions that have worked for me are useful to others. This is not simply a list of areas of study, it is a web of knowledge to thread together over time to help others and myself become more effective. This document is written in an okamase style, I am the chef.
+
+“argued, I think, very plausibly, that the core principle and requirement of a fulfilled human being is the ability to inquire and create constructively, independently, without external controls.” A true education, Chomsky suggests, opens a door to human intellectual freedom and creative autonomy." ~ paraphrasing Wilhelm von Humboldt by Noam Chomsky
+
+“glorify who you are today, do not condemn who you were yesterday and dream of who you can be tomorrow...” ~ Neale Donald Walsch
+
 ## Disclaimer
 
 **DO NOT BE A HELP VAMPIRE: (plural help vampires) (chiefly computing, derogatory, informal) A person who requests answers and solutions from a community while giving nothing in return.**
-
-**Note: The purpose of this is an awareness of areas to optimize overall life strategies. This is a matter of taste, my taste. It should not be considered advice.**
 
 Disclaimer: I am not an investment advisor. None of the information presented herein is intended to form the basis of any offer or recommendation or have any regard to the investment objectives, financial situation, or needs of any specific person, and that includes you, my dear reader. Everything you’re going to read is for informational purposes only. PLEASE DO NOT ASK FOR ANY FINANCIAL ADVICE, MY ANSWER IS ALWAYS “I DO NOT GIVE ADVICE.”
 
 DISCLAIMER: THIS WEBSITE DOES NOT PROVIDE MEDICAL ADVICE
 The information, including but not limited to, text, graphics, images and other material contained on this website are for informational purposes only. No material on this site is intended to be a substitute for professional medical advice, diagnosis or treatment. Always seek the advice of your physician or other qualified health care provider with any questions you may have regarding a medical condition or treatment and before undertaking a new health care regimen, and never disregard professional medical advice or delay in seeking it because of something you have read on this website.
 
-**TODO: Start explaining why some of these things are relevant**
-
 ## 1. Learning
+
+For additional information: https://awsaavedra.com/tags/learning/
 
 1. Ultralearning by Scott Young
 2. Learning How to Learn by Barbara Oakley
@@ -40,6 +46,7 @@ The information, including but not limited to, text, graphics, images and other 
 7. A Mind for Numbers by Barbara Oakley
 
 ## 2. Superforecasting
+For additional information on forecasting: https://awsaavedra.com/tags/forecasting/
 
 1. Nate Silver The Signal and the Noise
 2. Superforecasting by Philip E. Tetlock
@@ -61,15 +68,7 @@ The information, including but not limited to, text, graphics, images and other 
 3. [Wikipedia style](https://en.wikipedia.org/wiki/Systems_theory)
 4. Polymath: Master Multiple Disciplines, Learn New Skills, Think Flexibly, and Become an Extraordinary Autodidact by Peter Hollins
 
-## 4. Increasing Willpower
-
-1. The Willpower Instinct
-2. Drive
-    1. David Goggins
-3. Atomic Habits
-4. Tim Ferriss’s DEAL Formula To Work Less And Earn More
-
-## 5. Deep and Focused Work
+## 4. Deep, Focused, and Willful Work
 
 1. Cal Newport:
 
@@ -84,6 +83,9 @@ The information, including but not limited to, text, graphics, images and other 
 2. Indistractable: How to Control Your Attention and Choose Your Life by Nir Eyal
 3. HELL YEAH OR NO by Derek Sivers
 4. [https://www.dwarkeshpatel.com/p/annus-mirabilis?s=r](https://www.dwarkeshpatel.com/p/annus-mirabilis?s=r) the Miracle Year
+5. The Willpower Instinct
+6. Atomic Habits by James Clear
+7. Tim Ferriss's DEAL Formula to Work Less and Earn More
 
 ## 6. Meditation
 
@@ -92,20 +94,18 @@ The information, including but not limited to, text, graphics, images and other 
 3. Guided Meditation apps and trainings
 4. Silent retreats
 
-## 7. Information Absorption Capacity Increasing
+## 7. Information Absorption Capacity and Retention 
 
 1. [Does speed reading even work? Does it come with trade-offs?](https://www.scotthyoung.com/blog/2015/01/19/speed-reading-redo/)
 2. Eliminate distractions, no multi-tasking
 3. Busyness is a choice by Tim Ferriss https://www.cnbc.com/2016/08/25/tim-ferriss-being-perpetually-busy-is-a-kind-of-laziness.html
 
-## 8. Information Retention Capacity Increasing
-   
-1. Memory Training: https://kwiklearning.com/online-courses/
+4. Memory Training: https://kwiklearning.com/online-courses/
     - look for memory training experts with proven track record. Jim Kwik is quite interesting. 
 
-2. Moon Walking with Einstein, Joshua Foer
+5. Moon Walking with Einstein, Joshua Foer
 
-## 9. Social and Cultural Life
+## 8. Social and Cultural Life
     
 1. The Elephant in the Brain: Hidden Motives in Everyday Life by Robin D. Hanson
 2. How to Win Friends and Influence People by Dale Carnegie
@@ -123,11 +123,13 @@ The information, including but not limited to, text, graphics, images and other 
 12. Democracy may be an emergent social system: [https://en.m.wikipedia.org/wiki/Great_Law_of_Peace](https://en.m.wikipedia.org/wiki/Great_Law_of_Peace) 
 13. [https://en.wikipedia.org/wiki/Iron_law_of_oligarchy](https://en.wikipedia.org/wiki/Iron_law_of_oligarchy) 
 14. [https://www.encyclopedia.com/social-sciences/dictionaries-thesauruses-pictures-and-press-releases/open-societies-and-closed-societies](https://www.encyclopedia.com/social-sciences/dictionaries-thesauruses-pictures-and-press-releases/open-societies-and-closed-societies) 
+15. We Do, a book on marriage
+16. https://therulesofcivilconversation.org  
 
-## 10. Health
+
+## 9. Health
 I wrote more extensively on this here: https://awsaavedra.com/tags/health/ 
 
-**TODO: Add all longevity information to lifestyle checklist**
 1. How not to Die by Michael Greger
 2. The Telomere Effect by Dr. Elizabeth Blackburn (Author), Dr. Elissa Epel
 3. The Blue Zones
@@ -140,7 +142,7 @@ I wrote more extensively on this here: https://awsaavedra.com/tags/health/
 9. Lifespan: Why We Age—and Why We Don't Have To Kindle Edition by David Sinclair
 10. Nutritionfacts.org
 
-## 11. Modeling and Maths
+## 10. Modeling and Maths
 
 1. Introduction to General Systems Thinking Gabriel Weinberg et al. 
 2. [https://fs.blog/tgmm/](https://fs.blog/tgmm/) 
@@ -148,7 +150,6 @@ I wrote more extensively on this here: https://awsaavedra.com/tags/health/
 4. Super Thinking: The Big Book of Mental Models
 5. The Great Mental Models Volume 1: General Thinking Concepts 
 6. The Princeton Companion to MathematicsThe Princeton Companion to Mathematics by Timothy Gowers
-
 7. [https://en.m.wikipedia.org/wiki/Tiebout_model](https://en.m.wikipedia.org/wiki/Tiebout_model) 
 
 ## 12. Design
@@ -162,11 +163,9 @@ I wrote more extensively on this here: https://awsaavedra.com/tags/health/
 
 ## 13. Radical Behavioral Change Strategies
 
-1. Atomic Habits
-2. ERE a practical and philosophical guide by Jacob Fischer
-3. Possum Living
-4. We Do, a book on marriage
-5. https://www.coursera.org/learn/the-science-of-well-being 
+1. ERE a practical and philosophical guide by Jacob Fischer
+2. Possum Living: How to Live Well Without a Job and with (Almost) No Money by Dolly Freed
+3. https://www.coursera.org/learn/the-science-of-well-being 
     1. The How of Happiness: A Scientific Approach to Getting the Life You Want
     2. Authentic Happiness: Using the New Positive Psychology to Realize Your Potential for Lasting Fulfillment
     3. Happy Money: The Science of Smarter Spending
@@ -190,6 +189,7 @@ I wrote more extensively on this here: https://awsaavedra.com/tags/health/
 6. Philosophers: Bertrand Russell, Godel, Ed Witten works on political science, John Maynard Keynes, John Stuart Mill
     1. Principa Mathematica by Bertrand Russell
     2. Free Thought and Official Propaganda by Bertrand Russell 
+7. The Open Society and Its Enemies by Karl Popper
 
 ## 15. Resource Allocation: Time, Capital, attention, and more
 
@@ -210,6 +210,7 @@ I wrote a lot of other information on my investment blog posts for you.
 13. The Alpha Strategy: The Ultimate Plan of Financial Self-Defense Hardcover  by John A. Pugsley
 
 ## 16. Entrepreneurship
+
 1. Smart people should be building things by Andrew Yang
 2. https://en.m.wikipedia.org/wiki/The_Ultimate_Resource
 3. The E Myth
@@ -235,8 +236,7 @@ I wrote a lot of other information on my investment blog posts for you.
 4. Algorithms to live by book
 5. A New Kind of Science by Stephen Wolfram
 6. Introduction to Algorithms by Thomas H. Cormen  (Author), Charles E. Leiserson (Author), Ronald L. Rivest (Author), Clifford Stein
-7. The Little Schemer
-by Daniel P. Friedman , Matthias Felleisen , et al.
+7. The Little Schemer by Daniel P. Friedman , Matthias Felleisen , et al.
 
 ## Additional Resources
 
@@ -279,6 +279,8 @@ https://patrickcollison.com/
 https://sive.rs/
 
 [https://marginalrevolution.com/marginalrevolution/2019/12/work-on-these-things.html](https://marginalrevolution.com/marginalrevolution/2019/12/work-on-these-things.html) 
+
+https://www.dwarkeshpatel.com/podcast 
 
 A list of famous metaskill utilizers (Polymaths):
 
