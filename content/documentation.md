@@ -125,7 +125,7 @@ The information, including but not limited to, text, graphics, images and other 
 14. [https://www.encyclopedia.com/social-sciences/dictionaries-thesauruses-pictures-and-press-releases/open-societies-and-closed-societies](https://www.encyclopedia.com/social-sciences/dictionaries-thesauruses-pictures-and-press-releases/open-societies-and-closed-societies) 
 
 ## 10. Health
-I wrote more extensively on this here: https://awsaavedra.com/posts/daily-lifestyle-checklist/
+I wrote more extensively on this here: https://awsaavedra.com/tags/health/ 
 
 **TODO: Add all longevity information to lifestyle checklist**
 1. How not to Die by Michael Greger
