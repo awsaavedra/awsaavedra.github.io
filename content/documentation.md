@@ -193,6 +193,8 @@ I wrote more extensively on this here: https://awsaavedra.com/posts/daily-lifest
 
 ## 15. Resource Allocation: Time, Capital, attention, and more
 
+For my writings on this topic please see: https://awsaavedra.com/tags/finance/
+
 1. The Intelligent Investor by Benjamin Graham
 2. Security Analysis by Benjamin Graham
 3. Dhandho Investor book
