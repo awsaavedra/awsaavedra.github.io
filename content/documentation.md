@@ -68,7 +68,9 @@ For additional information on forecasting: https://awsaavedra.com/tags/forecasti
 3. [Wikipedia style](https://en.wikipedia.org/wiki/Systems_theory)
 4. Polymath: Master Multiple Disciplines, Learn New Skills, Think Flexibly, and Become an Extraordinary Autodidact by Peter Hollins
 
-## 4. Deep, Focused, and Willful Work
+## 4. Productivity
+
+For more blog posts on productivity: https://awsaavedra.com/tags/productivity/
 
 1. Cal Newport:
 
@@ -87,14 +89,14 @@ For additional information on forecasting: https://awsaavedra.com/tags/forecasti
 6. Atomic Habits by James Clear
 7. Tim Ferriss's DEAL Formula to Work Less and Earn More
 
-## 6. Meditation
+## 5. Meditation
 
 1. Wim Hof Techniques
 2. Expertise in Meditation to be in a Gamma state
 3. Guided Meditation apps and trainings
 4. Silent retreats
 
-## 7. Information Absorption Capacity and Retention 
+## 6. Information Absorption Capacity and Retention 
 
 1. [Does speed reading even work? Does it come with trade-offs?](https://www.scotthyoung.com/blog/2015/01/19/speed-reading-redo/)
 2. Eliminate distractions, no multi-tasking
@@ -105,7 +107,7 @@ For additional information on forecasting: https://awsaavedra.com/tags/forecasti
 
 5. Moon Walking with Einstein, Joshua Foer
 
-## 8. Social and Cultural Life
+## 7. Social and Cultural Life
     
 1. The Elephant in the Brain: Hidden Motives in Everyday Life by Robin D. Hanson
 2. How to Win Friends and Influence People by Dale Carnegie
@@ -127,7 +129,7 @@ For additional information on forecasting: https://awsaavedra.com/tags/forecasti
 16. https://therulesofcivilconversation.org  
 
 
-## 9. Health
+## 8. Health
 I wrote more extensively on this here: https://awsaavedra.com/tags/health/ 
 
 1. How not to Die by Michael Greger
@@ -142,7 +144,7 @@ I wrote more extensively on this here: https://awsaavedra.com/tags/health/
 9. Lifespan: Why We Age—and Why We Don't Have To Kindle Edition by David Sinclair
 10. Nutritionfacts.org
 
-## 10. Modeling and Maths
+## 9. Modeling and Maths
 
 1. Introduction to General Systems Thinking Gabriel Weinberg et al. 
 2. [https://fs.blog/tgmm/](https://fs.blog/tgmm/) 
@@ -152,7 +154,7 @@ I wrote more extensively on this here: https://awsaavedra.com/tags/health/
 6. The Princeton Companion to MathematicsThe Princeton Companion to Mathematics by Timothy Gowers
 7. [https://en.m.wikipedia.org/wiki/Tiebout_model](https://en.m.wikipedia.org/wiki/Tiebout_model) 
 
-## 12. Design
+## 10. Design
     
 1. Minimalism and Zen Philosophy 
     1. Walden by Henry David Thoreau
@@ -161,7 +163,7 @@ I wrote more extensively on this here: https://awsaavedra.com/tags/health/
 3. The Design of Everyday Things: Revised and Expanded Edition by Donald A. Norman
 4. Designing Your Life: How to Build a Well-Lived, Joyful Life Hardcover by Bill Burnett (Author), Dave Evans
 
-## 13. Radical Behavioral Change Strategies
+## 11. Radical Behavioral Change Strategies
 
 1. ERE a practical and philosophical guide by Jacob Fischer
 2. Possum Living: How to Live Well Without a Job and with (Almost) No Money by Dolly Freed
@@ -173,7 +175,7 @@ I wrote more extensively on this here: https://awsaavedra.com/tags/health/
     5. The American Paradox By David Myers
     6. Happiness: Unlocking the Mysteries of Psychological Wealth
 
-## 14. Philosophical Areas
+## 12. Philosophical Areas
 
 1. Connectionism https://plato.stanford.edu/entries/connectionism/ 
 2. The Ego and His Own by Max Stirner
@@ -191,7 +193,7 @@ I wrote more extensively on this here: https://awsaavedra.com/tags/health/
     2. Free Thought and Official Propaganda by Bertrand Russell 
 7. The Open Society and Its Enemies by Karl Popper
 
-## 15. Resource Allocation: Time, Capital, attention, and more
+## 13. Resource Allocation: Time, Capital, attention, and more
 
 For my writings on this topic please see: https://awsaavedra.com/tags/finance/
 
@@ -209,7 +211,7 @@ For my writings on this topic please see: https://awsaavedra.com/tags/finance/
 I wrote a lot of other information on my investment blog posts for you.
 13. The Alpha Strategy: The Ultimate Plan of Financial Self-Defense Hardcover  by John A. Pugsley
 
-## 16. Entrepreneurship
+## 14. Entrepreneurship
 
 1. Smart people should be building things by Andrew Yang
 2. https://en.m.wikipedia.org/wiki/The_Ultimate_Resource
@@ -225,7 +227,7 @@ I wrote a lot of other information on my investment blog posts for you.
 7. The Start-up Of You by Reid Hoffman
 8. The Originals: How non-conformists move the world
 
-## 17. Software and Algorithms
+## 15. Software and Algorithms
 
 1. Please see my github on this @awsaavedra
     1. https://github.com/awsaavedra/fundamentals-of-software-engineering
