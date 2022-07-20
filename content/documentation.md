@@ -18,7 +18,7 @@ toc: true
 
 # The Purpose
 
-The purpose of this documentation is a primary list of areas I have documented over time for help with various areas of lifestyle design. When I say lifestyle design I mean "how to design a life worth living and optimized to my needs?" I assume many people struggle with similar problems to myself and that the same solutions that have worked for me are useful to others. This is not simply a list of areas of study, it is a web of knowledge to thread together over time to help others and myself become more effective. This document is written in an okamase style, I am the chef.
+The purpose of this documentation is a primary list of areas I have documented over time for help with various areas of lifestyle design. When I say lifestyle design I try to answer the question "how to design a life worth living and optimized to my needs?" I assume many people struggle with similar problems to myself and that the same solutions that have worked for me are useful to others. This is not simply a list of areas of study, it is a web of knowledge to thread together over time to help others and myself become more effective. 
 
 “argued, I think, very plausibly, that the core principle and requirement of a fulfilled human being is the ability to inquire and create constructively, independently, without external controls.” A true education, Chomsky suggests, opens a door to human intellectual freedom and creative autonomy." ~ paraphrasing Wilhelm von Humboldt by Noam Chomsky
 
@@ -33,9 +33,7 @@ Disclaimer: I am not an investment advisor. None of the information presented he
 DISCLAIMER: THIS WEBSITE DOES NOT PROVIDE MEDICAL ADVICE
 The information, including but not limited to, text, graphics, images and other material contained on this website are for informational purposes only. No material on this site is intended to be a substitute for professional medical advice, diagnosis or treatment. Always seek the advice of your physician or other qualified health care provider with any questions you may have regarding a medical condition or treatment and before undertaking a new health care regimen, and never disregard professional medical advice or delay in seeking it because of something you have read on this website.
 
-## 1. Learning
-
-For additional information: https://awsaavedra.com/tags/learning/
+## 1. [Learning](https://awsaavedra.com/tags/learning/)
 
 1. Ultralearning by Scott Young
 2. Learning How to Learn by Barbara Oakley
@@ -45,8 +43,7 @@ For additional information: https://awsaavedra.com/tags/learning/
 6. The New Torchlight List: In Search of the Best Modern Authors by James Robert Flynn
 7. A Mind for Numbers by Barbara Oakley
 
-## 2. Superforecasting
-For additional information on forecasting: https://awsaavedra.com/tags/forecasting/
+## 2. [Superforecasting](https://awsaavedra.com/tags/forecasting/)
 
 1. Nate Silver The Signal and the Noise
 2. Superforecasting by Philip E. Tetlock
@@ -60,17 +57,20 @@ For additional information on forecasting: https://awsaavedra.com/tags/forecasti
 5. Iconoclast: A Neuroscientist Reveals How to Think Differently by Gregory Berns
 6. The Scout Mindset: Why Some People See Things Clearly and Others Don't by Julia Galef
 
-## 3. System Thinking
+## 3. Math and System Thinking
 
-1. [ERE Style](https://wiki.earlyretirementextreme.com/wiki/ERE_Wheaton_Levels#Systems_Theory) Early Retirement Extreme: A philosophical and practical guide to financial independence  by Jacob Lund Fisker
+1. Introduction to General Systems Thinking Gabriel Weinberg et al. 
+2. [https://fs.blog/tgmm/](https://fs.blog/tgmm/) 
+3. High-Dimensional Statistics by Martin J. Wainwright
+4. Super Thinking: The Big Book of Mental Models
+5. The Great Mental Models Volume 1: General Thinking Concepts 
+6. The Princeton Companion to Mathematics by Timothy Gowers
+7. [https://en.m.wikipedia.org/wiki/Tiebout_model](https://en.m.wikipedia.org/wiki/Tiebout_model) 
+8. [ERE Style](https://wiki.earlyretirementextreme.com/wiki/ERE_Wheaton_Levels#Systems_Theory) Early Retirement Extreme: A philosophical and practical guide to financial independence  by Jacob Lund Fisker
+9. [Wikipedia style](https://en.wikipedia.org/wiki/Systems_theory)
+10. Polymath: Master Multiple Disciplines, Learn New Skills, Think Flexibly, and Become an Extraordinary Autodidact by Peter Hollins
 
-2. Introduction to General Systems Theory by Gerald Weinberg
-3. [Wikipedia style](https://en.wikipedia.org/wiki/Systems_theory)
-4. Polymath: Master Multiple Disciplines, Learn New Skills, Think Flexibly, and Become an Extraordinary Autodidact by Peter Hollins
-
-## 4. Productivity
-
-For more blog posts on productivity: https://awsaavedra.com/tags/productivity/
+## 4. [Productivity](https://awsaavedra.com/tags/productivity/)
 
 1. Cal Newport:
 
@@ -106,6 +106,7 @@ For more blog posts on productivity: https://awsaavedra.com/tags/productivity/
     - look for memory training experts with proven track record. Jim Kwik is quite interesting. 
 
 5. Moon Walking with Einstein, Joshua Foer
+6. Building a Second Brain by Tiago Forte
 
 ## 7. Social and Cultural Life
     
@@ -127,10 +128,10 @@ For more blog posts on productivity: https://awsaavedra.com/tags/productivity/
 14. [https://www.encyclopedia.com/social-sciences/dictionaries-thesauruses-pictures-and-press-releases/open-societies-and-closed-societies](https://www.encyclopedia.com/social-sciences/dictionaries-thesauruses-pictures-and-press-releases/open-societies-and-closed-societies) 
 15. We Do, a book on marriage
 16. https://therulesofcivilconversation.org  
+17. [Eroom's Law](https://archive.ph/qcjrU) 
 
 
-## 8. Health
-I wrote more extensively on this here: https://awsaavedra.com/tags/health/ 
+## 8. [Health](https://awsaavedra.com/tags/health/) 
 
 1. How not to Die by Michael Greger
 2. The Telomere Effect by Dr. Elizabeth Blackburn (Author), Dr. Elissa Epel
@@ -144,17 +145,7 @@ I wrote more extensively on this here: https://awsaavedra.com/tags/health/
 9. Lifespan: Why We Age—and Why We Don't Have To Kindle Edition by David Sinclair
 10. Nutritionfacts.org
 
-## 9. Modeling and Maths
-
-1. Introduction to General Systems Thinking Gabriel Weinberg et al. 
-2. [https://fs.blog/tgmm/](https://fs.blog/tgmm/) 
-3. High-Dimensional Statistics by Martin J. Wainwright
-4. Super Thinking: The Big Book of Mental Models
-5. The Great Mental Models Volume 1: General Thinking Concepts 
-6. The Princeton Companion to MathematicsThe Princeton Companion to Mathematics by Timothy Gowers
-7. [https://en.m.wikipedia.org/wiki/Tiebout_model](https://en.m.wikipedia.org/wiki/Tiebout_model) 
-
-## 10. Design
+## 9. Design
     
 1. Minimalism and Zen Philosophy 
     1. Walden by Henry David Thoreau
@@ -163,7 +154,7 @@ I wrote more extensively on this here: https://awsaavedra.com/tags/health/
 3. The Design of Everyday Things: Revised and Expanded Edition by Donald A. Norman
 4. Designing Your Life: How to Build a Well-Lived, Joyful Life Hardcover by Bill Burnett (Author), Dave Evans
 
-## 11. Radical Behavioral Change Strategies
+## 10. Behavioral Change Strategies
 
 1. ERE a practical and philosophical guide by Jacob Fischer
 2. Possum Living: How to Live Well Without a Job and with (Almost) No Money by Dolly Freed
@@ -175,7 +166,7 @@ I wrote more extensively on this here: https://awsaavedra.com/tags/health/
     5. The American Paradox By David Myers
     6. Happiness: Unlocking the Mysteries of Psychological Wealth
 
-## 12. Philosophical Areas
+## 12. Philosophy Areas
 
 1. Connectionism https://plato.stanford.edu/entries/connectionism/ 
 2. The Ego and His Own by Max Stirner
@@ -192,10 +183,16 @@ I wrote more extensively on this here: https://awsaavedra.com/tags/health/
     1. Principa Mathematica by Bertrand Russell
     2. Free Thought and Official Propaganda by Bertrand Russell 
 7. The Open Society and Its Enemies by Karl Popper
+8. Design
+    1. Minimalism and Zen Philosophy 
+    2. Walden by Henry David Thoreau
+    3. [KISS](https://en.wikipedia.org/wiki/KISS_principle) Principle
+    4. [https://en.m.wikipedia.org/wiki/Parable_of_the_Poisoned_Arrow](https://en.m.wikipedia.org/wiki/Parable_of_the_Poisoned_Arrow) 
+    5. The Design of Everyday Things: Revised and Expanded Edition by Donald A. Norman
+    6. Designing Your Life: How to Build a Well-Lived, Joyful Life Hardcover by Bill Burnett (Author), Dave Evans
 
-## 13. Resource Allocation: Time, Capital, attention, and more
-
-For my writings on this topic please see: https://awsaavedra.com/tags/finance/
+## 13. [Finance](https://awsaavedra.com/tags/finance/) 
+Resource Allocation: Time, Capital, attention, and more
 
 1. The Intelligent Investor by Benjamin Graham
 2. Security Analysis by Benjamin Graham
@@ -235,7 +232,7 @@ I wrote a lot of other information on my investment blog posts for you.
 2. Haskell programming from first principles by Christopher Allen and Julie Moronuki
 3. Negative Consequences and pitfalls
     1. Jorah Lanier
-4. Algorithms to live by book
+4. Algorithms to Live By Brian Christian and Tom Griffiths
 5. A New Kind of Science by Stephen Wolfram
 6. Introduction to Algorithms by Thomas H. Cormen  (Author), Charles E. Leiserson (Author), Ronald L. Rivest (Author), Clifford Stein
 7. The Little Schemer by Daniel P. Friedman , Matthias Felleisen , et al.
@@ -247,6 +244,9 @@ I wrote a lot of other information on my investment blog posts for you.
 [https://en.m.wikipedia.org/wiki/A_Syntopicon](https://en.m.wikipedia.org/wiki/A_Syntopicon)
 
 [https://en.m.wikipedia.org/wiki/Great_Books_of_the_Western_World](https://en.m.wikipedia.org/wiki/Great_Books_of_the_Western_World) 
+
+
+### Blogs
 
 Nothingismere.com
 
@@ -274,7 +274,7 @@ http://daviddfriedman.com/
 
 https://juliagalef.com/recent-posts/
 
-Gwern.net
+https://Gwern.net/ 
 
 https://patrickcollison.com/
 
