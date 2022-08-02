@@ -18,6 +18,7 @@ disableAutoCollapse: true
 I focus on productivity over connectivity.
 I focus on interesting things over easy things.
 I focus on effective resource allocation.
+I focus on positive sum games in life; we win and then help others win.
 
 ## Three Virtues of a Programmer
 
