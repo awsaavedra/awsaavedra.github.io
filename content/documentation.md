@@ -85,6 +85,8 @@ Searching through tag: https://awsaavedra.com/tags/learning/
     5. A New Kind of Science by Stephen Wolfram
     6. Introduction to Algorithms by Thomas H. Cormen  (Author), Charles E. Leiserson (Author), Ronald L. Rivest (Author), Clifford Stein
     7. The Little Schemer by Daniel P. Friedman , Matthias Felleisen , et al.
+12. Exploring Science by David Klahr
+
 
 ## 3. Superforecasting
 Searching through tag: https://awsaavedra.com/tags/forecasting/
@@ -125,6 +127,13 @@ Search through tag: https://awsaavedra.com/tags/productivity/
         - look for memory training experts with proven track record. Jim Kwik is quite interesting. 
     5. Moon Walking with Einstein, Joshua Foer
     6. Building a Second Brain by Tiago Forte
+9. Greatness by Dean Simonton
+10. Formal Education
+    1. Will College Pay Off? by Peter Cappelli
+    2. The Case Against Education: Why the Education System Is a Waste of Time and Money by Bryan Caplan
+    3. Excellent Sheep: The Miseducation of the American Elite and the Way to a Meaningful Life Kindle Edition by William Deresiewicz
+11. Working Minds by Beth Crandall, Gary Klein and Robert Hoffman
+12. Scientific Elite by Harriet Zuckerman
 
 ## 5. Meditation
 
@@ -132,6 +141,8 @@ Search through tag: https://awsaavedra.com/tags/productivity/
 2. Expertise in Meditation to be in a Gamma state
 3. Guided Meditation apps and trainings
 4. Silent retreats
+5. Descartes’ Error by Antonio Damasio
+6. Meditations by Marcus Aurelius
 
 ## 6. Social and Cultural Life
     
@@ -155,7 +166,9 @@ Search through tag: https://awsaavedra.com/tags/productivity/
 16. https://therulesofcivilconversation.org  
 17. [Eroom's Law](https://archive.ph/qcjrU) 
 18. [Gell-man Amnesia](https://en.wikipedia.org/wiki/Michael_Crichton#GellMannAmnesiaEffect)
-
+19. [Price’s Law](https://en.wikipedia.org/wiki/Derek_J._de_Solla_Price?ck_subscriber_id=389176759#Scientific_contributions)
+20. Administrative Behavior by Herbert Simon
+21. [Matthew effect](https://en.wikipedia.org/wiki/Matthew_effect) 
 
 ## 7. Health
 
