@@ -4,13 +4,6 @@ date: 2022-09-01T13:51:35-07:00
 draft: false
 ---
 
-
-
-![Status Quo](/status-quo.jpg "The Status Quo")
-
-## Disclaimer
-**This picture is a commentary on human sacrifice as a societal practice, nothing else.**
-
 “Whenever serious and competent people need to get things done in the real world, all considerations of tradition and protocol fly out the window.” ~ Neal Stephenson
 
 The status quo is taken seriously for many reasons, because most people are conservative in a way that few ever state or articulate completely– This convention, institution, etc. is the right way because it is the way I know best. To find a better way of doing things is often unimaginable on sometimes the smallest scale. “Why would someone put the toilet paper roll that way?”
