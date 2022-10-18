@@ -25,11 +25,11 @@
     </a>
     {{ end }}
 
-    <!-- {{ if .Site.Social.linkedin }}
-    <a href="{{ .Site.Social.Linkedin }}" target="_blank">
+    {{ if .Site.Social.linkedin }}
+    <a href="{{ .Site.Social.linkedin }}" target="_blank">
       <i title="LinkedIn" class="fab fa-linkedin"></i>
     </a>
-    {{ end }} -->
+    {{ end }}
 
     {{ if .Site.Social.rss }}
     <a href="{{ "index.xml" | absLangURL }}" target="_blank">
