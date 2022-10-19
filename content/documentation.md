@@ -238,8 +238,9 @@ Resource Allocation: Time, Capital, attention, and more
 10. Conservative Investors Sleep Well At Night by Philip Fisher
 11. The Wealth of Nations by Adam Smith
 12. https://earlyretirementextreme.com/the-hedged-nature-of-early-retirement-extreme.html
-I wrote a lot of other information on my investment blog posts for you.
+I wrote a lot of other information on my finance blog posts for you.
 13. The Alpha Strategy: The Ultimate Plan of Financial Self-Defense Hardcover  by John A. Pugsley
+14. https://en.m.wikipedia.org/wiki/Parable_of_the_broken_window 
 
 ## 11. Entrepreneurship
 
