@@ -87,6 +87,7 @@ Searching through tag: https://awsaavedra.com/tags/learning/
     6. Introduction to Algorithms by Thomas H. Cormen  (Author), Charles E. Leiserson (Author), Ronald L. Rivest (Author), Clifford Stein
     7. The Little Schemer by Daniel P. Friedman , Matthias Felleisen , et al.
 12. Exploring Science by David Klahr
+13. https://en.wikipedia.org/wiki/Five_whys 
 
 
 ## 3. Superforecasting
@@ -170,6 +171,7 @@ Search through tag: https://awsaavedra.com/tags/productivity/
 19. [Price’s Law](https://en.wikipedia.org/wiki/Derek_J._de_Solla_Price?ck_subscriber_id=389176759#Scientific_contributions)
 20. Administrative Behavior by Herbert Simon
 21. [Matthew effect](https://en.wikipedia.org/wiki/Matthew_effect) 
+22. https://en.wikipedia.org/wiki/Dunbar%27s_number 
 
 ## 7. Health
 
@@ -186,6 +188,7 @@ Search through tag: https://awsaavedra.com/tags/health/
 8. The Drive by Dave Attia
 9. Lifespan: Why We Age—and Why We Don't Have To Kindle Edition by David Sinclair
 10. Nutritionfacts.org
+11. https://en.wikipedia.org/wiki/Information-theoretic_death 
 
 ## 8. Behavioral Change Strategies
 
