@@ -151,8 +151,9 @@ Search through tag: https://awsaavedra.com/tags/productivity/
 1. The Elephant in the Brain: Hidden Motives in Everyday Life by Robin D. Hanson
 2. How to Win Friends and Influence People by Dale Carnegie
 3. [Parkinson’s Law of Triviality](https://en.wikipedia.org/wiki/Law_of_triviality) and look under other trivial issues
-4. [https://permies.com/t/scale](https://permies.com/t/scale)
-5. [https://wiki.earlyretirementextreme.com/wiki/ERE_Wheaton_Levels](https://wiki.earlyretirementextreme.com/wiki/ERE_Wheaton_Levels) The further you move away from normal the relatively less sane you seem to most people. Even it is simply because of convention.
+    a. Example https://en.wiktionary.org/wiki/bikeshedding
+5. [https://permies.com/t/scale](https://permies.com/t/scale)
+6. [https://wiki.earlyretirementextreme.com/wiki/ERE_Wheaton_Levels](https://wiki.earlyretirementextreme.com/wiki/ERE_Wheaton_Levels) The further you move away from normal the relatively less sane you seem to most people. Even it is simply because of convention.
 
 6. [Yak Shaving](https://en.wiktionary.org/wiki/yak_shaving)
 7. [https://www.scotthyoung.com/blog/2021/07/19/metrics-useful-or-evil/?ck_subscriber_id=389176759](https://www.scotthyoung.com/blog/2021/07/19/metrics-useful-or-evil/?ck_subscriber_id=389176759) 
