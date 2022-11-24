@@ -263,6 +263,7 @@ I wrote a lot of other information on my finance blog posts for you.
 7. The Start-up Of You by Reid Hoffman
 8. The Originals: How Non-conformists Move the World
 9. https://www.madfientist.com/start-a-business/
+10. Talent: How to Identify Energizers, Creatives, and Winners Around the World by Tyler Cowen, Daniel Gross
 
 ## Additional Resources
 
