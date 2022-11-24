@@ -262,6 +262,7 @@ I wrote a lot of other information on my finance blog posts for you.
     2. The Practice: Shipping Creative Work
 7. The Start-up Of You by Reid Hoffman
 8. The Originals: How Non-conformists Move the World
+9. https://www.madfientist.com/start-a-business/
 
 ## Additional Resources
 
