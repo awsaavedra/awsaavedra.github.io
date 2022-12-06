@@ -220,3 +220,9 @@ Harvey's latest work with Yan Liu provides a new way to calibrate Type I (mistak
 
 32. The Signal and The Noise by Nate Silver
 “Distinguishing the signal from the noise requires both scientific knowledge and self-knowledge: the serenity to accept the things we cannot predict, the courage to predict the things we can, and the wisdom to know the difference.” ― Nate Silver, The Signal and the Noise: Why So Many Predictions Fail—But Some Don't
+
+33. [Ken Fisher on How to Built a Diversified Portfolio](https://www.youtube.com/watch?v=aWzMp1Z_1i0)
+
+35. Consuelo Mack Wealthtrack Show is Good
+
+36. http://www.chaiwithpabrai.com 
