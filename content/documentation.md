@@ -64,6 +64,7 @@ Searching through tag: https://awsaavedra.com/tags/learning/
     15. Deep Springs College: https://en.m.wikipedia.org/wiki/Deep_Springs_College
     16. Mastery Learning, you only pass once you've mastered the material: https://en.m.wikipedia.org/wiki/Mastery_learning?ck_subscriber_id=389176759
     17. Constructionism: https://en.m.wikipedia.org/wiki/Constructionism_(learning_theory)
+    18. https://www.synthesis.com/ 
 
 ## 2. Math and System Thinking
 
