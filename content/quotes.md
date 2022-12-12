@@ -16,6 +16,10 @@ disableAutoCollapse: true
 
 "Our life is frittered away by detail.[...] Simplicity, simplicity, simplicity! I say, let your affairs be as two or three, and not a hundred or a thousand; instead of a million count half a dozen, and keep your accounts on your thumb-nail."  ~ Henry David Thoreau
 
+"There are questions so important that it is, or should be, hard to think about anything else." ~ Enough by Jack Bogle quoting Glenn While at Princeton
+
+Rabbi Heschel replied: “I would say: Let them remember that there is a meaning beyond absurdity. Let them be sure that every little deed counts, that every word has power, and that we can—every one—do our share to redeem the world in spite of all absurdities and all frustrations and all disappointments. And above all, remember that the meaning of life is to build a life as if it were a work of art. ~ Robert K. Greenleaf, Servant Leadership: A Journey into the Nature of Legitimate Power and Greatness 
+
 “A master in the art of living draws no sharp distinction between his work and his play; his labor and his leisure; his mind and his body; his education and his recreation. He hardly knows which is which. He simply pursues his vision of excellence through whatever he is doing, and leaves others to determine whether he is working or playing. To himself, he always appears to be doing both.” — Lawrence Pearsall Jacks
 
 "Thought is subversive and revolutionary, destructive and terrible; thought is merciless to privilege, established institutions, and comfortable habits; thought is anarchic and lawless, indifferent to authority, careless of the well-tried wisdom of the ages. Thought looks into the pit of hell and is not afraid. It sees man, a feeble speck, surrounded by unfathomable depths of silence; yet it bears itself proudly, as unmoved as if it were lord of the universe. Thought is great and swift and free, the light of the world, and the chief glory of man."
