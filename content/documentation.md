@@ -44,7 +44,9 @@ Searching through tag: https://awsaavedra.com/tags/learning/
 6. The New Torchlight List: In Search of the Best Modern Authors by James Robert Flynn
 7. A Mind for Numbers by Barbara Oakley
 8. https://www.scotthyoung.com/blog/2022/07/05/85-percent-rule/
-9. Pedagogy (Learning Models) when people ask "well this is the only model we currently have for education"
+9. Bring Up Genius! by László Polgár
+10. The Making of a Genius by Aaron Stern (hard to get a copy)
+11. Pedagogy (Learning Models) when people ask "well this is the only model we currently have for education"
     1. Dojo Mastery Model
     2. https://en.m.wikipedia.org/wiki/Colorado_College Colorado College uses the block plan 
     3. https://en.m.wikipedia.org/wiki/Ethical_Culture_Fieldston_School
