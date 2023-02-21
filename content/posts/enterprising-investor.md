@@ -91,6 +91,7 @@ Books by Growth Investors I liked:
 5. Super Stocks by Ken Fisher
 6. Paths to Wealth Through Common Stocks by Ken Fisher
 7. Beating The Street by Peter Lynch 
+8. Investing for Growth: How to make money by only buying the best companies in the world – An anthology of investment writing by Terry Smith
 
 # Conclusion 
 
@@ -220,3 +221,8 @@ Harvey's latest work with Yan Liu provides a new way to calibrate Type I (mistak
 
 32. The Signal and The Noise by Nate Silver
 “Distinguishing the signal from the noise requires both scientific knowledge and self-knowledge: the serenity to accept the things we cannot predict, the courage to predict the things we can, and the wisdom to know the difference.” ― Nate Silver, The Signal and the Noise: Why So Many Predictions Fail—But Some Don't
+
+
+33. The Art of Investing: Lessons from History's Greatest Traders by John M. Longo (Narrator, Author), The Great Courses
+
+A survey course on investors, styles, and accomplishments of eminent investors of history. This is one of my favorites overviews available
