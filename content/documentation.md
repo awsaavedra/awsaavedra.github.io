@@ -45,7 +45,11 @@ Searching through tag: https://awsaavedra.com/tags/learning/
 5. Jo Boaler work on How to Learn Maths
 6. The New Torchlight List: In Search of the Best Modern Authors by James Robert Flynn
 7. A Mind for Numbers by Barbara Oakley
-8. Pedagogy (Learning Models) when people ask "well this is the only model we currently have for education, right?" send them here to read these other options
+8. https://www.scotthyoung.com/blog/2022/07/05/85-percent-rule/
+9. Bring Up Genius! by László Polgár
+10. The Making of a Genius by Aaron Stern (hard to get a copy)
+
+11. Pedagogy (Learning Models) when people ask "well this is the only model we currently have for education, right?" send them here to read these other options
     1. Dojo Mastery Model
     2. https://en.m.wikipedia.org/wiki/Colorado_College Colorado College uses the block plan 
     3. https://en.m.wikipedia.org/wiki/Ethical_Culture_Fieldston_School
@@ -63,6 +67,7 @@ Searching through tag: https://awsaavedra.com/tags/learning/
     15. Deep Springs College: https://en.m.wikipedia.org/wiki/Deep_Springs_College
     16. Mastery Learning, you only pass once you've mastered the material: https://en.m.wikipedia.org/wiki/Mastery_learning?ck_subscriber_id=389176759
     17. Constructionism: https://en.m.wikipedia.org/wiki/Constructionism_(learning_theory)
+    18. https://www.synthesis.com/ 
 
 ## 2. Math and System Thinking
 
@@ -87,6 +92,7 @@ Searching through tag: https://awsaavedra.com/tags/learning/
     5. A New Kind of Science by Stephen Wolfram
     6. Introduction to Algorithms by Thomas H. Cormen  (Author), Charles E. Leiserson (Author), Ronald L. Rivest (Author), Clifford Stein
     7. The Little Schemer by Daniel P. Friedman , Matthias Felleisen , et al.
+<<<<<<< HEAD
 12. Cryptocurrency, cryptocommerce
     1. Mastering Bitcoin: Programming the Open Blockchain Mastering Bitcoin: Programming the Open Blockchain
     2. Mastering Ethereum: Building Smart Contracts and DApps 
@@ -102,8 +108,11 @@ Searching through tag: https://awsaavedra.com/tags/learning/
 18. https://writings.stephenwolfram.com/2021/11/the-concept-of-the-ruliad/
 19. https://en.m.wikipedia.org/wiki/Grok 
 20. https://en.m.wikipedia.org/wiki/Abductive_reasoning  
+21. Exploring Science by David Klahr
+22. https://en.wikipedia.org/wiki/Five_whys 
 
-## 3. Forecasting
+
+## 3. Superforecasting
 Searching through tag: https://awsaavedra.com/tags/forecasting/
 
 1. Nate Silver The Signal and the Noise
@@ -164,8 +173,9 @@ Search through tag: https://awsaavedra.com/tags/productivity/
 1. The Elephant in the Brain: Hidden Motives in Everyday Life by Robin D. Hanson
 2. How to Win Friends and Influence People by Dale Carnegie
 3. [Parkinson’s Law of Triviality](https://en.wikipedia.org/wiki/Law_of_triviality) and look under other trivial issues
-4. [https://permies.com/t/scale](https://permies.com/t/scale)
-5. [https://wiki.earlyretirementextreme.com/wiki/ERE_Wheaton_Levels](https://wiki.earlyretirementextreme.com/wiki/ERE_Wheaton_Levels) The further you move away from normal the relatively less sane you seem to most people. Even it is simply because of convention.
+    a. Example https://en.wiktionary.org/wiki/bikeshedding
+5. [https://permies.com/t/scale](https://permies.com/t/scale)
+6. [https://wiki.earlyretirementextreme.com/wiki/ERE_Wheaton_Levels](https://wiki.earlyretirementextreme.com/wiki/ERE_Wheaton_Levels) The further you move away from normal the relatively less sane you seem to most people. Even it is simply because of convention.
 
 6. [Yak Shaving](https://en.wiktionary.org/wiki/yak_shaving)
 7. [https://www.scotthyoung.com/blog/2021/07/19/metrics-useful-or-evil/?ck_subscriber_id=389176759](https://www.scotthyoung.com/blog/2021/07/19/metrics-useful-or-evil/?ck_subscriber_id=389176759) 
@@ -210,6 +220,8 @@ Search through tag: https://awsaavedra.com/tags/productivity/
 26. Brandolini's Shadow: A space where bullshit thrives in the orbit of a real innovation
 27. Brandolini's Law (bullsh*t asymmetry principle)
 28. https://en.m.wikipedia.org/wiki/Cathexis 
+21. [Matthew effect](https://en.wikipedia.org/wiki/Matthew_effect) 
+22. https://en.wikipedia.org/wiki/Dunbar%27s_number 
 
 ## 7. Health
 
@@ -227,6 +239,7 @@ Search through tag: https://awsaavedra.com/tags/health/
 9. Lifespan: Why We Age—and Why We Don't Have To Kindle Edition by David Sinclair
 10. Nutritionfacts.org
 11. Blueprint, the most comprehensive longevity study on one individual...ever? https://blueprint.bryanjohnson.co/
+11. https://en.wikipedia.org/wiki/Information-theoretic_death 
 
 ## 8. Behavioral Change Strategies
 
@@ -269,6 +282,7 @@ Search through tag: https://awsaavedra.com/tags/health/
 9. https://digressionsnimpressions.typepad.com/digressionsimpressions/2020/07/for-intellectual-life-to-deliver-the-human-benefit-it-provides-it-must-be-in-fact-withdrawn-from-consideration.html 
 10. https://en.wikipedia.org//wiki/Paradox_of_hedonism
 11. https://en.m.wikipedia.org/wiki/Pre-theoretic_belief
+12. Enough. by Jack Bogle
 
 ## 10. Finance
 Search through tag: https://awsaavedra.com/tags/finance/
@@ -285,7 +299,7 @@ Resource Allocation: Time, Capital, attention, and more
 10. Conservative Investors Sleep Well At Night by Philip Fisher
 11. The Wealth of Nations by Adam Smith
 12. https://earlyretirementextreme.com/the-hedged-nature-of-early-retirement-extreme.html
-I wrote a lot of other information on my investment blog posts for you.
+I wrote a lot of other information on my finance blog posts for you.
 13. The Alpha Strategy: The Ultimate Plan of Financial Self-Defense Hardcover  by John A. Pugsley
 14. Economics, intelligent cooperation, Law
     1. Virtual Economies: Design and Analysis (Information Policy)  by Vili Lehdonvirta, Edward Castronova
@@ -311,9 +325,9 @@ I wrote a lot of other information on my investment blog posts for you.
     21. https://en.m.wikipedia.org/wiki/Gresham%27s_law dia.org/wiki/Great_Filter
     22. https://en.wikipedia.org/wiki/Kardashev_scale
     23. https://en.m.wikipedia.org/wiki/Hundred_Schools_of_Thought
+15. https://en.m.wikipedia.org/wiki/Parable_of_the_broken_window 
 
-
-# Entrepeneurship
+## 11. Entrepreneurship
 
 1. Smart people should be building things by Andrew Yang
 2. https://en.m.wikipedia.org/wiki/The_Ultimate_Resource
@@ -328,6 +342,8 @@ I wrote a lot of other information on my investment blog posts for you.
     2. The Practice: Shipping Creative Work
 7. The Start-up Of You by Reid Hoffman
 8. The Originals: How Non-conformists Move the World
+9. https://www.madfientist.com/start-a-business/
+10. Talent: How to Identify Energizers, Creatives, and Winners Around the World by Tyler Cowen, Daniel Gross
 
 ## Additional Resources
 
