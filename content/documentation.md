@@ -50,6 +50,7 @@ Searching through tag: https://awsaavedra.com/tags/learning/
 10. The Making of a Genius by Aaron Stern (hard to get a copy)
 
 11. Pedagogy (Learning Models) when people ask "well this is the only model we currently have for education, right?" send them here to read these other options
+This is not a failure of possibility, only a failure of imagination if someone can't imagine a better option.
     1. Dojo Mastery Model
     2. https://en.m.wikipedia.org/wiki/Colorado_College Colorado College uses the block plan 
     3. https://en.m.wikipedia.org/wiki/Ethical_Culture_Fieldston_School
@@ -69,6 +70,7 @@ Searching through tag: https://awsaavedra.com/tags/learning/
     17. Constructionism: https://en.m.wikipedia.org/wiki/Constructionism_(learning_theory)
     18. https://www.synthesis.com/ 
     19. https://en.wikipedia.org/wiki/The_Fun_They_Had A story about self learning using computers and home teaching. This is a future that is potentially real now.
+    20. https://alpha.school/
 
 ## 2. Math and System Thinking
 
