@@ -132,13 +132,21 @@ https://www.diamandis.com/blog/your-path-to-a-longer-healthier-life?hss_channel=
 5. Senolytic: drugs that kill off senescent cells
 
 7. Supplements people seem to like,again I am not a physician nor is this medical advice
+
    a. NAD boosters-- NMN
+   
    b. Resveratrol
+   
    c. Rapamycin
+   
    d. Metformin
+   
    e. Vitamin D3
+   
    f. Vitamin K2
+   
    g. Spermidine
+   
    h. Fisetin
 
 Shamelessly copied from here: https://fastlifehacks.com/david-sinclair-supplements/
