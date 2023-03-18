@@ -40,7 +40,7 @@ lifestyle over the past couple years based on the latest scientific evidence. No
 | Mushrooms | 1      | Immune function, taste |
 | Aerobic exercise | 90+ minutes per day      |   https://nutritionfacts.org/topics/exercise/ |
 | Drinks | 8+ cups     | Green tea, ginger tea, matcha tea, hibiscuous tea |
-
+| Mindfulness Meditation | 10+ minutes | sometimes more, ideally 1 hour a day |
 ## Supplements
 
 https://nutritionfacts.org/2011/09/12/dr-gregers-2011-optimum-nutrition-recommendations/
@@ -49,7 +49,7 @@ https://nutritionfacts.org/2011/09/12/dr-gregers-2011-optimum-nutrition-recommen
 
 2. Vitamin b12 
 
-3. Vitamin D (or go in the sun 30+ mins)
+3. Vitamin D (and/or go in the sun 30+ mins)
 
 4. Calcium
 
