@@ -33,13 +33,13 @@ lifestyle over the past couple years based on the latest scientific evidence. No
 | Other Vegetables | 2      |    carrots, beets, cabbage, etc. |
 | whole flaxseed | 1      |    I personally like Bob's redmill flaxseed |
 | nuts | 1      |   mixed nuts |
-| spices | 2      |    Ceylon cinnamon, turmeric, cloves, black pepper, etc. |
+| spices | 3      |    Ceylon cinnamon, turmeric, cloves, black pepper, etc. |
 | whole grains | 3     |    steel cut oats, low glycemic index grains |
 | Prebiotic Foods | 1      | onion, garlic, leeks, etc. |
 | Time restricted Eating | N/A     | skew early like 8am - 3PM |
 | Mushrooms | 1      | Immune function, taste |
 | Aerobic exercise | 90+ minutes per day      |   https://nutritionfacts.org/topics/exercise/ |
-| Drinks | 5+      | Green tea, ginger tea, matcha tea, hibiscuous tea |
+| Drinks | 8+ cups     | Green tea, ginger tea, matcha tea, hibiscuous tea |
 
 ## Supplements
 
@@ -122,32 +122,31 @@ our healthspan--I say healthspan because increasing lifespan only does not seem 
 
 1. Lifespan by David Sinclair
 
-
 https://en.m.wikipedia.org/wiki/Life_extension
 
 https://www.diamandis.com/blog/your-path-to-a-longer-healthier-life?hss_channel=tw-14710129
 
-2. Zeno-Hormesis
+2. Exosomes: https://worldhealth.net/news/why-exosomes-over-stem-cells/
+3. Hardcore version of these routines: https://blueprint.bryanjohnson.co/, he spends 2million a year on slowing/reversing aging
 
-3. Exosomes: https://worldhealth.net/news/why-exosomes-over-stem-cells/
+5. Senolytic: drugs that kill off senescent cells
 
-4. Engineering people or children: Yamakaka factors
+7. Supplements people seem to like,again I am not a physician nor is this medical advice
+   a. NAD boosters-- NMN
+   b. Resveratrol
+   c. Rapamycin
+   d. Metformin
+   e. Vitamin D3
+   f. Vitamin K2
+   g. Spermidine
+   h. Fisetin
 
-5. https://en.wikipedia.org/wiki/Xenohormesis
-
-6. Senolytic: drugs that kill off senescent cells
-
-7. NAD boosters-- NMN, resveritol (fix spelling later), NR molecule is cheaper and I'm not sure about which ones more effective. I'd go with the cheaper one, that's my POV though.
+Shamelessly copied from here: https://fastlifehacks.com/david-sinclair-supplements/
 
 8. Hot and cold triggers hormonal responses. I prefer cold b.c it increases the amount of brown fat you have + Other things. The temperature differential being large helps along with things just being cold. The book goes over this more. The general principle is stressing the body under controlled conditions produces huge postive results.
+  hardcore person who does this to the extreme is Wim Hof
 
-9. Fasting during the day. So no eating at night until lunch or later. Only liquids like water and tea. No milk, smoothies, etc. (I don't practice this yet, I'm still figuring out how to incorporate it). What's the best strategy for fasting? TBD.
+9. Fasting during the night. So eating early mornings and not at night. Only liquids like water and tea.
 
 10. Hormesis effect: some stress on the system, not too much, will increase longevity
-
-11. https://en.wikipedia.org/wiki/Hayflick_limit
-Can we make cells immortal? 
-
-12. https://wiki.opencog.org/w/Patternism I am not my cells, nor my brain, I am the emergent pattern that forms from all these interactions.
-You are not your brain, you are the result of your brain. This is not just a subtle difference.
 
