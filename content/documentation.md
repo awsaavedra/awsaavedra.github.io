@@ -325,6 +325,7 @@ I wrote a lot of other information on my finance blog posts for you.
     21. https://en.m.wikipedia.org/wiki/Gresham%27s_law dia.org/wiki/Great_Filter
     22. https://en.wikipedia.org/wiki/Kardashev_scale
     23. https://en.m.wikipedia.org/wiki/Hundred_Schools_of_Thought
+    24. https://gwern.net/bitcoin-is-worse-is-better
 15. https://en.m.wikipedia.org/wiki/Parable_of_the_broken_window 
 
 ## 11. Entrepreneurship
