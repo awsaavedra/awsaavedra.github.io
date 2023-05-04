@@ -37,7 +37,7 @@ Disclaimer 3: The views expressed in these resources do not necessarily express 
 
 ## 1. Learning 
 Searching through tag: https://awsaavedra.com/tags/learning/
-
+Work on your strategy for learning and you can get pretty far in life.
 1. Ultralearning by Scott Young
 2. Learning How to Learn by Barbara Oakley
 3. The Torchlight List by James Flynn
@@ -69,8 +69,9 @@ Searching through tag: https://awsaavedra.com/tags/learning/
     17. Constructionism: https://en.m.wikipedia.org/wiki/Constructionism_(learning_theory)
     18. https://www.synthesis.com/ 
 
-## 2. Math and System Thinking
-
+## 2. Math and Systems Thinking
+For me, reason and order are just as important as learning. Learn how to
+structure your mind to get important things done.
 1. Introduction to General Systems Thinking Gabriel Weinberg et al. 
 2. [https://fs.blog/tgmm/](https://fs.blog/tgmm/) 
 3. High-Dimensional Statistics by Martin J. Wainwright
@@ -92,7 +93,6 @@ Searching through tag: https://awsaavedra.com/tags/learning/
     5. A New Kind of Science by Stephen Wolfram
     6. Introduction to Algorithms by Thomas H. Cormen  (Author), Charles E. Leiserson (Author), Ronald L. Rivest (Author), Clifford Stein
     7. The Little Schemer by Daniel P. Friedman , Matthias Felleisen , et al.
-<<<<<<< HEAD
 12. Cryptocurrency, cryptocommerce
     1. Mastering Bitcoin: Programming the Open Blockchain Mastering Bitcoin: Programming the Open Blockchain
     2. Mastering Ethereum: Building Smart Contracts and DApps 
@@ -100,6 +100,7 @@ Searching through tag: https://awsaavedra.com/tags/learning/
     4. Phil Champagne The Book Of Satoshi: The Collected Writings of Bitcoin Creator Satoshi Nakamoto
     5. Proof of Stake: The Making of Ethereum and the Philosophy of Blockchains by Vitalik Buterin and Nathan Schneider 
     6. https://ethereum.org/en/learn/#books-and-podcasts
+    7. https://gwern.net/bitcoin-is-worse-is-better
 13. Exploring Science by David Klahr
 14. https://en.m.wikipedia.org/wiki/Jensen's_inequality
 15. Before first principles, you need [zeroth principles thinking](https://medium.com/future-literacy/zeroth-principles-thinking-9376d0b7e7f5)
@@ -110,11 +111,11 @@ Searching through tag: https://awsaavedra.com/tags/learning/
 20. https://en.m.wikipedia.org/wiki/Abductive_reasoning  
 21. Exploring Science by David Klahr
 22. https://en.wikipedia.org/wiki/Five_whys 
-
+23. https://en.wikipedia.org/wiki/John_Gall_(author)#Gall's_law
 
 ## 3. Superforecasting
 Searching through tag: https://awsaavedra.com/tags/forecasting/
-
+Learn ways of predicting the possible paths things can go on.
 1. Nate Silver The Signal and the Noise
 2. Superforecasting by Philip E. Tetlock
 3. Naseem Taleb book series: Incerto, skin in the game, black swan
@@ -122,20 +123,17 @@ Searching through tag: https://awsaavedra.com/tags/forecasting/
 5. The Scout Mindset: Why Some People See Things Clearly and Others Don't by Julia Galef
 6. Foresight.org, an institute dedicated to studying the future of technology
 7. https://www.saffo.com/ 
+8. Metaculus.com
+9. Look around for prediction markets
 
 ## 4. Productivity
 Search through tag: https://awsaavedra.com/tags/productivity/
-
+Productivity is doing the most important thing first and keeping on it without distraction. Then, you get the next most important thing.
 1. Cal Newport:
-
     a. So Good They Can't Ignore You
-
     b. Digital Minimalism
-
     c. A World Without Email
-
     d. How to Become a Straight A Student
-        
 2. Indistractable: How to Control Your Attention and Choose Your Life by Nir Eyal
 3. HELL YEAH OR NO by Derek Sivers
 4. [https://www.dwarkeshpatel.com/p/annus-mirabilis?s=r](https://www.dwarkeshpatel.com/p/annus-mirabilis?s=r%20the%20Miracle%20Year)
@@ -160,7 +158,7 @@ Search through tag: https://awsaavedra.com/tags/productivity/
 13. Extreme Programming Explained: Embrace Change, 2nd Edition (The XP Series) by Kent Beck (Author), Cynthia Andres
 
 ## 5. Meditation
-
+Seek inner mental and spiritual alignment towards your aims.
 1. Wim Hof Techniques
 2. Expertise in Meditation to be in a Gamma state
 3. Guided Meditation apps and trainings
@@ -169,7 +167,7 @@ Search through tag: https://awsaavedra.com/tags/productivity/
 6. Meditations by Marcus Aurelius
 
 ## 6. Social and Cultural Life
-    
+The world around you may be puzzling, seek to understand it.
 1. The Elephant in the Brain: Hidden Motives in Everyday Life by Robin D. Hanson
 2. How to Win Friends and Influence People by Dale Carnegie
 3. [Parkinson’s Law of Triviality](https://en.wikipedia.org/wiki/Law_of_triviality) and look under other trivial issues
@@ -226,7 +224,7 @@ Search through tag: https://awsaavedra.com/tags/productivity/
 ## 7. Health
 
 Search through tag: https://awsaavedra.com/tags/health/ 
-
+The body is a temple, we live in our bodies first and must maintain it well.
 1. How not to Die by Michael Greger
 2. The Telomere Effect by Dr. Elizabeth Blackburn (Author), Dr. Elissa Epel
 3. The Blue Zones
@@ -242,7 +240,7 @@ Search through tag: https://awsaavedra.com/tags/health/
 11. https://en.wikipedia.org/wiki/Information-theoretic_death 
 
 ## 8. Behavioral Change Strategies
-
+Learn how to control your behavior or it will control you.
 1. ERE a practical and philosophical guide by Jacob Fischer
 2. Possum Living: How to Live Well Without a Job and with (Almost) No Money by Dolly Freed
 3. https://www.coursera.org/learn/the-science-of-well-being 
@@ -254,7 +252,7 @@ Search through tag: https://awsaavedra.com/tags/health/
     6. Happiness: Unlocking the Mysteries of Psychological Wealth
 
 ## 9. Philosophy Areas
-
+Seek knowledge and a love of knowledge.
 1. Connectionism https://plato.stanford.edu/entries/connectionism/ 
 2. The Ego and His Own by Max Stirner
 3. https://reproducibleresearch.net/author/john/
@@ -286,7 +284,8 @@ Search through tag: https://awsaavedra.com/tags/health/
 
 ## 10. Finance
 Search through tag: https://awsaavedra.com/tags/finance/
-Resource Allocation: Time, Capital, attention, and more
+Finance can be a wonderful subject to understand the world since we 
+all lack resources we want to allocate. Those resources are time, capital, attention, and more.
 
 1. The Intelligent Investor by Benjamin Graham
 2. Security Analysis by Benjamin Graham
@@ -325,11 +324,10 @@ I wrote a lot of other information on my finance blog posts for you.
     21. https://en.m.wikipedia.org/wiki/Gresham%27s_law dia.org/wiki/Great_Filter
     22. https://en.wikipedia.org/wiki/Kardashev_scale
     23. https://en.m.wikipedia.org/wiki/Hundred_Schools_of_Thought
-    24. https://gwern.net/bitcoin-is-worse-is-better
 15. https://en.m.wikipedia.org/wiki/Parable_of_the_broken_window 
 
 ## 11. Entrepreneurship
-
+You want to add value to peoples lives and the future lives of people not yet known.
 1. Smart people should be building things by Andrew Yang
 2. https://en.m.wikipedia.org/wiki/The_Ultimate_Resource
 3. The E Myth
@@ -384,7 +382,7 @@ https://nickbostrom.com/
 
 [www.calnewport.com/blog](www.calnewport.com/blog/www.calnewport.com/blog/)
 
-http://daviddfriedman.com/
+http://daviddfriedman.com/ and https://daviddfriedman.substack.com/
 
 [http://sebastianmarshall.com/community/110017](http://sebastianmarshall.com/community/110017) 
 
