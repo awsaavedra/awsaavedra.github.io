@@ -24,6 +24,8 @@ Rabbi Heschel replied: “I would say: Let them remember that there is a meaning
 
 "Thought is subversive and revolutionary, destructive and terrible; thought is merciless to privilege, established institutions, and comfortable habits; thought is anarchic and lawless, indifferent to authority, careless of the well-tried wisdom of the ages. Thought looks into the pit of hell and is not afraid. It sees man, a feeble speck, surrounded by unfathomable depths of silence; yet it bears itself proudly, as unmoved as if it were lord of the universe. Thought is great and swift and free, the light of the world, and the chief glory of man."
 
+"Truth is a shining goddess, always veiled, always distant, never wholly approachable, but worthy of all the devotion of which the human spirit is capable."
+
 "I should wish to preach the "will-to-doubt." None of our beliefs are quite true; all at least have a penumbra of vagueness and error. What is wanted is not the will to believe, but the will to find out, which is the exact opposite." ~ Betrand Russell
 
 “The greatest thing a man can do in this world, is to make the most possible out of the stuff that has been given him. This is success, and there is no other.”― Orison Swett Marden, Learn to Expect a Great Deal of Life
