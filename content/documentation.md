@@ -289,7 +289,7 @@ Seek knowledge and a love of knowledge.
     ```Day by day, however, the machines are gaining ground upon us; day by day we are becoming more subservient to them; more men are daily bound down as slaves to tend them, more men are daily devoting the energies of their whole lives to the development of mechanical life. The upshot is simply a question of time, but that the time will come when the machines will hold the real supremacy over the world and its inhabitants is what no person of a truly philosophic mind can for a moment question. ```
 ~published in The Press newspaper on 13 June 1863 in Christchurch, New Zealand
     
-15. 
+15. https://en.m.wikipedia.org/wiki/Motte-and-bailey_fallacy 
 
 ## 10. Finance
 Search through tag: https://awsaavedra.com/tags/finance/
