@@ -359,7 +359,7 @@ You want to add value to peoples lives and the future lives of people not yet kn
 9. https://www.madfientist.com/start-a-business/
 10. Talent: How to Identify Energizers, Creatives, and Winners Around the World by Tyler Cowen, Daniel Gross
 11. https://en.wikipedia.org/wiki/Six_Thinking_Hats
-12. https://acquirersmultiple.com/2023/01/the-inner-game-managing-your-negative-mindset/
+12. The Inner Game of Tennis: The Classic Guide to the Mental Side of Peak Performance by W. Timothy Gallwey
 
 ## Additional Resources
 
