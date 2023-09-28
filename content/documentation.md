@@ -214,13 +214,16 @@ The world around you may be puzzling, seek to understand it.
     11. Harvey Karp The Happiest Baby on the Block; Fully Revised and Updated Second Edition: The New Way to Calm Crying and Help Your Newborn Baby Sleep Longer
     12. Nature's Gambit: Child Prodigies and the Development of Human Potential by David Henry Feldman with Lynn T. Goldsmith
 24. Psychology Tests
+25. https://en.m.wikipedia.org/wiki/Yes,_Virginia,_there_is_a_Santa_Claus
+26. https://www.cs.virginia.edu/~robins/Randy/  Randy Pausch
+27. 
     1. https://principlesyou.com/ Ray Dalio's take on personality inventory in a work context
     2. The big 5 personality traits https://en.wikipedia.org/wiki/Big_Five_personality_traits
     3. https://tedgioia.substack.com/p/my-8-best-techniques-for-evaluating
-25. https://en.wikipedia.org//wiki/Robert_Conquest#Laws_of_politics 
-26. Brandolini's Shadow: A space where bullshit thrives in the orbit of a real innovation
-27. Brandolini's Law (bullsh*t asymmetry principle)
-28. https://en.m.wikipedia.org/wiki/Cathexis 
+28. https://en.wikipedia.org//wiki/Robert_Conquest#Laws_of_politics 
+29. Brandolini's Shadow: A space where bullshit thrives in the orbit of a real innovation
+30. Brandolini's Law (bullsh*t asymmetry principle)
+31. https://en.m.wikipedia.org/wiki/Cathexis 
 21. [Matthew effect](https://en.wikipedia.org/wiki/Matthew_effect) 
 22. https://en.wikipedia.org/wiki/Dunbar%27s_number 
 
@@ -280,7 +283,10 @@ Seek knowledge and a love of knowledge.
     6. Designing Your Life: How to Build a Well-Lived, Joyful Life Hardcover by Bill Burnett (Author), Dave Evans
     7. https://www.pretotyping.org/ 
     8. https://en.m.wikipedia.org/wiki/Ecomodernism
-    9. https://thedecisionlab.com/reference-guide/psychology/choice-architecture 
+    9. https://thedecisionlab.com/reference-guide/psychology/choice-architecture
+    10. https://en.wikipedia.org/wiki/Poka-yoke
+    11. https://www.nngroup.com/articles/false-consensus/
+    12. 
 9. https://digressionsnimpressions.typepad.com/digressionsimpressions/2020/07/for-intellectual-life-to-deliver-the-human-benefit-it-provides-it-must-be-in-fact-withdrawn-from-consideration.html 
 10. https://en.wikipedia.org//wiki/Paradox_of_hedonism
 11. https://en.m.wikipedia.org/wiki/Pre-theoretic_belief
