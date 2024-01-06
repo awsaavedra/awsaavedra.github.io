@@ -139,18 +139,12 @@ Learn ways of predicting the possible paths things can go on.
 Search through tag: https://awsaavedra.com/tags/productivity/
 Productivity is doing the most important thing first and keeping on it without distraction. Then, you get the next most important thing.
 1. Cal Newport books
-
-    a. So Good They Can't Ignore You
-   
-    b. Digital Minimalism
-   
-    c. A World Without Email
-   
-    d. How to Become a Straight A Student
-   
-    e. How to Be a High School Superstar
-   
-    f. Slow Productivity: The Lost Art of Accomplishment Without Burnout
+    1. So Good They Can't Ignore You
+    2. Digital Minimalism
+    3. A World Without Email
+    4. How to Become a Straight A Student
+    5. How to Be a High School Superstar
+    6. Slow Productivity: The Lost Art of Accomplishment Without Burnout
    
 3. Indistractable: How to Control Your Attention and Choose Your Life by Nir Eyal
 4. HELL YEAH OR NO by Derek Sivers
