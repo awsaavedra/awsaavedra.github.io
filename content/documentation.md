@@ -141,18 +141,24 @@ Productivity is doing the most important thing first and keeping on it without d
 1. Cal Newport books
 
     a. So Good They Can't Ignore You
+   
     b. Digital Minimalism
+   
     c. A World Without Email
+   
     d. How to Become a Straight A Student
+   
     e. How to Be a High School Superstar
+   
     f. Slow Productivity: The Lost Art of Accomplishment Without Burnout
-2. Indistractable: How to Control Your Attention and Choose Your Life by Nir Eyal
-3. HELL YEAH OR NO by Derek Sivers
-4. [https://www.dwarkeshpatel.com/p/annus-mirabilis?s=r](https://www.dwarkeshpatel.com/p/annus-mirabilis?s=r%20the%20Miracle%20Year)
-5. The Willpower Instinct: How Self-Control Works, Why It Matters, and What You Can Do to Get More of It by Kelly McGonigal
-6. Atomic Habits by James Clear
-7. Tim Ferriss's DEAL Formula to Work Less and Earn More
-8. Information Absorption Capacity and Retention 
+   
+3. Indistractable: How to Control Your Attention and Choose Your Life by Nir Eyal
+4. HELL YEAH OR NO by Derek Sivers
+5. [https://www.dwarkeshpatel.com/p/annus-mirabilis?s=r](https://www.dwarkeshpatel.com/p/annus-mirabilis?s=r%20the%20Miracle%20Year)
+6. The Willpower Instinct: How Self-Control Works, Why It Matters, and What You Can Do to Get More of It by Kelly McGonigal
+7. Atomic Habits by James Clear
+8. Tim Ferriss's DEAL Formula to Work Less and Earn More
+9. Information Absorption Capacity and Retention 
     1. [Does speed reading even work? Does it come with trade-offs?](https://www.scotthyoung.com/blog/2015/01/19/speed-reading-redo/)
     2. Eliminate distractions, no multi-tasking
     3. Busyness is a choice by Tim Ferriss https://www.cnbc.com/2016/08/25/tim-ferriss-being-perpetually-busy-is-a-kind-of-laziness.html
@@ -160,19 +166,19 @@ Productivity is doing the most important thing first and keeping on it without d
         - look for memory training experts with proven track record. Jim Kwik is quite interesting. 
     5. Moon Walking with Einstein, Joshua Foer
     6. Building a Second Brain by Tiago Forte
-9. Greatness by Dean Simonton
-10. Formal Education
+10. Greatness by Dean Simonton
+11. Formal Education
     1. Will College Pay Off? by Peter Cappelli
     2. The Case Against Education: Why the Education System Is a Waste of Time and Money by Bryan Caplan
     3. Excellent Sheep: The Miseducation of the American Elite and the Way to a Meaningful Life Kindle Edition by William Deresiewicz
-11. Working Minds by Beth Crandall, Gary Klein and Robert Hoffman
-12. Scientific Elite by Harriet Zuckerman
-13. Extreme Programming Explained: Embrace Change, 2nd Edition (The XP Series) by Kent Beck (Author), Cynthia Andres
-14. The New One Minute Manager by Kenneth H. Blanchard, Specner Johnson
-15. Extreme Productivity by Robert C Pozen
-16. Can't Hurt Me: Master Your Mind and Defy the Odds by David Goggins
-17. The Dip by Seth Godin
-18. The Four Hour Work Week by Tim Ferriss
+12. Working Minds by Beth Crandall, Gary Klein and Robert Hoffman
+13. Scientific Elite by Harriet Zuckerman
+14. Extreme Programming Explained: Embrace Change, 2nd Edition (The XP Series) by Kent Beck (Author), Cynthia Andres
+15. The New One Minute Manager by Kenneth H. Blanchard, Specner Johnson
+16. Extreme Productivity by Robert C Pozen
+17. Can't Hurt Me: Master Your Mind and Defy the Odds by David Goggins
+18. The Dip by Seth Godin
+19. The Four Hour Work Week by Tim Ferriss
 
 ## 5. Meditation
 Seek inner mental and spiritual alignment towards your aims.
