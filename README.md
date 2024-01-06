@@ -1,6 +1,7 @@
 
 Hugo basic commands
 
+Quickstart: https://gohugo.io/getting-started/quick-start/
 
 ```
 hugo server -D
