@@ -5,7 +5,7 @@ Email is available upon request only via LinkedIn | San Francisco, CA | [LinkedI
 --------
 
 ## Summary
-Alexander is a current Staff Solutions engineer working in application security with a strong cybersecurity, machine learning, and software development background. His current role he has been ranked number 1 in his division two consecutive years and won the division West SE of the year award 2022 at Synopsys which is a 19,000+ person company. Alexander has a relentless focus on delivering value to customers with an innovators mindset in all of his work. He focuses on making every day "day one" and making things 10 times better by rethinking what is considered possible. While in College he has worked as a Machine Learning research intern, Machine Learning engineer intern, and engineer intern achieving a UC Major GPA of 3.72 in Machine Learning and Neural Computation. Currently he is choosing between part time Master's degree programs at top engineering Universities while continuing to work full time as an engineer.
+Alexander is a current Staff Solutions engineer working in application security with a strong cybersecurity, machine learning, and software development background. His current role he has been ranked number 1 in his division two consecutive years and won the division West SE of the year award 2022 at Synopsys which is a 19,000+ person company. Alexander has a relentless focus on delivering value to customers with an innovators mindset in all of his work. He focuses on making every day "day one" and making things 10 times better by rethinking what is considered possible. While in College he has worked as a Machine Learning research intern, Machine Learning engineer intern, and engineer intern achieving a UC Major GPA of 3.72 in Machine Learning and Neural Computation. He is currently pursuing a Master's in Computer Science, Interactive Intelligence (like Machine Learning) at Georgia Institute of Technology which is a top 10 Computer Science program.
 
 Hobbies: Reading, Biking, Weightlifting, Computer Games, Economics and Markets, Writing, Longevity and Health, Pedagogy, exploring future technology trends, poetry
 
@@ -57,12 +57,12 @@ Hobbies: Reading, Biking, Weightlifting, Computer Games, Economics and Markets, 
 
 ***Software Engineer | Redbird Advanced Learning | San Francisco Bay Area | 2014 - 2015***
 - Initiated and executed automated regression testing suites written in Mocha, PhantomJS, BackboneJS, and Ruby Watir increasing bugs discovered in the course curriculum by 200%
-- Led 3 person team responsible for finding and resolving issues in Math and Language Arts Product, leading to a 50% increase in bugs discovered within the curriculum
+- Led 3 person team responsible for finding and resolving issues in Math and Language Arts Product, leading to a 50% increase in bugs discovered within the curriculum and resolved  
 
 ***Machine Learning Engineer Intern | Qualcomm Institute | San Diego, CA | 2013 - 2014***
 - Implemented machine learning methods for transforming satellite image data with Python, SciPy, NumPy, and Django Database, leading to path discovered in Valley of the Khans in Mongolia for National Geographic
 
-***Machine Learning Researcher | Redacted Company | San Diego, CA | 2012 - 2013***
+***Machine Learning Research Intern | Redacted Company | San Diego, CA | 2012 - 2013***
 - Project under NDA, I worked as a machine learning researcher for a private company along with help from Professor Virginia de Sa a world renowned Machine Learning, Brain Computer Interface, and Computational Neuroscience researcher
 
 ---------
@@ -75,16 +75,17 @@ Developed ‘GarageHub’ -- AirBnB for garage space -- utilizing JavaScript, An
 
 #### Guru Indexer, Guru investor returns for index fund costs
 **Guru Indexer**
-Guru index which aggregated stock data and metadata from various sources which was I believed would produce a highly concentrated long term outperformance focused strategy for large and small capital US based companies sources included GuruFocus and WhaleWisdom. The rough details are outlined in this blog post awsaavedra.com/posts/enterprising-investor.
+Guru index which aggregated stock data and metadata from various sources which was I believed would produce a highly concentrated long term outperformance focused strategy for large and small capital US based companies sources included GuruFocus and WhaleWisdom. The rough details are outlined in this blog post https://awsaavedra.com/posts/enterprising-investor.
    - Strategy was eventually discussed with highly skilled value investors and then discontinued once I learned about a startup that was implementing a strategy that rhymed in their flagship product with more traction and I was able to get their service free with lifetime membership. It pays to be early.
 ---------
 
 ## Education
 
-**Bachelor of Science in Machine Learning and Neural Computation** UC MGPA: 3.72, Minor in Computer Science, University of California San Diego
+**M.S. Computer Science: Interactive Intelligence**, Georgia Institute of Technology, 2023 - Present
+
+**B.S. Machine Learning and Neural Computation** UC MGPA: 3.72, Minor in Computer Science, University of California San Diego
 
 **CoFounder and Principal Member**, Hackathons at UC San Diego	2013 - 2014
-Certification
 
 ##### Certifications and Awards
 
