@@ -229,13 +229,16 @@ The world around you may be puzzling, seek to understand it.
     12. Nature's Gambit: Child Prodigies and the Development of Human Potential by David Henry Feldman with Lynn T. Goldsmith
     13. The Last Lecture by Randy Pausch (the book). Probably the most influential lecture for me as a high school student. Randy Pausch is fantastic.
 24. Psychology Tests
+25. https://en.m.wikipedia.org/wiki/Yes,_Virginia,_there_is_a_Santa_Claus
+26. https://www.cs.virginia.edu/~robins/Randy/  Randy Pausch
+27. 
     1. https://principlesyou.com/ Ray Dalio's take on personality inventory in a work context
     2. The big 5 personality traits https://en.wikipedia.org/wiki/Big_Five_personality_traits
     3. https://tedgioia.substack.com/p/my-8-best-techniques-for-evaluating
-25. https://en.wikipedia.org//wiki/Robert_Conquest#Laws_of_politics 
-26. Brandolini's Shadow: A space where bullshit thrives in the orbit of a real innovation
-27. Brandolini's Law (bullsh*t asymmetry principle)
-28. https://en.m.wikipedia.org/wiki/Cathexis 
+28. https://en.wikipedia.org//wiki/Robert_Conquest#Laws_of_politics 
+29. Brandolini's Shadow: A space where bullshit thrives in the orbit of a real innovation
+30. Brandolini's Law (bullsh*t asymmetry principle)
+31. https://en.m.wikipedia.org/wiki/Cathexis 
 21. [Matthew effect](https://en.wikipedia.org/wiki/Matthew_effect) 
 22. https://en.wikipedia.org/wiki/Dunbar%27s_number
 23. https://ethos.lps.library.cmu.edu/article/id/560/ The second usage, more common outside of the former Soviet Union, appropriates one interpretation of Lysenko’s career to decry political intervention in and distortion of scientific knowledge. 
@@ -297,11 +300,22 @@ Seek knowledge and a love of knowledge.
     6. Designing Your Life: How to Build a Well-Lived, Joyful Life Hardcover by Bill Burnett (Author), Dave Evans
     7. https://www.pretotyping.org/ 
     8. https://en.m.wikipedia.org/wiki/Ecomodernism
+    9. https://thedecisionlab.com/reference-guide/psychology/choice-architecture
+    10. https://en.wikipedia.org/wiki/Poka-yoke
+    11. https://www.nngroup.com/articles/false-consensus/
+    12. 
 9. https://digressionsnimpressions.typepad.com/digressionsimpressions/2020/07/for-intellectual-life-to-deliver-the-human-benefit-it-provides-it-must-be-in-fact-withdrawn-from-consideration.html 
 10. https://en.wikipedia.org//wiki/Paradox_of_hedonism
 11. https://en.m.wikipedia.org/wiki/Pre-theoretic_belief
 12. Enough. by Jack Bogle
 13. https://en.m.wikipedia.org/wiki/Benjamin_Lay A good case study on someone who did not care what was fashionable, only what was morally correct in his mind.
+14. https://en.m.wikipedia.org/wiki/Darwin_among_the_Machines
+    ```Day by day, however, the machines are gaining ground upon us; day by day we are becoming more subservient to them; more men are daily bound down as slaves to tend them, more men are daily devoting the energies of their whole lives to the development of mechanical life. The upshot is simply a question of time, but that the time will come when the machines will hold the real supremacy over the world and its inhabitants is what no person of a truly philosophic mind can for a moment question. ```
+~published in The Press newspaper on 13 June 1863 in Christchurch, New Zealand
+    
+15. https://en.m.wikipedia.org/wiki/Motte-and-bailey_fallacy
+16. https://www.nobelprize.org/prizes/literature/1949/faulkner/speech/
+17. https://www.rjgeib.com/thoughts/truth/truth.html 
 
 ## 10. Finance
 Search through tag: https://awsaavedra.com/tags/finance/
@@ -346,17 +360,23 @@ I wrote a lot of other information on my finance blog posts for you.
     22. https://en.wikipedia.org/wiki/Kardashev_scale
     23. https://en.m.wikipedia.org/wiki/Hundred_Schools_of_Thought
     24. https://en.m.wikipedia.org/wiki/Fitness_landscape
-    25. Coordinating styles in broader natural and social history
+    25. https://en.m.wikipedia.org/wiki/Why_Socialism%3F 
+    26. Coordinating styles in broader natural and social history
+  
         1. Hamilton's Rule https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3982664/ Genetics i.e. Ant colonies all being genetically identical, or groups being genetically related
         2. Economics: game theory and incentive alignment
         3. Ideological: humans are the apex example of this behavior on planet earth, as long as a group believes the same things they're in the ingroup.
-    26. Conflict is Not Abuse: Overstating Harm, Community Responsibility, and the Duty of Repair. Schulman, Sarah
-    27. The Internet of Money part I to III by Andreas Antonopoulos
-    28. The Zero Marginal Cost Society by Jeremy Rifkin
+    27. Conflict is Not Abuse: Overstating Harm, Community Responsibility, and the Duty of Repair. Schulman, Sarah
+    28. The Internet of Money part I to III by Andreas Antonopoulos
+    29. The Zero Marginal Cost Society by Jeremy Rifkin
 15. https://en.m.wikipedia.org/wiki/Spatial_model_of_voting 
 16. https://en.m.wikipedia.org/wiki/Noble_lie 
 17. https://en.m.wikipedia.org/wiki/Team_of_Rivals Abraham Lincoln surrounded himself with a team of rivals to tease out what's true via debate, thoughtful disagreement, etc.
 18. https://en.m.wikipedia.org/wiki/Parable_of_the_broken_window 
+19. https://en.m.wikipedia.org/wiki/Parable_of_the_broken_window
+20. https://en.m.wikipedia.org/wiki/Coase_theorem
+21. https://www.masterclass.com/series/mastering-the-markets
+
 
 ## 11. Entrepreneurship
 You want to add value to peoples lives and the future lives of people not yet known.
@@ -381,6 +401,8 @@ You want to add value to peoples lives and the future lives of people not yet kn
 14. Super Founders: What Data Reveals About Billion-Dollar Startups by Ali Tamaseb
 15. Zero to One by Peter Thiel
 16. The Lean Startup by Eric Ries
+17. https://en.wikipedia.org/wiki/Six_Thinking_Hats
+18. The Inner Game of Tennis: The Classic Guide to the Mental Side of Peak Performance by W. Timothy Gallwey
 
 
 ## 12. Blogs
@@ -392,9 +414,11 @@ https://www.ldeming.com/
 http://paulgraham.com
 
 https://marginalrevolution.com
-
+https://sdianahu.com/reading
+https://nat.org/
+https://barmstrong.medium.com/14-books-that-changed-the-way-i-think-dcab51f1d50c 
 balajis.com 
-
+https://medium.com/@pravse/the-maze-is-in-the-mouse-980c57cfd61a
 https://1729.com/
 
 [https://slatestarcodex.com/](https://slatestarcodex.com/) 
@@ -432,7 +456,7 @@ https://www.dwarkeshpatel.com/podcast
 
 
 
-## 14. Additional Resources
+## 13. Additional Resources
 
 [https://thesocialleader.com/2013/09/line-good-evil/](https://thesocialleader.com/2013/09/line-good-evil/)
 
@@ -441,7 +465,7 @@ https://www.dwarkeshpatel.com/podcast
 [https://en.m.wikipedia.org/wiki/Great_Books_of_the_Western_World](https://en.m.wikipedia.org/wiki/Great_Books_of_the_Western_World) 
 
 
-## 15. A list of Notable Persons
+## 14. A list of Notable Persons
 
 Charlie Munger, Warren Buffet, Isaac Asimov, Da Vinci, Carl Sagan, Stephen Jay Gould, Will Sidis, Josh Waitzkin, Terence Tao, Benjamin Franklin, Hamilton, Bertrand Russell, ERE AKA Jacob Lund Fisker, Noam Chomsky, Martine Rothblatt
 
