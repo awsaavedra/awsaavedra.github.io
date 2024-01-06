@@ -70,7 +70,8 @@ This is not a failure of possibility, only a failure of imagination if someone c
     17. Constructionism: https://en.m.wikipedia.org/wiki/Constructionism_(learning_theory)
     18. https://www.synthesis.com/ 
     19. https://en.wikipedia.org/wiki/The_Fun_They_Had A story about self learning using computers and home teaching. This is a future that is potentially real now.
-    20. https://alpha.school/
+    20. https://alpha.school
+    21. Paper Belt on Fire by Michael Gibson
 
 ## 2. Math and Systems Thinking
 For me, reason and order are just as important as learning. Learn how to
@@ -115,6 +116,10 @@ structure your mind to get important things done.
 21. Exploring Science by David Klahr
 22. https://en.wikipedia.org/wiki/Five_whys 
 23. https://en.wikipedia.org/wiki/John_Gall_(author)#Gall's_law
+24. https://en.wikipedia.org/wiki/Six_Thinking_Hats
+25. Finite and Infinite Games by James P. Carse
+26. Man's Search for Meaning by Viktor Frankl
+27. Our Mathematical Universe by Max Tegmark
 
 ## 3. Superforecasting
 Searching through tag: https://awsaavedra.com/tags/forecasting/
@@ -128,15 +133,19 @@ Learn ways of predicting the possible paths things can go on.
 7. https://www.saffo.com/ 
 8. Metaculus.com
 9. Look around for prediction markets
+10. Life 3.0 by Max Tegmark
 
 ## 4. Productivity
 Search through tag: https://awsaavedra.com/tags/productivity/
 Productivity is doing the most important thing first and keeping on it without distraction. Then, you get the next most important thing.
-1. Cal Newport:
+1. Cal Newport books
+
     a. So Good They Can't Ignore You
     b. Digital Minimalism
     c. A World Without Email
     d. How to Become a Straight A Student
+    e. How to Be a High School Superstar
+    f. Slow Productivity: The Lost Art of Accomplishment Without Burnout
 2. Indistractable: How to Control Your Attention and Choose Your Life by Nir Eyal
 3. HELL YEAH OR NO by Derek Sivers
 4. [https://www.dwarkeshpatel.com/p/annus-mirabilis?s=r](https://www.dwarkeshpatel.com/p/annus-mirabilis?s=r%20the%20Miracle%20Year)
@@ -159,6 +168,11 @@ Productivity is doing the most important thing first and keeping on it without d
 11. Working Minds by Beth Crandall, Gary Klein and Robert Hoffman
 12. Scientific Elite by Harriet Zuckerman
 13. Extreme Programming Explained: Embrace Change, 2nd Edition (The XP Series) by Kent Beck (Author), Cynthia Andres
+14. The New One Minute Manager by Kenneth H. Blanchard, Specner Johnson
+15. Extreme Productivity by Robert C Pozen
+16. Can't Hurt Me: Master Your Mind and Defy the Odds by David Goggins
+17. The Dip by Seth Godin
+18. The Four Hour Work Week by Tim Ferriss
 
 ## 5. Meditation
 Seek inner mental and spiritual alignment towards your aims.
@@ -213,6 +227,7 @@ The world around you may be puzzling, seek to understand it.
     10. On Becoming Babywise (Updated and Expanded): Giving Your Infant the Gift of Nighttime Sleep Unabridged by Robert Bucknam MD
     11. Harvey Karp The Happiest Baby on the Block; Fully Revised and Updated Second Edition: The New Way to Calm Crying and Help Your Newborn Baby Sleep Longer
     12. Nature's Gambit: Child Prodigies and the Development of Human Potential by David Henry Feldman with Lynn T. Goldsmith
+    13. The Last Lecture by Randy Pausch (the book). Probably the most influential lecture for me as a high school student. Randy Pausch is fantastic.
 24. Psychology Tests
 25. https://en.m.wikipedia.org/wiki/Yes,_Virginia,_there_is_a_Santa_Claus
 26. https://www.cs.virginia.edu/~robins/Randy/  Randy Pausch
@@ -225,7 +240,9 @@ The world around you may be puzzling, seek to understand it.
 30. Brandolini's Law (bullsh*t asymmetry principle)
 31. https://en.m.wikipedia.org/wiki/Cathexis 
 21. [Matthew effect](https://en.wikipedia.org/wiki/Matthew_effect) 
-22. https://en.wikipedia.org/wiki/Dunbar%27s_number 
+22. https://en.wikipedia.org/wiki/Dunbar%27s_number
+23. https://ethos.lps.library.cmu.edu/article/id/560/ The second usage, more common outside of the former Soviet Union, appropriates one interpretation of Lysenko’s career to decry political intervention in and distortion of scientific knowledge. 
+
 
 ## 7. Health
 
@@ -291,8 +308,8 @@ Seek knowledge and a love of knowledge.
 10. https://en.wikipedia.org//wiki/Paradox_of_hedonism
 11. https://en.m.wikipedia.org/wiki/Pre-theoretic_belief
 12. Enough. by Jack Bogle
-13. https://en.m.wikipedia.org/wiki/Darwin_among_the_Machines
-
+13. https://en.m.wikipedia.org/wiki/Benjamin_Lay A good case study on someone who did not care what was fashionable, only what was morally correct in his mind.
+14. https://en.m.wikipedia.org/wiki/Darwin_among_the_Machines
     ```Day by day, however, the machines are gaining ground upon us; day by day we are becoming more subservient to them; more men are daily bound down as slaves to tend them, more men are daily devoting the energies of their whole lives to the development of mechanical life. The upshot is simply a question of time, but that the time will come when the machines will hold the real supremacy over the world and its inhabitants is what no person of a truly philosophic mind can for a moment question. ```
 ~published in The Press newspaper on 13 June 1863 in Christchurch, New Zealand
     
@@ -342,10 +359,24 @@ I wrote a lot of other information on my finance blog posts for you.
     21. https://en.m.wikipedia.org/wiki/Gresham%27s_law dia.org/wiki/Great_Filter
     22. https://en.wikipedia.org/wiki/Kardashev_scale
     23. https://en.m.wikipedia.org/wiki/Hundred_Schools_of_Thought
-    24. https://en.m.wikipedia.org/wiki/Why_Socialism%3F 
-15. https://en.m.wikipedia.org/wiki/Parable_of_the_broken_window
-16. https://en.m.wikipedia.org/wiki/Coase_theorem
-17. https://www.masterclass.com/series/mastering-the-markets
+    24. https://en.m.wikipedia.org/wiki/Fitness_landscape
+    25. https://en.m.wikipedia.org/wiki/Why_Socialism%3F 
+    26. Coordinating styles in broader natural and social history
+  
+        1. Hamilton's Rule https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3982664/ Genetics i.e. Ant colonies all being genetically identical, or groups being genetically related
+        2. Economics: game theory and incentive alignment
+        3. Ideological: humans are the apex example of this behavior on planet earth, as long as a group believes the same things they're in the ingroup.
+    27. Conflict is Not Abuse: Overstating Harm, Community Responsibility, and the Duty of Repair. Schulman, Sarah
+    28. The Internet of Money part I to III by Andreas Antonopoulos
+    29. The Zero Marginal Cost Society by Jeremy Rifkin
+15. https://en.m.wikipedia.org/wiki/Spatial_model_of_voting 
+16. https://en.m.wikipedia.org/wiki/Noble_lie 
+17. https://en.m.wikipedia.org/wiki/Team_of_Rivals Abraham Lincoln surrounded himself with a team of rivals to tease out what's true via debate, thoughtful disagreement, etc.
+18. https://en.m.wikipedia.org/wiki/Parable_of_the_broken_window 
+19. https://en.m.wikipedia.org/wiki/Parable_of_the_broken_window
+20. https://en.m.wikipedia.org/wiki/Coase_theorem
+21. https://www.masterclass.com/series/mastering-the-markets
+
 
 ## 11. Entrepreneurship
 You want to add value to peoples lives and the future lives of people not yet known.
@@ -364,21 +395,21 @@ You want to add value to peoples lives and the future lives of people not yet kn
 8. The Originals: How Non-conformists Move the World
 9. https://www.madfientist.com/start-a-business/
 10. Talent: How to Identify Energizers, Creatives, and Winners Around the World by Tyler Cowen, Daniel Gross
-11. https://en.wikipedia.org/wiki/Six_Thinking_Hats
-12. The Inner Game of Tennis: The Classic Guide to the Mental Side of Peak Performance by W. Timothy Gallwey
-
-## Additional Resources
-
-[https://thesocialleader.com/2013/09/line-good-evil/](https://thesocialleader.com/2013/09/line-good-evil/)
-
-[https://en.m.wikipedia.org/wiki/A_Syntopicon](https://en.m.wikipedia.org/wiki/A_Syntopicon)
-
-[https://en.m.wikipedia.org/wiki/Great_Books_of_the_Western_World](https://en.m.wikipedia.org/wiki/Great_Books_of_the_Western_World) 
+11. Exponential Organizations 2.0: The New Playbook for 10x Growth and Impact Salim Ismail , Ray Kurzweil (Foreword) , Peter H. Diamandis
+12. The E-myth Revisited Gerber, Michael E.
+13. The Magic of Thinking Big Schwartz, David J.
+14. Super Founders: What Data Reveals About Billion-Dollar Startups by Ali Tamaseb
+15. Zero to One by Peter Thiel
+16. The Lean Startup by Eric Ries
+17. https://en.wikipedia.org/wiki/Six_Thinking_Hats
+18. The Inner Game of Tennis: The Classic Guide to the Mental Side of Peak Performance by W. Timothy Gallwey
 
 
-### Blogs
+## 12. Blogs
 
 Nothingismere.com
+
+https://www.ldeming.com/
 
 http://paulgraham.com
 
@@ -423,7 +454,18 @@ https://sive.rs/
 
 https://www.dwarkeshpatel.com/podcast 
 
-## A list of Notable Persons
+
+
+## 13. Additional Resources
+
+[https://thesocialleader.com/2013/09/line-good-evil/](https://thesocialleader.com/2013/09/line-good-evil/)
+
+[https://en.m.wikipedia.org/wiki/A_Syntopicon](https://en.m.wikipedia.org/wiki/A_Syntopicon)
+
+[https://en.m.wikipedia.org/wiki/Great_Books_of_the_Western_World](https://en.m.wikipedia.org/wiki/Great_Books_of_the_Western_World) 
+
+
+## 14. A list of Notable Persons
 
 Charlie Munger, Warren Buffet, Isaac Asimov, Da Vinci, Carl Sagan, Stephen Jay Gould, Will Sidis, Josh Waitzkin, Terence Tao, Benjamin Franklin, Hamilton, Bertrand Russell, ERE AKA Jacob Lund Fisker, Noam Chomsky, Martine Rothblatt
 
