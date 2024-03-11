@@ -120,6 +120,7 @@ structure your mind to get important things done.
 25. Finite and Infinite Games by James P. Carse
 26. Man's Search for Meaning by Viktor Frankl
 27. Our Mathematical Universe by Max Tegmark
+28. [The unreasonable effectiveness of Mathematics in the natural sciences](https://www.maths.ed.ac.uk/~v1ranick/papers/wigner.pdf)
 
 ## 3. Superforecasting
 Searching through tag: https://awsaavedra.com/tags/forecasting/
@@ -242,7 +243,8 @@ The world around you may be puzzling, seek to understand it.
 21. [Matthew effect](https://en.wikipedia.org/wiki/Matthew_effect) 
 22. https://en.wikipedia.org/wiki/Dunbar%27s_number
 23. https://ethos.lps.library.cmu.edu/article/id/560/ The second usage, more common outside of the former Soviet Union, appropriates one interpretation of Lysenko’s career to decry political intervention in and distortion of scientific knowledge. 
-
+24. https://en.m.wikipedia.org/wiki/Abilene_paradox
+25. https://graymirror.substack.com/p/a-brief-explanation-of-the-cathedral 
 
 ## 7. Health
 
@@ -315,8 +317,13 @@ Seek knowledge and a love of knowledge.
     
 15. https://en.m.wikipedia.org/wiki/Motte-and-bailey_fallacy
 16. https://www.nobelprize.org/prizes/literature/1949/faulkner/speech/
-17. https://www.rjgeib.com/thoughts/truth/truth.html 
-
+17. https://www.rjgeib.com/thoughts/truth/truth.html
+18. https://philosophicalsociety.com/HTML/TheHealthy-MindedAndSickSoul.html\
+19. https://en.wikipedia.org/wiki/Ikigai
+20. https://www.radicalismoffools.com/the-weimar-fallacy/
+21. https://en.wikipedia.org/wiki/Newcomb's_paradox
+22. https://richarddawkins.com/articles/article/postmodernism-disrobed
+23. [Intellectual Impostures: Modern Philosophers abuse of science](https://www.amazon.com/Intellectual-Impostures-Postmodern-Philosophers-Science/dp/1861971249)
 ## 10. Finance
 Search through tag: https://awsaavedra.com/tags/finance/
 Finance can be a wonderful subject to understand the world since we 
@@ -362,13 +369,13 @@ I wrote a lot of other information on my finance blog posts for you.
     24. https://en.m.wikipedia.org/wiki/Fitness_landscape
     25. https://en.m.wikipedia.org/wiki/Why_Socialism%3F 
     26. Coordinating styles in broader natural and social history
-  
         1. Hamilton's Rule https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3982664/ Genetics i.e. Ant colonies all being genetically identical, or groups being genetically related
         2. Economics: game theory and incentive alignment
         3. Ideological: humans are the apex example of this behavior on planet earth, as long as a group believes the same things they're in the ingroup.
     27. Conflict is Not Abuse: Overstating Harm, Community Responsibility, and the Duty of Repair. Schulman, Sarah
     28. The Internet of Money part I to III by Andreas Antonopoulos
     29. The Zero Marginal Cost Society by Jeremy Rifkin
+    30. https://econgoat.ai/en
 15. https://en.m.wikipedia.org/wiki/Spatial_model_of_voting 
 16. https://en.m.wikipedia.org/wiki/Noble_lie 
 17. https://en.m.wikipedia.org/wiki/Team_of_Rivals Abraham Lincoln surrounded himself with a team of rivals to tease out what's true via debate, thoughtful disagreement, etc.
@@ -376,7 +383,6 @@ I wrote a lot of other information on my finance blog posts for you.
 19. https://en.m.wikipedia.org/wiki/Parable_of_the_broken_window
 20. https://en.m.wikipedia.org/wiki/Coase_theorem
 21. https://www.masterclass.com/series/mastering-the-markets
-
 
 ## 11. Entrepreneurship
 You want to add value to peoples lives and the future lives of people not yet known.
@@ -407,6 +413,7 @@ You want to add value to peoples lives and the future lives of people not yet kn
 
 ## 12. Blogs
 
+[The day you became a better writer](https://dilbertblog.typepad.com/the_dilbert_blog/2007/06/the_day_you_bec.html)
 Nothingismere.com
 
 https://www.ldeming.com/
@@ -420,7 +427,7 @@ https://barmstrong.medium.com/14-books-that-changed-the-way-i-think-dcab51f1d50c
 balajis.com 
 https://medium.com/@pravse/the-maze-is-in-the-mouse-980c57cfd61a
 https://1729.com/
-
+https://meltingasphalt.com/ 
 [https://slatestarcodex.com/](https://slatestarcodex.com/) 
 MOVED TO: https://astralcodexten.substack.com/
 
@@ -453,7 +460,10 @@ https://sive.rs/
 [https://marginalrevolution.com/marginalrevolution/2019/12/work-on-these-things.html](https://marginalrevolution.com/marginalrevolution/2019/12/work-on-these-things.html) 
 
 https://www.dwarkeshpatel.com/podcast 
-
+https://www.thinkingcomplete.com/ 
+https://www.scottaaronson.com/
+https://cxgonzalez.org/neo-hermeticism
+https://andymatuschak.org/
 
 
 ## 13. Additional Resources
