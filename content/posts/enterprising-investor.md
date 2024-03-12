@@ -230,4 +230,6 @@ A survey course on investors, styles, and accomplishments of eminent investors o
 
 35. Consuelo Mack Wealthtrack Show is Good
 
-36. http://www.chaiwithpabrai.com 
+36. http://www.chaiwithpabrai.com
+  
+38. [The blind faith of indexing is real](https://web.archive.org/web/20230603115713/https://earlyretirementextreme.com/the-cult-of-index-investing-why-it-will-be-gone-in-ten-years.html)
