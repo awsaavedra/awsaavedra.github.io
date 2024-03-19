@@ -47,9 +47,7 @@ Work on your strategy for learning and you can get pretty far in life.
 7. A Mind for Numbers by Barbara Oakley
 8. https://www.scotthyoung.com/blog/2022/07/05/85-percent-rule/
 9. Bring Up Genius! by László Polgár
-10. The Making of a Genius by Aaron Stern (hard to get a copy)
-
-11. Pedagogy (Learning Models) when people ask "well this is the only model we currently have for education, right?" send them here to read these other options
+10. The Making of a Genius by Aaron Stern (hard to get a copy)11. Pedagogy (Learning Models) when people ask "well this is the only model we currently have for education, right?" send them here to read these other options
 This is not a failure of possibility, only a failure of imagination if someone can't imagine a better option.
     1. Dojo Mastery Model
     2. https://en.m.wikipedia.org/wiki/Colorado_College Colorado College uses the block plan 
@@ -72,6 +70,7 @@ This is not a failure of possibility, only a failure of imagination if someone c
     19. https://en.wikipedia.org/wiki/The_Fun_They_Had A story about self learning using computers and home teaching. This is a future that is potentially real now.
     20. https://alpha.school
     21. Paper Belt on Fire by Michael Gibson
+12. [Solving the infinite library problem, for those trying to figure out where to start](https://www.scotthyoung.com/blog/2024/03/12/infinite-library-problem/?ck_subscriber_id=389176759)
 
 ## 2. Math and Systems Thinking
 For me, reason and order are just as important as learning. Learn how to
