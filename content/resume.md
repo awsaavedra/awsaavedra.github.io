@@ -5,7 +5,7 @@ Email is available upon request only via LinkedIn | San Francisco, CA | [LinkedI
 --------
 
 ## Summary
-Alexander is a current Staff Solutions engineer working in application security with a strong cybersecurity, machine learning, and software development background. His current role he has been ranked number 1 in his division two consecutive years and won the division West SE of the year award 2022 at Synopsys which is a 19,000+ person company. Alexander has a relentless focus on delivering value to customers with an innovators mindset in all of his work. He focuses on making every day "day one" and making things 10 times better by rethinking what is considered possible. While in College he has worked as a Machine Learning research intern, Machine Learning engineer intern, and engineer intern achieving a UC Major GPA of 3.72 in Machine Learning and Neural Computation. He is currently pursuing a Master's in Computer Science, Interactive Intelligence (like Machine Learning) at Georgia Institute of Technology which is a top 10 Computer Science program.
+Alexander is a current Staff Solutions engineer working in application security with a strong cybersecurity, machine learning, and software development background. His current role he has been ranked number 1 in his division two consecutive years and won the division West SE of the year award 2022 at Synopsys which is a 21,000+ person company. Alexander has a relentless focus on delivering value to customers with an innovators mindset in all of his work. He focuses on making every day "day one" and making things 10 times better by rethinking what is considered possible. While in College he has worked as a Machine Learning research intern, Machine Learning engineer intern, and engineer intern achieving a UC Major GPA of 3.72 in Machine Learning and Neural Computation. He is currently pursuing a Master's in Computer Science, Interactive Intelligence (like Machine Learning) at Georgia Institute of Technology which is a top 10 Computer Science program.
 
 Hobbies: Reading, Biking, Weightlifting, Computer Games, Economics and Markets, Writing, Longevity and Health, Pedagogy, exploring future technology trends, poetry
 
@@ -13,11 +13,11 @@ Hobbies: Reading, Biking, Weightlifting, Computer Games, Economics and Markets, 
 
 ## Technical & Analytical Skills
 
-- **General**:  Java and Kotlin ecosystem, TypeScript and Javascript, NodeJS, SQL, Postgres, Maven, Gradle, Git, basic Networking, REST APIs and exposure to SOAP, Bash, Linux and general GNU knowledge, Vim, and relational & non-relational databases
+- **General**:  Java and Kotlin ecosystem, TypeScript and Javascript, NodeJS, SQL, Postgres, Maven, Gradle, Git, basic Networking, REST APIs and exposure to SOAP, Bash, Linux and general GNU knowledge, LaTeX, Vim, and relational & non-relational databases
 
 - **Deployment Technologies**: Amazon Web Services, Docker, Kubernetes, KiND, GitHub Actions, Azure DevOps, Jenkins, Virtual Machine Infrastructure, Ephemeral Agent Deployment, Firebase
 
-- **Development Methodologies**: Extreme programming, Test Driven Development, Behavior Driven Development, Agile, Scrum, and academic experience with Waterfall
+- **Development Methodologies**: Extreme programming, Test Driven Development, Behavior Driven Development, Agile, and Scrum
 
 - **Application Security Testing**: Static Application Security Testing,  Software Composition Analysis, Interactive Application Security Testing, Infrastructure as Code, Security in Software Development Lifecycle, and basic Protocol Fuzzing knowledge
 
@@ -31,7 +31,7 @@ Hobbies: Reading, Biking, Weightlifting, Computer Games, Economics and Markets, 
 
 ## Work Experience
 
-***Staff Solutions Engineer | Synopsys Inc | San Francisco Bay Area | 2021 - present***
+***Sr. Staff Solutions Architect | Synopsys Inc | San Francisco Bay Area | 2021 - present***
 - Awarded SE of the Year 2022 for my division West region and promoted to Staff engineer beginning of 2023
 - Achieved highest division quota attainment of 163% in first year 
 - Highest win rate 68% achieving 2021 for division
@@ -81,7 +81,7 @@ Guru index which aggregated stock data and metadata from various sources which w
 
 ## Education
 
-**M.S. Computer Science: Interactive Intelligence**, Georgia Institute of Technology, 2023 - Present
+**M.S. Computer Science: Interactive Intelligence** GPA: 4.0, Georgia Institute of Technology, 2023 - Present
 
 **B.S. Machine Learning and Neural Computation** UC MGPA: 3.72, Minor in Computer Science, University of California San Diego
 
