@@ -5,7 +5,7 @@ Email is available upon request only via LinkedIn | San Francisco, CA | [LinkedI
 --------
 
 ## Summary
-Alexander is a current Staff Solutions engineer working in application security with a strong cybersecurity, machine learning, and software development background. His current role he has been ranked number 1 in his division two consecutive years and won the division West SE of the year award 2022 at Synopsys which is a 21,000+ person company. Alexander has a relentless focus on delivering value to customers with an innovators mindset in all of his work. He focuses on making every day "day one" and making things 10 times better by rethinking what is considered possible. While in College he has worked as a Machine Learning research intern, Machine Learning engineer intern, and engineer intern achieving a UC Major GPA of 3.72 in Machine Learning and Neural Computation. He is currently pursuing a Master's in Computer Science, Interactive Intelligence (like Machine Learning) at Georgia Institute of Technology which is a top 10 Computer Science program.
+Alexander is a current Staff Solutions engineer working in application security with a strong cybersecurity, machine learning, and software development background. His current role he has been ranked number 1 in his division two consecutive years and won the division West SE of the year award 2022 at Synopsys which is a 21,000+ person company. Alexander has a relentless focus on delivering value to customers with an innovators mindset in all of his work. He focuses on making every day "day one" and making things 10 times better by rethinking what is considered possible. While in College he has worked as a Machine Learning research intern, Machine Learning engineer intern, and engineer intern achieving a UC Major GPA of 3.72 in Machine Learning and Neural Computation. He is currently pursuing a Master's in Computer Science, Interactive Intelligence (like Machine Learning) at Georgia Institute of Technology which is a top 10 Computer Science program with a 4.0 GPA.
 
 Hobbies: Reading, Biking, Weightlifting, Computer Games, Economics and Markets, Writing, Longevity and Health, Pedagogy, exploring future technology trends, poetry
 
@@ -32,15 +32,16 @@ Hobbies: Reading, Biking, Weightlifting, Computer Games, Economics and Markets, 
 ## Work Experience
 
 ***Sr. Staff Solutions Architect | Synopsys Inc | San Francisco Bay Area | 2021 - present***
-- Awarded SE of the Year 2022 for my division West region and promoted to Staff engineer beginning of 2023
-- Achieved highest division quota attainment of 163% in first year 
-- Highest win rate 68% achieving 2021 for division
-- Streamlined the product trial navigation process with engineer teams leading to a 200% faster proof of concept cycle
-- Shadow, mentor, and assist in onboarding 5 senior and 2 staff engineers leading to 150% faster onboarding
-- Trained engineers on infrastructure as code and modern SDLC best practices resulting in further POC alignment
+- Spearheaded product security initiatives for machine learning both internally results in more ubiquitous ML usage
+- Lead LLM team initiative meetings to incorporate LLM tooling to more efficiently answer internal product queries
+- Streamlined, and documented Kubernetes deployment strategies in concert with specialist team on K8 deploy
 - Spearheaded the initiative  for high priority technology integrations like GitHub Actions for SAST and SCA
-- Received highest possible first year and second year performance review by manager which lead to promotion
-- Analyze, design, and implement software solutions to meet client requirements.
+- Mentored, and assisted in onboarding 5 senior and 2 staff engineers leading to 150% faster onboarding & product
+- Streamlined the product trial navigation process with engineer teams leading to a 200% faster proof of concept cycle
+- Trained engineers on infrastructure as code and modern SDLC best practices resulting in further POC alignment
+- Achieved highest division quota attainment of 163% in first year 
+- Awarded SE of the Year 2022 for my division region
+
 
 ***Solutions Engineer | Launchdarkly | San Francisco Bay Area | 2019 - 2020***
 - Closed 6 figures of product for the fiscal quarter during the pandemic
@@ -68,8 +69,11 @@ Hobbies: Reading, Biking, Weightlifting, Computer Games, Economics and Markets, 
 ---------
 ## Projects
 
-#### GarageHub, the Airbnb of garage space 
+## AI Assistant Research on Productivity and Creativity Enhancement
+**AI Assistant for Productivity and Creativity:**
+Research project investigating creativity and productivity enhancement using AI assistants  for all skill levels of users with surprising results leading to larger increases in expert performance over novice performance
 
+#### GarageHub, the Airbnb of garage space 
 **GarageHub:** 
 Developed ‘GarageHub’ -- AirBnB for garage space -- utilizing JavaScript, AngularJS, Firebase, Zapier, and Twilio API, designed to capture a $20Mill+ market of open garage space in San Francisco
 
