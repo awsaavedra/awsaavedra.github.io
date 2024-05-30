@@ -5,7 +5,7 @@ Email is available upon request only via LinkedIn | San Francisco, CA | [LinkedI
 --------
 
 ## Summary
-Alexander is a current Staff Solutions engineer working in application security with a strong cybersecurity, machine learning, and software development background. His current role he has been ranked number 1 in his division two consecutive years and won the division West SE of the year award 2022 at Synopsys which is a 19,000+ person company. Alexander has a relentless focus on delivering value to customers with an innovators mindset in all of his work. He focuses on making every day "day one" and making things 10 times better by rethinking what is considered possible. While in College he has worked as a Machine Learning research intern, Machine Learning engineer intern, and engineer intern achieving a UC Major GPA of 3.72 in Machine Learning and Neural Computation. He is currently pursuing a Master's in Computer Science, Interactive Intelligence (like Machine Learning) at Georgia Institute of Technology which is a top 10 Computer Science program.
+Alexander is a current Sr Staff Solutions Architect working in application security with a strong cybersecurity, machine learning, and software development background. His current role he has been ranked number 1 in his division two consecutive years and won the division West SE of the year award 2022 at Synopsys which is a 20,000+ person company. Alexander has a relentless focus on delivering value to customers with an innovators mindset in all of his work. He focuses on making every day "day one" and making things 10 times better by rethinking what is considered possible. While in College he has worked as a Machine Learning research intern, Machine Learning engineer intern, and engineer intern achieving a UC Major GPA of 3.72 in Machine Learning and Neural Computation. He is currently pursuing a Master's in Computer Science, 4.0 GPA in Interactive Intelligence (like Machine Learning) at Georgia Institute of Technology which is a top 10 Computer Science program.
 
 Hobbies: Reading, Biking, Weightlifting, Computer Games, Economics and Markets, Writing, Longevity and Health, Pedagogy, exploring future technology trends, poetry
 
@@ -31,7 +31,7 @@ Hobbies: Reading, Biking, Weightlifting, Computer Games, Economics and Markets, 
 
 ## Work Experience
 
-***Staff Solutions Engineer | Synopsys Inc | San Francisco Bay Area | 2021 - present***
+***Sr Staff Solutions Architect | Synopsys Inc | San Francisco Bay Area | 2021 - present***
 - Awarded SE of the Year 2022 for my division West region and promoted to Staff engineer beginning of 2023
 - Achieved highest division quota attainment of 163% in first year 
 - Highest win rate 68% achieving 2021 for division
@@ -61,6 +61,7 @@ Hobbies: Reading, Biking, Weightlifting, Computer Games, Economics and Markets, 
 
 ***Machine Learning Engineer Intern | Qualcomm Institute | San Diego, CA | 2013 - 2014***
 - Implemented machine learning methods for transforming satellite image data with Python, SciPy, NumPy, and Django Database, leading to path discovered in Valley of the Khans in Mongolia for National Geographic
+- [A full description of the research to attempt to discover Genghis Khan's tomb by my manager Andrew Hyunh can be found here](https://web.archive.org/web/20240530023201/https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0114046)
 
 ***Machine Learning Research Intern | Redacted Company | San Diego, CA | 2012 - 2013***
 - Project under NDA, I worked as a machine learning researcher for a private company along with help from Professor Virginia de Sa a world renowned Machine Learning, Brain Computer Interface, and Computational Neuroscience researcher
@@ -68,20 +69,24 @@ Hobbies: Reading, Biking, Weightlifting, Computer Games, Economics and Markets, 
 ---------
 ## Projects
 
-#### GarageHub, the Airbnb of garage space 
-
-**GarageHub:** 
-Developed ‘GarageHub’ -- AirBnB for garage space -- utilizing JavaScript, AngularJS, Firebase, Zapier, and Twilio API, designed to capture a $20Mill+ market of open garage space in San Francisco
+#### Graduate Research on AI Assistants for Productivity and Creativity Enhancement
+   - AI assistants such as large language models increase many information technologies productivity but also reduce unwanted side effects like keeping them shallow in their understanding or unthinking when using solutions which ultimately reduces the personal autonomy and creativity of the individual. 
+   - This research seeks to mitigate these unwanted side effects, boost productivity and other desired effects, and ideally find fertile research to enhance these while still using AI assistant tools using mixed methods both qualitative and quantitative to investigate this topic. 
+   - This is especially the case for experts who have seen the least gains from these technologies thus far, the results from this research demonstrate large gains for experts which have not previously been found in the body of research on this topic both in creativity and speed of results without reducing precision.
+   - Abstract accepted to a prestigious journal's special issues on machine learning and awaiting further review
 
 #### Guru Indexer, Guru investor returns for index fund costs
-**Guru Indexer**
-Guru index which aggregated stock data and metadata from various sources which was I believed would produce a highly concentrated long term outperformance focused strategy for large and small capital US based companies sources included GuruFocus and WhaleWisdom. The rough details are outlined in this blog post https://awsaavedra.com/posts/enterprising-investor.
-   - Strategy was eventually discussed with highly skilled value investors and then discontinued once I learned about a startup that was implementing a strategy that rhymed in their flagship product with more traction and I was able to get their service free with lifetime membership. It pays to be early.
+   - Guru index which aggregated stock data and metadata from various sources which was I believed would produce a highly concentrated long term outperformance focused strategy for large and small capital US based companies sources included GuruFocus and WhaleWisdom. The rough details are outlined in this blog post https://awsaavedra.com/posts/enterprising-investor.
+   - Strategy was eventually discussed with highly skilled value investors and then discontinued once I learned about a YC18 alumni startup that was implementing a strategy that rhymed in their flagship product with more traction.
+
+**GarageHub:** 
+- Developed ‘GarageHub’ -- AirBnB for garage space -- utilizing JavaScript, AngularJS, Firebase, Zapier, and Twilio API, designed to capture a $20Mill+ market of open garage space in San Francisco
+
 ---------
 
 ## Education
 
-**M.S. Computer Science: Interactive Intelligence**, Georgia Institute of Technology, 2023 - Present
+**M.S. Computer Science: Interactive Intelligence**, Georgia Institute of Technology, GPA 4.0,  2023 - Present
 
 **B.S. Machine Learning and Neural Computation** UC MGPA: 3.72, Minor in Computer Science, University of California San Diego
 
