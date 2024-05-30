@@ -244,6 +244,7 @@ The world around you may be puzzling, seek to understand it.
 23. https://ethos.lps.library.cmu.edu/article/id/560/ The second usage, more common outside of the former Soviet Union, appropriates one interpretation of Lysenko’s career to decry political intervention in and distortion of scientific knowledge. 
 24. https://en.m.wikipedia.org/wiki/Abilene_paradox
 25. https://graymirror.substack.com/p/a-brief-explanation-of-the-cathedral 
+26. https://meta.wikimedia.org/wiki/Cunningham%27s_Law
 
 ## 7. Health
 
