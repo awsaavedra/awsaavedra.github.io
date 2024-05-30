@@ -21,7 +21,7 @@ Hobbies: Reading, Biking, Weightlifting, Computer Games, Economics and Markets, 
 
 - **Application Security Testing**: Static Application Security Testing,  Software Composition Analysis, Interactive Application Security Testing, Infrastructure as Code, Security in Software Development Lifecycle, and basic Protocol Fuzzing knowledge
 
-- **Machine Learning**: Python 2 & 3, PyTorch, TensorFlow, advanced undergraduate Statistics, Linear Algebra, high dimensional Math, and Multivariable Calculus
+- **Machine Learning**: Python 2 & 3, PyTorch, TensorFlow, advanced Statistics, Linear Algebra, high dimensional Math, and Multivariable Calculus
 
 - **Cryptocurrency**: Solidity, Remix, Ethereum Virtual Machine, Smart Contract Development, and functional encryption knowledge
 
@@ -34,6 +34,7 @@ Hobbies: Reading, Biking, Weightlifting, Computer Games, Economics and Markets, 
 ***Sr. Staff Solutions Architect | Synopsys Inc | San Francisco Bay Area | 2021 - present***
 - Spearheaded product security initiatives for machine learning both internally results in more ubiquitous ML usage
 - Lead LLM team initiative meetings to incorporate LLM tooling to more efficiently answer internal product queries
+- Discussed and helped weigh large language model options internally for incorporation
 - Streamlined, and documented Kubernetes deployment strategies in concert with specialist team on K8 deploy
 - Spearheaded the initiative  for high priority technology integrations like GitHub Actions for SAST and SCA
 - Mentored, and assisted in onboarding 5 senior and 2 staff engineers leading to 150% faster onboarding & product
@@ -41,7 +42,6 @@ Hobbies: Reading, Biking, Weightlifting, Computer Games, Economics and Markets, 
 - Trained engineers on infrastructure as code and modern SDLC best practices resulting in further POC alignment
 - Achieved highest division quota attainment of 163% in first year 
 - Awarded SE of the Year 2022 for my division region
-
 
 ***Solutions Engineer | Launchdarkly | San Francisco Bay Area | 2019 - 2020***
 - Closed 6 figures of product for the fiscal quarter during the pandemic
@@ -106,3 +106,4 @@ Hobbies: Reading, Biking, Weightlifting, Computer Games, Economics and Markets, 
 8. [Structuring Machine Learning Projects](https://www.coursera.org/account/accomplishments/verify/MUBQT8A8CGDA)
 9. [Improving Deep Neural Networks: Hyperparameter Tuning, Regularization, and Optimization](https://coursera.org/share/461817bd33833422f037fe3530b0c315)
 10. [Learning How to Learn by Barbara Oakley](https://coursera.org/share/fe903885a199e2f59e103a1c6b41c87f)
+11. AWS Certified Solutions Architect - In progress 
