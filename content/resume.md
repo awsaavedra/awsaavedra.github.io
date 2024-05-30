@@ -13,11 +13,11 @@ Hobbies: Reading, Biking, Weightlifting, Computer Games, Economics and Markets, 
 
 ## Technical & Analytical Skills
 
-- **General**:  Java and Kotlin ecosystem, TypeScript and Javascript, NodeJS, SQL, Postgres, Maven, Gradle, Git, basic Networking, REST APIs and exposure to SOAP, Bash, Linux and general GNU knowledge, Vim, and relational & non-relational databases
+- **General**:  Java and Kotlin ecosystem, TypeScript and Javascript, NodeJS, SQL, Postgres, Maven, Gradle, Git, basic Networking, REST APIs and exposure to SOAP, Bash, Linux and general GNU knowledge, LaTeX, Vim, and relational & non-relational databases
 
 - **Deployment Technologies**: Amazon Web Services, Docker, Kubernetes, KiND, GitHub Actions, Azure DevOps, Jenkins, Virtual Machine Infrastructure, Ephemeral Agent Deployment, Firebase
 
-- **Development Methodologies**: Extreme programming, Test Driven Development, Behavior Driven Development, Agile, Scrum, and academic experience with Waterfall
+- **Development Methodologies**: Extreme programming, Test Driven Development, Behavior Driven Development, Agile, and Scrum
 
 - **Application Security Testing**: Static Application Security Testing,  Software Composition Analysis, Interactive Application Security Testing, Infrastructure as Code, Security in Software Development Lifecycle, and basic Protocol Fuzzing knowledge
 
@@ -31,16 +31,17 @@ Hobbies: Reading, Biking, Weightlifting, Computer Games, Economics and Markets, 
 
 ## Work Experience
 
-***Sr Staff Solutions Architect | Synopsys Inc | San Francisco Bay Area | 2021 - present***
-- Awarded SE of the Year 2022 for my division West region and promoted to Staff engineer beginning of 2023
-- Achieved highest division quota attainment of 163% in first year 
-- Highest win rate 68% achieving 2021 for division
-- Streamlined the product trial navigation process with engineer teams leading to a 200% faster proof of concept cycle
-- Shadow, mentor, and assist in onboarding 5 senior and 2 staff engineers leading to 150% faster onboarding
-- Trained engineers on infrastructure as code and modern SDLC best practices resulting in further POC alignment
+***Sr. Staff Solutions Architect | Synopsys Inc | San Francisco Bay Area | 2021 - present***
+- Spearheaded product security initiatives for machine learning both internally results in more ubiquitous ML usage
+- Lead LLM team initiative meetings to incorporate LLM tooling to more efficiently answer internal product queries
+- Streamlined, and documented Kubernetes deployment strategies in concert with specialist team on K8 deploy
 - Spearheaded the initiative  for high priority technology integrations like GitHub Actions for SAST and SCA
-- Received highest possible first year and second year performance review by manager which lead to promotion
-- Analyze, design, and implement software solutions to meet client requirements.
+- Mentored, and assisted in onboarding 5 senior and 2 staff engineers leading to 150% faster onboarding & product
+- Streamlined the product trial navigation process with engineer teams leading to a 200% faster proof of concept cycle
+- Trained engineers on infrastructure as code and modern SDLC best practices resulting in further POC alignment
+- Achieved highest division quota attainment of 163% in first year 
+- Awarded SE of the Year 2022 for my division region
+
 
 ***Solutions Engineer | Launchdarkly | San Francisco Bay Area | 2019 - 2020***
 - Closed 6 figures of product for the fiscal quarter during the pandemic
@@ -79,6 +80,7 @@ Hobbies: Reading, Biking, Weightlifting, Computer Games, Economics and Markets, 
    - Guru index which aggregated stock data and metadata from various sources which was I believed would produce a highly concentrated long term outperformance focused strategy for large and small capital US based companies sources included GuruFocus and WhaleWisdom. The rough details are outlined in this blog post https://awsaavedra.com/posts/enterprising-investor.
    - Strategy was eventually discussed with highly skilled value investors and then discontinued once I learned about a YC18 alumni startup that was implementing a strategy that rhymed in their flagship product with more traction.
 
+#### GarageHub, the Airbnb of garage space 
 **GarageHub:** 
 - Developed ‘GarageHub’ -- AirBnB for garage space -- utilizing JavaScript, AngularJS, Firebase, Zapier, and Twilio API, designed to capture a $20Mill+ market of open garage space in San Francisco
 
@@ -86,7 +88,7 @@ Hobbies: Reading, Biking, Weightlifting, Computer Games, Economics and Markets, 
 
 ## Education
 
-**M.S. Computer Science: Interactive Intelligence**, Georgia Institute of Technology, GPA 4.0,  2023 - Present
+**M.S. Computer Science: Interactive Intelligence** GPA: 4.0, Georgia Institute of Technology, 2023 - Present
 
 **B.S. Machine Learning and Neural Computation** UC MGPA: 3.72, Minor in Computer Science, University of California San Diego
 
