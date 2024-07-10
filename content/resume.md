@@ -81,8 +81,7 @@ Hobbies: Reading, Biking, Weightlifting, Computer Games, Economics and Markets, 
    - Strategy was eventually discussed with highly skilled value investors and then discontinued once I learned about a YC18 alumni startup that was implementing a strategy that rhymed in their flagship product with more traction.
 
 #### GarageHub, the Airbnb of garage space 
-**GarageHub:** 
-- Developed ‘GarageHub’ -- AirBnB for garage space -- utilizing JavaScript, AngularJS, Firebase, Zapier, and Twilio API, designed to capture a $20Mill+ market of open garage space in San Francisco
+   - Developed ‘GarageHub’ -- AirBnB for garage space -- utilizing JavaScript, AngularJS, Firebase, Zapier, and Twilio API, designed to capture a $20Mill+ market of open garage space in San Francisco
 
 ---------
 
