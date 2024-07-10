@@ -419,7 +419,7 @@ Nothingismere.com
 https://www.ldeming.com/
 
 http://paulgraham.com
-
+https://infoproc.blogspot.com/
 https://marginalrevolution.com
 https://sdianahu.com/reading
 https://nat.org/
