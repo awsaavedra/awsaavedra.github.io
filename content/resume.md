@@ -1,6 +1,6 @@
 ## Alexander Saavedra
 
-Email is available upon request only via LinkedIn | San Francisco, CA | [LinkedIn](linkedin.com/in/awsaavedra) | [GitHub](github.com/awsaavedra)  
+Email is available upon request only via LinkedIn | San Francisco, CA 
 
 --------
 
