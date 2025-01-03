@@ -5,6 +5,7 @@ author: Alexander Saavedra
 
 tags: [productivity, computer science]
 
+
 draft: false
 enableDisqus : true
 enableMathJax: false
