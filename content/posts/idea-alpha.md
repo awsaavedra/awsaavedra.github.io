@@ -1,7 +1,7 @@
 ---
 title: "Seeking Idea Alpha"
 date: 2025-01-02T20:02:14-08:00
-lastmod: 2025-01-02T20:02:14-08:00
+lastmod: 2025-01-19T20:02:14-08:00
 author: Alexander Saavedra
 tags: [philosophy, entrepreneurship]
 draft: false
@@ -34,7 +34,7 @@ looks for outperformance over some benchmark measurement.
 | True          | conventional truth          | unconventional truth |
 | Untrue        | conventionally wrong     |   unconventionally wrong |
 
-One this missing here is whether the thing is in fact knowable. Ideas that are unknowable should be called **mysteries**. We are dealing in **secrets** which are knowable things that are hidden. 
+One thing missing here is whether the thing is in fact knowable. Ideas that are unknowable should be called **mysteries**. We are dealing in **secrets** which are knowable things that are hidden. 
 Some ideas are there for only some eyes to see.
 
 You need to clear your mind of incorrect ideas for the better ideas to make a home in your head. 
@@ -65,7 +65,10 @@ If you can't think of an example of this you aren't looking hard enough and thin
 If you think your righteous cause is worth sacrificing truth for your righteous cause you're 
 simply another ideologue.
 
-It is an art, there are no clear answers or formulas since the irreducible resists constraint without cutting off an essential piece of the whole.
+"Not everything that counts can be counted, and not everything that can be counted counts." ~ Einstein
+
+It is an art, there are no clear answers or formulas since the irreducible resists constraint without cutting off an essential piece of the whole. This is embodied in the philosophy of holism. Holism is the opposite of reductionist philosophy, especially greedy reductionism. The harder an idea is to grasp or find, the more likely it is to be high hanging fruit.
+
 
 # Seeking Idea Alpha the Known and Unknown
 
@@ -73,10 +76,10 @@ It is an art, there are no clear answers or formulas since the irreducible resis
 
 
 ![Plato's Cave](/platos-cave.jpeg)
-In the known using first principles in a formal logical system, that is, a set of propositions that are consistent with one another. 
+In the "known", we use first principles in a formal logical system, that is, a set of propositions that are consistent with one another. 
 It is possible that some of the statements can be deduced from other statements.
-Try to figure out if things are merely conventions are actually true. 
-This was discussed at lenght in my article about the status quo. 
+Try to figure out if things are merely conventions or are actually true. 
+This was discussed at length in my article about the status quo. 
 To do this you may be considered a heretic in some circles.
 
 "Few people are capable of expressing with equanimity opinions which differ from the prejudices of their social environment. 
@@ -107,11 +110,10 @@ Bad things follow those that questioned it.
 “The general or prevailing opinion in any subject is rarely or never the whole truth; it is only by the collision of adverse opinions that the remainder of the truth has any chance of being supplied.” ~ John Stuart Mill, On Liberty
 
 Framing ideas to not offend is an art. 
-There is a degree of scarcity for “weirdness” points in any given social situation. 
-If you think there is an infinite amount of “weirdness” points you’re suffering from **orthodox privilege**. 
+There is a degree of scarcity for “weirdness” points in any given social situation. Think of it as a punch card and you have a finite about of them to express at a given interval. If you go over the limit your credibility will wane. It's called credit for a reason, you don't want to overspend on your weirdness credit card.
+If you think there is an infinite amount of “weirdness” points, you’re suffering from **orthodox privilege**. 
 Orthodox privilege is when conventional-minded people think it is safe for everyone to express their point of view since they do not see the full landscape of opinions. 
 Many people rather start **preference falsifying** to fit into their group. 
-The more conventional-minded the person is, the more likely they are to believe it is safe for all opinions to be expressed. 
 **There has been no period of time in which people could express all ideas without serious consequences for at least a few of their ideas causing serious damage to them.** Paul Graham said this from Y-combinator.
 
 Beware euphemisms in language, they are designed to muddy the waters of truth behind a thin veil of sensitivity. 
@@ -129,7 +131,7 @@ Another group that is able to clear through the fog of social conventions is com
 Life is a rubber band centered around a nail of truth.
 One can stray from reality but eventually it will snap back into place, the snap can be violent and unpleasant for those believers that have built a foundation in delusion. 
 Choose your ideas wisely, don’t choose an ideology just because it is convenient or congruent.
-Seek out the entire space of perspectives and create a
+Seek out the entire space of perspectives and create an
 **ideas tournament** to figure out which idea is best in it's given domain.
 Every idea needs to fight for it's life in the target domain.
 
@@ -189,7 +191,10 @@ Insights can be formalized, but it is much harder to reproduce the process that 
 
 "There are questions so important that it is, or should be, hard to think about anything else." ~Jack Bogle in Enough. Quoting Glenn While at Princeton.
 
-These are the questions which lead to profound insights and ultimately paradigm shifting results if properly implemented. 
+These are the questions which lead to profound insights and ultimately paradigm shifting results if properly implemented.
+
+![S curves](/s-curve.png)
+
 Ideas have lifetimes and follow S-curves, each idea and strategy has a lifetime which starts and ends until we move onto another S-curve producing the next phase of outperformance of a new idea.
 
 To do this you must become an idea generator, make a ruckus and question the status quo. 
@@ -202,7 +207,7 @@ Your insights per hour, day, week, etc. should become more frequent or the power
 Quantity ultimately produced quality in creativity because generative people probably have a fixed percentage of good ideas in a given set of generated ones. 
 Consider two individuals, one contemplates how to make the best pot and the other just constantly makes pots. 
 The one whose made 100s of pots probably will have better taste and now know how to make a better pot.
-Grit is an important idea in art simply because even if someone is more talent you can just make way more pots.
+Grit is an important idea in art simply because even if someone is more talented you can just make way more pots.
 
 Keep in mind that to deliver alpha ideas, you must be ahead of the consensus and believe people will come around to your idea. 
 Which may at first be perceived to be incorrect and require you to persevere until the consensus comes around to your idea. 
@@ -214,8 +219,8 @@ Avoid haterade, it is a terrible drink.
 "good experts make counterintuitive non-consensus predictions that turn out correct." 
 
 Most companies have secret sauce and are founded on some secret. 
-The world is based more on power laws than number of people working on a problem, the 80/20 principle, or the Pareto distribution is one of many power laws.
-Some power laws are even more extreme, one person with one powerful idea can change the world because they get critical mass behind them. 
+The world is based more on power laws than number of people working on a problem. The 80/20 principle, or the Pareto distribution is one of many power laws.
+Some power laws are even more extreme, one person or small group of people with one powerful idea can change the world because they get critical mass behind them. Instagram sold with a tiny group for a huge sum of money.
 All the greatest acts in human history come from an unreasonable person with a vision to change the world with insights that shatter the status quo or build something beyond the borders of the known. 
 Think of activists like Martin Luther King or Inventors like Howard Hughes, or scientists like Marie Curie. 
 History would be so much less without their contributions. 
@@ -227,20 +232,16 @@ Some of the ideas I have had over the years none should be considered investment
 or 2030 as Ray Kurzweil famously predicted. 
 I projected how many neurons (nodes) and connections
 this would require and decided it was very possible given present exponential progress. 
-The reason it is so hard for people to consider this possibility is their intuitions are learn.
+The reason it is so hard for people to consider this possibility is their intuitions are linear. 
 This is why I studied machine learning and brains.
-The people afraid of artificial general intelligence talk about safety,
-I talk about summoning God.
+The people afraid of artificial general intelligence talk about safety, I talk about summoning God.
 
 2. 2008 was when: I decided **aging is simply another disease** we've rationalized away from solving. 
-We have a massive moral obligation to 
-find a cure to aging.
+We have a massive moral obligation to find a cure to aging.
 
 3. 2008: **Voluntary work is the only type of ethical work**. 
-I call voluntary work play and 
-one should play seriously and thoughtfully. 
-The notion of involuntary work is outdated and has no ethical basic in a country with 
-economic abundance available to every citizen.
+I call voluntary work play and one should play seriously and thoughtfully. 
+The notion of involuntary work is outdated and has no ethical basis in a country with economic abundance available to every citizen.
 Everyone in that country should be allowed to play if they so choose.
 However, I believe humans are designed to play and want to play. 
 
