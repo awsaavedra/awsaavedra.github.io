@@ -39,7 +39,11 @@ According to Larry Wall, the original author of the Perl programming language, t
 **Hubris**: The quality that makes you write (and maintain) programs that other people won't want to say bad things about.
 
 <sub>1 Randy Pausch advice to his children</sub>
+
 <sub>2 Maya Angelou</sub>
+
 <sub>3 John Steinbeck in East of Eden</sub>
+
 <sub>4 Aeneid VII, Virgil</sub>
+
 <sub>5 Thomas Jefferson to William Roscoe 1820</sub>
