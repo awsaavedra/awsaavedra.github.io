@@ -1,11 +1,9 @@
 ---
 title: Daily Lifestyle Checklist
 date: 2017-01-18T02:01:58+05:30
+lastmod: 2025-01-24
 author: Alexander Saavedra
-
 tags: [health, longevity]
-
-
 draft: false
 enableDisqus : true
 enableMathJax: false
@@ -21,26 +19,26 @@ DISCLAIMER: THIS WEBSITE DOES NOT PROVIDE MEDICAL ADVICE The information, includ
 A short guide to what I have found useful in my
 lifestyle over the past couple years based on the latest scientific evidence. Not something to be followed without consulting a doctor.
 
-# Whole Foods Plant Based Food Plate
+## Whole Foods Plant Based Food Plate
 
 ![Whole Foods Plant Based](/whole-foods.jpg "Whole Foods plant based Foods")
 
 | Food        | Serving           | Notes  |
 | ------------- |:-------------:| -----:|
-| Legumes      | 3 | Lentils,beans, etc. |
-| berries      | 1      |   blue, black, cranberries, all that |
+| Legumes      | 3 | Lentils, beans, etc. |
+| berries      | 1      |   blue, black, strawberries, cranberries, barberries |
 | Cruciferous Veggies | 3     |    Broccoli, kale, hard veggies |
 | Greens | 2      |   chard, spinach, etc. |
 | Other Vegetables | 2      |    carrots, beets, cabbage, etc. |
-| whole flaxseed | 1      |    I personally like Bob's redmill flaxseed |
-| nuts | 1      |   mixed nuts |
-| spices | 3      |    Ceylon cinnamon, turmeric, cloves, black pepper, etc. |
-| whole grains | 3     |    steel cut oats, low glycemic index grains |
-| Prebiotic Foods | 1      | onion, garlic, leeks, etc. |
+| flaxseed | 1      |    Bob's redmill flaxseed |
+| nuts | 1      |   mixed nuts, brazil nuts, walnuts |
+| spices | 3      |    Ceylon cinnamon, turmeric, cloves, black pepper, cumin (+black cumin), cardamom, Long Black Pepper |
+| whole grains | 3     |    steel cut oats, wheat germ, low glycemic index grains |
+| Prebiotic Foods | 1      | onion, garlic, ginger, leeks, etc. |
 | Time restricted Eating | N/A     | skew early like 8am - 3PM |
-| Mushrooms | 1      | Immune function, taste |
+| Mushrooms | 1      | button mushrooms, oyster, shitake, etc. |
 | Aerobic exercise | 90+ minutes per day      |   https://nutritionfacts.org/topics/exercise/ |
-| Drinks | 8+ cups     | Green tea, ginger tea, matcha tea, hibiscuous tea |
+| Drinks | 8+ cups     | Teas: Green, Matcha, Ginger, Hibiscus, lemon verbena |
 | Mindfulness Meditation | 10+ minutes | sometimes more, ideally 1 hour a day |
 ## Supplements
 

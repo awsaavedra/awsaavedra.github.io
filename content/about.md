@@ -1,12 +1,11 @@
 ---
 title: About
+date: 2024-01-24
 lastmod: 2025-01-019T20:02:14-08:00
 author: Alexander Saavedra
-
 description: 
 categories: []
 tags: []
-
 draft: false
 enableDisqus : true
 enableMathJax: false
