@@ -25,9 +25,9 @@ lifestyle over the past couple years based on the latest scientific evidence. No
 
 | Food        | Serving           | Notes  |
 | ------------- |:-------------:| -----:|
-| Legumes      | 3 | Lentils, beans, etc. |
+| Legumes      | 3 | red Lentils, pinot beans, etc. |
 | berries      | 1      |   blue, black, strawberries, cranberries, barberries |
-| Cruciferous Veggies | 3     |    Broccoli, kale, hard veggies |
+| Cruciferous Veggies | 3     |    Broccoli sprouts, arugula, kale, just hard veggies |
 | Greens | 2      |   chard, spinach, etc. |
 | Other Vegetables | 2      |    carrots, beets, cabbage, etc. |
 | flaxseed | 1      |    Bob's redmill flaxseed |
