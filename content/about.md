@@ -15,7 +15,7 @@ disableAutoCollapse: true
 
 ## Me
 
-My massive transformative purpose is: __to democratize secure and safe AI technologies__
+My massive transformative purpose is: __democratize secure and safe AI technologies__
 
 I focus on productivity over connectivity.
 I focus on positive sum games in life; we win and then help others win.
