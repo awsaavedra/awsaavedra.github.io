@@ -1,7 +1,7 @@
 ---
 title: "AI"
 date: 2025-02-28T16:39:08-08:00
-lastmod: 2025-02-28T20:02:14-08:00
+lastmod: 2025-03-19T20:02:14-08:00
 author: Alexander Saavedra
 tags: [philosophy, software]
 draft: false
@@ -20,6 +20,7 @@ their whole lives to the development of mechanical life.
 The upshot is simply a question of time, but that the time will come when the machines 
 will hold the real supremacy over the world and its inhabitants is what 
 no person of a truly philosophic mind can for a moment question.
+
 ~ Darwin among the Machines by Cellarius (Samuel Butler)
 
 I remember reading this quote and wondering when this was written.
@@ -30,8 +31,10 @@ When dealing with AI timelines it's been a wild ride realizing back in 2007 that
 age of machines was upon us. Whether we will be economically relevant as a species is 
 a fascinating subject with many perspectives.
 
-As we get closer to the singularity many questions will be asked about science, philosophy, and our economic relevancy as a species. The **singularity** is a point at which is when technological progress cannot be understood
-by current human mind since it is progressing so quickly. The only way to get around 
+As we get closer to the singularity many questions will be asked about science, philosophy, and our economic relevancy as a species. 
+The **singularity** is a point at which is when technological progress cannot be understood
+by current human mind since it is progressing so quickly. 
+The only way to get around 
 this is to increase our speed of understanding by enhancing our own intelligence 
 via numerous methods that will expand our neo-cortex many fold.
 
@@ -42,11 +45,13 @@ and I view patternism as the best attempt as understanding these patterns.
 
 In addition, the type of hardware running these patterns is largely irrelevant.
 The reason why is because if these computations are equivalent then the substance of the 
-computation is the same. This view is called **computational equivalence** in which
+computation is the same. 
+This view is called **computational equivalence** in which
 as long as both systems can perform the same computations then they're equivalent.
 
 I'm not going to try to convince the reader that humans are unique in our mental processes
-quiet the opposite. I would argue we inhabit an interesting branch of the evolutionary tree
+quiet the opposite. 
+I would argue we inhabit an interesting branch of the evolutionary tree
 however it is definitely possible to replicate in a machine mind.
 
 # Objections to these ideas
@@ -54,10 +59,15 @@ however it is definitely possible to replicate in a machine mind.
 
 
 There are numerous objections to all of these ideas but one is that these computations 
-human brains do is NOT equivalent to AI. This is completely false from a technical perspective.
+human brains do is NOT equivalent to AI. 
+This is completely false from a technical perspective.
+If the computations are indistinguishable from one another in terms of function 
+how then can we know the substance of the computation is not equivalent? 
+Performing a deeper equality test gets harder and harder as you go down this chain of reasoning.
 
-Another one is the AIs are not embodied, which is a valid criticism. How long will 
-this fact stay true though? Not long as robotics advanced.
+Another one is the AIs are not embodied, which is a valid criticism. 
+How long will this fact stay true though? 
+Not long as robotics advanced.
 
 The other arguments break down to what Scott Aaronson called "Justaism" arguments like
 the following:
@@ -68,12 +78,55 @@ the following:
 I could go on but as Scott states "what the justaism arguers always fail to realize 
 is all these arguments apply to us (humans)". 
 
+A very historically minded objection would be that the field of AI 
+made this same claim awhile ago and got it extremely wrong which I will address below.
+
+# AI Winter of the 80s
+“Technologically, as I have argued earlier, machines will be capable, within twenty years, of doing any work that a man can do. Economically, 
+men will retain their greatest comparative advantage in jobs that require flexible manipulation of those parts of the environment 
+that are relatively rough—some forms of manual work, control of some kinds of machinery (e.g., operating earth-moving equipment), 
+some kinds of nonprogrammed problem solving, and some kinds of service activities 
+where face-to-face human interaction is of the essence.” ~ 1960, The New Science of Management Decision by Herbert A. Simon
+
+Back in the 70s and 80s people were wrongly predicting that the AIs would surpass humans that decade. 
+
+The two schools of research were expert systems and the connectionist school. 
+The connectionists used the brain for inspiration and the expert systems used more formal logic for inspiration. 
+From the Stanford Encyclopedia of philosophy it states that 
+“Connectionism is a movement in cognitive science that hopes to explain intellectual abilities 
+using artificial neural networks (also known as “neural networks” or “neural nets”).” 
+Expert systems use formal logic structures that proved to be very brittle. 
+One of the most famous expert systems was a set of incredibly nested and 
+convoluted conditional statements e.g. "if else" (spaghetti code?) that become so hard to maintain almost all 
+changes made after a certain point broke the program.
+
+The majority of universities and research groups bet on the expert systems side and some on the connectionist side.
+The lack of progress on both fronts created the AI winter. 
+The few places that did continue on the connectionist side eventually bore fruit of course.
+Numerous factors contributed to this but the most obvious was overpromising and under delivering. 
+Especially since numerous researchers expected a generally intelligent system by 1980 or so.
+
+These connectionist researchers are now incredibly famous such as Geoffrey Hinton. 
+Places like University of Toronto who produced the likes of Ilya Sutskever stuck it out when connectionism seemed implausible. 
+
+The opposite of “this time is different" is “it is always the same." 
+Sometimes things are indeed different, **my central claim is that this time is indeed different**.
+
+People measure things by time instead of events. 
+This is a bad idea when to use time based terms “sometimes a century can happen in a day." 
+The amount of paradigm shifting events will increase. Buckle up.
+A better measurement is change which is the the number of events happening over a given time interval.
+
+Humans' intuitions are linear but information technology is exponential. 
+When people project the growth they are deceived at first by the exponential as
+it looks flat or barely growing but increases drastically.
+
 # Will machines be conscious? 
 
 This is a complex philosophical topic and I will only state a couple things.
 
 1. The only completely knowable fact to you is that you're conscious
-2. It is unknowable with present technology to know if another being is conscious. It's just an assumption others being are albeit a good one! 
+2. It is unknowable with present technology to know if another being is conscious. It's just an assumption others being are albeit a good one from a practical perspective! 
 
 3. We should use the same standards of evidence we use for other people, animals, etc. to 
 apply to AI to decide it is conscious. 
@@ -88,20 +141,28 @@ apply to AI to decide it is conscious.
 
 That's the real question that matters, the possibilities is inevitable assuming we keep 
 progressing and I'm fairly certain it will happen in the next 5 year. 
-As smart as an average person as least. 
+As smart as an average person as least in terms of software operations. 
 
 Since it is an exponential trend it will surpass the whole of humanity as some point
-and what then? I don't know, but very soon in the next 10-20 years at most, I think 2040 to 2045 is conservative.
+and what then? 
+I don't know, but very soon in the next 10-20 years at most, I think 2040 to 2045 is conservative.
+It's unclear on the embodied piece of this though, it is looking like robotics may be behind.
 
+I am sidestepping one major thing though, what is intelligence? 
+This is a rather difficult question if you allow yourself to be puzzled by the deeper
+and subtle parts of what this question asks.
 
 # Science fiction and potential science fact scenarios
 I wrote a blog post about perspectives on progress in which I covered possible 
-future scenarios humans may face. The major one we are currently facing 
+future scenarios humans may face. 
+The major one we are currently facing 
 is one in which bits, as opposed to atoms, are experiencing exponential progress.
 At this point it is an undeniable fact that machine intelligence is progressing
-faster than most expected. Back in 1999 when Ray Kurzweil wrote The Age of Spiritual
+faster than most expected. 
+Back in 1999 when Ray Kurzweil wrote The Age of Spiritual
 Machines and predict artificial general intelligence by 2029 the AI community got
-together and came up with 100+ year timeline to reach AGI. His position was highly controversial but
+together and came up with 100+ year timeline to reach AGI. 
+His position was highly controversial but
 he was clearly potentially producing **idea alpha** much like I discussed previously.
 
 Many possibilities exist but one of them is from the short SciFi story The Machine Stops 
@@ -135,16 +196,25 @@ chosen.
 All values are contextual and instrumental to the goals used.
 There may be universal values but that's a tough one to argue for.
 
-Another movie
+
+There are numerous other books and movies on the topic, but
+many I think do not lay out plausible future possibilities.
+I will name one more I liked Do Robots dream of electric Sheep? 
 
 # What do you see in the Sloggoth?
 
-There are many descriptions of the concept of a Sloggoth, my favorite is this one
-It was a terrible, indescribable thing vaster than any subway train—a shapeless congeries of protoplasmic bubbles, faintly self-luminous, and with myriads of temporary eyes forming and un-forming as pustules of greenish light all over the tunnel-filling front that bore down upon us, crushing the frantic penguins and slithering over the glistening floor that it and its kind had swept so evilly free of all litter.
+There are many descriptions of the concept of a Sloggoth, my favorite is this one:
+
+"It was a terrible, indescribable thing vaster than any subway train—a shapeless congeries of protoplasmic bubbles, 
+faintly self-luminous, and with myriads of temporary eyes forming and un-forming as pustules of greenish light all over 
+the tunnel-filling front that bore down upon us, crushing the frantic penguins and slithering 
+over the glistening floor that it and its kind had swept so evilly free of all litter."
 
 — H. P. Lovecraft, At the Mountains of Madness
 
 ![rorscach](/ai/rorschach-sloggoth.png "rorschach")
+
+AI is often referred to as a sloggoth.
 
 Besides being supposedly menacing it is a hodge podge of things while being nothing in particular.
 Similar to a rorschach test you're making meaning out of a muddled image.
@@ -242,6 +312,8 @@ than me but I'm going to attempt to add a shorter list here in order of need to 
 13. Fei-Fei Li
 
 14. Ray Kurzweil
+
+15. Ilya Sutskever
 
 There are others and lots of interesting machine learning peope at companies.
 The people I chose are mostly because of their work being relevant to me or 
