@@ -50,3 +50,30 @@ The more intelligence pointed in a well cooperated set of directions leads to gr
 It's all very simple really, we just need to acknowledge that this fence that has been around for a long time needs to be torn down and replaced. 
 
 Death the disease needs to be optional for everyone.
+
+# Additional resources
+
+You can read my dialy lifestyle checklist but major 
+research is going into longevity and the taboo is starting to be lifted around aging being fought.
+
+Some of my favorite thinkers on the subject are
+
+1. Peter Attia
+
+2. Laura Deming
+
+3. Ray Kurzweil
+
+4. Peter Diamandis
+
+5. Bryan Johnson
+
+# Still not convinced? 
+
+If none of that convinced you let me ask you this, 
+do you think you will be gung ho to die if until your very last moment you were in peak mental and physical condition? 
+
+
+![ali](/ali.jpeg "ali")
+
+Yes, it did need to be that of a picture and no I will not make it HD.
