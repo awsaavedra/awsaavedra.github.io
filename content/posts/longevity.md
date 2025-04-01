@@ -34,6 +34,10 @@ Wanting to live a long time is selfish. Okay, selfishness assumes it is hurting 
 The other arguments usually follow into ludditism or some variant that basically certain technological advances are forbidden fruit. These claims are inherently anti-empirical and that which can be presented without evidence can be dismissed without evidence. 
 
 # The Essence of Technologies Purpose Leads Here
+“Humanity has the stars in its future, and that future is too important to be lost under the burden of juvenile folly and ignorant superstition.”
+― Isaac Asimov
+
+Superstitions won't do when we have the stars in our future.
 
 The essence of technology is to reduce scarcity. Time is all we really have and spending it wisely is essential. So why not get as much time as possible to create the greatest abundance possible which is time? 
 
