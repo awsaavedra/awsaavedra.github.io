@@ -1,82 +1,59 @@
 baseURL = "https://awsaavedra.com/"
 languageCode = "en"
 DefaultContentLanguage = "en"
-enableInlineShortcodes = true
-enableEmoji = true
-# pagination = 10
-
 title = "Alexander Saavedra"
-copyright = "[Home](/) &#183; Theme [Simpleness](https://github.com/RainerChiang/simpleness) Powered by [Hugo](https://gohugo.io/)"
-
-theme = "simpleness"
-googleAnalytics = ""
+theme = "hugo-bearblog"
 
 [params]
-  lazyImage = true
-  enableMathJax = false # enable it in Front Matter
-  enableReadingTime = true
+  # Theme settings
+  description = "A simple and concise blog."
   favicon = "favicon.ico"
-  startyear = "2019"
-  showmonth = true
-  slogan = "always make it happen"
-  description = "A simple and concise hugo theme."
-  disqus = ""
+  showReadingTime = true
+  showWordCount = true
+  showRssButtonInSectionTermList = true
+  showPageNums = true
+  showAllPagesInArchive = true
+  showBreadCrumbs = true
+  showTaxonomies = true
 
-[params.valine]
-  enable = false
-  lang = 'en' # zh-CN
-  appId = ''
-  appKey = ''
-  placeholder = 'Say Something......'
-  requiredFields = ['nick', 'mail']
-  avatar = 'robohash'
-  visitor = true
-  enableHeaderVisitor = true
-  debug = true
+  # Social links
+  github = "https://github.com/awsaavedra"
+  linkedin = "https://linkedin.com/in/awsaavedra"
+  rss = "index.xml"
+
+  # Enable MathJax
+  enableMathJax = false
 
 [menu]
-  [[menu.main]]
-  # name = "Home"
-  # url = "/"
-  # weight = 1
-
-
   [[menu.main]]
   name = "Documentation"
   url = "/documentation/"
   weight = 1
 
   [[menu.main]]
-  name = "About"
-  url = "/about/"
+  name = "Projects"
+  url = "/projects/"
   weight = 2
 
   [[menu.main]]
-  name = "Resume"
-  url = "/resume/"
+  name = "About"
+  url = "/about/"
   weight = 3
-
-  [[menu.main]]
-  name = "Projects"
-  url = "/projects/"
-  weight = 4
 
   [[menu.main]]
   name = "Quotes"
   url = "/quotes/"
+  weight = 4
+
+  [[menu.main]]
+  name = "Resume"
+  url = "/resume/"
   weight = 5
 
-[social]
-  github = "https://github.com/awsaavedra"
-  linkedin = "https://linkedin.com/in/awsaavedra"
-  rss = "index.xml"
-
 [taxonomies]
-category = "categories"
-tag = "tags"
+  category = "categories"
+  tag = "tags"
 
-# doc: https://gohugo.io/getting-started/configuration-markup#highlight
-# syntax style: https://xyproto.github.io/splash/docs/longer/all.html
 [markup]
   [markup.highlight]
     codeFences = true
@@ -86,7 +63,7 @@ tag = "tags"
     lineNos = false
     lineNumbersInTable = true
     noClasses = true
-    style = "dracula" # github, dracula, vim, monokai
+    style = "dracula"
     tabWidth = 4
 
 [security]

@@ -1,4 +1,3 @@
-
 ---
 title: Documentation
 lastmod: 
@@ -20,15 +19,15 @@ toc: true
 
 The purpose of this documentation is a primary list of areas I have documented over time for help with various areas of lifestyle design. When I say lifestyle design I try to answer the question "how to design a life worth living and optimized to my needs?" I assume many people struggle with similar problems to myself and that the same solutions that have worked for me are useful to others. This is not simply a list of areas of study, it is a web of knowledge to thread together over time to help others and myself become more effective. 
 
-“argued, I think, very plausibly, that the core principle and requirement of a fulfilled human being is the ability to inquire and create constructively, independently, without external controls.” A true education, Chomsky suggests, opens a door to human intellectual freedom and creative autonomy." ~ paraphrasing Wilhelm von Humboldt by Noam Chomsky
+"argued, I think, very plausibly, that the core principle and requirement of a fulfilled human being is the ability to inquire and create constructively, independently, without external controls." A true education, Chomsky suggests, opens a door to human intellectual freedom and creative autonomy." ~ paraphrasing Wilhelm von Humboldt by Noam Chomsky
 
-“glorify who you are today, do not condemn who you were yesterday and dream of who you can be tomorrow...” ~ Neale Donald Walsch
+"glorify who you are today, do not condemn who you were yesterday and dream of who you can be tomorrow..." ~ Neale Donald Walsch
 
 ## Disclaimers
 
 **DO NOT BE A HELP VAMPIRE: (plural help vampires) (chiefly computing, derogatory, informal) A person who requests answers and solutions from a community while giving nothing in return.**
 
-Disclaimer 1: I am not an investment advisor. None of the information presented herein is intended to form the basis of any offer or recommendation or have any regard to the investment objectives, financial situation, or needs of any specific person, and that includes you, my dear reader. Everything you’re going to read is for informational purposes only. PLEASE DO NOT ASK FOR ANY FINANCIAL ADVICE, MY ANSWER IS ALWAYS “I DO NOT GIVE ADVICE.”
+Disclaimer 1: I am not an investment advisor. None of the information presented herein is intended to form the basis of any offer or recommendation or have any regard to the investment objectives, financial situation, or needs of any specific person, and that includes you, my dear reader. Everything you're going to read is for informational purposes only. PLEASE DO NOT ASK FOR ANY FINANCIAL ADVICE, MY ANSWER IS ALWAYS "I DO NOT GIVE ADVICE."
 
 Disclaimer 2: THIS WEBSITE DOES NOT PROVIDE MEDICAL ADVICE
 The information, including but not limited to, text, graphics, images and other material contained on this website are for informational purposes only. No material on this site is intended to be a substitute for professional medical advice, diagnosis or treatment. Always seek the advice of your physician or other qualified health care provider with any questions you may have regarding a medical condition or treatment and before undertaking a new health care regimen, and never disregard professional medical advice or delay in seeking it because of something you have read on this website.
@@ -36,7 +35,7 @@ The information, including but not limited to, text, graphics, images and other 
 Disclaimer 3: The views expressed in these resources do not necessarily express my views or that of my employer
 
 ## 1. Learning 
-Searching through tag: https://awsaavedra.com/tags/learning/
+Searching through tag: [/tags/learning/](/tags/learning/)
 Work on your strategy for learning and you can get pretty far in life.
 1. Ultralearning by Scott Young
 2. Learning How to Learn by Barbara Oakley
@@ -122,7 +121,7 @@ structure your mind to get important things done.
 28. [The unreasonable effectiveness of Mathematics in the natural sciences](https://www.maths.ed.ac.uk/~v1ranick/papers/wigner.pdf)
 
 ## 3. Superforecasting
-Searching through tag: https://awsaavedra.com/tags/forecasting/
+Searching through tag: [/tags/forecasting/](/tags/forecasting/)
 Learn ways of predicting the possible paths things can go on.
 1. Nate Silver The Signal and the Noise
 2. Superforecasting by Philip E. Tetlock
@@ -136,7 +135,7 @@ Learn ways of predicting the possible paths things can go on.
 10. Life 3.0 by Max Tegmark
 
 ## 4. Productivity
-Search through tag: https://awsaavedra.com/tags/productivity/
+Search through tag: [/tags/productivity/](/tags/productivity/)
 Productivity is doing the most important thing first and keeping on it without distraction. Then, you get the next most important thing.
 1. Cal Newport books
     1. So Good They Can't Ignore You
@@ -180,14 +179,14 @@ Seek inner mental and spiritual alignment towards your aims.
 2. Expertise in Meditation to be in a Gamma state
 3. Guided Meditation apps and trainings
 4. Silent retreats
-5. Descartes’ Error by Antonio Damasio
+5. Descartes' Error by Antonio Damasio
 6. Meditations by Marcus Aurelius
 
 ## 6. Social and Cultural Life
 The world around you may be puzzling, seek to understand it.
 1. The Elephant in the Brain: Hidden Motives in Everyday Life by Robin D. Hanson
 2. How to Win Friends and Influence People by Dale Carnegie
-3. [Parkinson’s Law of Triviality](https://en.wikipedia.org/wiki/Law_of_triviality) and look under other trivial issues
+3. [Parkinson's Law of Triviality](https://en.wikipedia.org/wiki/Law_of_triviality) and look under other trivial issues
     a. Example https://en.wiktionary.org/wiki/bikeshedding
 5. [https://permies.com/t/scale](https://permies.com/t/scale)
 6. [https://wiki.earlyretirementextreme.com/wiki/ERE_Wheaton_Levels](https://wiki.earlyretirementextreme.com/wiki/ERE_Wheaton_Levels) The further you move away from normal the relatively less sane you seem to most people. Even it is simply because of convention.
@@ -206,7 +205,7 @@ The world around you may be puzzling, seek to understand it.
 16. https://therulesofcivilconversation.org  
 17. [Eroom's Law](https://archive.ph/qcjrU) 
 18. [Gell-man Amnesia](https://en.wikipedia.org/wiki/Michael_Crichton#GellMannAmnesiaEffect)
-19. [Price’s Law](https://en.wikipedia.org/wiki/Derek_J._de_Solla_Price?ck_subscriber_id=389176759#Scientific_contributions)
+19. [Price's Law](https://en.wikipedia.org/wiki/Derek_J._de_Solla_Price?ck_subscriber_id=389176759#Scientific_contributions)
 20. Administrative Behavior by Herbert Simon
 21. [Matthew effect](https://en.wikipedia.org/wiki/Matthew_effect)
 22. [Spiral of Silence](https://en.wikipedia.org/wiki/Spiral_of_silence) 
@@ -241,14 +240,14 @@ The world around you may be puzzling, seek to understand it.
 31. https://en.m.wikipedia.org/wiki/Cathexis 
 21. [Matthew effect](https://en.wikipedia.org/wiki/Matthew_effect) 
 22. https://en.wikipedia.org/wiki/Dunbar%27s_number
-23. https://ethos.lps.library.cmu.edu/article/id/560/ The second usage, more common outside of the former Soviet Union, appropriates one interpretation of Lysenko’s career to decry political intervention in and distortion of scientific knowledge. 
+23. https://ethos.lps.library.cmu.edu/article/id/560/ The second usage, more common outside of the former Soviet Union, appropriates one interpretation of Lysenko's career to decry political intervention in and distortion of scientific knowledge. 
 24. https://en.m.wikipedia.org/wiki/Abilene_paradox
 25. https://graymirror.substack.com/p/a-brief-explanation-of-the-cathedral 
 26. https://meta.wikimedia.org/wiki/Cunningham%27s_Law
 
 ## 7. Health
 
-Search through tag: https://awsaavedra.com/tags/health/ 
+Search through tag: [/tags/health/](/tags/health/) 
 The body is a temple, we live in our bodies first and must maintain it well.
 1. How not to Die by Michael Greger
 2. The Telomere Effect by Dr. Elizabeth Blackburn (Author), Dr. Elissa Epel
@@ -256,7 +255,7 @@ The body is a temple, we live in our bodies first and must maintain it well.
 4. [Longevity](https://docs.google.com/document/d/16cVVgSL5vYuWwRKUttr5KWdJu8lewkCZBdYv6na1h18/edit?usp=drive_web&ouid=104342103111359032082)
 
 5. How not to Diet by Michael Greger
-6. Why Zebras Don’t Get Ulcers
+6. Why Zebras Don't Get Ulcers
 7. How to Survive a Pandemic by Michael Greger
 8. The Drive by Dave Attia
 9. Lifespan: Why We Age—and Why We Don't Have To Kindle Edition by David Sinclair
@@ -325,7 +324,7 @@ Seek knowledge and a love of knowledge.
 22. https://richarddawkins.com/articles/article/postmodernism-disrobed
 23. [Intellectual Impostures: Modern Philosophers abuse of science](https://www.amazon.com/Intellectual-Impostures-Postmodern-Philosophers-Science/dp/1861971249)
 ## 10. Finance
-Search through tag: https://awsaavedra.com/tags/finance/
+Search through tag: [/tags/finance/](/tags/finance/)
 Finance can be a wonderful subject to understand the world since we 
 all lack resources we want to allocate. Those resources are time, capital, attention, and more.
 
