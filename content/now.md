@@ -28,3 +28,13 @@ on such as well as I got into two Master's programs in Cybersecurity and Machine
 You can read more on this via my [/projects](/projects) page.
 
 
+# Constitution
+
+Pretty much the most boring things you could imagine.
+
+I do strength training 3-4 days a week and cardio 3-4 days a week. 
+
+# Contemplation
+
+Meditation and some other activities including reading.
+
