@@ -4,7 +4,7 @@ date: 2025-05-05T15:53:10-07:00
 lastmod: 2025-05-05T15:53:10-07:00
 author: Alexander Saavedra
 tags: [philosophy, entrepreneurship]
-draft: true
+draft: false
 ---
 
 Busyness is a choice. 
