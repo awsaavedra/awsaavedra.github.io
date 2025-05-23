@@ -13,10 +13,15 @@ draft: false
 
 ![seeing beyond the veil](/alice.png)
 
-Summary: Look for unusual ideas you believe are true. You must hold deep conviction in this idea which are both rare and valuable insights you can build a company, investment thesis, or career off of. Use this truth to reach levels of unconventional success. All the greatest thinkers and doers of every time period have done this. They were ahead of the consensus in some rare and valuable way. It must be a paradigm shift, not an incremental shift. These ideas transform and change you in profound and subtle ways. 
-
-Science is the belief in the ignorance of experts. You may have heard differently, but guess what? Science is repeatability
-not respectability. 
+Summary: Look for unusual ideas you believe are true. 
+You must hold deep conviction in this idea which are both rare and valuable insights you can build a company, investment thesis, or career off of. 
+Use this truth to reach levels of unconventional success. 
+All the greatest thinkers and doers of every time period have done this. 
+They were ahead of the consensus in some rare and valuable way. 
+It must be a paradigm shift, not an incremental shift. 
+These ideas transform and change you in profound and subtle ways. 
+Science is the belief in the ignorance of experts. 
+You may have heard differently, but guess what? Science is repeatability not respectability. 
 
 
 # What is Idea Alpha?
