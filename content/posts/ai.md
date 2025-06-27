@@ -1,7 +1,7 @@
 ---
 title: "AI"
 date: 2025-02-28T16:39:08-08:00
-lastmod: 2025-03-19T20:02:14-08:00
+lastmod: 2025-06-27T20:02:14-08:00
 author: Alexander Saavedra
 tags: [philosophy, software]
 draft: false
@@ -278,6 +278,7 @@ come out and decide for yourself using them. Use cases to pay attention to:
     f. Unsupervised Learning: Foundations of Neural Computation by Geoffrey Hinton and Sejnowski
         One of the founders of the field from University of Toronto. 
 
+    g. What's ChatGPT doing and how does it work? by Stephen Wolfram
 
 # Machine Learning people
 
@@ -329,6 +330,10 @@ The book written on this topic is Erewhon: The Book of the Machines by Samuel Bu
 # Additional Resources
 
 I did a project of building ChatGPT2, here you go: https://github.com/awsaavedra/building-an-llm-from-scratch 
+
+[What Is ChatGPT Doing … and Why Does It Work? by Stephen Wolfram](https://writings.stephenwolfram.com/2023/02/what-is-chatgpt-doing-and-why-does-it-work/)
+
+    Full book can be found [here](https://www.amazon.com/What-ChatGPT-Doing-Does-Work-ebook/dp/B0BY59PT5Z/ref=pd_ci_mcx_mh_mcx_views_0_title?pd_rd_w=3Gb9S&content-id=amzn1.sym.bb21fc54-1dd8-448e-92bb-2ddce187f4ac%3Aamzn1.symc.40e6a10e-cbc4-4fa5-81e3-4435ff64d03b&pf_rd_p=bb21fc54-1dd8-448e-92bb-2ddce187f4ac&pf_rd_r=HF0JWGGR8QX7N7YWCQNR&pd_rd_wg=9rCox&pd_rd_r=123d8a0e-ac4c-4e4e-9c83-20d278de6ea8&pd_rd_i=B0BY59PT5Z)
 
 Ray Kurzweil's The Singularity is Near
 
