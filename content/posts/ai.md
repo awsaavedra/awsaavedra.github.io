@@ -333,7 +333,8 @@ I did a project of building ChatGPT2, here you go: https://github.com/awsaavedra
 
 [What Is ChatGPT Doing … and Why Does It Work? by Stephen Wolfram](https://writings.stephenwolfram.com/2023/02/what-is-chatgpt-doing-and-why-does-it-work/)
 
-    Full book can be found [here](https://www.amazon.com/What-ChatGPT-Doing-Does-Work-ebook/dp/B0BY59PT5Z/ref=pd_ci_mcx_mh_mcx_views_0_title?pd_rd_w=3Gb9S&content-id=amzn1.sym.bb21fc54-1dd8-448e-92bb-2ddce187f4ac%3Aamzn1.symc.40e6a10e-cbc4-4fa5-81e3-4435ff64d03b&pf_rd_p=bb21fc54-1dd8-448e-92bb-2ddce187f4ac&pf_rd_r=HF0JWGGR8QX7N7YWCQNR&pd_rd_wg=9rCox&pd_rd_r=123d8a0e-ac4c-4e4e-9c83-20d278de6ea8&pd_rd_i=B0BY59PT5Z)
+    Full book can be found [here](https://www.wolfram-media.com/products/what-is-chatgpt-doing-and-why-does-it-work/)
+
 
 Ray Kurzweil's The Singularity is Near
 
