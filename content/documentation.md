@@ -36,7 +36,7 @@ The information, including but not limited to, text, graphics, images and other 
 Disclaimer 3: The views expressed in these resources do not necessarily express my views or that of my employer
 
 ## 1. Learning 
-Searching through tag: https://awsaavedra.com/tags/learning/
+Searching through tag: [/tags/learning/](/tags/learning/)
 Work on your strategy for learning and you can get pretty far in life.
 1. Ultralearning by Scott Young
 2. Learning How to Learn by Barbara Oakley
@@ -122,7 +122,7 @@ structure your mind to get important things done.
 28. [The unreasonable effectiveness of Mathematics in the natural sciences](https://www.maths.ed.ac.uk/~v1ranick/papers/wigner.pdf)
 
 ## 3. Superforecasting
-Searching through tag: https://awsaavedra.com/tags/forecasting/
+Searching through tag: [/tags/forecasting/](/tags/forecasting/)
 Learn ways of predicting the possible paths things can go on.
 1. Nate Silver The Signal and the Noise
 2. Superforecasting by Philip E. Tetlock
@@ -136,7 +136,7 @@ Learn ways of predicting the possible paths things can go on.
 10. Life 3.0 by Max Tegmark
 
 ## 4. Productivity
-Search through tag: https://awsaavedra.com/tags/productivity/
+Search through tag: [/tags/productivity/](/tags/productivity/)
 Productivity is doing the most important thing first and keeping on it without distraction. Then, you get the next most important thing.
 1. Cal Newport books
     1. So Good They Can't Ignore You
@@ -248,7 +248,7 @@ The world around you may be puzzling, seek to understand it.
 
 ## 7. Health
 
-Search through tag: https://awsaavedra.com/tags/health/ 
+Search through tag: [/tags/health/](/tags/health/) 
 The body is a temple, we live in our bodies first and must maintain it well.
 1. How not to Die by Michael Greger
 2. The Telomere Effect by Dr. Elizabeth Blackburn (Author), Dr. Elissa Epel
@@ -325,7 +325,7 @@ Seek knowledge and a love of knowledge.
 22. https://richarddawkins.com/articles/article/postmodernism-disrobed
 23. [Intellectual Impostures: Modern Philosophers abuse of science](https://www.amazon.com/Intellectual-Impostures-Postmodern-Philosophers-Science/dp/1861971249)
 ## 10. Finance
-Search through tag: https://awsaavedra.com/tags/finance/
+Search through tag: [/tags/finance/](/tags/finance/)
 Finance can be a wonderful subject to understand the world since we 
 all lack resources we want to allocate. Those resources are time, capital, attention, and more.
 
