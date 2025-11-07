@@ -1,5 +1,5 @@
 ---
-title: "Critize by Creating"
+title: "Criticize by Creating"
 date: 2025-11-04
 draft: false
 lastmod: 2025-11-04
@@ -84,12 +84,11 @@ The best ideas emerge when it is safe to work through the problems and fully art
 “He who has a why to live for can bear almost any how.”
 ― Friedrich Nietzsche
 
-Instead of starting with the tyranny of how, as Martine Rothblatt founder of SiriusXM and United Therapeutics, start with **why**.**Why** is this important? Those that can come up with a deep and intrinsic why can bear any how.
+Instead of starting with the tyranny of how, as Martine Rothblatt founder of SiriusXM and United Therapeutics, start with **why**. **Why** is this important? Those that can come up with a deep and intrinsic why can bear any how.
 
 All creative endeavors require risk. Someone who adds a little chaos and risk into the mix is putting progress and growth before control and predictability. If control and predictability matter most to you, you will eventually get to a point where it is clear and predictable that you will fail. Control and predictability eventually and inevitably lead to stagnation and death. Tried and true can be good, but the opposite of “this time is different" comes to be “it is always the same." This is not true. Sometimes things are genuinely different and we need to account for that reality.
 
 A dosage of quality control in medicine and other fields can be useful, but too large a dosage of quality control can be deadly. By removing risk and focusing on control the baby is strangled by a tightened grip before it even has the chance to mature. The cocoon of the baby eventually becomes a butterfly and that butterfly needs to be tested, can it really fly? 
-
 
 After this you’ve created the highest form if criticism possible, a new idea fully flushed out. It is defiant of the status quo and says “I found a better way, I made one." 
 
@@ -120,7 +119,7 @@ A work of genius may take a lifetime to be validated or beyond, most toil in obs
 Pictured above: Srinivasa Ramanujan, Mathematical Genius and Mystic.
 
 “The years when I pursued the inner images, were the most important time of my life. Everything else is to be derived from this. It began at that time, and the later details hardly matter anymore. My entire life consisted in elaborating what had burst forth from the unconscious and flooded me like an enigmatic stream and threatened to break me. That was the stuff and material for more than only one life. Everything later was merely the outer classification, scientific elaboration, and the integration into life. But the numinous beginning, which contained everything, was then.” ~ Carl Jung, 1957, In conversation with Aniela Jaffe about the Red Book
-“The years when I pursued the inner images, were the most important time of my life. Everything else is to be derived from this. It began at that time, and the later details hardly matter anymore. My entire life consisted in elaborating what had burst forth from the unconscious and flooded me like an enigmatic stream and threatened to break me. That was the stuff and material for more than only one life. Everything later was merely the outer classification, scientific elaboration, and the integration into life. But the numinous beginning, which contained everything, was then.” ~ Carl Jung, 1957, In conversation with Aniela Jaffe about the Red Book
+
 Try to separate the signal from the noise.
 
 Use your intuition, one of the most profound moments in life come from the supra-rational.
@@ -133,7 +132,9 @@ The supra-rational is a transcendent type of understand going beyond the rationa
 ## Trust the process
 
 ![Cathedral](/create/cathedral.jpg "Cathedral")
+
 Antoine de Saint-Exupery — “A rock pile ceases to be a rock pile the moment a single man contemplates it, bearing within him the image of a cathedral.”
+
 See the new world you want to build and build a cathedral.
 
 You must commit to the process.
@@ -206,8 +207,6 @@ A rare combination needed is both extreme action on what you can control and ext
 
 If the authority says something wrong and you can create something better. Do it.
 Creators create, valuable critics are always creators.
-
-
 
 # Additional Resources
 
