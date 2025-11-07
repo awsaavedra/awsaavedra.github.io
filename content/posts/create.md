@@ -1,8 +1,8 @@
 ---
 title: "Criticize by Creating"
 date: 2025-11-04
+lastmod: 2025-11-07
 draft: false
-lastmod: 2025-11-04
 author: Alexander Saavedra
 tags: [Philosophy, entrepeneurship]
 enableMathJax: false
@@ -211,6 +211,10 @@ Creators create, valuable critics are always creators.
 # Additional Resources
 
 Let's talk about the less cool part here, the actual execution.
+
+https://en.wikipedia.org/wiki/The_Cathedral_and_the_Bazaar, 
+counter argument: https://queue.acm.org/detail.cfm?id=2349257
+
 
 Good Strategy Bad Strategy: The Difference and Why It Matters by Richard P Rumelt
 
