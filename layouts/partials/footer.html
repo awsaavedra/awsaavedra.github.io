@@ -1,0 +1,72 @@
+<hr>
+<div style="text-align: center; padding: 20px 0;">
+  <h3 style="margin-bottom: 10px;">Subscribe to the Blog</h3>
+  <p style="margin-bottom: 15px;">Get notified when new posts are published</p>
+  
+  <form name="subscribe" method="POST" data-netlify="true" netlify-honeypot="bot-field" style="max-width: 500px; margin: 0 auto;">
+    <!-- Multiple honeypot fields with different techniques -->
+    <p style="position: absolute; left: -9999px; width: 1px; height: 1px; overflow: hidden;">
+      <label>Don't fill this out if you're human: <input name="bot-field" tabindex="-1" autocomplete="off" /></label>
+    </p>
+    <div style="opacity: 0; position: absolute; top: 0; left: 0; height: 0; width: 0; z-index: -1;">
+      <input type="text" name="website" tabindex="-1" autocomplete="off" />
+      <input type="text" name="url" tabindex="-1" autocomplete="off" />
+      <input type="text" name="phone" tabindex="-1" autocomplete="off" />
+    </div>
+    <input type="text" name="company" style="position: absolute; left: -9999px;" tabindex="-1" autocomplete="off" />
+    <input type="hidden" name="timestamp" id="timestamp" value="" />
+    <input type="hidden" name="form-start-time" id="form-start-time" value="" />
+    
+    <div style="display: flex; gap: 10px; flex-wrap: wrap; justify-content: center; align-items: flex-end;">
+      <div style="flex: 1; min-width: 200px;">
+        <input type="email" id="email" name="email" placeholder="your@email.com" required style="width: 100%; padding: 10px; border: 1px solid #ccc; border-radius: 4px;">
+      </div>
+      <div style="min-width: 120px;">
+        <input type="number" id="math-challenge" name="math-challenge" placeholder="What is 5+3?" required style="width: 100%; padding: 10px; border: 1px solid #ccc; border-radius: 4px;">
+      </div>
+      <div>
+        <button type="submit" style="padding: 10px 20px; background-color: #3273dc; color: white; border: none; border-radius: 4px; cursor: pointer; font-size: 16px;">Subscribe</button>
+      </div>
+    </div>
+  </form>
+
+  <script>
+    (function() {
+      // Set form start time
+      var formStartTime = Date.now();
+      document.getElementById('form-start-time').value = formStartTime;
+      
+      document.querySelector('form[name="subscribe"]').addEventListener('submit', function(e) {
+        // Check math challenge
+        var mathAnswer = document.getElementById('math-challenge').value;
+        if (mathAnswer != '8') {
+          e.preventDefault();
+          alert('Incorrect answer. 5 + 3 = ?');
+          return false;
+        }
+        
+        // Check honeypot fields
+        var honeypots = ['bot-field', 'website', 'url', 'phone', 'company'];
+        for (var i = 0; i < honeypots.length; i++) {
+          var field = document.getElementsByName(honeypots[i])[0];
+          if (field && field.value !== '') {
+            e.preventDefault();
+            return false;
+          }
+        }
+        
+        // Time-based check (must take at least 3 seconds to fill form)
+        var submitTime = Date.now();
+        var timeTaken = submitTime - formStartTime;
+        if (timeTaken < 3000) {
+          e.preventDefault();
+          alert('Please take your time filling out the form.');
+          return false;
+        }
+        
+        // Set timestamp
+        document.getElementById('timestamp').value = new Date().toISOString();
+      });
+    })();
+  </script>
+</div>

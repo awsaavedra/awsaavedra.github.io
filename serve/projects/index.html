@@ -1,0 +1,381 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta http-equiv="X-Clacks-Overhead" content="GNU Terry Pratchett" />
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<link rel="shortcut icon" href="https://awsaavedra.com/favicon.ico" />
+<title>About | Alexander Saavedra</title>
+<meta name="title" content="About" />
+<meta name="description" content="Projects Building ChatGPT2 from Scratch and Documenting it This was an extensive exercise is thinking and reading with some coding.
+The major contributions I made were the following:
+  Documenting all the steps and research used to understand how to build an LLM
+  Explaining all the computational complexity and the &ldquo;why&rdquo; for anyone whose willing and interested as long as they have some basic numeracy.
+  Here is the codebase" />
+<meta name="keywords" content="project," />
+
+
+<meta property="og:title" content="About" />
+<meta property="og:description" content="Projects Building ChatGPT2 from Scratch and Documenting it This was an extensive exercise is thinking and reading with some coding.
+The major contributions I made were the following:
+  Documenting all the steps and research used to understand how to build an LLM
+  Explaining all the computational complexity and the &ldquo;why&rdquo; for anyone whose willing and interested as long as they have some basic numeracy.
+  Here is the codebase" />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://awsaavedra.com/projects/" /><meta property="article:section" content="" />
+
+
+
+
+
+
+<meta name="twitter:card" content="summary"/>
+<meta name="twitter:title" content="About"/>
+<meta name="twitter:description" content="Projects Building ChatGPT2 from Scratch and Documenting it This was an extensive exercise is thinking and reading with some coding.
+The major contributions I made were the following:
+  Documenting all the steps and research used to understand how to build an LLM
+  Explaining all the computational complexity and the &ldquo;why&rdquo; for anyone whose willing and interested as long as they have some basic numeracy.
+  Here is the codebase"/>
+
+
+
+<meta itemprop="name" content="About">
+<meta itemprop="description" content="Projects Building ChatGPT2 from Scratch and Documenting it This was an extensive exercise is thinking and reading with some coding.
+The major contributions I made were the following:
+  Documenting all the steps and research used to understand how to build an LLM
+  Explaining all the computational complexity and the &ldquo;why&rdquo; for anyone whose willing and interested as long as they have some basic numeracy.
+  Here is the codebase">
+
+<meta itemprop="wordCount" content="414">
+<meta itemprop="keywords" content="project," />
+<meta name="referrer" content="no-referrer-when-downgrade" />
+
+  <style>
+  :root {
+    --width: 720px;
+    --font-main: Verdana, sans-serif;
+    --font-secondary: Verdana, sans-serif;
+    --font-scale: 1em;
+    --background-color: #fff;
+    --heading-color: #222;
+    --text-color: #444;
+    --link-color: #3273dc;
+    --visited-color: #8b6fcb;
+    --blockquote-color: #222;
+  }
+
+  @media (prefers-color-scheme: dark) {
+    :root {
+      --background-color: #01242e;
+      --heading-color: #eee;
+      --text-color: #ddd;
+      --link-color: #8cc2dd;
+      --visited-color: #8b6fcb;
+      --blockquote-color: #ccc;
+    }
+  }
+
+  body {
+    font-family: var(--font-secondary);
+    font-size: var(--font-scale);
+    margin: auto;
+    padding: 20px;
+    max-width: var(--width);
+    text-align: left;
+    background-color: var(--background-color);
+    word-wrap: break-word;
+    overflow-wrap: break-word;
+    line-height: 1.5;
+    color: var(--text-color);
+  }
+
+  h1,
+  h2,
+  h3,
+  h4,
+  h5,
+  h6 {
+    font-family: var(--font-main);
+    color: var(--heading-color);
+  }
+
+  a {
+    color: var(--link-color);
+    cursor: pointer;
+    text-decoration: none;
+  }
+
+  a:hover {
+    text-decoration: underline;
+  }
+
+  nav a {
+    margin-right: 8px;
+  }
+
+  strong,
+  b {
+    color: var(--heading-color);
+  }
+
+  button {
+    margin: 0;
+    cursor: pointer;
+  }
+
+  time {
+    font-family: monospace;
+    font-style: normal;
+    font-size: 15px;
+  }
+
+  main {
+    line-height: 1.6;
+  }
+
+  table {
+    width: 100%;
+  }
+
+  hr {
+    border: 0;
+    border-top: 1px dashed;
+  }
+
+  img {
+    max-width: 100%;
+  }
+
+  code {
+    font-family: monospace;
+    padding: 2px;
+    border-radius: 3px;
+  }
+
+  blockquote {
+    border-left: 1px solid #999;
+    color: var(--blockquote-color);
+    padding-left: 20px;
+    font-style: italic;
+  }
+
+  footer {
+    padding: 25px 0;
+    text-align: center;
+  }
+
+  .title:hover {
+    text-decoration: none;
+  }
+
+  .title h1 {
+    font-size: 1.5em;
+  }
+
+  .inline {
+    width: auto !important;
+  }
+
+  .highlight,
+  .code {
+    border-radius: 3px;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    overflow-x: auto;
+  }
+
+   
+  ul.blog-posts {
+    list-style-type: none;
+    padding: unset;
+  }
+
+  ul.blog-posts li {
+    display: flex;
+  }
+
+  ul.blog-posts li span {
+    flex: 0 0 130px;
+  }
+
+  ul.blog-posts li a:visited {
+    color: var(--visited-color);
+  }
+
+</style>
+<style>
+  @font-face {
+    font-family: 'Scriptin';
+    src: url('/fonts/Scriptin.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+  }
+
+  .title h2 {
+    font-family: 'Scriptin', cursive !important;
+  }
+</style>
+</head>
+
+<body>
+  <header><a href="/" class="title">
+  <h2>Alexander Saavedra</h2>
+</a>
+<nav>
+<a href="/posts/">Blog</a>
+
+<a href="/documentation/">Documentation</a>
+
+<a href="/projects/">Projects</a>
+
+<a href="/quotes/">Quotes</a>
+
+<a href="/now/">Now</a>
+
+<a href=""></a>
+
+<a href="https://github.com/awsaavedra" target="_blank" rel="noopener" aria-label="GitHub" style="vertical-align: middle;">
+  <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M9 19c-5 1.5-5-2.5-7-3m14 6v-3.87a3.37 3.37 0 0 0-.94-2.61c3.14-.35 6.44-1.54 6.44-7A5.44 5.44 0 0 0 20 4.77 5.07 5.07 0 0 0 19.91 1S18.73.65 16 2.48a13.38 13.38 0 0 0-7 0C6.27.65 5.09 1 5.09 1A5.07 5.07 0 0 0 5 4.77a5.44 5.44 0 0 0-1.5 3.78c0 5.42 3.3 6.61 6.44 7A3.37 3.37 0 0 0 9 18.13V22"></path>
+  </svg>
+</a>
+<a href="https://linkedin.com/in/awsaavedra" target="_blank" rel="noopener" aria-label="LinkedIn" style="vertical-align: middle;">
+  <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M16 8a6 6 0 0 1 6 6v7h-4v-7a2 2 0 0 0-2-2 2 2 0 0 0-2 2v7h-4v-7a6 6 0 0 1 6-6z"></path>
+    <rect x="2" y="9" width="4" height="12"></rect>
+    <circle cx="4" cy="4" r="2"></circle>
+  </svg>
+</a>
+
+</nav>
+</header>
+  <main>
+
+<content>
+  <h2 id="projects">Projects</h2>
+<h4 id="building-chatgpt2-from-scratch-and-documenting-it">Building ChatGPT2 from Scratch and Documenting it</h4>
+<p>This was an extensive exercise is thinking and reading with some coding.</p>
+<p>The major contributions I made were the following:</p>
+<ol>
+<li>
+<p>Documenting all the steps and research used to
+understand how to build an LLM</p>
+</li>
+<li>
+<p>Explaining all the computational complexity and the &ldquo;why&rdquo; for anyone whose willing and interested as
+long as they have some basic numeracy.</p>
+</li>
+</ol>
+<p><a href="https://github.com/awsaavedra/building-an-llm-from-scratch">Here is the codebase</a></p>
+<h4 id="graduate-research-on-ai-assistants-for-productivity-and-creativity-enhancement">Graduate Research on AI Assistants for Productivity and Creativity Enhancement</h4>
+<ul>
+<li>AI assistants such as large language models increase many information technologies productivity but also reduce unwanted side effects like keeping them shallow in their understanding or unthinking when using solutions which ultimately reduces the personal autonomy and creativity of the individual.</li>
+<li>This research seeks to mitigate these unwanted side effects, boost productivity and other desired effects, and ideally find fertile research to enhance these while still using AI assistant tools using mixed methods both qualitative and quantitative to investigate this topic.</li>
+<li>This is especially the case for experts who have seen the least gains from these technologies thus far, the results from this research demonstrate large gains for experts which have not previously been found in the body of research on this topic both in creativity and speed of results without reducing precision.</li>
+<li>Abstract accepted to a prestigious journal&rsquo;s special issues on machine learning and awaiting further review</li>
+</ul>
+<h4 id="guru-indexer-guru-investor-returns-for-index-fund-costs">Guru Indexer, Guru investor returns for index fund costs</h4>
+<ul>
+<li>Guru index which aggregated stock data and metadata from various sources which was I believed would produce a highly concentrated long term outperformance focused strategy for large and small capital US based companies sources included GuruFocus and WhaleWisdom. The rough details are outlined in this blog post <a href="https://awsaavedra.com/posts/enterprising-investor">https://awsaavedra.com/posts/enterprising-investor</a>.</li>
+<li>Strategy was eventually discussed with highly skilled value investors and then discontinued once I learned about a YC18 alumni startup that was implementing a strategy that rhymed in their flagship product with more traction.</li>
+</ul>
+<h4 id="garagehub-the-airbnb-of-garage-space">GarageHub, the Airbnb of garage space</h4>
+<ul>
+<li>Developed ‘GarageHub’ &ndash; AirBnB for garage space &ndash; utilizing JavaScript, AngularJS, Firebase, Zapier, and Twilio API, designed to capture a $20Mill+ market of open garage space in San Francisco</li>
+</ul>
+<h4 id="valley-of-the-khans-the-search-for-genghis-khans-tomb">Valley of the Khan&rsquo;s: The Search for Genghis Khan&rsquo;s Tomb</h4>
+<ul>
+<li>Implemented machine learning methods for transforming satellite image data with Python, SciPy, NumPy, and Django Database, leading to path discovered in Valley of the Khans in Mongolia for National Geographic</li>
+<li><a href="https://web.archive.org/web/20240530023201/https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0114046">A full description of the research to attempt to discover Genghis Khan&rsquo;s tomb by my manager Andrew Hyunh can be found here</a></li>
+</ul>
+
+</content>
+
+
+
+<p>
+  
+  <a href="https://awsaavedra.com/tags/project/">#project</a>
+  
+</p>
+
+  </main>
+  <footer><hr>
+<div style="text-align: center; padding: 20px 0;">
+  <h3 style="margin-bottom: 10px;">Subscribe to the Blog</h3>
+  <p style="margin-bottom: 15px;">Get notified when new posts are published</p>
+  
+  <form name="subscribe" method="POST" data-netlify="true" netlify-honeypot="bot-field" style="max-width: 500px; margin: 0 auto;">
+    
+    <p style="position: absolute; left: -9999px; width: 1px; height: 1px; overflow: hidden;">
+      <label>Don't fill this out if you're human: <input name="bot-field" tabindex="-1" autocomplete="off" /></label>
+    </p>
+    <div style="opacity: 0; position: absolute; top: 0; left: 0; height: 0; width: 0; z-index: -1;">
+      <input type="text" name="website" tabindex="-1" autocomplete="off" />
+      <input type="text" name="url" tabindex="-1" autocomplete="off" />
+      <input type="text" name="phone" tabindex="-1" autocomplete="off" />
+    </div>
+    <input type="text" name="company" style="position: absolute; left: -9999px;" tabindex="-1" autocomplete="off" />
+    <input type="hidden" name="timestamp" id="timestamp" value="" />
+    <input type="hidden" name="form-start-time" id="form-start-time" value="" />
+    
+    <div style="display: flex; gap: 10px; flex-wrap: wrap; justify-content: center; align-items: flex-end;">
+      <div style="flex: 1; min-width: 200px;">
+        <input type="email" id="email" name="email" placeholder="your@email.com" required style="width: 100%; padding: 10px; border: 1px solid #ccc; border-radius: 4px;">
+      </div>
+      <div style="min-width: 120px;">
+        <input type="number" id="math-challenge" name="math-challenge" placeholder="What is 5+3?" required style="width: 100%; padding: 10px; border: 1px solid #ccc; border-radius: 4px;">
+      </div>
+      <div>
+        <button type="submit" style="padding: 10px 20px; background-color: #3273dc; color: white; border: none; border-radius: 4px; cursor: pointer; font-size: 16px;">Subscribe</button>
+      </div>
+    </div>
+  </form>
+
+  <script>
+    (function() {
+      
+      var formStartTime = Date.now();
+      document.getElementById('form-start-time').value = formStartTime;
+      
+      document.querySelector('form[name="subscribe"]').addEventListener('submit', function(e) {
+        
+        var mathAnswer = document.getElementById('math-challenge').value;
+        if (mathAnswer != '8') {
+          e.preventDefault();
+          alert('Incorrect answer. 5 + 3 = ?');
+          return false;
+        }
+        
+        
+        var honeypots = ['bot-field', 'website', 'url', 'phone', 'company'];
+        for (var i = 0; i < honeypots.length; i++) {
+          var field = document.getElementsByName(honeypots[i])[0];
+          if (field && field.value !== '') {
+            e.preventDefault();
+            return false;
+          }
+        }
+        
+        
+        var submitTime = Date.now();
+        var timeTaken = submitTime - formStartTime;
+        if (timeTaken < 3000) {
+          e.preventDefault();
+          alert('Please take your time filling out the form.');
+          return false;
+        }
+        
+        
+        document.getElementById('timestamp').value = new Date().toISOString();
+      });
+    })();
+  </script>
+</div>
+</footer>
+
+  
+</body>
+
+</html>
