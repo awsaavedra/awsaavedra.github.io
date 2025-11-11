@@ -1,7 +1,7 @@
 ---
 title: About
 date: 2024-01-24
-lastmod: 2025-01-019T20:02:14-08:00
+lastmod: 2025-01-19T20:02:14-08:00
 author: Alexander Saavedra
 description: 
 categories: []
