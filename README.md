@@ -26,6 +26,6 @@ Add a new page to site
 # Website TODO Features
 
 - [ ] Add Subscribe feed to website
-- [ ] Add LaTeX support for math equations in blog posts
+- [x] Add LaTeX support for math equations in blog posts using Hugo Native Server-Side LaTeX Rendering (No JavaScript Required).
 - [ ] Add search functionality to website
 - [ ] 

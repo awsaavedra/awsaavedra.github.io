@@ -1,36 +1,155 @@
 ---
-title: "Test Post"
+title: "LaTeX Math Examples"
 date: 2025-11-10T19:58:37-08:00
 lastmod: 2025-11-10T19:58:37-08:00
 author: Alexander Saavedra
-tags: []
+tags: ["math", "latex"]
 draft: false
-enableDisqus: true
+enableDisqus: false
 enableMathJax: false
 disableToC: false
 disableAutoCollapse: true
 ---
 
-# Introduction to <math display="inline" xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mi>E</mi><mo>=</mo><mi>m</mi><msup><mi>c</mi><mn>2</mn></msup></mrow><annotation encoding="application/x-tex">E=mc^2</annotation></semantics></math>
+This post demonstrates how to write mathematical equations using LaTeX syntax in Hugo.
 
-Einstein's mass-energy equivalence is one of the most famous equations in physics. It states:
+## Inline Math
 
+Use single dollar signs `$...$` for inline math. For example, Einstein's mass-energy equivalence $E=mc^2$ appears inline with text. You can also reference variables like $x$, $y$, and $\alpha$ within sentences.
 
-<math display="block" xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mi>E</mi><mo>=</mo><mi>m</mi><msup><mi>c</mi><mn>2</mn></msup></mrow><annotation encoding="application/x-tex">E=mc^2</annotation></semantics></math>
+## Block Equations
 
+Use double dollar signs `$$...$$` for centered display equations:
 
-where:
+$$E=mc^2$$
 
-- <math display="inline" xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mi>E</mi><annotation encoding="application/x-tex">E</annotation></semantics></math> is the energy of an object.
-- <math display="inline" xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mi>m</mi><annotation encoding="application/x-tex">m</annotation></semantics></math> is the mass of the object.
-- <math display="inline" xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mi>c</mi><annotation encoding="application/x-tex">c</annotation></semantics></math> is the speed of light in a vacuum (approximately <math display="inline" xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mn>3</mn><mo>×</mo><msup><mn>10</mn><mn>8</mn></msup></mrow><annotation encoding="application/x-tex">3 \times 10^8</annotation></semantics></math> m/s).
+## Common Mathematical Expressions
 
-## Energy conversion in the Sun
+### Fractions
 
-For example, in the Sun, nuclear fusion reactions convert hydrogen into helium:
+The quadratic formula uses fractions:
 
+$$x = \frac{-b \pm \sqrt{b^2 - 4ac}}{2a}$$
 
-<math display="block" xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mn>4</mn><mspace width="0.167em"></mspace><mtext mathvariant="normal">H</mtext><mo>→</mo><mtext mathvariant="normal">He</mtext><mo>+</mo><mn>2</mn><mspace width="0.167em"></mspace><msup><mtext mathvariant="normal">e</mtext><mo>+</mo></msup><mo>+</mo><mn>2</mn><mspace width="0.167em"></mspace><msub><mi>ν</mi><mi>e</mi></msub><mo>+</mo><mi>γ</mi></mrow><annotation encoding="application/x-tex">4 \, \text{H} \rightarrow \text{He} + 2 \, \text{e}^+ + 2 \, \nu_e + \gamma</annotation></semantics></math>
+Inline fractions work too: $\frac{1}{2}$ or $\frac{a}{b}$.
 
+### Exponents and Subscripts
 
-This equation <math display="inline" xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mi>E</mi><mo>=</mo><mi>m</mi><msup><mi>c</mi><mn>2</mn></msup></mrow><annotation encoding="application/x-tex">E=mc^2</annotation></semantics></math> tells us why the Sun produces energy.
+- Exponents: $x^2$, $e^{i\pi}$, $2^{n-1}$
+- Subscripts: $x_1$, $a_i$, $v_{\text{max}}$
+- Combined: $x_1^2$, $\sum_{i=1}^{n} i$
+
+### Greek Letters
+
+Lowercase: $\alpha$, $\beta$, $\gamma$, $\delta$, $\epsilon$, $\theta$, $\lambda$, $\mu$, $\pi$, $\sigma$, $\phi$, $\omega$
+
+Uppercase: $\Gamma$, $\Delta$, $\Theta$, $\Lambda$, $\Sigma$, $\Phi$, $\Omega$
+
+### Summations and Products
+
+$$\sum_{i=1}^{n} i = \frac{n(n+1)}{2}$$
+
+$$\prod_{i=1}^{n} i = n!$$
+
+### Integrals
+
+The Gaussian integral:
+
+$$\int_{-\infty}^{\infty} e^{-x^2} dx = \sqrt{\pi}$$
+
+Definite integral: $\int_0^1 x^2 dx = \frac{1}{3}$
+
+### Matrices
+
+$$\begin{bmatrix}
+a & b \\
+c & d
+\end{bmatrix}$$
+
+Or with different brackets:
+
+$$\begin{pmatrix}
+1 & 0 \\
+0 & 1
+\end{pmatrix}$$
+
+### Square Roots and Radicals
+
+$$\sqrt{2} \approx 1.414$$
+
+$$\sqrt[3]{8} = 2$$
+
+### Limits
+
+$$\lim_{x \to \infty} \frac{1}{x} = 0$$
+
+$$\lim_{n \to \infty} \left(1 + \frac{1}{n}\right)^n = e$$
+
+### Derivatives
+
+First derivative: $\frac{dy}{dx}$
+
+Second derivative: $\frac{d^2y}{dx^2}$
+
+Partial derivatives: $\frac{\partial f}{\partial x}$
+
+### Complex Equations
+
+Euler's identity:
+
+$$e^{i\pi} + 1 = 0$$
+
+Schrödinger equation:
+
+$$i\hbar\frac{\partial}{\partial t}\Psi(\mathbf{r},t) = \hat{H}\Psi(\mathbf{r},t)$$
+
+Maxwell's equations:
+
+$$\nabla \cdot \mathbf{E} = \frac{\rho}{\epsilon_0}$$
+
+$$\nabla \times \mathbf{E} = -\frac{\partial \mathbf{B}}{\partial t}$$
+
+### Chemical Equations
+
+Use `\text{}` for regular text in equations. Nuclear fusion in the Sun:
+
+$$4 \, \text{H} \rightarrow \text{He} + 2 \, \text{e}^+ + 2 \, \nu_e + \gamma$$
+
+### Sets and Logic
+
+Set notation: $\{1, 2, 3, \ldots, n\}$
+
+Set operations: $A \cup B$, $A \cap B$, $A \subset B$
+
+Logic: $\forall x \in \mathbb{R}$, $\exists y$, $\Rightarrow$, $\Leftrightarrow$
+
+### Special Symbols
+
+- Infinity: $\infty$
+- Approximately: $\approx$
+- Not equal: $\neq$
+- Less/greater than or equal: $\leq$, $\geq$
+- Plus/minus: $\pm$
+- Times: $\times$
+- Dots: $\cdot$, $\cdots$, $\ldots$, $\vdots$, $\ddots$
+
+## Quick Reference
+
+| Type | Syntax | Result |
+|------|--------|--------|
+| Inline math | `$x^2$` | $x^2$ |
+| Block math | `$$x^2$$` | (centered) |
+| Fraction | `$\frac{a}{b}$` | $\frac{a}{b}$ |
+| Superscript | `$x^2$` | $x^2$ |
+| Subscript | `$x_i$` | $x_i$ |
+| Square root | `$\sqrt{2}$` | $\sqrt{2}$ |
+| Sum | `$\sum_{i=1}^{n}$` | $\sum_{i=1}^{n}$ |
+| Integral | `$\int_a^b$` | $\int_a^b$ |
+
+## Tips
+
+1. Always balance your dollar signs - one `$` at start and end for inline, two `$$` for block
+2. Use curly braces `{}` to group multi-character sub/superscripts: `x^{10}` not `x^10`
+3. Use `\text{}` for regular text inside equations: `$\text{speed} = \frac{d}{t}$`
+4. Escape special characters if needed with backslash: `\$` for literal dollar sign
+5. Leave blank lines before and after block equations `$$...$$` for proper spacing
