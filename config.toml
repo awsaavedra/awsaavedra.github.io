@@ -92,6 +92,14 @@ tag = "tags"
     noClasses = true
     style = "dracula" # github, dracula, vim, monokai
     tabWidth = 4
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+    [markup.goldmark.extensions.passthrough]
+      enable = true
+      [markup.goldmark.extensions.passthrough.delimiters]
+        block = [['\\[', '\\]'], ['$$', '$$']]
+        inline = [['\\(', '\\)'], ['$', '$']]
 
 [security]
   enableInlineShortcodes = false
