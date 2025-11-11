@@ -1,0 +1,33 @@
+{{ define "main" }}
+{{ if or (eq .Type "blog") (eq .Type "posts") }}{{ if not .Params.menu }}
+<h1>{{ .Title }}</h1>
+<p>
+  <i>
+    <time datetime='{{ .Date.Format "2006-01-02" }}'>
+      Published: {{ .Date.Format (default "02 Jan, 2006" .Site.Params.dateFormat) }}
+    </time>
+    {{ if .Lastmod }}
+    {{ if ne .Lastmod .Date }}
+    <br>
+    <time datetime='{{ .Lastmod.Format "2006-01-02" }}'>
+      Last modified: {{ .Lastmod.Format (default "02 Jan, 2006" .Site.Params.dateFormat) }}
+    </time>
+    {{ end }}
+    {{ end }}
+  </i>
+</p>
+{{ end }}{{ end }}
+<content>
+  {{ .Content }}
+</content>
+
+{{ if or (eq .Type "blog") (eq .Type "posts") }}{{ if (.Param "enablePostNavigator")}}
+{{- partial "post_navigator.html" . -}}
+{{ end }}{{ end }}
+
+<p>
+  {{ range (.GetTerms "tags") }}
+  <a href="{{ .Permalink }}">#{{ .LinkTitle }}</a>
+  {{ end }}
+</p>
+{{ end }}
