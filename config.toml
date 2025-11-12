@@ -66,9 +66,14 @@ googleAnalytics = ""
   weight = 5
 
   [[menu.main]]
+  name = "Disclaimer"
+  url = "/disclaimer/"
+  weight = 6
+
+  [[menu.main]]
   name = "Now"
   url = "/Now/"
-  weight = 6
+  weight = 7
 
 [social]
   github = "https://github.com/awsaavedra"

@@ -3,7 +3,7 @@ title: Quotes
 
 description: 
 categories: []
-tags: [quotes]
+tags: []
 
 draft: false
 enableDisqus : true
