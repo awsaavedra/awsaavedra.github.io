@@ -1,0 +1,21 @@
+<style>
+  @font-face {
+    font-family: 'Scriptin';
+    src: url('/fonts/Scriptin.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+  }
+
+  .title h2 {
+    font-family: 'Scriptin', cursive !important;
+  }
+</style>
+
+{{/* Force content rendering before checking Store */}}
+{{ $noop := .Content }}
+
+{{ if .Store.Get "hasMath" }}
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.16.23/dist/katex.min.css" 
+        integrity="sha384-nB0miv6/jRmo5UMMR1wu3Gz6NLsoTkbqJghGIsx//Rlm+ZU03BU6SQNC66uf4l5+" 
+        crossorigin="anonymous">
+{{ end }}

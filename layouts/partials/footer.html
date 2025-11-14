@@ -1,0 +1,32 @@
+{{- $num1 := mod now.Unix 11 }}
+{{- $num2 := mod (add now.UnixMilli 7) 11 }}
+{{- $answer := add $num1 $num2 }}
+<hr>
+<div style="text-align: center; padding: 15px 0;">
+  <!-- <form name="subscribe" method="POST" data-netlify="true" style="max-width: 700px; margin: 0 auto;">
+    <input type="hidden" name="form-name" value="subscribe" />
+    <input type="hidden" name="expected-answer" value="{{ $answer }}" />
+    
+    <div style="display: flex; gap: 10px; flex-wrap: wrap; justify-content: center; align-items: center;">
+      <input type="email" name="email" placeholder="your@email.com" required 
+             style="flex: 1; min-width: 200px; max-width: 250px; padding: 8px 12px; border: 1px solid #ccc; border-radius: 4px; font-size: 14px;">
+      
+      <select name="math-check" required 
+              style="width: 120px; padding: 8px 12px; border: 1px solid #ccc; border-radius: 4px; font-size: 14px; background-color: white;">
+        <option value="" selected disabled>{{ $num1 }} + {{ $num2 }} = ?</option>
+        {{- range seq 0 20 }}
+        <option value="{{ . }}">{{ . }}</option>
+        {{- end }}
+      </select>
+      
+      <button type="submit" 
+              style="padding: 8px 16px; background-color: #3273dc; color: white; border: none; border-radius: 4px; cursor: pointer; font-size: 14px; white-space: nowrap;">
+        Subscribe
+      </button>
+    </div>
+  </form> -->
+  
+  <p style="margin-top: 15px; font-size: 14px; color: #666;">
+    &copy; 2025 Alexander Saavedra. All rights reserved.
+  </p>
+</div>
