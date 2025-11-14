@@ -11,14 +11,7 @@
   }
 </style>
 
-{{/* Force content rendering before checking Store */}}
-{{ $noop := .Content }}
-
-{{/* Check if Store exists and has hasMath - wrapped in with to avoid errors on older Hugo versions */}}
-{{ with .Store }}
-  {{ if .Get "hasMath" }}
-    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.16.23/dist/katex.min.css" 
-          integrity="sha384-nB0miv6/jRmo5UMMR1wu3Gz6NLsoTkbqJghGIsx//Rlm+ZU03BU6SQNC66uf4l5+" 
-          crossorigin="anonymous">
-  {{ end }}
-{{ end }}
+<!-- KaTeX CSS - loaded on all pages for compatibility with Hugo v0.91.2 -->
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.16.23/dist/katex.min.css" 
+      integrity="sha384-nB0miv6/jRmo5UMMR1wu3Gz6NLsoTkbqJghGIsx//Rlm+ZU03BU6SQNC66uf4l5+" 
+      crossorigin="anonymous">
