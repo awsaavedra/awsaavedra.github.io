@@ -1,17 +1,9 @@
 ---
-title: About
-date: 2024-01-24
-lastmod: 2025-01-19T20:02:14-08:00
-author: Alexander Saavedra
-description: 
-categories: []
-tags: []
-draft: false
-enableDisqus : true
-enableMathJax: false
-disableToC: false
-disableAutoCollapse: true
+title: "Home"
 ---
+# Intro
+
+In this website I have a [blog](/posts/) on various topics, [documentation](/documentation/) on resources I have used, [projects](/projects/) I have worked on, [quotes](/quotes/) I find valuable, and [what I am doing now](/now/).
 
 ## Me
 
@@ -45,4 +37,5 @@ According to Larry Wall, the original author of the Perl programming language, t
 
 <sub>4 Aeneid VII, Virgil</sub>
 
-<sub>5 Thomas Jefferson to William Roscoe 1820</sub>
+<sub>5 Thomas Jefferson to William Roscoe 1820</sub> 
+

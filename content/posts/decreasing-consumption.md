@@ -2,7 +2,6 @@
 title: Decreasing Consumption, Increasing Happiness
 date: 2020-02-27T02:01:58+05:30
 author: Alexander Saavedra
-
 tags: [consumption, happiness]
 draft: false
 enableDisqus : true
