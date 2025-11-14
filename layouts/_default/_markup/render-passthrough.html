@@ -1,0 +1,4 @@
+{{- $opts := dict "output" "htmlAndMathml" "displayMode" (eq .Type "block") }}
+{{- $result := transform.ToMath .Inner $opts }}
+{{- $result }}
+{{- $.Page.Store.Set "hasMath" true }}

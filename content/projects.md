@@ -5,7 +5,7 @@ author: Alexander Saavedra
 
 description: 
 categories: []
-tags: [project]
+tags: []
 
 draft: false
 enableDisqus : true

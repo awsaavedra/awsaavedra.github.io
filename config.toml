@@ -8,7 +8,7 @@ enableEmoji = true
 title = "Alexander Saavedra"
 copyright = "[Home](/) &#183; Theme [Simpleness](https://github.com/RainerChiang/simpleness) Powered by [Hugo](https://gohugo.io/)"
 
-theme = "simpleness"
+theme = "hugo-bearblog"
 googleAnalytics = ""
 
 [params]
@@ -40,31 +40,40 @@ googleAnalytics = ""
   # url = "/"
   # weight = 1
 
+  [[menu.main]]
+  name = "Blog"
+  url = "/posts/"
+  weight = 1
 
   [[menu.main]]
   name = "Documentation"
   url = "/documentation/"
-  weight = 1
-
-  [[menu.main]]
-  name = "About"
-  url = "/about/"
   weight = 2
+
+  # [[menu.main]]
+  # name = "About"
+  # url = "/about/"
+  # weight = 3
 
   [[menu.main]]
   name = "Projects"
   url = "/projects/"
-  weight = 3
+  weight = 4
 
   [[menu.main]]
   name = "Quotes"
   url = "/quotes/"
-  weight = 4
+  weight = 5
+
+  [[menu.main]]
+  name = "Disclaimer"
+  url = "/disclaimer/"
+  weight = 6
 
   [[menu.main]]
   name = "Now"
   url = "/Now/"
-  weight = 5
+  weight = 7
 
 [social]
   github = "https://github.com/awsaavedra"
@@ -88,6 +97,14 @@ tag = "tags"
     noClasses = true
     style = "dracula" # github, dracula, vim, monokai
     tabWidth = 4
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+    [markup.goldmark.extensions.passthrough]
+      enable = true
+      [markup.goldmark.extensions.passthrough.delimiters]
+        block = [['\\[', '\\]'], ['$$', '$$']]
+        inline = [['\\(', '\\)'], ['$', '$']]
 
 [security]
   enableInlineShortcodes = false
