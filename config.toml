@@ -100,11 +100,18 @@ tag = "tags"
   [markup.goldmark]
     [markup.goldmark.renderer]
       unsafe = true
+    [markup.goldmark.parser]
+      autoHeadingID = true
+      autoHeadingIDType = "github"
     [markup.goldmark.extensions.passthrough]
       enable = true
       [markup.goldmark.extensions.passthrough.delimiters]
         block = [['\\[', '\\]'], ['$$', '$$']]
         inline = [['\\(', '\\)'], ['$', '$']]
+  [markup.tableOfContents]
+    startLevel = 2
+    endLevel = 6
+    ordered = false
 
 [security]
   enableInlineShortcodes = false

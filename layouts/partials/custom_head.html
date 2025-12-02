@@ -9,6 +9,36 @@
   .title h2 {
     font-family: 'Scriptin', cursive !important;
   }
+
+  /* Heading anchor styles */
+  h1, h2, h3, h4, h5, h6 {
+    position: relative;
+  }
+
+  .heading-anchor {
+    opacity: 0;
+    margin-left: 0.5em;
+    transition: opacity 0.2s ease;
+    text-decoration: none;
+    display: inline-block;
+    vertical-align: middle;
+  }
+
+  h1:hover .heading-anchor,
+  h2:hover .heading-anchor,
+  h3:hover .heading-anchor,
+  h4:hover .heading-anchor,
+  h5:hover .heading-anchor,
+  h6:hover .heading-anchor,
+  .heading-anchor:focus {
+    opacity: 1;
+  }
+
+  .heading-anchor svg {
+    width: 0.8em;
+    height: 0.8em;
+    vertical-align: middle;
+  }
 </style>
 
 <!-- KaTeX CSS - loaded on all pages for compatibility with Hugo v0.91.2 -->
