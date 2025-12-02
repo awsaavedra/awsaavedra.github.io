@@ -28,13 +28,6 @@ The purpose of this documentation is a primary list of areas I have documented o
 
 **DO NOT BE A HELP VAMPIRE: (plural help vampires) (chiefly computing, derogatory, informal) A person who requests answers and solutions from a community while giving nothing in return.**
 
-Disclaimer 1: I am not an investment advisor. None of the information presented herein is intended to form the basis of any offer or recommendation or have any regard to the investment objectives, financial situation, or needs of any specific person, and that includes you, my dear reader. Everything you’re going to read is for informational purposes only. PLEASE DO NOT ASK FOR ANY FINANCIAL ADVICE, MY ANSWER IS ALWAYS “I DO NOT GIVE ADVICE.”
-
-Disclaimer 2: THIS WEBSITE DOES NOT PROVIDE MEDICAL ADVICE
-The information, including but not limited to, text, graphics, images and other material contained on this website are for informational purposes only. No material on this site is intended to be a substitute for professional medical advice, diagnosis or treatment. Always seek the advice of your physician or other qualified health care provider with any questions you may have regarding a medical condition or treatment and before undertaking a new health care regimen, and never disregard professional medical advice or delay in seeking it because of something you have read on this website.
-
-Disclaimer 3: The views expressed in these resources do not necessarily express my views or that of my employer
-
 ## 1. Learning 
 Searching through tag: [/tags/learning/](/tags/learning/)
 Work on your strategy for learning and you can get pretty far in life.
@@ -47,7 +40,10 @@ Work on your strategy for learning and you can get pretty far in life.
 7. A Mind for Numbers by Barbara Oakley
 8. https://www.scotthyoung.com/blog/2022/07/05/85-percent-rule/
 9. Bring Up Genius! by László Polgár
-10. The Making of a Genius by Aaron Stern (hard to get a copy)11. Pedagogy (Learning Models) when people ask "well this is the only model we currently have for education, right?" send them here to read these other options
+10. The Making of a Genius by Aaron Stern 
+hard to get a copy
+11. Pedagogy (Learning Models)
+when people ask "well this is the only model we currently have for education, right?" send them here to read these other options
 This is not a failure of possibility, only a failure of imagination if someone can't imagine a better option.
     1. Dojo Mastery Model
     2. https://en.m.wikipedia.org/wiki/Colorado_College Colorado College uses the block plan 
