@@ -477,7 +477,21 @@ https://andymatuschak.org/
 
 ## 14. A list of Notable Persons
 
-Charlie Munger, Warren Buffet, Isaac Asimov, Da Vinci, Carl Sagan, Stephen Jay Gould, Will Sidis, Josh Waitzkin, Terence Tao, Benjamin Franklin, Hamilton, Bertrand Russell, ERE AKA Jacob Lund Fisker, Noam Chomsky, Martine Rothblatt
+1. Charlie Munger
+2. Warren Buffet
+3. Isaac Asimov 
+4. Da Vinci
+5. Carl Sagan
+6. Stephen Jay Gould
+7. Will Sidis
+8. Josh Waitzkin
+9. Terence Tao
+10. Benjamin Franklin
+11. Hamilton
+12. Bertrand Russell
+13. ERE AKA Jacob Lund Fisker
+14. Noam Chomsky
+15. Martine Rothblatt
 
 
 
