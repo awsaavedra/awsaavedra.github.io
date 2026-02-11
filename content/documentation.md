@@ -460,7 +460,7 @@ https://www.thinkingcomplete.com/
 https://www.scottaaronson.com/
 https://cxgonzalez.org/neo-hermeticism
 https://andymatuschak.org/
-
+http://blog.loomofreality.org/
 
 ## 13. Additional Resources
 
