@@ -20,7 +20,11 @@ https://tutorialedge.net/golang/hugo/hugo-adding-images-to-posts/
 
 Add a new page to site
 
-`hugo new content/posts/my-first-post.md`
+```
+make post name=my-first-post.md
+```
+
+This is a shortcut for `hugo new content/posts/my-first-post.md`.
 
 
 # Website TODO Features
