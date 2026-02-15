@@ -66,8 +66,8 @@ googleAnalytics = ""
   weight = 5
 
   [[menu.main]]
-  name = "Disclaimer"
-  url = "/disclaimer/"
+  name = "Disclaimers"
+  url = "/disclaimers/"
   weight = 6
 
   [[menu.main]]

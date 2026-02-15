@@ -11,7 +11,7 @@ disableToC: false
 disableAutoCollapse: true
 ---
 
-As a followup to the [Daily Lifestyle Checklist](/posts/daily-lifestyle-checklist/) here is a simplified daily routine I follow. All the [disclaimers](/disclaimer/) apply.
+As a followup to the [Daily Lifestyle Checklist](/posts/daily-lifestyle-checklist/) here is a simplified daily routine I follow. All the [disclaimers](/disclaimers/) apply.
 
 # 24-Hour Weekday Schedule
 

@@ -8,8 +8,7 @@ toc: true
 
 ![This Present Moment](https://www.aliciaeggert.com/imgs/pages/thispresentmoment1.jpg)
 
-## Disclaimer
-**This picture is a commentary on human sacrifice as a societal practice, nothing else.**
+See the [disclaimers](/disclaimers/) for full list of website disclaimers.
 
 “Whenever serious and competent people need to get things done in the real world, all considerations of tradition and protocol fly out the window.” ~ Neal Stephenson
 

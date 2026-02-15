@@ -1,9 +1,12 @@
 ---
-title: "Disclaimer"
+title: "Disclaimers"
 date: 2025-11-10
 ---
 
 ## Health Disclaimer
+
+<details>
+<summary><strong>Medical and health information disclaimer</strong></summary>
 
 The information provided on this website is for general informational purposes only. It is not intended as medical advice and should not be relied upon as a substitute for professional consultation, diagnosis, or treatment.
 
@@ -13,7 +16,14 @@ If you think you may have a medical emergency, call your doctor or emergency ser
 
 Reliance on any information provided by this website is solely at your own risk.
 
+</details>
+
+---
+
 ## Financial Disclaimer
+
+<details>
+<summary><strong>Financial and investment information disclaimer</strong></summary>
 
 The information provided on this website is for general informational and educational purposes only. It is not intended as financial, investment, tax, or legal advice and should not be construed or relied upon as such.
 
@@ -25,8 +35,41 @@ The author makes no representations as to the accuracy, completeness, currentnes
 
 All information is provided on an as-is basis. By using this website, you acknowledge and agree that you are solely responsible for your own financial decisions and any consequences that may result.
 
+**I will not help you with individual financial stuff. Please do not ask.** Consult with a fiduciary advisor with any specific question you may have.
+
+</details>
+
+---
+
 ## General Disclaimer
+
+<details>
+<summary><strong>Views and opinions disclaimer</strong></summary>
 
 The views and opinions expressed on this website are those of the author and do not necessarily reflect the official policy or position of any other agency, organization, employer, or company.
 
 Any content provided by the author is of their opinion and is not intended to malign any religion, ethnic group, club, organization, company, individual, or anyone or anything.
+
+</details>
+
+---
+
+## Educational Purpose Only
+
+<details>
+<summary><strong>Educational use disclaimer</strong></summary>
+
+This website is provided for educational and informational purposes only.
+
+</details>
+
+---
+
+## Liability
+
+<details>
+<summary><strong>Accuracy and liability disclaimer</strong></summary>
+
+While best efforts have been made to fact-check the content, readers should independently verify all data points and claims. Noting that the text may contain inaccuracies.
+
+</details>
