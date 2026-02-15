@@ -1,7 +1,7 @@
 ---
 title: "Daily Routine"
 date: 2026-02-13T11:30:02-08:00
-lastmod: 2026-02-13T11:30:02-08:00
+lastmod: 2026-02-14T11:30:02-08:00
 author: Alexander Saavedra
 tags: [health, productivity]
 draft: false
@@ -43,7 +43,7 @@ As a followup to the [Daily Lifestyle Checklist](/posts/daily-lifestyle-checklis
 
 **Beverages:**
 - Matcha green tea (throughout eating time until 12:00)
-
+- Coffee with vegan creamer and molasses/date sugar
 **Food:**
 - Organic Seaweed
 
@@ -110,10 +110,10 @@ Focus on core work tasks without interruptions.
 
 ---
 
-## 💼 Work Session 2 (13:30 - 17:00)
+## 💼 Work Session 2 (13:30 - 17:30)
 
 <details>
-<summary><strong>13:30-17:00 | Work + Studying</strong></summary>
+<summary><strong>13:30-17:30 | Work + Studying</strong></summary>
 
 Afternoon work and learning session.
 </details>
@@ -159,7 +159,13 @@ Evening activities and preparation for wind down.
 
 1. Cell phone put away first to avoid distractions
 2. No lights, screens, or ambient light of any kind. Dimming tape on everything in bedroom so barely visible
-3. Entertainment: audiobooks, books, etc.
+3. Shower, shave, wash face, apply creams and lip balm
+- Shampoo: peptide based shampoo
+- face: under eye cream, face cream, full body lotion, overnight lip balm
+4. Hydration
+- Drink 1 cup of water before bed
+5. Humidifier started
+6. Entertainment: audiobooks, books, etc.
 </details>
 
 ---
