@@ -16,15 +16,7 @@ disableAutoCollapse: true
 
 Around 2014, after being recommended this book by numerous sources, I picked it up and gave it a read. Great books profoundly influence the way you think for the rest of your life. The Intelligent Investor is such a book. It challenged my initial ideas on investment, how to think about assets, and how to think about wealth. Contained within it are sound principles for first preserving what one has and then increase that pile of money safely with time. Benjamin Graham gave me the tools to navigate the waters of finance without making the big mistakes. This is not a book for how to make a quick buck from bitcoin or the next craze or fad. This is a book on careful and conservative thinking in making returns while considering many factors for oneself.
 
-### Disclaimer and Basics on Retirement
-
-I am simply an enthusiastic lay person
-who happens to know some math, a fair bit of personal finance,
-and likes reading books on the topic of investing. Please do your own research
-and don't ask me for specific advice about any companies,
-markets, etc.
-
-**I will not help you with individual financial stuff. Please do not ask.** Consult with a fiduciary advisor with any specific question you have and make sure your 401k company is not screwing you over. *Hint*: Your 401k provider is probably screwing you over, watch [The Retirement Gamble](https://www.pbs.org/video/frontline-retirement-gamble/).
+See the [disclaimers](/disclaimers/) for full list of website disclaimers.
 
 
 ### The Gist

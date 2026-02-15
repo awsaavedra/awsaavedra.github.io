@@ -6,9 +6,7 @@ draft: false
 toc: true
 ---
 
-## Disclaimer
-I am not an investment advisor. None of the information presented herein is intended to form the basis of any offer or recommendation or have any regard to the investment objectives, financial situation, or needs of any specific person, and that 
-includes you, my dear reader. Everything you’re going to read is for informational purposes only. PLEASE DO NOT ASK FOR ANY FINANCIAL ADVICE, MY ANSWER IS ALWAYS “I DO NOT GIVE ADVICE.”
+See the [disclaimers](/disclaimers/) for full list of website disclaimers.
 
 ## Introduction
 
