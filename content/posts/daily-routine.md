@@ -20,10 +20,12 @@ As a followup to the [Daily Lifestyle Checklist](/posts/daily-lifestyle-checklis
 <details>
 <summary><strong>6:00-6:10 | Wake Up & Hygiene</strong></summary>
 
-1. Brush teeth with electric toothbrush
-2. Brush tongue
+1. Brush teeth with sonarcare electric toothbrush
+2. Brush tongue with MasterMedi Tongue Scraper
 3. Wash face
-4. Apply creams: lotions then SPF for face, hands, neck
+4. Apply creams: 
+  - lotions from oneskin and facial cleanser same company
+  - SPF EltaMD UV Clear Face Sunscreen SPF 46 for face, hands, neck
 </details>
 
 <details>
@@ -32,7 +34,7 @@ As a followup to the [Daily Lifestyle Checklist](/posts/daily-lifestyle-checklis
 1. Drink 2 cups of water
 2. Stretch
 3. Get outside to walk for 15-30 minutes
-4. Sauna:
+4. Sauna from The Pod Company: TODO use wood Sauna gym as primary sauna
    - 10-20 minutes
    - Head and pants protection; cold water or ice shorts and cap
    - Meditation in sauna during this time
@@ -42,25 +44,25 @@ As a followup to the [Daily Lifestyle Checklist](/posts/daily-lifestyle-checklis
 <summary><strong>7:45-8:00 | Breakfast (Fasting Ends)</strong></summary>
 
 **Beverages:**
-- Matcha green tea (throughout eating time until 12:00)
+- Green tea and toasted rice by Tao of Tea. Throughout eating time until 12:00
 - Coffee with vegan creamer and molasses/date sugar
+
 **Food:**
-- Organic Seaweed
+- Mixed nuts unsalted by Kirland signature: cashews, almonds, pistachios, pecans
 
 **Shake:**
-- 4 berry organic blend: raspberries, strawberries, blackberries, blueberries
-- Ceylon cinnamon
-- 1-2 tablespoons wheat germ
-- Bob's Red Mill whey isolate
-- 1.5 cups oat milk
-- Dark chocolate powder (low heavy metal, no sugar)
-- 1-2 tablespoons flaxseed
-- 10-20 mg creatine
+- 4 berry organic blend by kirland signature: raspberries, strawberries, blackberries, blueberries
+- 1 - 2 tablespoons wheat germ by Bob's redmill
+- Whey isolate by Thorne
+- 1.5 cups oat milk by Kirkland Signature
+- Dark chocolate powder by Navitas Organics Cacao Powder
+- 1 - 2 tablespoons Organic Hemp Hearts by Kirland Signature
+- 10 - 20 grams creatine by Thorne
 
 **Supplements:**
-- B12
-- Algae Oil
-- K2 and D
+- B12 by Thorne
+- Algae Oil by The Veggie Doctor
+- K2 and D by Nordic Naturals
 </details>
 
 ---
@@ -80,25 +82,36 @@ Focus on core work tasks without interruptions.
 <details>
 <summary><strong>12:00-12:30 | Lunch</strong></summary>
 
-**Eating Order:** Greens, meats, carbohydrates, then liquids (not too fast)
+**Eating Order:** Greens, Proteins, carbohydrates, then liquids (not too fast)
 
 **1. Ramen:**
-- Sun Ramen
-- Mushrooms: oyster and shiitake (sliced)
-- Spices: ginger, 3 cloves of garlic, 1/4 onion, cumin + black cumin, pepper + long pepper, coriander
+- Sun Ramen naked noodles, no sauces
+- Mushrooms freshly cut: oyster and shiitake (sliced)
+- Spices: 
+  - Cut fresh ginger root
+  - Cut fresh 3 cloves of garlic
+  - Cut fresh 1/4 onion
+  - Cumin by Simply Organic
+  - Black cumin by Simply Organic
+  - Pepper + long pepper by Simply Organic
+  - Coriander by Simply Organic
 - Cooking oil: avocado oil
 - Protein: duck/chicken/tofu
 
 **2. Tea:**
-- Drank throughout rest of day until ~17:00 when fasting starts
+- Numi Organic Rooibos Chai. Drank throughout rest of day until ~17:00 when fasting starts
 
 **3. Salad:**
 - Baby arugula 1-2 cups
 - Sprouts: purple radish, broccoli
-- Spices and dressing: mustard seed, cumin, extra virgin olive oil, vinegar
+- Spices and dressing: 
+  - Mustard seed by Simply Organic
+  - Cumin by Simply Organic 
+  - Extra virgin olive oil by Bryan Johnson (snake oil)
+  - vinegar by Bragg's Apple Cider Vinegar
 
 **4. Snack:**
-- Seaweed
+- Mixed nuts unsalted by Kirland signature: cashews, almonds, pistachios, pecans
 </details>
 
 <details>
@@ -126,20 +139,45 @@ Afternoon work and learning session.
 <summary><strong>17:00-17:30 | Dinner (Fasting Begins)</strong></summary>
 
 **1. Salad:**
-- Baby arugula 1-2 cups
+- Fresh baby arugula 1-2 cups
 - Sprouts: purple radish, broccoli
-- Spices and dressing: mustard seed, cumin, extra virgin olive oil, vinegar
+- Spices and dressing:
+ 
+  a. mustard seed by Simply Organic Organic Ground
+  
+  b. ground cumin by Simply Organic
+  
+  c. extra virgin olive oil by Bryan Johnson (aka Snake oil)
+  
+  d. Vinegar: Bragg Organic Apple Cider Vinegar
+
 - Sliced bell peppers
 
 **2. Spaghetti:**
-- Mushrooms: button, oyster
-- Pasta: organic pasta
-- Oil: avocado
-- Spices: garlic, ginger (optional), 1/4 onion, cumin, black pepper
+- Mushrooms fresh and cut: button, oyster
+- Pasta: organic pasta by Garofalo 250g
+- Oil: avocado by Marianne. Glass bottle 1 liter version
+- Spices: 
+  
+  a. fresh garlic
+  
+  b. fresh ginger (optional)
+  
+  c. Fresh 1/4 onion
+  
+  d. Ground cumin by Simply Organic
+  
+  e. black pepper by Simply Organic
+  
+  f. Fennel Seed by Simply Organic
+  
+  g. Whole peppers (optional) 
+  
+  h. Paprika by Frontier co-op (optional)
 
 **3. Protein Drink:**
 - Oat milk: 1 cup
-- Protein: 2 scoops of Bob's Red Mill whey isolate (~35-50 grams)
+- Protein: 2 scoops of whey isolate by Thorne (~35-50 grams)
 
 *Fasting begins after dinner*
 </details>
@@ -174,82 +212,82 @@ Evening activities and preparation for wind down.
 
 Rest and recovery period.
 
-   
+# Below this line some some key decision filters I used
 
-# List format version
+## 0. Can I actually follow the routine? 
 
-24 schedule during the week
-6:00 to 6:10, alarm wakeup
-Tasks: 
-  1. Brush teeth with electric toothbrush
-  2. Brush tongue
-  3. Wash face
-  4. Apply creams: lotions then SPF for face, hands, neck
-6:10 - 7:10, morning routine
-Tasks: 
-  1. Drink 2 cups of water
-  2. Stretch
-  3. Get outside to walk for 15 to 30 minutes
-  4. Sauna:
-    a. 10 to 20 minutes
-    b. Head and pants protection; cold water or ice shorts and cap
-    c. Meditation in sauna during this time
+If it's perfectly effective but nearly impossible to follow it's meaningless.
+  
+a. Consider pareto optional frontiers for all decisions. 
+  
+b. If you don't know what that is learn it, because I bet you're unaware of things like
+  game theory in practice, normative decision making, and things like that.
 
-7:45, breakfast
-Fasting ends
-  1. Matcha green tea drinks throughout eating time until 12:00
-  2. Organic Seaweed
-  3. Shake: 
-    a. 4 berry organic blend: raspberries, strawberries, blackberries, blueberries
-    b. Spices: ceylon cinnamon
-    c. Grain: 1-2 tablespoons of wheat germ
-    d. Protein: Bob's redmill whey isolate
-    e. Oat milk 1.5 cups
-    f. Dark chocolate powder, low heavy metal and no sugar
-    g. Flaxseed 1 to 2 tablespoons
-    h. Creatine: 10 to 20 mg
-  4. Supplements:
-    a. B12
-    b. Algae Oil
-    c. K12 and D
-8:00 to 12:00, work
-12:00, lunch
-Food: Order of eating is greens, meats, carbohydrates, and finally liquids not too fast.
-  1. Ramen:
-    a. Sun Ramen
-    b. Mushrooms: oyster and Shitake sliced
-    c. Spices: Ginger, 3 cloves of garlic, 1/4 onion, cumin + black cumin, pepper + long pepper, coriander
-    d. Cooking oil: Avocado oil
-    e. Protein: Duck/Chicken/Tofu
-  2. Tea, drank throughout the rest of the day until ~17:00 hours when fasting starts
-  3. Salad: 
-      a. Baby Arugula 1 to 2 cups
-      b. sprouts: purple radish, broccoli 
-      c. spices and dressing: mustard seed, cumin, extra virgin olive oil, vinegar
-  4. Snack: seaweed
-12:30 to 13:30, Gym and/or run
-30 - 45 minutes running
-30 - 45 minutes weight training
-13:30 to 17:00 work + studying
-17:00 to 17:30, dinner
-1.Salad: 
-    a. Baby Arugula 1 to 2 cups
-    b. sprouts: purple radish, broccoli 
-    c. spices and dressing: mustard seed, cumin, extra virgin olive oil, vinegar
-    d. Sliced bell peppers
-2. Spaghetti:
-    a. Mushrooms: Button, oyster 
-    b. Pasta: Organic pasta
-    c. Oil: Avocado 
-    d. Spices: garlic, ginger (optional), 1/4 onion, cumin, black pepper
-3. Protein drink:
-    a. Oat milk: 1 cup
-    b. Protein: 2 scoops of Bob's redmill whey isolate ~35 to 50 grams
+c. Can I follow this routine and modify it effectively in the long run?
 
-17:30 to 19:30, night stuff. Fasting begins.
+## 1. Am I still productive in other areas of my life or is this all consuming? 
+If it is all consuming it's a waste of time and won't be followed.
 
-19:30 to 22:00, wind down routine begins
-Tasks:
-  1. Cell phone is put away first to avoid distractions
-  2. No lights, screens, or ambient light of any kind. Dimming tape on everything in bedroom so barely visible.
-  3. Entertainment: audiobooks, books, etc.
+
+## Heuristics Used here 
+0. Whole Foods over processed
+1. Plant sources over animal sources
+2. Slightly Cooked (microwaved, raw, lightly steamed) over heavily cooked
+3. Apply the 80-20 rule to diet, try to eat the big winners first
+4. Environmental Design, remove temptation items instead of resisting them
+5. Moderation–if you’re too strict you will just relapse
+6. Expensive and/or complicated health solutions should be viewed with skepticism, 
+where is the scientific evidence to support it? 
+Is it more effective than the less expensive version–if so, how much more effective?
+7. Doctor’s are just people, they make mistakes too–be an advocate for your own health and ask them informed and well researched questions
+8. Scientific evidence over subjective experience
+9. Variety over quantity, rotating through foods to maximize nutrient spread in a reasonable range.
+
+## Contaminants & Packaging Checklist
+
+**Goal:** Minimize avoidable toxins (heavy metals, plastics, pesticides) without obsession.
+**Use:** When evaluating high-risk categories (tea, spices, supplements, fish).
+
+### 1. Risk Screen: Is this a "Bio-Accumulator"?
+*If yes, apply strict scrutiny (COAs, sourcing).*
+- [ ] **Tea/Matcha** (Lead/Fluoride accumulator)
+- [ ] **Spices** (Root/seed accumulators: Turmeric, Ginger, Cumin)
+- [ ] **Chocolate/Cocoa** (Cadmium/Lead accumulator)
+- [ ] **Rice** (Arsenic accumulator)
+- [ ] **Leafy Greens/Roots** (Soil uptake)
+- [ ] **Predatory Fish** (Mercury accumulator: Tuna, Swordfish)
+- [ ] **Supplements** (Concentrated sources)
+
+### 2. Packaging & Microplastics
+*Heat + Plastic = Leaching. Avoid.*
+- [ ] **No hot contact with plastic:** No plastic kettles, coffee pods, or tea bags (nylon/mesh).
+- [ ] **Safe Materials:** Glass, Stainless Steel, Ceramic, Cast Iron.
+- [ ] **Tea:** Loose-leaf preferred. If bagged, unbleached paper only (no "silken" plastic).
+- [ ] **Acidic Foods:** Buy tomato/citrus in glass jars, not cans (BPA/BPS lining risk).
+
+### 3. Heavy Metals (The "Prove It" Check)
+*Marketing claims ("Clean", "Tested") mean nothing. Numbers matter.*
+- [ ] **COA Verification:** Does the brand share a recent 3rd-party Certificate of Analysis?
+- [ ] **Units Matter:** Look for **ppb** (parts per billion), NOT ppm.
+    - *Red Flag:* "ND at 0.5 ppm" (Detection limit is too high; hides contamination).
+- [ ] **Ideal Thresholds:**
+    - Lead < 5 ppb
+    - Arsenic/Cadmium/Mercury < 10–50 ppb (context dependent)
+- [ ] **No COA?** Treat as "high risk" if it's a bio-accumulator category.
+
+### 4. Sourcing & Farming
+- [ ] **Organic:** Prioritize for "Dirty Dozen" (Berries, Leafy Greens, Apples, Peppers).
+- [ ] **Geography:** "Packed in USA" ≠ "Grown in USA". Look for specific region of origin.
+- [ ] **Rice:** Rinse thoroughly. Rotate grains (Quinoa, Oats) to lower arsenic load.
+- [ ] **Fish:** Small > Large (Sardines/Salmon > Tuna).
+
+### 5. Supplements (Trust but Verify)
+- [ ] **Certification:** NSF Certified for Sport OR USP Verified? (Gold Standard).
+- [ ] **Proprietary Blends:** Avoid. (Hides dosage/fillers).
+- [ ] **Fillers:** Minimal inactive ingredients. No titanium dioxide or artificial colors.
+
+### 6. Process Contaminants (Cooking)
+- [ ] **Golden Rule:** Cook to golden, not brown/charred (Acrylamide/PAHs reduction).
+- [ ] **Methods:** Steam/Microwave/Bake > Deep Fry/Char-Grill.
+- [ ] **Oils:** Use high smoke point oils (Avocado, Ghee) for heat; EVOO for finishing.
+
