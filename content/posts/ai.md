@@ -1,7 +1,7 @@
 ---
 title: "AI"
 date: 2025-02-28T16:39:08-08:00
-lastmod: 2025-06-27T20:02:14-08:00
+lastmod: 2026-02-27T00:00:00-08:00
 author: Alexander Saavedra
 tags: [philosophy, software]
 draft: false
@@ -243,6 +243,8 @@ on these topics is difficult but I'll try my best to add things that won't go st
 
     h. Win-Win with Liv Boeree (mostly game theory stuff though)
 
+    i. https://theinnermostloop.substack.com/
+
 6. Tools: I am not going to attempt this just look at benchmarks that 
 come out and decide for yourself using them. Use cases to pay attention to:
 
@@ -362,8 +364,10 @@ https://en.wikipedia.org/wiki/Darwin_among_the_Machines
 
 https://ai-timeline.org/ ai timeline of the past 10 years in pretty high resolution
 
-https://www.simonsfoundation.org/event/the-next-great-scientific-theory-is-hiding-inside-a-neural-network  
+https://www.simonsfoundation.org/event/the-next-great-scientific-theory-is-hiding-inside-a-neural-network
 AI will fuel scientific discovery massively
+
+https://theinnermostloop.substack.com/
 
 
 
