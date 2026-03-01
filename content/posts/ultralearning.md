@@ -2,7 +2,6 @@
 title: Ultralearning
 date: 2019-09-08T02:01:58+05:30
 author: Alexander Saavedra
-
 tags: [learning, productivity]
 draft: false
 enableDisqus : true
