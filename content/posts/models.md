@@ -84,4 +84,10 @@ they will meet the fate of those who refuse to acknowledge the lessons
 of the past and to meet the challenge of our difficult present: 
 increasing irrelevancy followed by eventual extinction."
 
+[Closer to truth, where does mathematics come from?](https://youtu.be/MmxjKwTXTvw?si=pV4vgqPyHAOZ8jDj closer to truth, where does mathematics come from?)
+https://en.m.wikipedia.org/wiki/Vienna_Circle
+
+https://plato.stanford.edu/entries/goedel/#GodPhiWor
+https://en.wikipedia.org/wiki/Principia_Mathematica
+https://en.wikipedia.org/wiki/The_Principles_of_Mathematics
 
