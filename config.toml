@@ -22,7 +22,7 @@ enableRobotsTXT = true
   description = "A simple and concise hugo theme."
 
 [menu]
-  [[menu.main]]
+  # [[menu.main]]
   # name = "Home"
   # url = "/"
   # weight = 1
