@@ -63,7 +63,7 @@ This comes down to a more important social question than epistemological questio
 
 "listening to the herd invites regression to the mean"
 
-![Four Quandrants](/four-quadrants.png "The Four Quadrants")
+![Four Quandrants](/four-quadrants.webp "The Four Quadrants")
 
 The status quo exists merely because of populations on any given issue. So most people will be conformists on most things, but the critical idea here is that hand waving and saying “there is a better way” is not compelling to anyone. One needs to create a better way either a minimal viable test or framework. Some way to get some people to believe it is possible and if it is better, a lot better, or a paradigm shift, then people will come and watch. Perhaps a status quo exists simply because of convention but one must also ask “to whose benefit?” For instance, not allowing certain groups to vote benefitted a particular group of people and their core argument could not be held around once others were empowered.
 
@@ -93,7 +93,7 @@ If you want to find a better way, make one and try to get people to test it out.
 
 One of the more superficial questions of the status quo is "the leader is rotten" which ignores the process that puts these leaders into their positions– let’s call this the leadership supply chain. Such a superficial questioning leads to things like the dictator wheel. The issue on the leadership supply chain is upstream to the current instance of the leader and how they came into power.
 
-![Dictator Wheel](/dictator-wheel.gif "Dictator Wheel")
+![Dictator Wheel](/dictator-wheel.webp "Dictator Wheel")
 
 What truths are we ignoring that would further knowledge as much as knowing geocentrism is incorrect? It is highly improbable there are none, are any laid in taboos or force around the corner for questioning them? If something is untrue and morally wrong it will likely be opaque and the defense for it is likely to be quite dirty: lawsuits, threats of force, etc.
 

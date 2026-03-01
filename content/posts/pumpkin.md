@@ -11,7 +11,7 @@ disableToC: false
 disableAutoCollapse: true
 toc: true
 ---
-![Caffeine](/pumpkin/caffeine.jpg "Caffeine")
+![Caffeine](/pumpkin/caffeine.webp "Caffeine")
 Pumpkin spice is considered a very basic drink.
 
 It would be considered a non-contrarian thing to drink.

@@ -57,7 +57,7 @@ He has a lot of demons and similar to Dorian Yates does not live in a glamorous 
 3. [The Struggle](https://en.m.wikipedia.org/wiki/Struggle:_The_Life_and_Lost_Art_of_Szukalski) 
 
 
-![The Struggle](/stanislav-szukalski-struggle.jpg "Struggle")
+![The Struggle](/stanislav-szukalski-struggle.webp "Struggle")
 
 This is  a story about a genius architect. 
 Another such genius whose quiet unknown is Beksinski with a tragic story.
@@ -94,7 +94,7 @@ The title is "to bring natural language understanding to Google".
 
 6. [Judowsky's Dune](https://en.m.wikipedia.org/wiki/Jodorowsky's_Dune)
 
-![Judowsky](/judowsky-dune.png "Struggle")
+![Judowsky](/judowsky-dune.webp "Struggle")
 
 Best ship of all time or strangest clown car or circus? You decide.
 

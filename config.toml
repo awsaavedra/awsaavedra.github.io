@@ -6,10 +6,10 @@ enableEmoji = true
 # pagination = 10
 
 title = "Alexander Saavedra"
-copyright = "[Home](/) &#183; Theme [Simpleness](https://github.com/RainerChiang/simpleness) Powered by [Hugo](https://gohugo.io/)"
+copyright = "[Home](/) &#183; Powered by [Hugo](https://gohugo.io/)"
 
 theme = "hugo-bearblog"
-googleAnalytics = ""
+enableRobotsTXT = true
 
 [params]
   lazyImage = true
@@ -20,19 +20,6 @@ googleAnalytics = ""
   showmonth = true
   slogan = "always make it happen"
   description = "A simple and concise hugo theme."
-  disqus = ""
-
-[params.valine]
-  enable = false
-  lang = 'en' # zh-CN
-  appId = ''
-  appKey = ''
-  placeholder = 'Say Something......'
-  requiredFields = ['nick', 'mail']
-  avatar = 'robohash'
-  visitor = true
-  enableHeaderVisitor = true
-  debug = true
 
 [menu]
   [[menu.main]]
