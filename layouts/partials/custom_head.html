@@ -42,6 +42,11 @@
     height: 0.8em;
     vertical-align: middle;
   }
+
+  /* Accessibility: links distinguishable without color alone (WCAG 1.4.1) */
+  main a:not(.heading-anchor):not(.social-icon) {
+    text-decoration: underline;
+  }
 </style>
 
 {{ if .Params.math }}
