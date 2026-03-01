@@ -1,10 +1,133 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>productivity on Alexander Saavedra</title><link>https://awsaavedra.com/tags/productivity/</link><description>Recent content in productivity on Alexander Saavedra</description><generator>Hugo -- gohugo.io</generator><language>en</language><copyright>[Home](/) &amp;#183; Theme [Simpleness](https://github.com/RainerChiang/simpleness) Powered by [Hugo](https://gohugo.io/)</copyright><lastBuildDate>Fri, 13 Feb 2026 11:30:02 -0800</lastBuildDate><atom:link href="https://awsaavedra.com/tags/productivity/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily Routine</title><link>https://awsaavedra.com/posts/daily-routine/</link><pubDate>Fri, 13 Feb 2026 11:30:02 -0800</pubDate><guid>https://awsaavedra.com/posts/daily-routine/</guid><description>As a followup to the Daily Lifestyle Checklist here is a simplified daily routine I follow. All the disclaimers apply.
-24-Hour Weekday Schedule 🌅 Morning (6:00 - 8:00) 6:00-6:10 | Wake Up &amp; Hygiene 🪥 Brush teeth with sonarcare electric toothbrush 👅 Brush tongue with MasterMedi Tongue Scraper 🧼 Wash face 🧴 Apply creams: lotions from oneskin and facial cleanser same company ☀️ SPF EltaMD UV Clear Face Sunscreen SPF 46 for face, hands, neck 6:10-7:10 | Morning Routine 💧 Drink 2 cups of water 🧘 Stretch 🚶 Get outside to walk for 15-30 minutes 🧖 Sauna from The Pod Company: TODO use wood Sauna gym as primary sauna 10-20 minutes Head and pants protection; cold water or ice shorts and cap Meditation in sauna during this time 7:45-8:00 | Breakfast (Fasting Ends) ☕🍵 Beverages:</description></item><item><title>Ultralearning</title><link>https://awsaavedra.com/posts/ultralearning/</link><pubDate>Sun, 08 Sep 2019 02:01:58 +0530</pubDate><guid>https://awsaavedra.com/posts/ultralearning/</guid><description>Background We live in a time when you can go on the internet and read about most things to some level. So can you learning the equivalent to getting an undergraduate degree from a top university? Scott Young set out on a bold project of obtaining the equivalent knowledge of an undergraduate Computer Science degree from MIT in a year. He called this project the MIT Challenge.</description></item><item><title>Digital Minimalism</title><link>https://awsaavedra.com/posts/digital-minimalism/</link><pubDate>Thu, 30 May 2019 02:01:58 +0530</pubDate><guid>https://awsaavedra.com/posts/digital-minimalism/</guid><description>Background Something is wrong with us now days. Why is it so hard to deal with a bit of boredom or lack of stimulation from our smartphones? The answer goes deeper than many thought.
-After going through Cal Newport&amp;rsquo;s books: Deep Work and So Good They Can&amp;rsquo;t Ignore You I had to pick up his most recent work on the subject of software technology in our lives.</description></item><item><title>Deep Work</title><link>https://awsaavedra.com/posts/deep-work/</link><pubDate>Mon, 26 Nov 2018 00:00:00 +0000</pubDate><guid>https://awsaavedra.com/posts/deep-work/</guid><description>The Gist that I got:
-Create a place or places for deep work free of distraction for extended periods of well defined chunked work that are part of a strong formed habit with daily rituals of getting up and winding down. Each part of your day is segmented. Do not allow distractions or boredom to get in the way. Make sure your outside activities help support deep work meaning you don't extensively used social media, lots of video games, etc--these things train you for consistent attentional switching which is not part of deep work.</description></item><item><title>So Good They Can't Ignore You</title><link>https://awsaavedra.com/posts/so-good/</link><pubDate>Sun, 25 Nov 2018 02:01:58 +0530</pubDate><guid>https://awsaavedra.com/posts/so-good/</guid><description>Why is Following the Romantic Notion of Passion Bad Advice? I have read many books on productivity but this one stood out to me since the thesis was taking on a central dogma of a large portion of the US society: that following your passion is the key to happiness and fulfillment in the modern world. I have always been skeptical of this hypothesis, but I have not seen a well stated alternative worldview that does not have tremendous downsides.</description></item><item><title>The Originals</title><link>https://awsaavedra.com/posts/the-originals/</link><pubDate>Sun, 21 Oct 2018 00:00:00 +0000</pubDate><guid>https://awsaavedra.com/posts/the-originals/</guid><description>I rarely come away from a book with some solid actionable insights but luckily for me this book had some stellar information and a solid data driven approach to viewing the power of original thinking.
-A valuable cognitive strategy I learned from the book is called defensive pessimism which can be defined by wikipedia as:
-&amp;quot;When implementing defensive pessimism, individuals set low expectations for their performance, regardless of how well they have done in the past.</description></item><item><title>Algorithms to Live By</title><link>https://awsaavedra.com/posts/algorithms-to-live-by/</link><pubDate>Mon, 08 Jan 2018 00:00:00 +0000</pubDate><guid>https://awsaavedra.com/posts/algorithms-to-live-by/</guid><description>After listening to the 80,000 hours podcast episode 48 I realized that this book was right up my alley and decided it was worth a book review awhile ago but never put it together until now.
-Key Concepts and Algorithms:
-Optimal Stopping &amp;ndash; The Secretary Problem.
-Optimal Stopping with full information (Threshold rule). Set a threshold and anyone over that threshold.
-Multi-Armed Bandit Problem.</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Productivity on Alexander Saavedra</title><link>https://awsaavedra.com/tags/productivity/</link><description>Recent content in Productivity on Alexander Saavedra</description><generator>Hugo</generator><language>en</language><copyright>[Home](/) &amp;#183; Powered by [Hugo](https://gohugo.io/)</copyright><lastBuildDate>Tue, 17 Feb 2026 11:30:02 -0800</lastBuildDate><atom:link href="https://awsaavedra.com/tags/productivity/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily Routine</title><link>https://awsaavedra.com/posts/daily-routine/</link><pubDate>Fri, 13 Feb 2026 11:30:02 -0800</pubDate><guid>https://awsaavedra.com/posts/daily-routine/</guid><description>&lt;p>As a followup to the &lt;a href="https://awsaavedra.com/posts/daily-lifestyle-checklist/">Daily Lifestyle Checklist&lt;/a> here is a simplified daily routine I follow. All the &lt;a href="https://awsaavedra.com/disclaimers/">disclaimers&lt;/a> apply.&lt;/p>
+&lt;h1 id="24-hour-weekday-schedule">
+ 24-Hour Weekday Schedule
+ &lt;a href="#24-hour-weekday-schedule" class="heading-anchor" aria-label="Anchor link for: 24-Hour Weekday Schedule">
+ &lt;svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+ &lt;path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71">&lt;/path>
+ &lt;path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71">&lt;/path>
+ &lt;/svg>
+ &lt;/a>
+&lt;/h1>
+&lt;h2 id="-morning-600---800">
+ 🌅 Morning (6:00 - 8:00)
+ &lt;a href="#-morning-600---800" class="heading-anchor" aria-label="Anchor link for: 🌅 Morning (6:00 - 8:00)">
+ &lt;svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+ &lt;path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71">&lt;/path>
+ &lt;path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71">&lt;/path>
+ &lt;/svg>
+ &lt;/a>
+&lt;/h2>
+&lt;details>
+&lt;summary>&lt;strong>6:00-6:10 | Wake Up &amp; Hygiene&lt;/strong>&lt;/summary>
+&lt;ol>
+&lt;li>🪥 Brush teeth with sonarcare electric toothbrush&lt;/li>
+&lt;li>👅 Brush tongue with MasterMedi Tongue Scraper&lt;/li>
+&lt;li>🧼 Wash face&lt;/li>
+&lt;li>🧴 Apply creams:&lt;/li>
+&lt;/ol>
+&lt;ul>
+&lt;li>lotions from oneskin and facial cleanser same company&lt;/li>
+&lt;li>☀️ SPF EltaMD UV Clear Face Sunscreen SPF 46 for face, hands, neck&lt;/li>
+&lt;/ul>
+&lt;/details>
+&lt;details>
+&lt;summary>&lt;strong>6:10-7:10 | Morning Routine&lt;/strong>&lt;/summary>
+&lt;ol>
+&lt;li>💧 Drink 2 cups of water&lt;/li>
+&lt;li>🧘 Stretch&lt;/li>
+&lt;li>🚶 Get outside to walk for 15-30 minutes&lt;/li>
+&lt;li>🧖 Sauna from The Pod Company: TODO use wood Sauna gym as primary sauna
+&lt;ul>
+&lt;li>10-20 minutes&lt;/li>
+&lt;li>Head and pants protection; cold water or ice shorts and cap&lt;/li>
+&lt;li>Meditation in sauna during this time&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ol>
+&lt;/details>
+&lt;details>
+&lt;summary>&lt;strong>7:45-8:00 | Breakfast (Fasting Ends)&lt;/strong>&lt;/summary>
+&lt;p>&lt;strong>☕🍵 Beverages:&lt;/strong>&lt;/p></description></item><item><title>Ultralearning</title><link>https://awsaavedra.com/posts/ultralearning/</link><pubDate>Sun, 08 Sep 2019 02:01:58 +0530</pubDate><guid>https://awsaavedra.com/posts/ultralearning/</guid><description>&lt;h1 id="background">
+ Background
+ &lt;a href="#background" class="heading-anchor" aria-label="Anchor link for: Background">
+ &lt;svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+ &lt;path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71">&lt;/path>
+ &lt;path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71">&lt;/path>
+ &lt;/svg>
+ &lt;/a>
+&lt;/h1>
+&lt;p>We live in a time when you can go on the internet and read about most things
+to some level. So can you learning the equivalent to getting an
+undergraduate degree from a top university? Scott Young set out on a bold project
+of obtaining the equivalent knowledge of an undergraduate Computer Science degree from MIT
+in a year. He called this project the MIT Challenge. Did he succeed in this
+challenge? Up to you to decide but he did all the projects, homework, and
+passed all the final exams of the classes.&lt;/p></description></item><item><title>Digital Minimalism</title><link>https://awsaavedra.com/posts/digital-minimalism/</link><pubDate>Thu, 30 May 2019 02:01:58 +0530</pubDate><guid>https://awsaavedra.com/posts/digital-minimalism/</guid><description>&lt;h3 id="background">
+ Background
+ &lt;a href="#background" class="heading-anchor" aria-label="Anchor link for: Background">
+ &lt;svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+ &lt;path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71">&lt;/path>
+ &lt;path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71">&lt;/path>
+ &lt;/svg>
+ &lt;/a>
+&lt;/h3>
+&lt;p>Something is wrong with us now days. Why is it so hard to deal with a bit of boredom or
+lack of stimulation from our smartphones? The answer goes deeper than many thought.&lt;/p>
+&lt;p>After going through Cal Newport&amp;rsquo;s
+books: &lt;em>Deep Work&lt;/em> and &lt;em>So Good They Can&amp;rsquo;t Ignore You&lt;/em> I had to pick up his most
+recent work on the subject of software technology in our lives.
+This book isn&amp;rsquo;t just about getting work done, it is about getting your life
+back from companies who want your attention. The business model is clear: increase
+your attention on their products and extract more money. One may ask, is this good for
+society or is it a net negative for us? In Cal Newport&amp;rsquo;s latest book, it is
+clear what his answer is: when used how these platforms intend it, it is a net negative
+to our health and productivity as individuals. I won&amp;rsquo;t pretend to stay neutral on this
+since the evidence is clearer than ever. We need to get these tools under our
+control.&lt;/p></description></item><item><title>Deep Work</title><link>https://awsaavedra.com/posts/deep-work/</link><pubDate>Mon, 26 Nov 2018 00:00:00 +0000</pubDate><guid>https://awsaavedra.com/posts/deep-work/</guid><description>&lt;p>The Gist that I got:&lt;/p>
+&lt;pre>&lt;code>Create a place or places for deep work free of distraction for
+extended periods of well defined chunked work that are part of a strong
+formed habit with daily rituals of getting up and winding down. Each
+part of your day is segmented. Do not allow distractions or boredom
+to get in the way. Make sure your outside activities help support
+deep work meaning you don't extensively used social media, lots of
+video games, etc--these things train you for consistent attentional switching
+which is not part of deep work.
+&lt;/code>&lt;/pre>
+&lt;p>Before I say anything else, I need you know that I already accept
+the premise of this book for myself. I don&amp;rsquo;t know about anyone established and I would prefer to speak to my own experience not
+others.&lt;/p></description></item><item><title>So Good They Can't Ignore You</title><link>https://awsaavedra.com/posts/so-good/</link><pubDate>Sun, 25 Nov 2018 02:01:58 +0530</pubDate><guid>https://awsaavedra.com/posts/so-good/</guid><description>&lt;h3 id="why-is-following-the-romantic-notion-of-passion-bad-advice">
+ Why is Following the Romantic Notion of Passion Bad Advice?
+ &lt;a href="#why-is-following-the-romantic-notion-of-passion-bad-advice" class="heading-anchor" aria-label="Anchor link for: Why is Following the Romantic Notion of Passion Bad Advice?">
+ &lt;svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+ &lt;path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71">&lt;/path>
+ &lt;path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71">&lt;/path>
+ &lt;/svg>
+ &lt;/a>
+&lt;/h3>
+&lt;p>I have read many books on productivity but this one stood out to me since the thesis was taking on a central dogma of a large portion of the US society: that following your passion is the key to happiness and fulfillment in the modern world. I have always been skeptical of this hypothesis, but I have not seen a well stated alternative worldview that does not have tremendous downsides. One of the primary ones I have dealt with is, I am naming it it, the prestige hypothesis which is: get so rich/famous/powerful/etc. that people will respect and like you, then and only then will you be happy and fulfilled. This hypothesis seemed even worse than the passion hypothesis since it makes you a slave to others opinions and does not lead to fulfillment, something many of us yearn for.&lt;/p></description></item><item><title>The Originals</title><link>https://awsaavedra.com/posts/the-originals/</link><pubDate>Sun, 21 Oct 2018 00:00:00 +0000</pubDate><guid>https://awsaavedra.com/posts/the-originals/</guid><description>&lt;p>I rarely come away from a book with some solid actionable insights but luckily for me
+this book had some stellar information and a solid data driven approach to viewing
+the power of original thinking.&lt;/p>
+&lt;p>A valuable cognitive strategy I learned from the book is called &lt;em>defensive pessimism&lt;/em> which can be defined by wikipedia as:&lt;/p>
+&lt;pre>&lt;code>&amp;quot;When implementing defensive pessimism, individuals set low expectations for their performance,
+regardless of how well they have done in the past.
+
+Defensive pessimists then think through specific negative events and setbacks that could adversely
+influence their goal pursuits. By envisioning possible negative outcomes, defensive pessimists
+can take action to avoid or prepare for them. Using this strategy, defensive pessimists
+can advantageously harness anxiety that might otherwise harm their performance.&amp;quot;
+&lt;/code>&lt;/pre>
+&lt;p>Before I get into the actionable insights from the book let me point out the most
+shocking data table I saw in the book:&lt;/p></description></item><item><title>Algorithms to Live By</title><link>https://awsaavedra.com/posts/algorithms-to-live-by/</link><pubDate>Mon, 08 Jan 2018 00:00:00 +0000</pubDate><guid>https://awsaavedra.com/posts/algorithms-to-live-by/</guid><description>&lt;p>After listening to the 80,000 hours podcast episode 48 I realized that this book was right up my alley and decided it was worth a book review awhile ago but never put it together until now.&lt;/p>
+&lt;p>Key Concepts and Algorithms:&lt;/p>
+&lt;ol>
+&lt;li>
+&lt;p>Optimal Stopping &amp;ndash; The Secretary Problem.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Optimal Stopping with full information (Threshold rule). Set a threshold and anyone over that threshold.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Multi-Armed Bandit Problem.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Regret Minimization Framework (upper confidence bound).&lt;/p></description></item></channel></rss>

@@ -1,5 +1,14 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>computer science on Alexander Saavedra</title><link>https://awsaavedra.com/tags/computer-science/</link><description>Recent content in computer science on Alexander Saavedra</description><generator>Hugo -- gohugo.io</generator><language>en</language><copyright>[Home](/) &amp;#183; Theme [Simpleness](https://github.com/RainerChiang/simpleness) Powered by [Hugo](https://gohugo.io/)</copyright><lastBuildDate>Mon, 08 Jan 2018 00:00:00 +0000</lastBuildDate><atom:link href="https://awsaavedra.com/tags/computer-science/index.xml" rel="self" type="application/rss+xml"/><item><title>Algorithms to Live By</title><link>https://awsaavedra.com/posts/algorithms-to-live-by/</link><pubDate>Mon, 08 Jan 2018 00:00:00 +0000</pubDate><guid>https://awsaavedra.com/posts/algorithms-to-live-by/</guid><description>After listening to the 80,000 hours podcast episode 48 I realized that this book was right up my alley and decided it was worth a book review awhile ago but never put it together until now.
-Key Concepts and Algorithms:
-Optimal Stopping &amp;ndash; The Secretary Problem.
-Optimal Stopping with full information (Threshold rule). Set a threshold and anyone over that threshold.
-Multi-Armed Bandit Problem.</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Computer Science on Alexander Saavedra</title><link>https://awsaavedra.com/tags/computer-science/</link><description>Recent content in Computer Science on Alexander Saavedra</description><generator>Hugo</generator><language>en</language><copyright>[Home](/) &amp;#183; Powered by [Hugo](https://gohugo.io/)</copyright><lastBuildDate>Mon, 08 Jan 2018 00:00:00 +0000</lastBuildDate><atom:link href="https://awsaavedra.com/tags/computer-science/index.xml" rel="self" type="application/rss+xml"/><item><title>Algorithms to Live By</title><link>https://awsaavedra.com/posts/algorithms-to-live-by/</link><pubDate>Mon, 08 Jan 2018 00:00:00 +0000</pubDate><guid>https://awsaavedra.com/posts/algorithms-to-live-by/</guid><description>&lt;p>After listening to the 80,000 hours podcast episode 48 I realized that this book was right up my alley and decided it was worth a book review awhile ago but never put it together until now.&lt;/p>
+&lt;p>Key Concepts and Algorithms:&lt;/p>
+&lt;ol>
+&lt;li>
+&lt;p>Optimal Stopping &amp;ndash; The Secretary Problem.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Optimal Stopping with full information (Threshold rule). Set a threshold and anyone over that threshold.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Multi-Armed Bandit Problem.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Regret Minimization Framework (upper confidence bound).&lt;/p></description></item></channel></rss>
