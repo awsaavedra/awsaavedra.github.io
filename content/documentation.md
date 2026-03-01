@@ -497,58 +497,40 @@ I wrote a lot of other information on my finance blog posts for you.
 <details>
 <summary><strong>Recommended blogs and writers</strong></summary>
 
-[The day you became a better writer](https://dilbertblog.typepad.com/the_dilbert_blog/2007/06/the_day_you_bec.html)
-Nothingismere.com
-
-https://www.ldeming.com/
-
-http://paulgraham.com
-https://infoproc.blogspot.com/
-https://marginalrevolution.com
-https://sdianahu.com/reading
-https://nat.org/
-https://barmstrong.medium.com/14-books-that-changed-the-way-i-think-dcab51f1d50c
-balajis.com
-https://medium.com/@pravse/the-maze-is-in-the-mouse-980c57cfd61a
-https://1729.com/
-https://meltingasphalt.com/
-[https://slatestarcodex.com/](https://slatestarcodex.com/)
-MOVED TO: https://astralcodexten.substack.com/
-
-[http://www.overcomingbias.com/](http://www.overcomingbias.com/)
-
-https://www.lesswrong.com/
-
-    https://wiki.lesswrong.com/wiki/LessWrong_HomePage_New
-
-[https://fs.blog/tgmm/](https://fs.blog/tgmm/)
-
-https://nickbostrom.com/
-
-[http://earlyretirementextreme.com/about-the-blog](http://earlyretirementextreme.com/about-the-blog)
-
-[www.calnewport.com/blog](www.calnewport.com/blog/www.calnewport.com/blog/)
-
-http://daviddfriedman.com/ and https://daviddfriedman.substack.com/
-
-[http://sebastianmarshall.com/community/110017](http://sebastianmarshall.com/community/110017)
-
-https://juliagalef.com/recent-posts/
-
-https://Gwern.net/
-
-https://patrickcollison.com/
-
-https://sive.rs/
-
-[https://marginalrevolution.com/marginalrevolution/2019/12/work-on-these-things.html](https://marginalrevolution.com/marginalrevolution/2019/12/work-on-these-things.html)
-
-https://www.dwarkeshpatel.com/podcast
-https://www.thinkingcomplete.com/
-https://www.scottaaronson.com/
-https://cxgonzalez.org/neo-hermeticism
-https://andymatuschak.org/
-http://blog.loomofreality.org/
+1. [The day you became a better writer](https://dilbertblog.typepad.com/the_dilbert_blog/2007/06/the_day_you_bec.html)
+2. Nothingismere.com
+3. https://www.ldeming.com/
+4. http://paulgraham.com
+5. https://infoproc.blogspot.com/
+6. https://marginalrevolution.com
+7. https://sdianahu.com/reading
+8. https://nat.org/
+9. https://barmstrong.medium.com/14-books-that-changed-the-way-i-think-dcab51f1d50c
+10. balajis.com
+11. https://medium.com/@pravse/the-maze-is-in-the-mouse-980c57cfd61a
+12. https://1729.com/
+13. https://meltingasphalt.com/
+14. [https://slatestarcodex.com/](https://slatestarcodex.com/) > MOVED TO: https://astralcodexten.substack.com/
+16. [http://www.overcomingbias.com/](http://www.overcomingbias.com/)
+17. https://www.lesswrong.com/ > https://wiki.lesswrong.com/wiki/LessWrong_HomePage_New
+18. [https://fs.blog/tgmm/](https://fs.blog/tgmm/)
+19. https://nickbostrom.com/
+20. [http://earlyretirementextreme.com/about-the-blog](http://earlyretirementextreme.com/about-the-blog)
+21. [www.calnewport.com/blog](www.calnewport.com/blog/www.calnewport.com/blog/)
+22. http://daviddfriedman.com/ and https://daviddfriedman.substack.com/
+23. [http://sebastianmarshall.com/community/110017](http://sebastianmarshall.com/community/110017)
+24. https://juliagalef.com/recent-posts/
+25. https://Gwern.net/
+26. https://patrickcollison.com/
+27. https://sive.rs/
+28. [https://marginalrevolution.com/marginalrevolution/2019/12/work-on-these-things.html](https://marginalrevolution.com/marginalrevolution/2019/12/work-on-these-things.html)
+29. https://www.dwarkeshpatel.com/podcast
+30. https://www.thinkingcomplete.com/
+31. https://www.scottaaronson.com/
+32. https://cxgonzalez.org/neo-hermeticism
+33. https://andymatuschak.org/
+34. http://blog.loomofreality.org/
+35. https://geohot.github.io/blog/
 
 </details>
 
