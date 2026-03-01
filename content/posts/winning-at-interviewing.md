@@ -6,7 +6,7 @@ draft: true
 ---
 
 
-![The Right Skills](/library-skills.jpg "Relevant Skills")
+![The Right Skills](/library-skills.webp "Relevant Skills")
 
 # Win the Interview Game
 

@@ -13,7 +13,7 @@ disableAutoCollapse: true
 "It's time to stop pointing fingers, finger pointing gets us no-where, Steve!"
 ~ Randy Marsh, South Park
 
-![carbon-footprint](/assets/carbon-footprint.png)
+![carbon-footprint](/assets/carbon-footprint.webp)
 
 In the past year I have [reduced my carbon footprint](https://en.wikipedia.org/wiki/Carbon_footprint#Measuring_carbon_footprints) to about 10% that of an average American without much effort. How?
 

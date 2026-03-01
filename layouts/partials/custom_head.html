@@ -1,9 +1,12 @@
+<link rel="preload" href="/fonts/Scriptin.woff2" as="font" type="font/woff2" crossorigin>
 <style>
   @font-face {
     font-family: 'Scriptin';
-    src: url('/fonts/Scriptin.ttf') format('truetype');
+    src: url('/fonts/Scriptin.woff2') format('woff2'),
+         url('/fonts/Scriptin.ttf') format('truetype');
     font-weight: normal;
     font-style: normal;
+    font-display: swap;
   }
 
   .title h2 {
@@ -41,7 +44,16 @@
   }
 </style>
 
-<!-- KaTeX CSS - loaded on all pages for compatibility with Hugo v0.91.2 -->
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.16.23/dist/katex.min.css" 
-      integrity="sha384-nB0miv6/jRmo5UMMR1wu3Gz6NLsoTkbqJghGIsx//Rlm+ZU03BU6SQNC66uf4l5+" 
+{{ if .Params.math }}
+<!-- KaTeX: only loaded on pages with math: true in front matter -->
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.16.23/dist/katex.min.css"
+      integrity="sha384-nB0miv6/jRmo5UMMR1wu3Gz6NLsoTkbqJghGIsx//Rlm+ZU03BU6SQNC66uf4l5+"
       crossorigin="anonymous">
+<script defer src="https://cdn.jsdelivr.net/npm/katex@0.16.23/dist/katex.min.js"
+        integrity="sha384-VkqWq8xtm5YQk1BBXczQ8/Sx+X6a4bFMEJaXjdmEd3TZEOiijVd6ei7oXGkg0wr"
+        crossorigin="anonymous"></script>
+<script defer src="https://cdn.jsdelivr.net/npm/katex@0.16.23/dist/contrib/auto-render.min.js"
+        integrity="sha384-iWMbRer5bJBj1GrHEoIEAEyDjM7H+IZnLEGG+ZWJ5K8FkSHsJMxG5jbCc1/wPnT"
+        crossorigin="anonymous"
+        onload="renderMathInElement(document.body);"></script>
+{{ end }}

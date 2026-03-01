@@ -141,7 +141,7 @@ high interest.
 
 Without further adieu, the simplified financial architecture diagram
 
-![Financial Architecture](/financial-architecture.png "Financial Diagram")
+![Financial Architecture](/financial-architecture.webp "Financial Diagram")
 
 # Additional resources
 

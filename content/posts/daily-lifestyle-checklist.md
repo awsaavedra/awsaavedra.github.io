@@ -19,7 +19,7 @@ lifestyle over the past couple years based on the latest scientific evidence. No
 
 ## Whole Foods Plant Based Food Plate
 
-![Whole Foods Plant Based](/whole-foods.jpg "Whole Foods plant based Foods")
+![Whole Foods Plant Based](/whole-foods.webp "Whole Foods plant based Foods")
 
 | Food        | Serving           | Notes  |
 | ------------- |:-------------:| -----:|

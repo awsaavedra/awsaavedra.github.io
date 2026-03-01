@@ -11,7 +11,7 @@ disableToC: false
 disableAutoCollapse: true
 ---
 
-![The Way](/the-way.png "The Way")
+![The Way](/the-way.webp "The Way")
 
 The way is revealed only to those that walk it.
 

@@ -25,7 +25,7 @@ You may say "well eventually we will run out of resources" which is true! Someon
 
 We will develop social systems to resource the inherent conflicts, there are numerous constellations of possibilities here and they are too numerous to discussion.
 
-![healthspan](/healthspan-graph.jpg "healthspan")
+![healthspan](/healthspan-graph.webp "healthspan")
 Another core assumption and objection is that someone health span cannot be increased only lifespan. Healthspan is the amount of healthy life. This too is also false. We can and should increase every individuals healthy lifespan as far as possible. Medicine 3.0 which is the proactive next step in medicine is working on such solutions. Taking the medical industry from a **reactive** model to a **proactive** health model.
 
 Wanting to live a long time is selfish. Okay, selfishness assumes it is hurting someone. Who exactly is it hurting? Name names or people. Hand waving "the environment" is not an argument. The same "the environment" 
@@ -87,4 +87,4 @@ If none of that convinced you let me ask you this,
 do you think you will be gung ho to die if until your very last moment you were in peak mental and physical condition? 
 
 
-![ali](/ali.jpeg "ali")
+![ali](/ali.webp "ali")

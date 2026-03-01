@@ -11,7 +11,7 @@ disableAutoCollapse: true
 toc: true
 ---
 
-![Copernicus](/create/copernicus.jpeg "Copernicus")
+![Copernicus](/create/copernicus.webp "Copernicus")
 Copernicus by Stanislaw Szukalski
 
 "The moment he [Galileo] was set at liberty, he looked up to the sky and down to the ground, and, stamping with his foot, in a contemplative mood, said, Eppur si muove, that is, still it moves, meaning the Earth." ~ Giuseppe Baretti retelling 1757
@@ -72,7 +72,7 @@ To show you truly understand something you must be able to built it.
 Granted, there are limited to how close you can get to the root of all creation.
 
 ## Your Ideas and Creations Need Protection
-![heimlich](/create/bugs-life-beautiful.gif "heimlich")
+![heimlich](/create/bugs-life-beautiful.webp "heimlich")
 “At each of the meetings, I was struck that there seemed to be two kinds of reviewers: some who would look for flaws in the papers, and then pounce to kill them; and others who started from a place of seeking and promoting good ideas. When the “idea protectors” saw flaws, they pointed them out gently, in the spirit of improving the paper—not eviscerating it. Interestingly, the “paper killers” were not aware that they were serving some other agenda (which was often, in my estimation, to show their colleagues how high their standards were). Both groups thought they were protecting the proceedings, but only one group understood that by looking for something new and surprising, they were offering the most valuable kind of protection. Negative feedback may be fun, but it is far less brave than endorsing something unproven and providing room for it to grow.”
 ― Ed Catmull, Creativity, Inc.: Overcoming the Unseen Forces That Stand in the Way of True Inspiration
 
@@ -114,7 +114,7 @@ Give me 5 books from the greatest thinkers in history over a million from the ba
 A work of genius may take a lifetime to be validated or beyond, most toil in obscurity first. 
 
 ## Intuition as Guide
-![Ramanujan](/create/ramanujan.png "Ramanujan")
+![Ramanujan](/create/ramanujan.webp "Ramanujan")
 
 Pictured above: Srinivasa Ramanujan, Mathematical Genius and Mystic.
 
@@ -131,7 +131,7 @@ The supra-rational is a transcendent type of understand going beyond the rationa
 
 ## Trust the process
 
-![Cathedral](/create/cathedral.jpg "Cathedral")
+![Cathedral](/create/cathedral.webp "Cathedral")
 
 Antoine de Saint-Exupery — “A rock pile ceases to be a rock pile the moment a single man contemplates it, bearing within him the image of a cathedral.”
 
