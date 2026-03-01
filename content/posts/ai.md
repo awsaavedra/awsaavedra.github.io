@@ -6,20 +6,20 @@ author: Alexander Saavedra
 tags: [philosophy, software]
 draft: false
 ---
-We refer to the question: What sort of creature man’s next successor in the supremacy of the earth is likely to be. 
-We have often heard this debated; but it appears to us that we are ourselves creating our own successors; 
-we are daily adding to the beauty and delicacy of their physical organisation; 
-we are daily giving them greater power and supplying by all sorts of ingenious contrivances that self-regulating, 
-self-acting power which will be to them what intellect has been to the human race. 
-In the course of ages we shall find ourselves the inferior race.
-...
-Day by day, however, the machines are gaining ground upon us; 
-day by day we are becoming more subservient to them; more men are daily 
-bound down as slaves to tend them, more men are daily devoting the energies of 
-their whole lives to the development of mechanical life. 
-The upshot is simply a question of time, but that the time will come when the machines 
-will hold the real supremacy over the world and its inhabitants is what 
-no person of a truly philosophic mind can for a moment question.
+>"We refer to the question: What sort of creature man’s next successor in the supremacy of the earth is likely to be. 
+>We have often heard this debated; but it appears to us that we are ourselves creating our own successors; 
+>we are daily adding to the beauty and delicacy of their physical organisation; 
+>we are daily giving them greater power and supplying by all sorts of ingenious contrivances that self-regulating, 
+>self-acting power which will be to them what intellect has been to the human race. 
+>In the course of ages we shall find ourselves the inferior race.
+>...
+>Day by day, however, the machines are gaining ground upon us; 
+>day by day we are becoming more subservient to them; more men are daily 
+>bound down as slaves to tend them, more men are daily devoting the energies of 
+>their whole lives to the development of mechanical life. 
+>The upshot is simply a question of time, but that the time will come when the machines 
+>will hold the real supremacy over the world and its inhabitants is what 
+>no person of a truly philosophic mind can for a moment question."
 
 ~ Darwin among the Machines by Cellarius (Samuel Butler)
 
@@ -55,7 +55,7 @@ I would argue we inhabit an interesting branch of the evolutionary tree
 however it is definitely possible to replicate in a machine mind.
 
 # Objections to these ideas
-![Only Human](/ai/only-humans.png "Only human")
+![Only Human](/ai/only-humans.webp "Only human")
 
 
 There are numerous objections to all of these ideas but one is that these computations 
@@ -137,7 +137,7 @@ apply to AI to decide it is conscious.
 
 # How long until we get machines as smart as us?
 
-![benchmarks](/ai/benchmarks.png "Benchmarking")
+![benchmarks](/ai/benchmarks.webp "Benchmarking")
 
 That's the real question that matters, the possibilities is inevitable assuming we keep 
 progressing and I'm fairly certain it will happen in the next 5 year. 
@@ -212,7 +212,7 @@ over the glistening floor that it and its kind had swept so evilly free of all l
 
 — H. P. Lovecraft, At the Mountains of Madness
 
-![rorscach](/ai/rorschach-sloggoth.png "rorschach")
+![rorscach](/ai/rorschach-sloggoth.webp "rorschach")
 
 AI is often referred to as a sloggoth.
 

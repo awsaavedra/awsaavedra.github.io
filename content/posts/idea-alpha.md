@@ -11,7 +11,7 @@ draft: false
 — Steve Jobs, 1997
 
 
-![seeing beyond the veil](/alice.png)
+![seeing beyond the veil](/alice.webp)
 
 Summary: Look for unusual ideas you believe are true. 
 You must hold deep conviction in this idea which are both rare and valuable insights you can build a company, investment thesis, or career off of. 
@@ -80,7 +80,7 @@ It is an art, there are no clear answers or formulas since the irreducible resis
 # In the Known
 
 
-![Plato's Cave](/platos-cave.jpeg)
+![Plato's Cave](/platos-cave.webp)
 In the "known", we use first principles in a formal logical system, that is, a set of propositions that are consistent with one another. 
 It is possible that some of the statements can be deduced from other statements.
 Try to figure out if things are merely conventions or are actually true. 
@@ -146,7 +146,7 @@ Ugly things look bad and feel bad for a good reason.
 
 ## In the Unknown
 
-![Cake frosting](/frosting.png)
+![Cake frosting](/frosting.webp)
 I like cake, cake is unknown.
 
 “Ideas are fragile. If they were resolved, they would not be ideas, they would be products. It takes determined effort not to be consumed by the problems of a new idea.” - Jony Ive 
@@ -198,7 +198,7 @@ Insights can be formalized, but it is much harder to reproduce the process that 
 
 These are the questions which lead to profound insights and ultimately paradigm shifting results if properly implemented.
 
-![S curves](/s-curve.png)
+![S curves](/s-curve.webp)
 
 Ideas have lifetimes and follow S-curves, each idea and strategy has a lifetime which starts and ends until we move onto another S-curve producing the next phase of outperformance of a new idea.
 
