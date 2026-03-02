@@ -18,7 +18,13 @@ toc: true
 
 # The Purpose
 
-The purpose of this documentation is a primary list of areas I have documented over time for help with various areas of lifestyle design. When I say lifestyle design I try to answer the question "how to design a life worth living and optimized to my needs?" I assume many people struggle with similar problems to myself and that the same solutions that have worked for me are useful to others. This is not simply a list of areas of study, it is a web of knowledge to thread together over time to help others and myself become more effective.
+The purpose of this documentation is a primary list of areas I have documented 
+over time for help with various areas of lifestyle design. When I say 
+lifestyle design I try to answer the question "how to design a life worth 
+living and optimized to my needs?" I assume many people struggle with similar 
+problems to myself and that the same solutions that have worked for me are 
+useful to others. This is not simply a list of areas of study, it is a web of 
+knowledge to thread together over time to help others and myself become more effective.
 
 "argued, I think, very plausibly, that the core principle and requirement of a fulfilled human being is the ability to inquire and create constructively, independently, without external controls." A true education, Chomsky suggests, opens a door to human intellectual freedom and creative autonomy." ~ paraphrasing Wilhelm von Humboldt by Noam Chomsky
 
@@ -101,7 +107,6 @@ This is not a failure of possibility, only a failure of imagination if someone c
 11. Software and Algorithms
     1. Please see my github on this @awsaavedra
         1. https://github.com/awsaavedra/fundamentals-of-software-engineering
-
     2. Haskell programming from first principles by Christopher Allen and Julie Moronuki
     3. Negative Consequences and pitfalls
         1. Jorah Lanier
@@ -174,7 +179,6 @@ Search through tag: [/tags/productivity/](/tags/productivity/)
     4. How to Become a Straight A Student
     5. How to Be a High School Superstar
     6. Slow Productivity: The Lost Art of Accomplishment Without Burnout
-
 3. Indistractable: How to Control Your Attention and Choose Your Life by Nir Eyal
 4. HELL YEAH OR NO by Derek Sivers
 5. [https://www.dwarkeshpatel.com/p/annus-mirabilis?s=r](https://www.dwarkeshpatel.com/p/annus-mirabilis?s=r%20the%20Miracle%20Year)
@@ -234,26 +238,24 @@ Search through tag: [/tags/productivity/](/tags/productivity/)
     a. Example https://en.wiktionary.org/wiki/bikeshedding
 5. [https://permies.com/t/scale](https://permies.com/t/scale)
 6. [https://wiki.earlyretirementextreme.com/wiki/ERE_Wheaton_Levels](https://wiki.earlyretirementextreme.com/wiki/ERE_Wheaton_Levels) The further you move away from normal the relatively less sane you seem to most people. Even it is simply because of convention.
-
-6. [Yak Shaving](https://en.wiktionary.org/wiki/yak_shaving)
-7. [https://www.scotthyoung.com/blog/2021/07/19/metrics-useful-or-evil/?ck_subscriber_id=389176759](https://www.scotthyoung.com/blog/2021/07/19/metrics-useful-or-evil/?ck_subscriber_id=389176759)
-8. Yerkes-Dodson Law
-9. Ideological Turing Test. Please look around but here is one article https://davidklaing.com/ideological-turing-test/.
-
-10. [https://en.m.wikipedia.org/wiki/Goodhart's_law](https://en.m.wikipedia.org/wiki/Goodhart's_law)
-11. [https://en.m.wikipedia.org/wiki/Rooney_Rule](https://en.m.wikipedia.org/wiki/Rooney_Rule)
-12. Democracy may be an emergent social system: [https://en.m.wikipedia.org/wiki/Great_Law_of_Peace](https://en.m.wikipedia.org/wiki/Great_Law_of_Peace)
-13. [https://en.wikipedia.org/wiki/Iron_law_of_oligarchy](https://en.wikipedia.org/wiki/Iron_law_of_oligarchy)
-14. [https://www.encyclopedia.com/social-sciences/dictionaries-thesauruses-pictures-and-press-releases/open-societies-and-closed-societies](https://www.encyclopedia.com/social-sciences/dictionaries-thesauruses-pictures-and-press-releases/open-societies-and-closed-societies)
-15. We Do, a book on marriage
-16. https://therulesofcivilconversation.org
-17. [Eroom's Law](https://archive.ph/qcjrU)
-18. [Gell-man Amnesia](https://en.wikipedia.org/wiki/Michael_Crichton#GellMannAmnesiaEffect)
-19. [Price's Law](https://en.wikipedia.org/wiki/Derek_J._de_Solla_Price?ck_subscriber_id=389176759#Scientific_contributions)
-20. Administrative Behavior by Herbert Simon
-21. [Matthew effect](https://en.wikipedia.org/wiki/Matthew_effect)
-22. [Spiral of Silence](https://en.wikipedia.org/wiki/Spiral_of_silence)
-23. Parenting
+7. [Yak Shaving](https://en.wiktionary.org/wiki/yak_shaving)
+8. [https://www.scotthyoung.com/blog/2021/07/19/metrics-useful-or-evil/?ck_subscriber_id=389176759](https://www.scotthyoung.com/blog/2021/07/19/metrics-useful-or-evil/?ck_subscriber_id=389176759)
+9. Yerkes-Dodson Law
+10. Ideological Turing Test. Please look around but here is one article https://davidklaing.com/ideological-turing-test/.
+11. [https://en.m.wikipedia.org/wiki/Goodhart's_law](https://en.m.wikipedia.org/wiki/Goodhart's_law)
+12. [https://en.m.wikipedia.org/wiki/Rooney_Rule](https://en.m.wikipedia.org/wiki/Rooney_Rule)
+13. Democracy may be an emergent social system: [https://en.m.wikipedia.org/wiki/Great_Law_of_Peace](https://en.m.wikipedia.org/wiki/Great_Law_of_Peace)
+14. [https://en.wikipedia.org/wiki/Iron_law_of_oligarchy](https://en.wikipedia.org/wiki/Iron_law_of_oligarchy)
+15. [https://www.encyclopedia.com/social-sciences/dictionaries-thesauruses-pictures-and-press-releases/open-societies-and-closed-societies](https://www.encyclopedia.com/social-sciences/dictionaries-thesauruses-pictures-and-press-releases/open-societies-and-closed-societies)
+16. We Do, a book on marriage
+17. https://therulesofcivilconversation.org
+18. [Eroom's Law](https://archive.ph/qcjrU)
+19. [Gell-man Amnesia](https://en.wikipedia.org/wiki/Michael_Crichton#GellMannAmnesiaEffect)
+20. [Price's Law](https://en.wikipedia.org/wiki/Derek_J._de_Solla_Price?ck_subscriber_id=389176759#Scientific_contributions)
+21. Administrative Behavior by Herbert Simon
+22. [Matthew effect](https://en.wikipedia.org/wiki/Matthew_effect)
+23. [Spiral of Silence](https://en.wikipedia.org/wiki/Spiral_of_silence)
+24. Parenting
         Mission: I am working on how to let kids realize their full potential for their goals.
         Please hold while I work through this and find the right methodology for ours.
         First, an essay: http://paulgraham.com/kids.html
@@ -271,23 +273,23 @@ Search through tag: [/tags/productivity/](/tags/productivity/)
     11. Harvey Karp The Happiest Baby on the Block; Fully Revised and Updated Second Edition: The New Way to Calm Crying and Help Your Newborn Baby Sleep Longer
     12. Nature's Gambit: Child Prodigies and the Development of Human Potential by David Henry Feldman with Lynn T. Goldsmith
     13. The Last Lecture by Randy Pausch (the book). Probably the most influential lecture for me as a high school student. Randy Pausch is fantastic.
-24. Psychology Tests
-25. https://en.m.wikipedia.org/wiki/Yes,_Virginia,_there_is_a_Santa_Claus
-26. https://www.cs.virginia.edu/~robins/Randy/  Randy Pausch
-27.
+25. Psychology Tests
+26. https://en.m.wikipedia.org/wiki/Yes,_Virginia,_there_is_a_Santa_Claus
+27. https://www.cs.virginia.edu/~robins/Randy/  Randy Pausch
+28.
     1. https://principlesyou.com/ Ray Dalio's take on personality inventory in a work context
     2. The big 5 personality traits https://en.wikipedia.org/wiki/Big_Five_personality_traits
     3. https://tedgioia.substack.com/p/my-8-best-techniques-for-evaluating
-28. https://en.wikipedia.org//wiki/Robert_Conquest#Laws_of_politics
-29. Brandolini's Shadow: A space where bullshit thrives in the orbit of a real innovation
-30. Brandolini's Law (bullsh*t asymmetry principle)
-31. https://en.m.wikipedia.org/wiki/Cathexis
-21. [Matthew effect](https://en.wikipedia.org/wiki/Matthew_effect)
-22. https://en.wikipedia.org/wiki/Dunbar%27s_number
-23. https://ethos.lps.library.cmu.edu/article/id/560/ The second usage, more common outside of the former Soviet Union, appropriates one interpretation of Lysenko's career to decry political intervention in and distortion of scientific knowledge.
-24. https://en.m.wikipedia.org/wiki/Abilene_paradox
-25. https://graymirror.substack.com/p/a-brief-explanation-of-the-cathedral
-26. https://meta.wikimedia.org/wiki/Cunningham%27s_Law
+29. https://en.wikipedia.org//wiki/Robert_Conquest#Laws_of_politics
+30. Brandolini's Shadow: A space where bullshit thrives in the orbit of a real innovation
+31. Brandolini's Law (bullsh*t asymmetry principle)
+32. https://en.m.wikipedia.org/wiki/Cathexis
+33. [Matthew effect](https://en.wikipedia.org/wiki/Matthew_effect)
+34. https://en.wikipedia.org/wiki/Dunbar%27s_number
+35. https://ethos.lps.library.cmu.edu/article/id/560/ The second usage, more common outside of the former Soviet Union, appropriates one interpretation of Lysenko's career to decry political intervention in and distortion of scientific knowledge.
+36. https://en.m.wikipedia.org/wiki/Abilene_paradox
+37. https://graymirror.substack.com/p/a-brief-explanation-of-the-cathedral
+38. https://meta.wikimedia.org/wiki/Cunningham%27s_Law
 
 </details>
 
@@ -304,7 +306,6 @@ Search through tag: [/tags/health/](/tags/health/)
 2. The Telomere Effect by Dr. Elizabeth Blackburn (Author), Dr. Elissa Epel
 3. The Blue Zones
 4. [Longevity](https://docs.google.com/document/d/16cVVgSL5vYuWwRKUttr5KWdJu8lewkCZBdYv6na1h18/edit?usp=drive_web&ouid=104342103111359032082)
-
 5. How not to Diet by Michael Greger
 6. Why Zebras Don't Get Ulcers
 7. How to Survive a Pandemic by Michael Greger
@@ -378,7 +379,6 @@ Search through tag: [/tags/health/](/tags/health/)
 14. https://en.m.wikipedia.org/wiki/Darwin_among_the_Machines
     ```Day by day, however, the machines are gaining ground upon us; day by day we are becoming more subservient to them; more men are daily bound down as slaves to tend them, more men are daily devoting the energies of their whole lives to the development of mechanical life. The upshot is simply a question of time, but that the time will come when the machines will hold the real supremacy over the world and its inhabitants is what no person of a truly philosophic mind can for a moment question. ```
 ~published in The Press newspaper on 13 June 1863 in Christchurch, New Zealand
-
 15. https://en.m.wikipedia.org/wiki/Motte-and-bailey_fallacy
 16. https://www.nobelprize.org/prizes/literature/1949/faulkner/speech/
 17. https://www.rjgeib.com/thoughts/truth/truth.html
@@ -542,9 +542,7 @@ I wrote a lot of other information on my finance blog posts for you.
 <summary><strong>More reading and reference material</strong></summary>
 
 [https://thesocialleader.com/2013/09/line-good-evil/](https://thesocialleader.com/2013/09/line-good-evil/)
-
 [https://en.m.wikipedia.org/wiki/A_Syntopicon](https://en.m.wikipedia.org/wiki/A_Syntopicon)
-
 [https://en.m.wikipedia.org/wiki/Great_Books_of_the_Western_World](https://en.m.wikipedia.org/wiki/Great_Books_of_the_Western_World)
 
 </details>
