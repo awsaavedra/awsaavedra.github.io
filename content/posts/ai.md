@@ -1,9 +1,9 @@
 ---
 title: "AI"
 date: 2025-02-28T16:39:08-08:00
-lastmod: 2026-02-27T00:00:00-08:00
+lastmod: 2026-03-25T00:00:00-08:00
 author: Alexander Saavedra
-tags: [philosophy, software]
+tags: [philosophy,ai, software]
 draft: false
 ---
 >"We refer to the question: What sort of creature man’s next successor in the supremacy of the earth is likely to be. 
@@ -201,9 +201,9 @@ There are numerous other books and movies on the topic, but
 many I think do not lay out plausible future possibilities.
 I will name one more I liked Do Robots dream of electric Sheep? 
 
-# What do you see in the Sloggoth?
+# What do you see in the Shoggoth?
 
-There are many descriptions of the concept of a Sloggoth, my favorite is this one:
+There are many descriptions of the concept of a Shoggoth, my favorite is this one:
 
 "It was a terrible, indescribable thing vaster than any subway train—a shapeless congeries of protoplasmic bubbles, 
 faintly self-luminous, and with myriads of temporary eyes forming and un-forming as pustules of greenish light all over 
@@ -212,9 +212,9 @@ over the glistening floor that it and its kind had swept so evilly free of all l
 
 — H. P. Lovecraft, At the Mountains of Madness
 
-![rorscach](/ai/rorschach-sloggoth.webp "rorschach")
+![rorscach](/ai/rorschach-shoggoth.webp "rorschach")
 
-AI is often referred to as a sloggoth.
+AI is often referred to as a shoggoth.
 
 Besides being supposedly menacing it is a hodge podge of things while being nothing in particular.
 Similar to a rorschach test you're making meaning out of a muddled image.
