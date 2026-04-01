@@ -211,4 +211,5 @@ What kind of love in English?  The definition of love is rather tangled with a g
 #Additional links
 {{< youtube eebku3MbA2o >}}
 
+"the diminutive chains of habit are seldom heavy enough to be felt until they are too strong to be broken" ~  Samuel Johnson
 
