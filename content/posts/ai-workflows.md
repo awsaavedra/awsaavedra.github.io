@@ -59,7 +59,7 @@ There was even a book written on this topic: https://en.wikipedia.org/wiki/Team_
 ## Ai for Coding
 
 ![Gap in formal verification](/ai-workflows/gap-formal-verification.webp)
-Note: put a citation at the bottom for Evan Miyazono
+Credit to Evan Miyazono for the image above.
 
 1. I write out in vim or use pencil and paper and go through the draft 
 of what I'm looking to build and what the structure of what I'm building. 
@@ -386,11 +386,9 @@ key line
 > “here is a piece of code no one understands. Am I willing to bet my whole company's product on it? I don’t know…I don’t know what to do now.” 
 This talks about the ever present pernicious loss of control when using Ai tools.
 
-https://share.solve.it.com/d/28d1864aad0723170e76fc4f720058c8  
-jeremy howard on coding vs software engineering
+[jeremy howard on coding vs software engineering](https://share.solve.it.com/d/28d1864aad0723170e76fc4f720058c8)
 
 
-https://share.solve.it.com/d/28d1864aad0723170e76fc4f720058c8 
 https://youtu.be/eA9Zf2-qYYM?si=cYOi7TYq_Whn6xk4 
 https://steipete.me/posts 
 
