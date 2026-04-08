@@ -4,7 +4,7 @@ date: 2026-04-07T00:00:00-08:00
 lastmod: 2026-04-07T00:00:00-08:00
 author: Alexander Saavedra
 tags: [ai, software]
-draft: true
+draft: false
 enableDisqus: true
 enableMathJax: false
 math: false  # set to true to load KaTeX on this page
