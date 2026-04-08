@@ -70,7 +70,7 @@ test actually tests the thing that matters. That someone is still you.
 You should always start off your process with as few assistants as possible. 
 Add agents only when you can verify their output and understand their failure modes.
 
-## Ai for writing and coding
+## Ai for Writing
 ![Target specificity](/ai-workflows/Target-specifity.webp)
 
 I start my outline and process for writing articles this way, obviously this is 
@@ -110,22 +110,19 @@ to perform this task?**
 
 Make sure to generate lots of ideas or strategies to achieve goals.
 
-Good strategy can be defined by these elements: 
-  
-  1. Diagnosis to define the challenge by why you are doing this.
+### A quick aside on strategy
 
-  2. Guiding policy for dealing with the challenge of what is being done.
-  
-  3. Coherent set of actions to implement the guiding policy by figuring out how you will make it happen.
+The mental model I use here comes from Richard Rumelt's Good Strategy, Bad Strategy. 
+Good strategy has three pieces:
 
-Bad strategy avoid tradeoffs that are critical and unavoidable while not having
-a clear and well defined implementation roadmap laid out. Strategies are 
-highly detailed, able to decompose everything and anything that needs to be 
-broken down further when needed, and have clear objectives that directly map
-back to the overarching goal.
+  1. **Diagnosis**: why are you doing this? What's the actual challenge?
+  2. **Guiding policy**: what's the approach for dealing with that challenge?
+  3. **Coherent actions**: how will you actually make it happen?
 
-These definitions were inspired and clarified by the book Good Strategy, Bad Strategy 
-by Richard Rumelt.
+Bad strategy avoids tradeoffs that are critical and unavoidable while not having
+a clear and well defined implementation roadmap laid out. If you can't decompose 
+your plan into pieces that map back to the overarching goal, you don't have a strategy. 
+You have a wish.
 
 2. I consider a well defined target that I'm trying to reach with this project or code.
 
@@ -319,62 +316,65 @@ The high level pieces are try to make sure to keep the right context, skills,
 and efficiency everytime you do things.
 As you continue on this path you'll realize tactics come and go, but strategy remains.
 
-# Cognitive Enhancements and Decision Frameworks
+# Delegation Frameworks
 
 ![Eisenhower matrix: crawl, walk, run agents](/ai-workflows/1-eisenhower-matrix-crawl-walk-run-agents.webp)
 
 > “He was fascinated by the idea of human and machine inextricably bound to each other, each testing the limits of the other.” ~ Chapterhouse Dune
 
-The eisenhower matrix applies in the age of Ai more than ever, we can delegate a lot 
-of tasks effectively now more than ever but these should be done deliberately.
+The Eisenhower matrix applies in the age of Ai more than ever. We can delegate a lot 
+of tasks effectively now but these should be done deliberately.
 Automating a stupid task is just stupidity repeated more.
-The crawl, walk, run framework is whether you're the primary driver, mutual, or 
+The crawl, walk, run framework is whether you’re the primary driver, mutual, or 
 your Ai agent is the primary driver respectively.
-
-
 
 > “There’s a lesson in that too. What do such machines really do? They increase the number of things we can do without thinking. Things we do without thinking, there’s the real danger.” 
 ~ God Emperor of Dune
 
-Note: this story may be fictitious but it's irrelevant to the fact that the workflow 
-is the point I'm getting at. A story does not need to be actually true to be illustrative
+Note: this story may be fictitious but it’s irrelevant to the fact that the workflow 
+is the point I’m getting at. A story does not need to be actually true to be illustrative
 of the point.
 
-Here's the workflow his advisor called "the most sophisticated research process 
-I've seen in 20 years." He starts every essay with a brutal diagnostic prompt. 
+# Using Ai to Think Harder
+
+Here’s a workflow an advisor called “the most sophisticated research process 
+I’ve seen in 20 years.” The student starts every essay with a brutal diagnostic prompt. 
 Dumps his rough argument into Claude and asks: 
-> "What are the 3 weakest logical jumps in this reasoning? Where would a hostile examiner attack first?" 
-The AI doesn't write his essay. It destroys his draft. Then he rebuilds. But 
+> “What are the 3 weakest logical jumps in this reasoning? Where would a hostile examiner attack first?” 
+The AI doesn’t write his essay. It destroys his draft. Then he rebuilds. But 
 the next step is what separates him from every other student using ChatGPT or 
 Claude to generate paragraphs. He uploads the top 5 papers in his field and asks: 
 
-> "What claims in my argument contradict or oversimplify what these authors actually found?" 
+> “What claims in my argument contradict or oversimplify what these authors actually found?” 
 
-Most students cite papers they've skimmed. He cites papers he's been forced to genuinely understand. The final move is almost unfair. 
+Most students cite papers they’ve skimmed. He cites papers he’s been forced to genuinely understand. The final move is almost unfair. 
 
 Before submitting, he pastes his conclusion and asks: 
-> "What would a philosopher of science say is missing from this argument? What assumptions am I making that I haven't defended?"
+> “What would a philosopher of science say is missing from this argument? What assumptions am I making that I haven’t defended?”
 
-His essays come back with comments like "unusually rigorous" and "demonstrates rare critical depth." He's not using AI to write. He's using it to think harder than he could alone. The tool hasn't changed. The workflow has.”
+His essays come back with comments like “unusually rigorous” and “demonstrates rare critical depth.” He’s not using AI to write. He’s using it to think harder than he could alone. The tool hasn’t changed. The workflow has.
 
 [Using Ai to think harder and more effectively](https://x.com/ihtesham2005/status/2033152573033914722?s=20)
 
+# Knowledge Management
+
 [Tiago Forte’s](https://www.buildingasecondbrain.com/para) perspective of Ai tools as a superpowered exoskeleton is a powerful one.
-Additionally, using more complex knowledge management systems like PARA (Tiago Forte’s system) or others software tools like Obsidian can be powerful strategies to setup and navigate your knowledge. This also includes gaps in your reasoning, gaps in knowledge, and workflow gaps to name a few.
-Projects - actively being worked on
-Areas - roles and responsibilities you're managing over time
-Resources - topics you're interested in that could be useful in the future
-Archives - complete or inactive items from the other three categories
+His PARA system and tools like Obsidian can be powerful strategies to setup and navigate your knowledge. This also includes gaps in your reasoning, gaps in knowledge, and workflow gaps to name a few.
 
+- **Projects** - actively being worked on
+- **Areas** - roles and responsibilities you’re managing over time
+- **Resources** - topics you’re interested in that could be useful in the future
+- **Archives** - complete or inactive items from the other three categories
 
-## Knowledge management system tools
+The essential goal is “write once, surface anywhere” so all knowledge you have is at your fingertips. Whether you should allow these tools to gain access to your most valuable data is a personal choice.
 
-```https://www.reddit.com/r/ClaudeAI/comments/1qr19df/claude_code_obsidian_how_i_use_it_short_guide/```
-Note: Claude is just one LLM tool and you can definitely user others. This article is just the most comprehensive of the concept I am getting at.I definitely would highly recommend creating the automation and test harness using an AI tool if you’re not familiar with these systems but the question of whether you should allow this tools to gain access to your most valuable data is a personal choice.The essential goal is “write once, surface anywhere.” so all knowledge you have is at your fingertips.
+[One example of this in practice: Claude Code + Obsidian](https://www.reddit.com/r/ClaudeAI/comments/1qr19df/claude_code_obsidian_how_i_use_it_short_guide/)
+
+Note: Claude is just one LLM tool and you can definitely use others.
 
 For the more technical folks I’d recommend using these tools with command line 
-interfaces more in depth like short cut keys, integration with other tools, and things like automated 
-saves, pushes, deployments, like you would a software codebase in general. 
+interfaces more in depth: shortcut keys, integration with other tools, automated 
+saves, pushes, deployments: like you would a software codebase in general. 
 
 # Conclusions
 
