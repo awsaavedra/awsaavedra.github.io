@@ -22,8 +22,6 @@ no longer whether to use them but how to wield them without losing control.
 
 **Ai is a prism to focus your mental energies on a problem. If you are focused like a prism on a problem it will melt with the intensity of the heat of a thousand suns. If you bring nothing to the table you get slop back. The failures in this arena are those looking for quick fixes and shortcuts to the deeper journey of hard won insight, thinking, and skill tree building.**
 
-Everything below -- the frameworks, the workflows, the warnings -- serves that idea.
-
 ## Levels of AI Adoption
 
 Where are you?
