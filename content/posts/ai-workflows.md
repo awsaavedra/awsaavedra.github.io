@@ -13,7 +13,7 @@ disableAutoCollapse: true
 ---
 
 
-This post all [link to disclaimers page on this website structure]
+This post all [disclaimers](/disclaimers/)
 
 ## Three Major Classes of Programmers in 2026
 
@@ -25,7 +25,7 @@ This post all [link to disclaimers page on this website structure]
 For this article we're going to focus on the cutting edge of what's going on
 in the field and where the human fits into this process.
 
-[insert 0-human-centered... image after compressing it] 
+![Human-centered swarm intelligence](/ai-workflows/0-human-centered-swarm-intelligence.webp)
 
 ## What won’t change
 The primitives of the software development lifecycle will remain the same.
@@ -34,7 +34,7 @@ as ground truth sensors and judgement detectors on numerous levels.
 You should always start off your process with as few assistants as possible.
 
 ## Ai for writing and coding
-[insert Target-specifity image here]
+![Target specificity](/ai-workflows/Target-specifity.webp)
 
 I start my outline and process for writing articles this way, obviously this is 
 idealized to some degree:
@@ -58,7 +58,7 @@ There was even a book written on this topic: https://en.wikipedia.org/wiki/Team_
 
 ## Ai for Coding
 
-[insert image gap-formal-verification] 
+![Gap in formal verification](/ai-workflows/gap-formal-verification.webp)
 Note: put a citation at the bottom for Evan Miyazono
 
 1. I write out in vim or use pencil and paper and go through the draft 
@@ -147,7 +147,7 @@ calculation based quantatitive framework
 ― Albert Einstein supposedly had this quote nailed up in his office
 
 I write this because a fair amount of people I deal with are
-[insert internal link to the article how to model things] are just **current modelers**
+[when to model things](/posts/models/#precurrentpost-modelers) are just **current modelers**
 who think mathematical and statistical descriptions of the world are the territory
 not the map. Meaning the representation of reality IS INDEED reality. This is 
 a fallacy of course.
@@ -188,14 +188,14 @@ sure you’re taking an empirical approach at every step  of the process.
 
 # Ai Assisted Engineering
 
-[insert image spectrum vibe vs engineering]
+![Spectrum: vibe coding vs engineering](/ai-workflows/4-spectrum-vibe-vs-engineering.webp)
 
 Limit variables, minimize non-deterministic processes, and minimize unwanted side effects.
 
 All the standards and tools of engineering still apply, just way faster. 
 
 One particularly useful problem to be aware of is the 
-[insert 70-percent-problem picture]
+![The 70 percent problem](/ai-workflows/70-percent-problem.webp)
 
 This 70 percent problem is essentially an issue that Ai can get you the boiler plate,
 basic testing, etc. but it cannot get you to an scaled industrial scale application.
@@ -204,33 +204,33 @@ This will change with time but you need numerous pieces.
 I am not going to cover all of them but a couple ones to mention in terms of what you should 
 use are:
 
-[insert image bash-scripting-connective-issue]
+![Bash scripting as connective tissue](/ai-workflows/bash-scripting-connective-tissue.webp)
 
 This is simply having a deterministic backbone and skeleton for these agents.
 
 
-[insert image ghost-llm-mental-model] 
+![Ghost LLM mental model](/ai-workflows/ghost-llm-mental-model.webp)
 
 You need the right mental model for Ai. As the context window fills it's reading
 degrades which is why I stated that minimal viable context for tasks is important
 and what the target is.
 
-[insert image no-substitute-for-thinking] 
+![No substitute for thinking](/ai-workflows/No-substitute-for-thinking.webp)
 
 There is no substitute for thinking thoroughly and deeply yourself.
 
-[insert image target-setting]
+![Target setting](/ai-workflows/target-setting.webp)
 
 You must set clear and well defined targets, otherwise your outputs will be 
 poorly structured. Garbage targets, garbage results.
 
-[insert image blinds.gif]
+![Blinds](/ai-workflows/blinds.gif)
 
 Certain things will still need to be hand crafted or done.
 I have found this especially true for generating images, I still use low level 
 design tools frequently.
 
-[insert image 2-claude-education-vs-prompt-quality] 
+![Education vs prompt quality](/ai-workflows/2-claude-education-vs-prompt-quality.webp)
 
 What you know matters a lot, this is true now more than ever. I don't think
 just years of education are the be all and end all, but you must developer
@@ -259,7 +259,7 @@ As you continue on this path you'll realize tactics come and go, but strategy re
 
 # Cognitive Enhancements and Decision Frameworks
 
-[insert image 1-eisenhower-crawl-walk-run-agents]
+![Eisenhower matrix: crawl, walk, run agents](/ai-workflows/1-eisenhower-matrix-crawl-walk-run-agents.webp)
 
 > “He was fascinated by the idea of human and machine inextricably bound to each other, each testing the limits of the other.” ~ Chapterhouse Dune
 
