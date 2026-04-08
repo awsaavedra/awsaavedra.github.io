@@ -13,7 +13,36 @@ disableAutoCollapse: true
 ---
 
 
-This post all [disclaimers](/disclaimers/)
+All standard [disclaimers](/disclaimers/) apply to this post.
+
+# Introduction
+The role of the human in software is shifting from writer to orchestrator and judge. 
+As AI agents scale from autocomplete to autonomous fleets, the question is 
+no longer whether to use them but how to wield them without losing control. 
+This article covers where we are, what still matters, and how to build workflows that actually work.
+
+## Levels of AI Adoption
+
+Where are you?
+
+| Level | Name | Description | Era |
+|-------|------|-------------|-----|
+| **L1** | No AI | Traditional dev workflow, no AI tooling. | IDE Era |
+| **L2** | Agent in IDE, permissions on | You approve every file change, full manual control. | IDE Era |
+| **L3** | YOLO mode | Agent runs freely in IDE, trust is rising. | IDE Era |
+| **L4** | Diffs fade, conversation leads | You stop reviewing every diff, you watch what the agent is doing and focus on guiding it. | Agent-First |
+| **L5** | Agent-first, IDE later | You work in the agent conversation, the IDE is just where you look at the code afterward. | Agent-First |
+| **L6** | Agent multiplexing | Bored waiting? Fire up another agent. Then another. You're bouncing between streams and you can't stop. | Agent-First |
+| **L7** | 10+ agents, managed by hand | "Oh gosh, I've made a mess." Wrong context sent to the wrong agent. You start asking: "What if Claude Code could run Claude Code?" | Orchestration |
+| **L8** | Build your own orchestrator | You write the coordination layer yourself, spawning, routing, and managing agents programmatically. | Orchestration |
+| **L9** | The Honey Bee Hive | A fully autonomous, self-managed repository. Agents execute goals independently — you only check in to harvest the output. | Orchestration |
+| **L10** | Human taste tester | Still being built out, but a one person fully agentic full swarm shop https://theinnermostloop.substack.com/p/the-first-one-person-ai-conglomerates | Conductor |
+
+L9 and L10 admittedly could have better names but I can change that later. 
+As you reach these final levels you'll be more of a "bee factory builder" 
+or "bee maintainer" than much of anything else.
+
+[Levels of Ai Adoption](https://x.com/garrytan/status/2033623617448091809?s=20)
 
 ## Three Major Classes of Programmers in 2026
 
@@ -29,9 +58,17 @@ in the field and where the human fits into this process.
 
 ## What won’t change
 The primitives of the software development lifecycle will remain the same.
-The need for sensors and ground truth data. Effectively humans will act
-as ground truth sensors and judgement detectors on numerous levels.
-You should always start off your process with as few assistants as possible.
+You still need to gather requirements, define acceptance criteria, design systems, 
+write tests, review outputs, and deploy with confidence. None of that goes away 
+just because an agent wrote the code instead of you.
+
+The need for sensors and ground truth data remains. Effectively humans will act
+as ground truth sensors and judgement detectors on numerous levels. Someone has to 
+decide whether the output is correct, whether the abstraction is right, whether the 
+test actually tests the thing that matters. That someone is still you.
+
+You should always start off your process with as few assistants as possible. 
+Add agents only when you can verify their output and understand their failure modes.
 
 ## Ai for writing and coding
 ![Target specificity](/ai-workflows/Target-specifity.webp)
@@ -114,10 +151,16 @@ exist to verify at every level the goal is complete.
 
 The ability for agents and humans to coordinate will continue to scale more over time. 
 This means high agency individuals will have further reach than ever before. 
-Solofounders will no longer be a pipe dream--some people will indeed be the primary orchestrator of a fleet of agents. 
-The economy will further bi-sect between the high and low agency at a rate and speed never seen before. 
-The flip between those who have a deep understanding of coordination 
-and control of informational streams and trends will become valuable.
+Solofounders will no longer be a pipe dream--some people will indeed be the primary 
+orchestrator of a fleet of agents. A single developer can now scaffold a full-stack 
+application, write its test suite, and deploy it in a day. A small team can do what 
+used to require a department.
+
+The economy will further bisect between the high and low agency at a rate and speed 
+never seen before. Those who can precisely define intent, set clear targets, and 
+verify outputs will compound their leverage. Those who cannot will find their work 
+increasingly automatable. The skill that matters most is no longer writing code--it's 
+knowing what to build, why, and how to verify it was built correctly.
 
 # High Leverage Things
 Things that will have more leverage now more than ever: 
@@ -127,7 +170,7 @@ other aspects of this but it is now more critical than ever since the distractio
 economy is stronger than ever. Social media, and its crack cocaine cousin shorts 
 and micro-form content are making us glibber and less effective for our actual goals.
 Your brain is being hijacked and turned into a slot machine. 
-Get comfortable with boredom, actually make sure it’s both frequent and 
+Get comfortable with boredom, actually make sure it’s both frequent and welcomed. Boredom is where original thought comes from.
 
 1. **Taste**: in both the aesthetic and design sense. Knowing the right thing to build for the right time will become invaluable.
 
@@ -146,8 +189,8 @@ calculation based quantatitive framework
 > “Not everything that counts can be counted and not everything than can be counted counts.”
 ― Albert Einstein supposedly had this quote nailed up in his office
 
-I write this because a fair amount of people I deal with are
-[when to model things](/posts/models/#precurrentpost-modelers) are just **current modelers**
+I write this because a fair amount of people I deal with who are
+[current modelers](/posts/models/#precurrentpost-modelers) are just **current modelers**
 who think mathematical and statistical descriptions of the world are the territory
 not the map. Meaning the representation of reality IS INDEED reality. This is 
 a fallacy of course.
@@ -190,52 +233,71 @@ sure you’re taking an empirical approach at every step  of the process.
 
 ![Spectrum: vibe coding vs engineering](/ai-workflows/4-spectrum-vibe-vs-engineering.webp)
 
-Limit variables, minimize non-deterministic processes, and minimize unwanted side effects.
+There is a spectrum between vibe coding and rigorous engineering. The core principle 
+is the same regardless of where you sit on it: limit variables, minimize non-deterministic 
+processes, and minimize unwanted side effects. All the standards and tools of engineering 
+still apply, just way faster. 
 
-All the standards and tools of engineering still apply, just way faster. 
+The question is what breaks when you try to go from prototype to production. 
+That's the 70 percent problem:
 
-One particularly useful problem to be aware of is the 
 ![The 70 percent problem](/ai-workflows/70-percent-problem.webp)
 
-This 70 percent problem is essentially an issue that Ai can get you the boiler plate,
-basic testing, etc. but it cannot get you to an scaled industrial scale application.
-This will change with time but you need numerous pieces.
+Ai can get you the boilerplate, basic testing, and a working prototype. But it cannot 
+get you to a scaled industrial-grade application on its own. This will change with 
+time but right now you need several pieces to bridge the gap. Here are the ones 
+I've found most critical:
 
-I am not going to cover all of them but a couple ones to mention in terms of what you should 
-use are:
+**1. Deterministic scaffolding.** Your agents need a backbone that doesn't hallucinate.
 
 ![Bash scripting as connective tissue](/ai-workflows/bash-scripting-connective-tissue.webp)
 
-This is simply having a deterministic backbone and skeleton for these agents.
+Bash scripts, Makefiles, CI pipelines--these are the deterministic skeleton that holds 
+your agentic workflow together. The agent generates code; the scaffold builds, tests, 
+and deploys it. Never let the non-deterministic part control the control flow.
 
+**2. The right mental model for LLMs.**
 
 ![Ghost LLM mental model](/ai-workflows/ghost-llm-mental-model.webp)
 
-You need the right mental model for Ai. As the context window fills it's reading
-degrades which is why I stated that minimal viable context for tasks is important
-and what the target is.
+As the context window fills, the model's reading comprehension degrades. This is why 
+minimal viable context for tasks matters--and why setting a precise target up front 
+is not optional. Treat the context window as a scarce resource, not an infinite notepad.
+
+**3. You still have to think.**
 
 ![No substitute for thinking](/ai-workflows/No-substitute-for-thinking.webp)
 
-There is no substitute for thinking thoroughly and deeply yourself.
+There is no substitute for thinking thoroughly and deeply yourself. The agent 
+accelerates execution, not judgment. If you don't understand the problem, 
+the agent will confidently build the wrong thing faster.
+
+**4. Clear targets are non-negotiable.**
 
 ![Target setting](/ai-workflows/target-setting.webp)
 
 You must set clear and well defined targets, otherwise your outputs will be 
-poorly structured. Garbage targets, garbage results.
+poorly structured. Garbage targets, garbage results. This applies to every level: 
+the project goal, the task description, and the individual prompt.
+
+**5. Some things still require a human hand.**
 
 ![Blinds](/ai-workflows/blinds.gif)
 
 Certain things will still need to be hand crafted or done.
 I have found this especially true for generating images, I still use low level 
-design tools frequently.
+design tools frequently. Know where the boundary is between what the agent can 
+do well and where you need to step in.
+
+**6. Your knowledge is the bottleneck, not your prompting.**
 
 ![Education vs prompt quality](/ai-workflows/2-claude-education-vs-prompt-quality.webp)
 
 What you know matters a lot, this is true now more than ever. I don't think
-just years of education are the be all and end all, but you must developer
+just years of education are the be all and end all, but you must develop
 strong and hard earned skills to stay relevant. You cannot vibe your way 
-into expertise, deep knowledge, and profound insight.
+into expertise, deep knowledge, and profound insight. The quality of what you 
+can build with AI is bounded by what you can recognize as correct or incorrect.
 
 https://thisistheway.to/ai/primitives/
 The framework defines AI primitives as the fundamental building blocks required 
@@ -274,7 +336,7 @@ your Ai agent is the primary driver respectively.
 > “There’s a lesson in that too. What do such machines really do? They increase the number of things we can do without thinking. Things we do without thinking, there’s the real danger.” 
 ~ God Emperor of Dune
 
-Note: this story many be fictitious but it's irrelevant to the fact that the workflow 
+Note: this story may be fictitious but it's irrelevant to the fact that the workflow 
 is the point I'm getting at. A story does not need to be actually true to be illustrative
 of the point.
 
@@ -298,7 +360,7 @@ His essays come back with comments like "unusually rigorous" and "demonstrates r
 [Using Ai to think harder and more effectively](https://x.com/ihtesham2005/status/2033152573033914722?s=20)
 
 [Tiago Forte’s](https://www.buildingasecondbrain.com/para) perspective of Ai tools as a superpowered exoskeleton is a powerful one.
-Additionally, using more complex knowledge management systems like PARA (Tiago Forte’s system) or others software tools like Obsidian can be powerful strategies to setup and navigate your knowledge. This also includes gaps in your reasoning, gaps in knowledge, and workflow gaps to name a flew.
+Additionally, using more complex knowledge management systems like PARA (Tiago Forte’s system) or others software tools like Obsidian can be powerful strategies to setup and navigate your knowledge. This also includes gaps in your reasoning, gaps in knowledge, and workflow gaps to name a few.
 Projects - actively being worked on
 Areas - roles and responsibilities you're managing over time
 Resources - topics you're interested in that could be useful in the future
@@ -324,29 +386,6 @@ If you’re still skeptical, then I will simply quote my favorite grumpy investo
 Or said an even more immodest way:
 “You will come around because I am right and you’re smart."  ~ Charlie Munger
 
-
-levels of Ai adoption, where are you?
-
-## Levels of AI Adoption
-
-| Level | Name | Description | Era |
-|-------|------|-------------|-----|
-| **L1** | No AI | Traditional dev workflow, no AI tooling. | IDE Era |
-| **L2** | Agent in IDE, permissions on | You approve every file change, full manual control. | IDE Era |
-| **L3** | YOLO mode | Agent runs freely in IDE, trust is rising. | IDE Era |
-| **L4** | Diffs fade, conversation leads | You stop reviewing every diff, you watch what the agent is doing and focus on guiding it. | Agent-First |
-| **L5** | Agent-first, IDE later | You work in the agent conversation, the IDE is just where you look at the code afterward. | Agent-First |
-| **L6** | Agent multiplexing | Bored waiting? Fire up another agent. Then another. You're bouncing between streams and you can't stop. | Agent-First |
-| **L7** | 10+ agents, managed by hand | "Oh gosh, I've made a mess." Wrong context sent to the wrong agent. You start asking: "What if Claude Code could run Claude Code?" | Orchestration |
-| **L8** | Build your own orchestrator | You write the coordination layer yourself, spawning, routing, and managing agents programmatically. | Orchestration |
-| **L9** | The Honey Bee Hive | A fully autonomous, self-managed repository. Agents execute goals independently — you only check in to harvest the output. | Orchestration |
-| **L10** | Human taste tester | Still being built out, but a one person fully agentic full swarm shop https://theinnermostloop.substack.com/p/the-first-one-person-ai-conglomerates | Conductor |
-
-L9 and L10 admittedly could have better names but I can change that later. 
-As you reach these final levels you'll be more of a "bee factory builder" 
-or "bee maintainer" than much of anything else.
-
-[Levels of Ai Adoption](https://x.com/garrytan/status/2033623617448091809?s=20)
 
 ## Additional Resources
 
