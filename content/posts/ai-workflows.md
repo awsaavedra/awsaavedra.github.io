@@ -1,5 +1,5 @@
 ---
-title: "Ai Workflows"
+title: "Ai Workflows 2026"
 date: 2026-04-07T00:00:00-08:00
 lastmod: 2026-04-07T00:00:00-08:00
 author: Alexander Saavedra
@@ -19,7 +19,10 @@ All standard [disclaimers](/disclaimers/) apply to this post.
 The role of the human in software is shifting from writer to orchestrator and judge. 
 As AI agents scale from autocomplete to autonomous fleets, the question is 
 no longer whether to use them but how to wield them without losing control. 
-This article covers where we are, what still matters, and how to build workflows that actually work.
+
+**Ai is a prism to focus your mental energies on a problem. If you are focused like a prism on a problem it will melt with the intensity of the heat of a thousand suns. If you bring nothing to the table you get slop back. The failures in this arena are those looking for quick fixes and shortcuts to the deeper journey of hard won insight, thinking, and skill tree building.**
+
+Everything below -- the frameworks, the workflows, the warnings -- serves that idea.
 
 ## Levels of AI Adoption
 
@@ -44,16 +47,6 @@ or "bee maintainer" than much of anything else.
 
 [Levels of Ai Adoption](https://x.com/garrytan/status/2033623617448091809?s=20)
 
-## Three Major Classes of Programmers in 2026
-
-- **Traditionalists**: Programmers who avoid LLMs and write code manually from scratch.
-- **Hybrids**: Programmers who still design the system themselves but use AI heavily to help 
-  generate code; Andrej Karpathy places himself in this group.
-- **Agentic Developers**: Programmers who rely on autonomous AI agents to generate and build products end to end.
-
-For this article we're going to focus on the cutting edge of what's going on
-in the field and where the human fits into this process.
-
 ![Human-centered swarm intelligence](/ai-workflows/0-human-centered-swarm-intelligence.webp)
 
 ## What won’t change
@@ -69,6 +62,21 @@ test actually tests the thing that matters. That someone is still you.
 
 You should always start off your process with as few assistants as possible. 
 Add agents only when you can verify their output and understand their failure modes.
+
+## What will change
+
+The ability for agents and humans to coordinate will continue to scale more over time. 
+This means high agency individuals will have further reach than ever before. 
+Solofounders will no longer be a pipe dream--some people will indeed be the primary 
+orchestrator of a fleet of agents. A single developer can now scaffold a full-stack 
+application, write its test suite, and deploy it in a day. A small team can do what 
+used to require a department.
+
+The economy will further bisect between the high and low agency at a rate and speed 
+never seen before. Those who can precisely define intent, set clear targets, and 
+verify outputs will compound their leverage. Those who cannot will find their work 
+increasingly automatable. The skill that matters most is no longer writing code--it's 
+knowing what to build, why, and how to verify it was built correctly.
 
 ## Ai for Writing
 ![Target specificity](/ai-workflows/Target-specifity.webp)
@@ -144,22 +152,7 @@ exist to verify at every level the goal is complete.
   b. Could it be done more effectively? 
   c. Lots of ideation and brainstorming takes place here. 
 
-# What will change
-
-The ability for agents and humans to coordinate will continue to scale more over time. 
-This means high agency individuals will have further reach than ever before. 
-Solofounders will no longer be a pipe dream--some people will indeed be the primary 
-orchestrator of a fleet of agents. A single developer can now scaffold a full-stack 
-application, write its test suite, and deploy it in a day. A small team can do what 
-used to require a department.
-
-The economy will further bisect between the high and low agency at a rate and speed 
-never seen before. Those who can precisely define intent, set clear targets, and 
-verify outputs will compound their leverage. Those who cannot will find their work 
-increasingly automatable. The skill that matters most is no longer writing code--it's 
-knowing what to build, why, and how to verify it was built correctly.
-
-# High Leverage Things
+## High Leverage Things
 Things that will have more leverage now more than ever: 
 
 0. **Deep and sustained focus**: I have previously written for numerous years about deep work, productivity, and 
@@ -214,7 +207,7 @@ that the gap will grow between those with high agency and those without.
 
 https://www.highagency.com/ is a great resource for thinking about this topic. 
 
-# Documentations and Decisions
+## Documentations and Decisions
 
 **Minimum**: you need to understand the code and the side effects of it. 
 
@@ -226,7 +219,7 @@ Remember this “when there is doubt, log it out.” and
 “when in distress, write a test.” It’s silly but it works effectively to make 
 sure you’re taking an empirical approach at every step  of the process.
 
-# Ai Assisted Engineering
+## Ai Assisted Engineering
 
 ![Spectrum: vibe coding vs engineering](/ai-workflows/4-spectrum-vibe-vs-engineering.webp)
 
@@ -316,7 +309,7 @@ The high level pieces are try to make sure to keep the right context, skills,
 and efficiency everytime you do things.
 As you continue on this path you'll realize tactics come and go, but strategy remains.
 
-# Delegation Frameworks
+## Delegation Frameworks
 
 ![Eisenhower matrix: crawl, walk, run agents](/ai-workflows/1-eisenhower-matrix-crawl-walk-run-agents.webp)
 
@@ -335,7 +328,7 @@ Note: this story may be fictitious but it’s irrelevant to the fact that the wo
 is the point I’m getting at. A story does not need to be actually true to be illustrative
 of the point.
 
-# Using Ai to Think Harder
+## Using Ai to Think Harder
 
 Here’s a workflow an advisor called “the most sophisticated research process 
 I’ve seen in 20 years.” The student starts every essay with a brutal diagnostic prompt. 
@@ -356,7 +349,7 @@ His essays come back with comments like “unusually rigorous” and “demonstr
 
 [Using Ai to think harder and more effectively](https://x.com/ihtesham2005/status/2033152573033914722?s=20)
 
-# Knowledge Management
+## Knowledge Management
 
 [Tiago Forte’s](https://www.buildingasecondbrain.com/para) perspective of Ai tools as a superpowered exoskeleton is a powerful one.
 His PARA system and tools like Obsidian can be powerful strategies to setup and navigate your knowledge. This also includes gaps in your reasoning, gaps in knowledge, and workflow gaps to name a few.
@@ -376,16 +369,25 @@ For the more technical folks I’d recommend using these tools with command line
 interfaces more in depth: shortcut keys, integration with other tools, automated 
 saves, pushes, deployments: like you would a software codebase in general. 
 
-# Conclusions
+## Conclusions
 
-I recommend using these tools, thinking about them deeply, and adapting all of these workflows for your use cases.
-The swarm is here and to be at the heart of the swarm requires incredibly sophisticated and coherent workflows at every level.
-It’s a strange and new world for some. For others, it’s just another Thursday as SciFi scenarios become science fact, and then finally mundane.
-If you’re still skeptical, then I will simply quote my favorite grumpy investor
-“Sir--I gave you an argument, I cannot give you an understanding." ~ Samuel Johnson,
+Ai is a prism. Bring depth, focus, and hard won skill to it and the intensity will melt any problem you point it at. Bring nothing and you get slop back. There are no shortcuts to the deeper journey.
+
+The swarm is here. To be at the eye of the swarm requires incredibly sophisticated and coherent workflows at every level. Adapt all of this for your use cases. It’s a strange and new world for some. For others, it’s just another Thursday as SciFi scenarios become science fact, and then finally mundane.
+
+If you’re still skeptical, then I will simply quote my favorite grumpy investor:
+“Sir--I gave you an argument, I cannot give you an understanding.” ~ Samuel Johnson
+
 Or said an even more immodest way:
-“You will come around because I am right and you’re smart."  ~ Charlie Munger
+“You will come around because I am right and you’re smart.” ~ Charlie Munger
 
+This article contains an unresolved tension between two quotes:
+
+> “Things we do without thinking, there’s the real danger.” ~ God Emperor of Dune
+
+> “Civilization advances by extending the number of important operations which we can perform without thinking of them.” ~ Alfred North Whitehead
+
+I am writing another article about the depth of decisions to resolve these seeming contradictions.
 
 ## Additional Resources
 
