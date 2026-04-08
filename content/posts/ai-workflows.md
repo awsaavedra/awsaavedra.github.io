@@ -350,6 +350,10 @@ or "bee maintainer" than much of anything else.
 
 ## Additional Resources
 
+Two books I used to cover these topics thoroughly are:
+  1. Vibe Coding by Steve Yegge
+  2. Beyond Vibe Coding by Addy Osmani
+
 Only tip I'm going to give: get the Ai to try to use caveman talk to simplified response 
 language so it compresses it's responses and what it does. It works.
 
@@ -390,9 +394,16 @@ https://share.solve.it.com/d/28d1864aad0723170e76fc4f720058c8
 https://youtu.be/eA9Zf2-qYYM?si=cYOi7TYq_Whn6xk4 
 https://steipete.me/posts 
 
+[Programming in an underrgaduate CS curriculum by Bjarne Stroustrup](https://www.stroustrup.com/software.pdf)
+The summary of this article by Dr.Stroustrup is that Computer Science was always a 
+hodge podge of subjects awkwardly placed together with little coherence. 
+The fact that the undergraduate CS major is dying, in my view not his, is probably 
+good because it was a stupid amalgamation of stuff.
 
-
-The tension at the other end is: “Civilization advances by extending the number of important operations which we can perform without thinking of them.” ~ Alfred North Whitehead
+The tension at the other end is to the Dune quotes referenced above is: 
+> “Civilization advances by extending the number of important operations which 
+> we can perform without thinking of them.” 
+~ Alfred North Whitehead
 
 https://open.spotify.com/episode/0Va0tXyRPwicecz1aMg3vT?si=OzdePXHgQKeoCZ-n2WQbhQ&t=3062&pi=EnDrvCwGQiGjd this is by far the best argument against this vibe coding crap culture going on. Opinions my own, but it annoys me how companies who vibe feature build are legitimately destabilizing their products.
 
