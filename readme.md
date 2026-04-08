@@ -27,6 +27,22 @@ make post name=my-first-post.md
 This is a shortcut for `hugo new content/posts/my-first-post.md`.
 
 
+## Image Optimization
+
+All images in `static/` are served as WebP. A script converts PNG, JPG, JPEG, and GIF files in `static/` (recursively) to WebP.
+
+**Prerequisites:** Python 3 + Pillow (`pip install Pillow`)
+
+```bash
+# Preview what would be converted (no files modified)
+python3 convert-images.py --dry-run
+
+# Convert all images in static/ to WebP and delete originals
+python3 convert-images.py
+```
+
+Animated GIFs are automatically skipped. Files that already have a `.webp` counterpart are also skipped.
+
 # Website TODO Features
 
 - [ ] Add Subscribe feed to website

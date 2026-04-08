@@ -1,7 +1,7 @@
 ---
 title: "Ai Workflows"
-date: 2026-04-06T00:00:00-08:00
-lastmod: 2026-04-06T00:00:00-08:00
+date: 2026-04-07T00:00:00-08:00
+lastmod: 2026-04-07T00:00:00-08:00
 author: Alexander Saavedra
 tags: [ai, software]
 draft: true
@@ -57,6 +57,9 @@ Viewpoint diversity matters a lot still.
 There was even a book written on this topic: https://en.wikipedia.org/wiki/Team_of_Rivals. 
 
 ## Ai for Coding
+
+[insert image gap-formal-verification] 
+Note: put a citation at the bottom for Evan Miyazono
 
 1. I write out in vim or use pencil and paper and go through the draft 
 of what I'm looking to build and what the structure of what I'm building. 
@@ -234,7 +237,6 @@ just years of education are the be all and end all, but you must developer
 strong and hard earned skills to stay relevant. You cannot vibe your way 
 into expertise, deep knowledge, and profound insight.
 
-
 https://thisistheway.to/ai/primitives/
 The framework defines AI primitives as the fundamental building blocks required 
 to transition from simple chat interfaces to sophisticated, autonomous agents. 
@@ -248,6 +250,12 @@ its answers and complete multi-step tasks. Finally, Output focuses on the struct
 formatting or the specific actions that conclude the AI's workflow.
 
 [You need agents able to use multiple models to have a consortium of experts](https://x.com/burkeholland/status/2019856950461104220)
+
+Note: there are lots of tips and tricks that are constantly covered online
+and most are them are silly or mildly useful for awhile. 
+The high level pieces are try to make sure to keep the right context, skills,
+and efficiency everytime you do things.
+As you continue on this path you'll realize tactics come and go, but strategy remains.
 
 # Cognitive Enhancements and Decision Frameworks
 
@@ -263,14 +271,21 @@ your Ai agent is the primary driver respectively.
 
 
 
-[Using Ai to think harder and more effectively](https://x.com/ihtesham2005/status/2033152573033914722?s=20)
+> “There’s a lesson in that too. What do such machines really do? They increase the number of things we can do without thinking. Things we do without thinking, there’s the real danger.” 
+~ God Emperor of Dune
 
- 
-“A PhD student at Oxford got caught submitting "AI-generated" work. Except he hadn't used AI to write anything. He used it to think.
-Here's the workflow his advisor called "the most sophisticated research process I've seen in 20 years." He starts every essay with a brutal diagnostic prompt. 
+Note: this story many be fictitious but it's irrelevant to the fact that the workflow 
+is the point I'm getting at. A story does not need to be actually true to be illustrative
+of the point.
+
+Here's the workflow his advisor called "the most sophisticated research process 
+I've seen in 20 years." He starts every essay with a brutal diagnostic prompt. 
 Dumps his rough argument into Claude and asks: 
 > "What are the 3 weakest logical jumps in this reasoning? Where would a hostile examiner attack first?" 
-The AI doesn't write his essay. It destroys his draft. Then he rebuilds. But the next step is what separates him from every other student using ChatGPT or Claude to generate paragraphs. He uploads the top 5 papers in his field and asks: 
+The AI doesn't write his essay. It destroys his draft. Then he rebuilds. But 
+the next step is what separates him from every other student using ChatGPT or 
+Claude to generate paragraphs. He uploads the top 5 papers in his field and asks: 
+
 > "What claims in my argument contradict or oversimplify what these authors actually found?" 
 
 Most students cite papers they've skimmed. He cites papers he's been forced to genuinely understand. The final move is almost unfair. 
@@ -279,6 +294,8 @@ Before submitting, he pastes his conclusion and asks:
 > "What would a philosopher of science say is missing from this argument? What assumptions am I making that I haven't defended?"
 
 His essays come back with comments like "unusually rigorous" and "demonstrates rare critical depth." He's not using AI to write. He's using it to think harder than he could alone. The tool hasn't changed. The workflow has.”
+
+[Using Ai to think harder and more effectively](https://x.com/ihtesham2005/status/2033152573033914722?s=20)
 
 [Tiago Forte’s](https://www.buildingasecondbrain.com/para) perspective of Ai tools as a superpowered exoskeleton is a powerful one.
 Additionally, using more complex knowledge management systems like PARA (Tiago Forte’s system) or others software tools like Obsidian can be powerful strategies to setup and navigate your knowledge. This also includes gaps in your reasoning, gaps in knowledge, and workflow gaps to name a flew.
@@ -323,39 +340,57 @@ levels of Ai adoption, where are you?
 | **L7** | 10+ agents, managed by hand | "Oh gosh, I've made a mess." Wrong context sent to the wrong agent. You start asking: "What if Claude Code could run Claude Code?" | Orchestration |
 | **L8** | Build your own orchestrator | You write the coordination layer yourself, spawning, routing, and managing agents programmatically. | Orchestration |
 | **L9** | The Honey Bee Hive | A fully autonomous, self-managed repository. Agents execute goals independently — you only check in to harvest the output. | Orchestration |
-| **L10** | Still being built out, but a one person fully agentic full swarm shop https://theinnermostloop.substack.com/p/the-first-one-person-ai-conglomerates |
+| **L10** | Human taste tester | Still being built out, but a one person fully agentic full swarm shop https://theinnermostloop.substack.com/p/the-first-one-person-ai-conglomerates | Conductor |
+
+L9 and L10 admittedly could have better names but I can change that later. 
+As you reach these final levels you'll be more of a "bee factory builder" 
+or "bee maintainer" than much of anything else.
+
 [Levels of Ai Adoption](https://x.com/garrytan/status/2033623617448091809?s=20)
 
-# Additional Resources
+## Additional Resources
+
+Only tip I'm going to give: get the Ai to try to use caveman talk to simplified response 
+language so it compresses it's responses and what it does. It works.
 
 [how to use claude code according to Boris Cherny](https://x.com/bcherny/status/2017742741636321619)
 https://link.springer.com/chapter/10.1007/978-1-4612-5695-3_22 
+
 [What happens to developers in the future? I don’t know. My intuition says they don’t go away](https://youtube.com/shorts/3tWRq1Dv1as?si=UqddNOhuzeIxh8tU)
 
 https://haskellforall.com/2026/03/a-sufficiently-detailed-spec-is-code
 
 https://blog.cosmos-institute.org/p/the-last-temptation-of-claude?r=1ds20&utm_medium=ios&triedRedirect=true 
+
 Chaos Engineering and other types of stress testing are still conceptually valid strategies. The concept of the simian army, Netflix's chaos monkeys, is still a useful idea for testing things out but we’ve moved beyond this model now: https://news.ycombinator.com/item?id=46464953 
 
-https://www.cs.utexas.edu/~EWD/transcriptions/EWD03xx/EWD340.html The Humble Programmer by Dijkstra
+[The Humble Programmer by Dijkstra](https://www.cs.utexas.edu/~EWD/transcriptions/EWD03xx/EWD340.html)
+
 https://www.oneusefulthing.org/ 
+
 https://howborisusesclaudecode.com/
+
 https://www.businessinsider.com/amazon-tightens-code-controls-after-outages-including-one-ai-2026-3
+
 [Scaling long-running autonomous coding](https://cursor.com/blog/scaling-agents)
+
 https://www.modular.com/blog/the-claude-c-compiler-what-it-reveals-about-the-future-of-software
-https://open.spotify.com/episode/0Va0tXyRPwicecz1aMg3vT?si=E1tww2H1TA-d-flosg-JvA&t=3180&pi=mqcL6NyyRjqJ4 key line “here is a piece of code no one understands. Am I willing to bet my whole company's product on it? I don’t know…I don’t know what to do now.” This talks about the ever present pernicious loss of control.
-https://thisistheway.to/ai/primitives/
 
-https://share.solve.it.com/d/28d1864aad0723170e76fc4f720058c8  jeremy howard on coding vs software engineering
-https://www.highagency.com/
+https://open.spotify.com/episode/0Va0tXyRPwicecz1aMg3vT?si=E1tww2H1TA-d-flosg-JvA&t=3180&pi=mqcL6NyyRjqJ4 
 
-https://www.anthropic.com/research/anthropic-economic-index-january-2026-report tl;dr: the most important findings were experience level is almost a linear relationship to quality of outputs gotten by prompting. So more knowledgeable people get more out of these models.
+key line 
+> “here is a piece of code no one understands. Am I willing to bet my whole company's product on it? I don’t know…I don’t know what to do now.” 
+This talks about the ever present pernicious loss of control when using Ai tools.
+
+https://share.solve.it.com/d/28d1864aad0723170e76fc4f720058c8  
+jeremy howard on coding vs software engineering
+
 
 https://share.solve.it.com/d/28d1864aad0723170e76fc4f720058c8 
 https://youtu.be/eA9Zf2-qYYM?si=cYOi7TYq_Whn6xk4 
 https://steipete.me/posts 
 
-“There’s a lesson in that too. What do such machines really do? They increase the number of things we can do without thinking. Things we do without thinking, there’s the real danger.” ~ God Emperor of Dune
+
 
 The tension at the other end is: “Civilization advances by extending the number of important operations which we can perform without thinking of them.” ~ Alfred North Whitehead
 
