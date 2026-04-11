@@ -1,6 +1,7 @@
 ---
-title: Ultralearning
+title: "Ultralearning"
 date: 2019-09-08T02:01:58+05:30
+lastmod: 2026-04-11T00:00:00-08:00
 author: Alexander Saavedra
 tags: [learning, productivity]
 draft: false
@@ -23,7 +24,8 @@ passed all the final exams of the classes.
 
 Can others succeed on major projects like this with short time horizons and
 aggressive milestones? It turns out, a rather sizable learning community exists
-of people who have done everything from picking up proficiency in a foreign language (CEFR) at B2 level in a month to learning everything required to build
+of people who have done everything from picking up proficiency in a foreign 
+language (CEFR) at B2 level in a month to learning everything required to build
 a video game from scratch (_Stardew Valley_ by Eric Barone).
 
     Better beware of notions like genius and inspiration; they are a sort of magic
@@ -66,7 +68,8 @@ Our deepest moment of happiness don't come from simple and easy things,
 it comes from wrestling with hard, meaningful things to obtain mastery and self
 discovery. Hard decisions, easy life. Easy decisions, hard life.
 
-Education is also getting too expensive, and sometimes moves too slow, for what you can get from intense self directed study.
+Education is also getting too expensive, and sometimes moves too slow, for what 
+you can get from intense self directed study.
 One of my best lectures on programming in College pales in comparison to the material I
 have gotten online or the right books on. A lot of the course
 material in school may not even be indirectly or directly applicable to you as
@@ -118,35 +121,36 @@ Once again, this is the determining factor.
 
 Principles of the Ultralearner:
 
-  1. **Metalearning**: First Draw a Map. Start by learning how to learn the subject
-    or skill you want to tackle. Discover how to do good research and how to draw on
-    your past competencies to learn new skills more easily.  
+1. **Metalearning**: First Draw a Map. Start by learning how to learn the subject
+or skill you want to tackle. Discover how to do good research and how to draw on
+your past competencies to learn new skills more easily.  
 
-    2. **Focus** Sharpen Your Knife. Cultivate the ability to concentrate.
-    Carve out chunks of time when you can focus on learning, and make it easy to just do it.  
+2. **Focus** Sharpen Your Knife. Cultivate the ability to concentrate.
+Carve out chunks of time when you can focus on learning, and make it easy to just do it.  
 
-    3. **Directness**: Go Straight Ahead. Learn by doing the thing you want to become good at.
-    Don’t trade it off for other tasks, just because those are more convenient or comfortable.  
+3. **Directness**: Go Straight Ahead. Learn by doing the thing you want to become good at.
+Don’t trade it off for other tasks, just because those are more convenient or comfortable.  
 
-    4. **Drill**: Attack Your Weakest Point. Be ruthless in improving your weakest points.
-    Break down complex skills into small parts; then master those parts and build them back together again.  
+4. **Drill**: Attack Your Weakest Point. Be ruthless in improving your weakest points.
+Break down complex skills into small parts; then master those parts and build them back together again.  
 
-    5. **Retrieval**: Test to Learn. Testing isn’t simply a way of assessing knowledge but a way of creating it.
-    Test yourself before you feel confident, and push yourself to actively recall information
-    rather than passively review it.  
+5. **Retrieval**: Test to Learn. Testing isn’t simply a way of assessing knowledge but a way of creating it.
+Test yourself before you feel confident, and push yourself to actively recall information
+rather than passively review it.  
 
-    6. **Feedback**: Don’t Dodge the Punches. Feedback is harsh and uncomfortable.
-    Know how to use it without letting your ego get in the way.
-    Extract the signal from the noise, so you know what to pay attention to and what to ignore.  
+6. **Feedback**: Don’t Dodge the Punches. Feedback is harsh and uncomfortable.
+Know how to use it without letting your ego get in the way.
+Extract the signal from the noise, so you know what to pay attention to and what to ignore.  
 
-    7. **Retention**: Don’t Fill a Leaky Bucket. Understand what you forget and why.
-    Learn to remember things not just for now but forever.  
+7. **Retention**: Don’t Fill a Leaky Bucket. Understand what you forget and why.
+Learn to remember things not just for now but forever.  
 
-    8. **Intuition**: Dig Deep Before Building Up.
-    Develop your intuition through play and exploration of concepts and skills.
-    Understand how understanding works, and don’t recourse to cheap tricks of memorization to avoid deeply knowing things.
+8. **Intuition**: Dig Deep Before Building Up.
+Develop your intuition through play and exploration of concepts and skills.
+Understand how understanding works, and don’t recourse to cheap tricks of memorization to avoid deeply knowing things.
 
-    9. **Experimentation**: Explore Outside Your Comfort Zone. All of these principles are only starting points. True mastery comes not just from following the path trodden by others but from exploring possibilities they haven’t yet imagined.
+9. **Experimentation**: Explore Outside Your Comfort Zone. All of these principles are only starting points. 
+True mastery comes not just from following the path trodden by others but from exploring possibilities they haven’t yet imagined.
 
 Scott Young got these principles from meta-analysis, personal experience, and the available cognitive science literature. Many of us have used these ideas in our studies
 and lives but to systemize this into an extremely effective process takes a lot more than understanding these concepts in principle. The practice is hard. Put another way **common sense isn't common practice**. And remember kids, sometimes you need to know when to break the rules. These are all heuristics mind you, not scientific laws.
@@ -420,14 +424,25 @@ benefit to learning than something easy."
 
 ## Retrieval
 
-The summary of this chapter is that trying to test yourself and summoning things from memory is a highly effective strategy. It helps create depth of connection and makes someone an effective test taker as well as creator. Having to recall information strengthens connections between things (concepts, facts, etc). Basically, being active with material and having to test whether you _really_ know something is highly effective.
+The summary of this chapter is that trying to test yourself and summoning things 
+from memory is a highly effective strategy. It helps create depth of connection 
+and makes someone an effective test taker as well as creator. Having to recall 
+information strengthens connections between things (concepts, facts, etc). 
+Basically, being active with material and having to test whether you _really_ 
+know something is highly effective.
 
-In addition to retrieval, you can create tests for yourself to get even better at a specific subject. The act of creating tests, studying material for others, etc. gives you a platform to clarify your ideas. Other students can ask you questions and sometimes expose holes in your understanding since you have put your ideas out in the open.
+In addition to retrieval, you can create tests for yourself to get even better 
+at a specific subject. The act of creating tests, studying material for others, 
+etc. gives you a platform to clarify your ideas. Other students can ask you 
+questions and sometimes expose holes in your understanding since you have 
+put your ideas out in the open.
 
-    Pushing difficulty higher and opting for testing oneself well
-    before you are “ready” is more efficient.
+Pushing difficulty higher and opting for testing oneself well
+before you are “ready” is more efficient.
 
-    [...]Although waiting too long before you test yourself may have disadvantages, increasing difficulty by giving yourself fewer clues and prompts are likely helpful, provided that you can get some feedback on them later.
+[...]Although waiting too long before you test yourself may have disadvantages, 
+increasing difficulty by giving yourself fewer clues and prompts are likely 
+helpful, provided that you can get some feedback on them later.
 
 **Key idea**: "Pushing difficulty higher and opting for testing oneself well
 before you are “ready” is more efficient."
@@ -439,11 +454,15 @@ exam and I passed it purely by taking the practice tests for a grand
 total of 1.5 hours of studying instead of trying to go through
 the whole booklet over and over.
 
-The side effect is known as **the forward-testing effect** , shows that retrieval not only helps enhance what you’ve learned but can enhance new learnings on the subject. Talk about more bang for your buck!
+The side effect is known as **the forward-testing effect** , shows that retrieval 
+not only helps enhance what you’ve learned but can enhance new learnings on the subject. 
+Talk about more bang for your buck!
 
 So start early, dive into the deep end when you're not ready, and get to learning by doing the harder stuff quickly. Don't be afraid of feedback.
 
-However, let's remember that there will always been areas you can say "I'll just look that up." It's almost impossible to have everything you are looking for, focus on the highest impact material first.
+However, let's remember that there will always been areas you can say 
+"I'll just look that up." It's almost impossible to have everything you 
+are looking for, focus on the highest impact material first.
 
 From Scott's perspective:
 
