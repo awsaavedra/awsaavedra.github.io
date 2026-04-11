@@ -37,7 +37,7 @@ Where are you?
 | **L7** | 10+ agents, managed by hand | "Oh gosh, I've made a mess." Wrong context sent to the wrong agent. You start asking: "What if Claude Code could run Claude Code?" | Orchestration |
 | **L8** | Build your own orchestrator | You write the coordination layer yourself, spawning, routing, and managing agents programmatically. | Orchestration |
 | **L9** | The Honey Bee Hive | A fully autonomous, self-managed repository. Agents execute goals independently — you only check in to harvest the output. | Orchestration |
-| **L10** | Human taste tester | Still being built out, but a one person fully agentic full swarm shop https://theinnermostloop.substack.com/p/the-first-one-person-ai-conglomerates | Conductor |
+| **L10** | Human taste tester | Still being built out, but a one person fully agentic full swarm shop. [Reference](https://theinnermostloop.substack.com/p/the-first-one-person-ai-conglomerates) | Conductor |
 
 L9 and L10 admittedly could have better names but I can change that later. 
 As you reach these final levels you'll be more of a "bee factory builder" 

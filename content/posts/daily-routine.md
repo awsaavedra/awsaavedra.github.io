@@ -1,7 +1,7 @@
 ---
 title: "Daily Routine"
 date: 2026-02-13T11:30:02-08:00
-lastmod: 2026-02-17T11:30:02-08:00
+lastmod: 2026-04-11T11:30:02-08:00
 author: Alexander Saavedra
 tags: [health, productivity]
 draft: false
@@ -21,6 +21,7 @@ As a followup to the [Daily Lifestyle Checklist](/posts/daily-lifestyle-checklis
 <summary><strong>6:00-6:10 | Wake Up & Hygiene</strong></summary>
 
 1. 🪥 Brush teeth with sonarcare electric toothbrush
+  - sonicare head: 70% bio-based plastic, ultrasoft
 2. 👅 Brush tongue with MasterMedi Tongue Scraper
 3. 🧼 Wash face
 4. 🧴 Apply creams:
@@ -81,9 +82,7 @@ Focus on core work tasks without interruptions.
 
 <details>
 <summary><strong>12:00-12:30 | Lunch</strong></summary>
-
 **Eating Order:** Greens, Proteins, carbohydrates, then liquids (not too fast)
-
 **1. 🍜 Ramen:**
 - 🍜 Sun Ramen naked noodles, no sauces
 - 🍄 Mushrooms freshly cut: oyster and shiitake (sliced)
@@ -137,6 +136,8 @@ Afternoon work and learning session.
 
 <details>
 <summary><strong>17:00-17:30 | Dinner (Fasting Begins)</strong></summary>
+
+**Eating Order:** Greens, Proteins, carbohydrates, then liquids (not too fast)
 
 **1. 🥗 Salad:**
 - 🥬 Fresh baby arugula 1-2 cups
@@ -195,15 +196,18 @@ Evening activities and preparation for wind down.
 <details>
 <summary><strong>19:30-22:00 | Wind Down & Sleep</strong></summary>
 
-1. 📵 Cell phone put away first to avoid distractions
-2. 🌑 No lights, screens, or ambient light of any kind. Dimming tape on everything in bedroom so barely visible
-3. 🚿 Shower, shave, wash face, apply creams and lip balm
+1. 🪥 Brush teeth with sonarcare electric toothbrush
+  - sonicare head: 70% bio-based plastic, ultrasoft
+2. 👅 Brush tongue with MasterMedi Tongue Scraper
+3. 📵 Cell phone put away first to avoid distractions
+4. 🌑 No lights, screens, or ambient light of any kind. Dimming tape on everything in bedroom so barely visible
+5. 🚿 Shower, shave, wash face, apply creams and lip balm
 - 🧴 Shampoo: peptide based shampoo
 - 🧴 face: under eye cream, face cream, full body lotion, overnight lip balm
-4. 💧 Hydration
+6. 💧 Hydration
 - 💧 Drink 1 cup of water before bed
-5. 💨 Humidifier started
-6. 📚 Entertainment: audiobooks, books, etc.
+7. 💨 Humidifier started
+8. 📚 Entertainment: audiobooks, books, etc.
 </details>
 
 ---
