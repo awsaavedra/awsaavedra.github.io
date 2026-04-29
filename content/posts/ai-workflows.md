@@ -102,7 +102,7 @@ There was even a book written on this topic: https://en.wikipedia.org/wiki/Team_
 ## Ai for Coding
 
 ![Gap in formal verification](/ai-workflows/gap-formal-verification.webp)
-Credit to Evan Miyazono for the image above.
+Credit to Evan for the image above.
 
 1. I write out in vim or use pencil and paper and go through the draft 
 of what I'm looking to build and what the structure of what I'm building. 
