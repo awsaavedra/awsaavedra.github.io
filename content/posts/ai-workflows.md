@@ -1,7 +1,7 @@
 ---
 title: "Ai Workflows 2026"
 date: 2026-04-07T00:00:00-08:00
-lastmod: 2026-04-07T00:00:00-08:00
+lastmod: 2026-04-30T00:00:00-08:00
 author: Alexander Saavedra
 tags: [ai, software]
 draft: false
@@ -423,7 +423,19 @@ https://open.spotify.com/episode/0Va0tXyRPwicecz1aMg3vT?si=E1tww2H1TA-d-flosg-Jv
 
 key line 
 > “here is a piece of code no one understands. Am I willing to bet my whole company's product on it? I don’t know…I don’t know what to do now.” 
-This talks about the ever present pernicious loss of control when using Ai tools.
+This talks about the ever present pernicious loss of control and understanding when using Ai tools.
+
+https://open.spotify.com/episode/1LTGWpyBB7XKTuhYxDKHST?si=iqU2n0RSTWaD-Ns1iyB4Vg
+Key question in the Brian Keating podcast:
+> Why do the 5-10% of people who argue with Ai outperform elite human forecasters and models?
+
+Dijkstra's Essays I like
+1. The Humble Programmer https://www.cs.utexas.edu/~EWD/transcriptions/EWD03xx/EWD340.html
+
+2.On the foolishness of natural language programming
+https://www.cs.utexas.edu/~EWD/transcriptions/EWD06xx/EWD667.html
+
+
 
 [jeremy howard on coding vs software engineering](https://share.solve.it.com/d/28d1864aad0723170e76fc4f720058c8)
 
@@ -442,7 +454,7 @@ The tension at the other end is to the Dune quotes referenced above is:
 > we can perform without thinking of them.” 
 ~ Alfred North Whitehead
 
-https://open.spotify.com/episode/0Va0tXyRPwicecz1aMg3vT?si=OzdePXHgQKeoCZ-n2WQbhQ&t=3062&pi=EnDrvCwGQiGjd this is by far the best argument against this vibe coding crap culture going on. Opinions my own, but it annoys me how companies who vibe feature build are legitimately destabilizing their products.
+This is by far the best argument against this vibe coding crap culture going on. Opinions my own, but it annoys me how companies who vibe feature build are legitimately destabilizing their products.
 
 
 ```
