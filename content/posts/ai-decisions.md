@@ -272,6 +272,85 @@ to you to consider other possibilities here:
 > most important parts of being human are precisely the things that refuse to 
 > be turned into a game at all.
 
+# The Jungles
+
+[insert rare problems image]
+
+All the high value stuff are either are the periphery of the known or the 
+tip of taboo. I covered this more extensively in [insert inline link to 
+seeking idea alpha]
+
+# Argumentation and Debate Skills
+
+Better decisiosn require a culture of collaboration, argumentation, and manners.
+Chatham house rules, attacking the argument and absolutely not the person, have
+idea tournaments, and steelmanning positions. If nothing else tactical empathy is 
+probably highly useful here as well for value for a company.
+
+I even created these already [here](https://github.com/awsaavedra/configs/blob/main/.ai-instructions/README.md)
+
+# Opposing Solutionism and Overengineering
+
+Solutionism is the philosophy that gave us the smart fridge. It ignores the tradeoff costs between complexity, long term maintenance, and comprehensibility of the solution presented in the context of the whole system. It would be the antonym to Occam’s razor for solutioning.
+
+I prefer the Russian mentality to engineering: low technology, high concept. During the space race a team of American scientists working for a company spent millions to invent the first pen that works in space. The Russians used a pencil.
+
+Instead of solutionism go with the compressed philosophy of “Thoughts from a Philosophical Fighter Pilot: think deeply, simply, and thoroughly about problems in between trying things out for the optimal result.
+
+> “The cost of a thing is the amount of what I will call life which is required 
+> to be exchanged for it, immediately or in the long run.”
+~ Henry David Thoreau, Walden
+
+Another example I like of overengineered solutions: Randy Pausch during graduate 
+school spent an inordinate amount of time looking for a 1.5 measuring cup 
+instead of just scooping one and a half times. The time saved was devoured 
+by the time lost. Penny wise, pound foolish. 
+
+By their nature, good design and engineering take the optimal path of least 
+resistance and only innovate from a technology standpoint when it is indeed necessary 
+after evaluating the tradeoff costs.
+
+# Optimal Skepticism 
+
+One end of the spectrum is pure adherence to the current narrative and worldview without question, on the other end is the paranoid tinfoil had wearing conspiracy theorist. Somewhere inbetween is the optimal.
+
+The way to search for the optimal point of view is first developing high fidelity information channels, a comprehensive and deep rooted with rock solid premises epistemology, and a methodological lattice work of mental models to scaffolding towards the approximate truth. First principles thinking is necessary but not always efficient. For extremely important decisions it is necessary but not sufficient.
+
+# First Principles: Workflows with Ai
+> “Speeding up old workflows with AI is a short-term gain every competitor will 
+> match. Real differentiation comes from rebuilding the company itself around intelligence.” 
+~ Jack Dorsey
+
+One of the key insights in life in making someone aware of their own ignorance. 
+Everyone started out with a default meal, menu, and restaurant to order from. 
+Our job as engineers, scientists, scholars, etc is to truly see the amount of 
+items, ingredients, orders, and availability of options. 
+Increasing optionality increases vigor by variety of choice.
+
+# Good Decisions Take Time
+[insert image of mining for diamonds]
+
+To find great insights that need to get implemented takes time actively working 
+and chewing on the problem. Deep decisions require deep focus.
+
+The reasoning roots for insights must run deep. Shallow roots are knocked over 
+by the winds of criticism. We are mining well reasoned diamonds which are 
+pressure tested by strong criticism with numerous perspectives considered. 
+Debates are great, but numerous debates are optimized for the optics of ideas 
+in verbal space. What we need is things optimized for real space.
+
+Shallow roots are swayed by fashions of the time. Deep roots bend towards good 
+reasons and are replaced very infrequently. Moral fashions shallow, deep 
+eternal truths are deep for a reason.
+
+Actively seek out high quality critics, especially with deep reasoning 
+roots from different perspectives. Only let the strongest arguments and 
+ideas survive the tournament in your mind.
+
+Time spent thinking, doing, chewing, and perchulating ideas all require time. 
+Even space between each action matters tremendously.
+
+“you can outsource your thinking, but you cannot outsource your understanding.”
 
 # Conclusion
 
@@ -287,8 +366,37 @@ thus losing our own agency or stall the magic before it gets out of our control.
 
 # Additional resources
 
+[People who send me AI slop are either dumb or lazy](https://open.spotify.com/episode/1pV3rQS5SXItADmj5njjZy?si=SrsGdX58QHyNo5vEyRCDoQ )
+
+
 https://calnewport.com/in-defense-of-thinking-2/ 
 Use for depth of decisions article
+
+https://en.wikipedia.org/wiki/Lateral_thinking learn to cultivate and think laterally
+
+[Creativity: Psychology of Discovery and Invention](https://www.amazon.com/Creativity-Flow-Psychology-Discovery-Invention/dp/0062283251)
+
+[Grant Sanders on the high cost of being a second-hand thinker](https://open.spotify.com/episode/6K60hLjs77XKsHke9LQtzw?si=DqmyTwjfTvix70JnJOAzvQ)
+
+
+https://paulgraham.com/hamming.html 
+
+https://joelonsdale.com/lessons-peter-thiel/
+summarized by perplexity (probably sonar)
+
+```
+# Nine Lessons from Peter Thiel
+1. Divide your reasoning into clear parts and identify the single most important factor that justifies the decision.
+2. Focus your attention on one main thing because concentrated effort generates increasing returns compared to spreading yourself thin.
+3. Pick domains where intelligence and original thinking matter a lot more than brute force or commodity effort.
+4. Build and maintain strong, aligned teams because the right people compound each other’s strengths over time.
+5. Design powerful structures and systems, but keep questioning them so they don’t harden into unexamined dogma.
+6. Don’t spend time talking about what you might think about later; instead, work through the problem immediately and concretely.
+7. Treat markets and products in a granular, specific way instead of relying on vague generalizations or clichés.
+8. Use skepticism about value and incentives to force real tests—like getting others to pay—to prove something actually works.
+9. Remember that only your own execution ultimately makes you win, so prioritize actions that move the needle in reality, not on paper.
+
+```
 
 https://block.xyz/inside/from-hierarchy-to-intelligence 
 
