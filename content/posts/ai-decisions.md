@@ -380,11 +380,21 @@ https://en.wikipedia.org/wiki/Lateral_thinking learn to cultivate and think late
 
 
 https://paulgraham.com/hamming.html 
+You should really read it, but I'll give you a summary from an LLM 
+because I'm not going to expend effort restate my whole thesis from idea alpha
+article which makes very similar points:
+
+Hamming argues that doing great work is mostly a matter of deliberately choosing 
+important problems, arranging your life so you can focus intensely on them, 
+and persistently improving how you work rather than blaming luck or circumstances. 
+In practice, this means regularly asking yourself what the most important 
+problems in your field are, why you are not working on one of them, and then 
+adjusting your habits, environment, and collaborations so that you are.
+
 
 https://joelonsdale.com/lessons-peter-thiel/
 summarized by perplexity (probably sonar)
 
-```
 # Nine Lessons from Peter Thiel
 1. Divide your reasoning into clear parts and identify the single most important factor that justifies the decision.
 2. Focus your attention on one main thing because concentrated effort generates increasing returns compared to spreading yourself thin.
@@ -396,7 +406,6 @@ summarized by perplexity (probably sonar)
 8. Use skepticism about value and incentives to force real tests—like getting others to pay—to prove something actually works.
 9. Remember that only your own execution ultimately makes you win, so prioritize actions that move the needle in reality, not on paper.
 
-```
 
 https://block.xyz/inside/from-hierarchy-to-intelligence 
 
