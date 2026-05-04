@@ -10,3 +10,6 @@ hugo.exe
 # local dev script and output for WSL2
 serve.sh
 /serve/
+
+# Windows NTFS alternate data streams (WSL2 artifact)
+*:Zone.Identifier
