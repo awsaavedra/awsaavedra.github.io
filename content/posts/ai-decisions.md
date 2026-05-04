@@ -1,7 +1,7 @@
 ---
 title: "Depth of Decisions"
-date: 2026-05-03T18:31:42-07:00
-lastmod: 2026-05-03T18:31:42-07:00
+date: 2026-05-04T18:31:42-07:00
+lastmod: 2026-05-04T18:31:42-07:00
 author: Alexander Saavedra
 tags: [ai, philosophy, productivity]
 draft: true
@@ -11,6 +11,27 @@ math: false  # set to true to load KaTeX on this page
 disableToC: false
 disableAutoCollapse: true
 ---
+
+**Sections:** 
+[Introduction](#introduction) 
+· [Thesis](#thesis) 
+· [Background](#background-follow-up-to-ai-workflows-article-reasons) 
+· [High Level Solution](#the-high-level-solution) 
+· [Mind Enhancement](#mind-enhancement) 
+· [Rock Solid Automation](#rely-on-rock-solid-automation) 
+· [First Principles](#first-principles) 
+· [Learn](#learn-learn-learn) 
+· [Computational Irreducibility](#the-computational-irreducibility-problem) 
+· [Perspective](#perspective-and-viewpoint) 
+· [Insight](#insight-divine-revelation) 
+· [Algorithms](#algorithms-are-optimal-but-not-always-right) 
+· [The Jungles](#the-jungles) 
+· [Argumentation](#argumentation-and-debate-skills) 
+· [Opposing Solutionism](#opposing-solutionism) 
+· [Optimal Skepticism](#optimal-skepticism) 
+· [AI Workflows](#first-principles-workflows-with-ai) 
+· [Good Decisions](#good-decisions-take-time) 
+· [Conclusion](#conclusion)
 
 # Introduction
 
@@ -64,21 +85,21 @@ The Parable of the Whispering Earring by Scott Alexander
 
 ## Thesis
 The central thesis of this post is that we must not let our reach exceed our 
-grasp for long least we lose control.
+grasp for long least we lose understanding and control.
 > "Machines can make decisions. Only people can choose."
 ~ The Irrational Decision, Ben Recht
 
-[mickey-takes-hat.gif]
+![mickey takes hat](/ai-decisions/mickey-takes-hat.gif)
 
-We must design and create some decisions frameworks to handle these powerful 
+We must design and create decision frameworks to handle these powerful 
 creations without seeding agency away or letting our minds atrophy severely. 
 
 How? In this article I will define some strategies and principles to do some 
-with some background here. This is by no means completely comprehensive.
+with some background here. This is not comprehensive.
 
 # Background: Follow up to AI workflows article reasons
 
-The [insert ai-workflows internal link] contains an unresolved tension between two quotes:                                                                        
+The [AI Workflows](/posts/ai-workflows/) article contains an unresolved tension between two quotes:                                                                        
 > “There’s a lesson in that too. What do such machines really do? They increase 
 > the number of things we can do without thinking. Things we do without thinking, there’s the real danger.” 
 ~ God Emperor of Dune                                                                                                                                             
@@ -95,42 +116,68 @@ Seeding decision making to machines may mean seeding accountability as well and
 what then? How can we hold machines accountability without legal rights? I 
 don't know.
 
-When our reach exceeds our grasp we lose control and agency rapidly here.
+When our reach exceeds our grasp we lose control and a loss of agency 
+slips us into learned helplessness. High agency is key here.
 
-# The problem
-
-We are now becoming increasingly reliant on these creation yet we don't fully 
-know how to mitigate the lack of thinking and side effects.
+# The high level solution
 
 This is not a new problem, people frequently "calculate too much and think too little" 
 as Charlie Munger used to say. Thinking deeply, broadly, and for long periods 
 of time is both difficult, boring, and tedious.
 
-# The high level solution
+What's the opposite of the cognitive miser? A cognitive miser is someone who 
+uses heuristics, short cuts,and generally second hand thinking to first principles 
+thinking? A first rate thinker is someone who can separate form and substance of 
+decisions. Engages in strong understanding of multiple positions and explores 
+understand with a fine tooth combwith an ever present awareness of their epistemic 
+humility. The goal is simulating another mind or simulate enough of the environment 
+in which you're trying to understanding in high enough fidelity with a grasp 
+of the relevant variables in that system.
 
-What's the opposite of the cognitive miser? Someone who uses heuristics, short cuts,
-and generally second hand thinking to first principles thinking? This is a first 
-rate thinker whose can separate form and substance of decisions. Engages in strong
-understanding of multiple positions and explores understand with a fine tooth comb
-with an ever present awareness of their epistemic humility. The goal is simulating 
-another mind or simulate enough of the environment in which you're trying to 
-understanding in high enough fidelity with a grasp of the relevant variables in 
-that system.
-
-How? To do this you must be able to hold an entire compressed universe in your mind. 
+To do this you must be able to hold an entire compressed universe in your mind. 
 You must be able to simulate the mind or environmental state at different depths 
-of accuracy. A full deep equality of a mind is to know that mind would change both past, present, 
-and future over time.
+of accuracy. A full deep equality of a mind is to know how that mind would change 
+both past, present, and future over time.
 
-# Planning and specifications
+## Planning and specifications
 
 Proper planning and sifting over things will get you very far since the search 
-space is now more focused on what to build, taste, etc. Your reads increase and your writing will decrease.
+space is now more focused on what to build, proper taste, etc. 
+Your reads increase and your writing will decrease.
 
 Plan -> Ship, as Garry Tan highlights [here](https://x.com/garrytan/status/2046282988854690099?s=20)
 
 > "Much of the essence of building a program is in fact the debugging of the specification." 
 ~ Fred Brooks
+You must debug the spefication which requires.
+
+## Algorithm for creation
+
+This is primarily an algorithm for engineering, but it could equally apply
+to business, startups, or other parts of your life. It's Elon Musk's Algorithm
+and I always give attribution when possible.
+
+1. **Challenge every requirement first.** Ask why a rule, step, or standard exists, and who actually decided it, because many requirements were created for outdated or weak reasons.
+
+2. **Remove anything you can.** Cut parts, steps, or processes aggressively, even if you may need to restore some later; if you never add anything back, you probably did not cut enough.
+
+3. **Simplify only what survives.** Once unnecessary work is gone, make the remaining process clearer and more efficient instead of polishing something that never should have existed.
+
+4. **Speed up the workflow.** After the right process is in place, reduce delays and shorten cycle times so the work moves faster from start to finish.
+
+5. **Automate last.** Only automate after you have questioned, removed, simplified, and accelerated the process, so you do not waste effort automating flawed or unnecessary work.
+
+## Auditable at all levels?
+
+Your reasoning supply chain, requirements, etc. should be auditable at every level.
+Any design decisions should be as well. The extreme form of this 
+is the Feynman Quote "I don't trust the experts, I calculate everything myself."
+Programming languages like Python notebooks allow you to both pull down
+all data, reproduce findings, etc. at every level. This concept applies to 
+design, engineering, and business decisions. However, I will afford a caveat:
+one major things I have noticed is the "invent and wander" mindset of numerous 
+innovators which is the things that resist operationalization and greedy reduction.
+More on this later.
 
 # Mind Enhancement 
 
@@ -150,6 +197,31 @@ Peter Diamandis's and Steven Kotler's  We are as Gods
 9. **Thou shalt honor serendipity and chaos.** Don’t let Al’s predictive patterns strip your work of surprise, randomness, and the unexpected. Novelty is the seed kernel of creativity. We need the unexpected to drive the brain into new directions; it’s the basis of all innovation.
 10. **Thou shalt remain the master, not the servant**. AI is a choice. We can choose to unplug it whenever we want.
 
+## Practical Distillation of Ideas: Mountain, Monastery, Metropolis
+In this [Complexity Podcast: David Krakauer on The Landscape of 21st Century Science](https://complexity.simplecast.com/episodes/1/transcript)
+they cover 3 major concepts:
+![Mountain, Monastery, Metropolis](/ai-decisions/cone-mountain-monastery-met.png)
+
+1. Mountain 
+"You need solitude to maximize the entrop rate, maximize the exploratory side of creativity"
+The mountain is the place of solitude, chaos, and exploratory greenlight thinking happens.
+All ideas should be agreed to be entertained no matter how different from what 
+you're used to. No judgement should be passed yet.
+
+2. Monastery
+"subject those ideas, most of which are probably insane[ly awesome], to the rigors 
+of your community who are on your side [...] there are things you'll learn on a 
+monastery in the high mountain, through community, that you couldn't learn in the other two cases."
+
+Exposing ideas to a good faith, rigorous community of like minded folks is important.
+Ideas need to grow.
+
+3. Metropolis
+Polishing stage. "having tested them, bring them to the world in the metropolis [...]
+[in contrast to the mountain] there are things you'll learn walking across a street
+in NYC that you won't learn on a mountain." Which is to say all three places 
+have their use for coming up with, testing, and subjecting those ideas to different
+levels.
 
 # Rely on Rock Solid Automation
 
@@ -212,11 +284,11 @@ deep webs of knowledge and information retention.
 
 # The Computational Irreducibility Problem
 For the post-quantitative individual they know this concept well
-[insert inline link to post-quantative article subsection] but some things 
+([models article](/posts/models/#precurrentpost-modelers)) but some things 
 resist being turned into equations. Some can be estimated, some cannot, but 
 exploring the computational landscape first must be done.
 
-# Divine Madness
+# Perspective and viewpoint
 
 > “When you change the way you look at things, the things you look at change.” 
 ~ Max Planck 
@@ -228,8 +300,9 @@ due to social media. People are clustering and radicalizing now more than ever.
 Radicalization is both a problem of extreme clustering and momentum in a certain 
 ideological direction.
 
-Short attention spans decrease variety but so does reasoning with LLMs without proper “gut seeds" of variety.
-We need to continue to maintain, ideally grow, the ecology of present and possible minds.
+Short attention spans decrease variety but so does reasoning with LLMs without 
+proper “gut seeds" of variety. We need to continue to maintain, ideally grow, 
+the ecology of present and possible minds.
 
 Cognitive diversity creates hybrid vigor and so too group immunity to bad ideas. 
 Ideological immune systems are paramount for free thinking and creativity.
@@ -238,19 +311,25 @@ This is a point about culture within organization but also to make good decision
 we need to know the true menu of possibilities not just the restricted one by
 the fashions of the time.
 
-# Divine Revelation 
+Looking across time periods, cultures, and subgroups like ethnographers has
+been one of the most valuable skills focused on.
+
+# Insight: Divine Revelation 
 
 [David Bowie on the internet being an organism](https://www.youtube.com/watch?v=LaHcOs7mhfU)
-
-One other example I remember sticking out to me is that Stephen Hawking 
-while giving his first lecture of the concept of a blackhole
-only got one person in the person to understand the idea. He stated, and I am
-paraphrasing "only one person truly understood the implications of what I was saying"
-and this was a room of some of the greatest physicists in the world.
+David Bowie predicted the internet would completely transform society, he 
+explicitly denied it as a tool. He described it as an alien life form. Artists 
+and entrepeneurs have a major thing in common: extremely high openness which
+sometimes leads to extreme prescience and insight. They both have to swing for
+the fences or they're not going to make it under certain conditions.
 
 # Algorithms are optimal, but not always right
 
->"Algorithmic decision making is always going to have the evidence on its side. Because once you have put the problem in terms of the kinds of things which can be measured and defined a specific success metric — once there is any standard of evidence with which to judge the results — then 'optimisation' means what it says. Anything you do differently from the output of an optimiser is … suboptimal."
+>"Algorithmic decision making is always going to have the evidence on its side. 
+> Because once you have put the problem in terms of the kinds of things which 
+> can be measured and defined a specific success metric — once there is any 
+> standard of evidence with which to judge the results — then 'optimisation' 
+> means what it says. Anything you do differently from the output of an optimiser is … suboptimal."
 ~ The Irrational Decision, Ben Recht
 
 It's a tautology, but the level of confusion about this fact is ridiculous 
@@ -274,11 +353,11 @@ to you to consider other possibilities here:
 
 # The Jungles
 
-[insert rare problems image]
+![rare problems](/ai-decisions/rare-problems.jpg)
+[source](https://x.com/testingham/status/2046249838313099670?s=20)
 
 All the high value stuff are either are the periphery of the known or the 
-tip of taboo. I covered this more extensively in [insert inline link to 
-seeking idea alpha]
+tip of taboo. I covered this more extensively in [Seeking Idea Alpha](/posts/idea-alpha/)
 
 # Argumentation and Debate Skills
 
@@ -289,13 +368,21 @@ probably highly useful here as well for value for a company.
 
 I even created these already [here](https://github.com/awsaavedra/configs/blob/main/.ai-instructions/README.md)
 
-# Opposing Solutionism and Overengineering
+# Opposing Solutionism 
+Solutionism is a broader concept than overengineering, which is just engineered
+system.
+Solutionism is the philosophy that gave us the smart fridge. It ignores the 
+tradeoff costs between complexity, long term maintenance, and comprehensibility 
+of the solution presented in the context of the whole system. 
+It would be the antonym to Occam’s razor for solutioning.
 
-Solutionism is the philosophy that gave us the smart fridge. It ignores the tradeoff costs between complexity, long term maintenance, and comprehensibility of the solution presented in the context of the whole system. It would be the antonym to Occam’s razor for solutioning.
+I prefer the Russian mentality to engineering: low technology, high concept. 
+During the space race a team of American scientists working for a company spent 
+millions to invent the first pen that works in space. The Russians used a pencil.
 
-I prefer the Russian mentality to engineering: low technology, high concept. During the space race a team of American scientists working for a company spent millions to invent the first pen that works in space. The Russians used a pencil.
-
-Instead of solutionism go with the compressed philosophy of “Thoughts from a Philosophical Fighter Pilot: think deeply, simply, and thoroughly about problems in between trying things out for the optimal result.
+Instead of solutionism go with the compressed philosophy of “Thoughts from a 
+Philosophical Fighter Pilot: think deeply, simply, and thoroughly about problems 
+in between trying things out for the optimal result.
 
 > “The cost of a thing is the amount of what I will call life which is required 
 > to be exchanged for it, immediately or in the long run.”
@@ -328,7 +415,7 @@ items, ingredients, orders, and availability of options.
 Increasing optionality increases vigor by variety of choice.
 
 # Good Decisions Take Time
-[insert image of mining for diamonds]
+![mining for diamonds](/ai-decisions/mining-diamonds.png)
 
 To find great insights that need to get implemented takes time actively working 
 and chewing on the problem. Deep decisions require deep focus.
@@ -360,8 +447,10 @@ they will lead to abundance or potential ruin.
 If we cannot use them effectively then we need to either seed control to others
 thus losing our own agency or stall the magic before it gets out of our control.
 
+In short, we must be the most mature version of ourselves because no one is coming
+to save us.
 
-[mickey gives hat back insert gif]
+![mickey gives hat back](/ai-decisions/mickey-gives-hat-back.gif)
 
 
 # Additional resources
@@ -370,7 +459,6 @@ thus losing our own agency or stall the magic before it gets out of our control.
 
 
 https://calnewport.com/in-defense-of-thinking-2/ 
-Use for depth of decisions article
 
 https://en.wikipedia.org/wiki/Lateral_thinking learn to cultivate and think laterally
 
@@ -406,6 +494,23 @@ summarized by perplexity (probably sonar)
 8. Use skepticism about value and incentives to force real tests—like getting others to pay—to prove something actually works.
 9. Remember that only your own execution ultimately makes you win, so prioritize actions that move the needle in reality, not on paper.
 
+Quote from Pope Leo XIV
+```
+When simulation becomes the norm, it
+weakens the human capacity for
+discernment. As a result, our social bonds
+close in upon themselves, forming self-
+referential circuits that no longer expose us
+to reality. We thus come to live within
+bubbles, impermeable to one another.
+Feeling threatened by anyone who is
+different, we grow unaccustomed to
+encounter and dialogue. In this way,
+polarization, conflict, fear and violence
+spread. What is at stake is not merely the
+risk of error, but a transformation in our very
+relationship with truth.
+```
 
 https://block.xyz/inside/from-hierarchy-to-intelligence 
 
@@ -425,6 +530,5 @@ https://blog.cosmos-institute.org/p/the-last-temptation-of-claude
 My basic model of capabilities: LLMs are good at problems similar to those that appear in their training data. 
 Training data largely reflects the world, and so LLMs are relatively good at problems that are common, relatively bad at problems that are rare.
 
-[screenshot of graph goes here]
 [source](https://x.com/testingham/status/2046249838313099670?s=20)
 

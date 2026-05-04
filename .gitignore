@@ -6,3 +6,7 @@
 
 # executable may be added to repository
 hugo.exe
+
+# local dev script and output for WSL2
+serve.sh
+/serve/
