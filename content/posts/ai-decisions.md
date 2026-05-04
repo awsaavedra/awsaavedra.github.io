@@ -200,7 +200,7 @@ Peter Diamandis's and Steven Kotler's  We are as Gods
 ## Practical Distillation of Ideas: Mountain, Monastery, Metropolis
 In this [Complexity Podcast: David Krakauer on The Landscape of 21st Century Science](https://complexity.simplecast.com/episodes/1/transcript)
 they cover 3 major concepts:
-![Mountain, Monastery, Metropolis](/ai-decisions/cone-mountain-monastery-met.png)
+![Mountain, Monastery, Metropolis](/ai-decisions/cone-mountain-monastery-met.webp)
 
 1. Mountain 
 "You need solitude to maximize the entrop rate, maximize the exploratory side of creativity"
@@ -353,7 +353,7 @@ to you to consider other possibilities here:
 
 # The Jungles
 
-![rare problems](/ai-decisions/rare-problems.jpg)
+![rare problems](/ai-decisions/rare-problems.webp)
 [source](https://x.com/testingham/status/2046249838313099670?s=20)
 
 All the high value stuff are either are the periphery of the known or the 
@@ -415,7 +415,7 @@ items, ingredients, orders, and availability of options.
 Increasing optionality increases vigor by variety of choice.
 
 # Good Decisions Take Time
-![mining for diamonds](/ai-decisions/mining-diamonds.png)
+![mining for diamonds](/ai-decisions/mining-diamonds.webp)
 
 To find great insights that need to get implemented takes time actively working 
 and chewing on the problem. Deep decisions require deep focus.
