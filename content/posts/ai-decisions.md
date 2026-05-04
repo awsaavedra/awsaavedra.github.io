@@ -1,10 +1,10 @@
 ---
 title: "Depth of Decisions"
-date: 2026-05-04T18:31:42-07:00
-lastmod: 2026-05-04T18:31:42-07:00
+date: 2026-05-04T09:00:00-07:00
+lastmod: 2026-05-04T09:00:00-07:00
 author: Alexander Saavedra
 tags: [ai, philosophy, productivity]
-draft: true
+draft: false
 enableDisqus: true
 enableMathJax: false
 math: false  # set to true to load KaTeX on this page
@@ -52,10 +52,8 @@ The Parable of the Whispering Earring by Scott Alexander
 >
 >It is not a taskmaster, telling you what to do in order to achieve some foreign goal. It
 >always tells you what will make you happiest. If it would make you happiest to
->succeed at your work, it will tell you how best to complete it. If it would make you
->happiest to do a half-assed job at your work and then go home and spend the rest of
->the day in bed having vague sexual fantasies, the earring will tell you to do that. The
->earring is never wrong.
+>succeed at your work, it will tell you how best to complete it. [...] 
+> The earring is never wrong.
 >
 >The Book of Dark Waves gives the histories of two hundred seventy four people who
 >previously wore the Whispering Earring. There are no recorded cases of a wearer
