@@ -453,6 +453,11 @@ to save us.
 
 # Additional resources
 
+[Your attempt to solve debate will not work](https://www.astralcodexten.com/p/your-attempt-to-solve-debate-will)
+Seriously, as someone whose well versed with argumentation and debate it's
+hilarious how bad it is. The people that naively believe it's the bedrock of 
+being objectively correct are usually glib, ignorant, or something more hopeless.
+
 [People who send me AI slop are either dumb or lazy](https://open.spotify.com/episode/1pV3rQS5SXItADmj5njjZy?si=SrsGdX58QHyNo5vEyRCDoQ )
 
 
