@@ -270,7 +270,7 @@ the project goal, the task description, and the individual prompt.
 
 **5. Some things still require a human hand.**
 
-![Blinds](/ai-workflows/blinds.gif)
+![Blinds](/ai-workflows/blinds.webp)
 
 Certain things will still need to be hand crafted or done.
 I have found this especially true for generating images, I still use low level 

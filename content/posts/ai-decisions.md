@@ -87,7 +87,7 @@ grasp for long least we lose understanding and control.
 > "Machines can make decisions. Only people can choose."
 ~ The Irrational Decision, Ben Recht
 
-![mickey takes hat](/ai-decisions/mickey-takes-hat.gif)
+![mickey takes hat](/ai-decisions/mickey-takes-hat.webp)
 
 We must design and create decision frameworks to handle these powerful 
 creations without seeding agency away or letting our minds atrophy severely. 
@@ -448,7 +448,7 @@ thus losing our own agency or stall the magic before it gets out of our control.
 In short, we must be the most mature version of ourselves because no one is coming
 to save us.
 
-![mickey gives hat back](/ai-decisions/mickey-gives-hat-back.gif)
+![mickey gives hat back](/ai-decisions/mickey-gives-hat-back.webp)
 
 
 # Additional resources
