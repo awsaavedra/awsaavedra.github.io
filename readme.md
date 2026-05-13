@@ -8,7 +8,8 @@ Live at: [awsaavedra.com](https://awsaavedra.com)
 
 ## Objective
 
-A fast, minimal, self-hosted personal site for publishing articles, documentation, projects, and notes. The design philosophy prioritizes simplicity: plain text where possible, no tracking, no heavy JavaScript, and full ownership of content and subscriber data.
+A fast, minimal, self-hosted personal site for publishing articles, documentation, projects, and notes. 
+The design philosophy prioritizes simplicity: plain text where possible, no tracking, ejectable from anywhere, no JavaScript ever, and full ownership of content and subscriber data.
 
 ---
 

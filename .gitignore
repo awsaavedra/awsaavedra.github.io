@@ -13,3 +13,6 @@ serve.sh
 
 # Windows NTFS alternate data streams (WSL2 artifact)
 *:Zone.Identifier
+
+# Hugo themes (managed as submodules or external dependencies)
+themes/*
