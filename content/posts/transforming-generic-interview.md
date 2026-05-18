@@ -85,4 +85,4 @@ Have questions ready, I think a good rule of thumb is 7 to 10 go to questions ab
 
 ## 8. What questions do you have for me…[come up with questions]?
 
-About the product itself, the culture from their vantage point, how your day to day experience will start and evolve over the following months. [A nice list is here](http://www.inc.com/jeff-haden/5-questions-great-job-candidates-ask-interviewers.html) or [here](http://mashable.com/2014/06/09/job-interview-questions/#McrSg9KSH5qs).
+About the product itself, the culture from their vantage point, how your day to day experience will start and evolve over the following months. [A nice list is here](https://www.inc.com/jeff-haden/5-questions-great-job-candidates-ask-interviewers.html) or [here](https://mashable.com/2014/06/09/job-interview-questions/#McrSg9KSH5qs).
