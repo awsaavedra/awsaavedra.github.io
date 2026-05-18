@@ -67,12 +67,12 @@ Typical order of maxing out tax-sheltered accounts:
 3. Traditional IRA, or Roth IRA if income is too high
 4. After-Tax Contributions to 401k if possible, [direct rollover to Roth afterward](https://www.madfientist.com/after-tax-contributions/)
 
-[The Guinea Pig Strategy](http://www.madfientist.com/guinea-pig-experiment/)
+[The Guinea Pig Strategy](https://www.madfientist.com/guinea-pig-experiment/)
 
 [Traditional IRA > Roth](https://www.madfientist.com/traditional-ira-vs-roth-ira/)
 
 
-REMEMBER [Front-loading](http://www.madfientist.com/front-loading/) or, if you’re able to handle spiciness, mega front-loading with [credit card arbitrage](https://www.investopedia.com/terms/c/credit-card-arbitrage.asp)
+REMEMBER [Front-loading](https://www.madfientist.com/front-loading/) or, if you’re able to handle spiciness, mega front-loading with [credit card arbitrage](https://www.investopedia.com/terms/c/credit-card-arbitrage.asp)
 
 
 **NOTES**:
@@ -333,5 +333,5 @@ Big ways to save on items you enjoy
 
 
 [Ways to save money, the basics](https://www.mrmoneymustache.com/2013/02/22/getting-rich-from-zero-to-hero-in-one-blog-post/)
-[ERE  25 Tips for Saving](http://earlyretirementextreme.com/my-list-of-25-money-saving-tips.html)
-[Helpful but a lot longer](http://earlyretirementextreme.com/wiki/index.php?title=21_Day_Makeover)
+[ERE  25 Tips for Saving](https://earlyretirementextreme.com/my-list-of-25-money-saving-tips.html)
+[Helpful but a lot longer](https://earlyretirementextreme.com/wiki/index.php?title=21_Day_Makeover)

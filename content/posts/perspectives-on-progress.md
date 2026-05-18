@@ -88,7 +88,7 @@ constantly struggle for more often forget the one thing they will never have is
 
 2. Superforecasting: The Art and Science of Prediction by Philip E. Tetlock and Dan Gardner
 
-3. [Myths and The Future](http://earlyretirementextreme.com/myths-andthe-future.html)
+3. [Myths and The Future](https://earlyretirementextreme.com/myths-andthe-future.html)
 
 4. Homo Deus: A Brief History of Tomorrow by Yuval Noah Harari
 

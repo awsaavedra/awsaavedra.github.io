@@ -77,8 +77,7 @@ My first piece of advice for those without the proper skills is "get them or
 find something else if it isn't within your capacity." 
 I don't believe in fake it until you make it, but I do believe in imposter syndrome.
 
-<a href="http://www.youtube.com/watch?v=teAvv6jnuXY
-" target="_blank"><img src="http://img.youtube.com/vi/teAvv6jnuXY/0.jpg" 
+<a href="https://www.youtube.com/watch?v=teAvv6jnuXY" target="_blank" rel="noopener noreferrer"><img src="https://img.youtube.com/vi/teAvv6jnuXY/0.jpg"
 alt="So Good They Can't Ignore You" width="240" height="180" border="2" /></a>
 Naval Ravikant said 
 "The world rewards you for creating things it doesn't know how to get for itself."

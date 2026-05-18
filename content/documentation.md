@@ -511,14 +511,14 @@ I wrote a lot of other information on my finance blog posts for you.
 12. https://1729.com/
 13. https://meltingasphalt.com/
 14. [https://slatestarcodex.com/](https://slatestarcodex.com/) > MOVED TO: https://astralcodexten.substack.com/
-16. [http://www.overcomingbias.com/](http://www.overcomingbias.com/)
+16. [https://www.overcomingbias.com/](https://www.overcomingbias.com/)
 17. https://www.lesswrong.com/ > https://wiki.lesswrong.com/wiki/LessWrong_HomePage_New
 18. [https://fs.blog/tgmm/](https://fs.blog/tgmm/)
 19. https://nickbostrom.com/
-20. [http://earlyretirementextreme.com/about-the-blog](http://earlyretirementextreme.com/about-the-blog)
+20. [https://earlyretirementextreme.com/about-the-blog](https://earlyretirementextreme.com/about-the-blog)
 21. [www.calnewport.com/blog](www.calnewport.com/blog/www.calnewport.com/blog/)
 22. http://daviddfriedman.com/ and https://daviddfriedman.substack.com/
-23. [http://sebastianmarshall.com/community/110017](http://sebastianmarshall.com/community/110017)
+23. [https://sebastianmarshall.com/community/110017](https://sebastianmarshall.com/community/110017)
 24. https://juliagalef.com/recent-posts/
 25. https://Gwern.net/
 26. https://patrickcollison.com/
