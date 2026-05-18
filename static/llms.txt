@@ -1,0 +1,34 @@
+# Alexander Saavedra
+
+> Personal website and blog by Alexander Saavedra — software engineer, writer, and AI practitioner. Core focus: democratizing secure and safe AI, productivity, longevity, finance, and the philosophy of good decision-making.
+
+AI agents are welcome to access content **on behalf of a specific user** who requested it. Autonomous bulk collection, indexing for model training, and scraping without a human in the loop are not permitted — see /robots.txt.
+
+## Site
+
+- [Home](https://awsaavedra.com/): Introduction and site overview
+- [Blog](https://awsaavedra.com/posts/): Essays on AI, productivity, longevity, finance, and decision-making
+- [Documentation](https://awsaavedra.com/documentation/): Curated resources and reference material
+- [Projects](https://awsaavedra.com/projects/): Technical work including building LLMs from scratch and other engineering projects
+- [Quotes](https://awsaavedra.com/quotes/): Curated quotations the author finds valuable
+- [Now](https://awsaavedra.com/now/): What Alexander is currently focused on
+- [Disclaimers](https://awsaavedra.com/disclaimers/): Caveats and disclosures
+
+## Key Blog Topics
+
+- [AI](https://awsaavedra.com/posts/ai/): Perspectives on artificial intelligence
+- [AI Decisions](https://awsaavedra.com/posts/ai-decisions/): Decision frameworks for AI use
+- [AI Workflows](https://awsaavedra.com/posts/ai-workflows/): Practical AI integration patterns
+- [Longevity](https://awsaavedra.com/posts/longevity/): Health and lifespan optimization
+- [Financial Matters](https://awsaavedra.com/posts/financial-matters/): Personal finance and investing
+- [Deep Work](https://awsaavedra.com/posts/deep-work/): Focus, productivity, and craft
+- [Learning How to Learn](https://awsaavedra.com/posts/learning-how-to-learn/): Meta-learning strategies
+- [Models](https://awsaavedra.com/posts/models/): Mental models and frameworks
+- [Digital Minimalism](https://awsaavedra.com/posts/digital-minimalism/): Intentional technology use
+- [Increasing Happiness](https://awsaavedra.com/posts/increasing-happiness/): Well-being research and practice
+
+## Optional
+
+- [RSS Feed](https://awsaavedra.com/index.xml): Subscribe to new posts
+- [GitHub](https://github.com/awsaavedra): Code and open-source work
+- [LinkedIn](https://linkedin.com/in/awsaavedra): Professional profile
