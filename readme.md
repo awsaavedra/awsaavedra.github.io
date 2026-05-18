@@ -146,6 +146,11 @@ Manage subscribers, send issues, and view analytics at [buttondown.com](https://
 - [x] AI crawler blocking (`robots.txt`, `noai` meta tag, `tdm-reservation`)
 - [x] Dependabot enabled for GitHub Actions (weekly SHA pinning) and theme submodule
 - [x] Minimal `permissions` blocks on all GitHub Actions workflows
+- [x] Hugo binary SHA256 checksum verified in CI before install
+
+### Accepted risks (single-author static site)
+- **`goldmark.renderer.unsafe = true`** — required for raw HTML in markdown (YouTube embeds, etc.). Would be an XSS vector if untrusted contributors were ever added.
+- **Link rot → domain hijacking** — outbound links to lapsed domains could be bought by bad actors. Audit periodically; no automated fix without a link-checker CI step.
 
 ### TODO (requires GitHub / Cloudflare / DNS dashboard)
 1. **Cloudflare — Response Header Transform Rule**: set `Strict-Transport-Security`, `X-Frame-Options`, `X-Content-Type-Options`, `Permissions-Policy`, `Cross-Origin-Opener-Policy`, `Cross-Origin-Embedder-Policy`, `Cross-Origin-Resource-Policy`, and production CSP (see corrected CSP in commit `8f2358a`)
