@@ -1,1 +1,1 @@
-See [ai-instructions.md](ai-instructions.md) for operating rules and engineering principles.
+See [.ai/rules.md](.ai/rules.md) for operating rules and engineering principles.
