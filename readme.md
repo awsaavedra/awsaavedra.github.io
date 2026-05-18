@@ -32,8 +32,7 @@ The site will be available at `http://localhost:1313`. The `-D` flag includes dr
 - **Minimal theme** — uses [hugo-bearblog](https://github.com/janraasch/hugo-bearblog), a bear-bones theme with no bloat. Customized via `layouts/` and `static/`.
 - **Server-side LaTeX** — math equations rendered at build time using Hugo's Goldmark passthrough extension. No MathJax JavaScript shipped to the browser. Enable per-post with `enableMathJax: true` in front matter.
 - **WebP image pipeline** — all images in `static/` are served as WebP. The `convert-images.py` script converts PNG/JPG/JPEG/GIF to WebP at quality 80, skipping animated GIFs and already-converted files.
-- **Newsletter (Derek Sivers style)** — plain-text email notifications sent via Python scripts and an SMTP relay. No fancy templates, no tracking pixels, no third-party marketing platforms. Subscribers stored in a plain text file under your control.
-- **Netlify Forms** — subscription form in the footer uses a math challenge for bot prevention. Submissions are reviewed manually before adding anyone to the list.
+- **Newsletter** — subscribers managed via [Buttondown](https://buttondown.com). Footer embed form posts directly to Buttondown's API. Double opt-in enabled by default; honeypot field provides basic bot mitigation.
 - **Reading time** — enabled globally via `enableReadingTime = true` in `config.toml`.
 - **Syntax highlighting** — Dracula theme, rendered server-side (no client-side highlight.js).
 - **Privacy-first** — no analytics, no tracking pixels, no ads.
@@ -77,8 +76,7 @@ awsaavedra.github.io/
 | Theme | [hugo-bearblog](https://github.com/janraasch/hugo-bearblog) |
 | Hosting | GitHub Pages |
 | CI/CD | GitHub Actions |
-| Forms | Netlify Forms |
-| Email / Newsletter | Python + SMTP relay (smtp2go.com or similar) |
+| Newsletter | [Buttondown](https://buttondown.com) |
 | Image format | WebP (converted via Pillow) |
 | Math rendering | Goldmark passthrough + KaTeX (server-side) |
 
@@ -124,76 +122,13 @@ python3 convert-images.py --dry-run
 python3 convert-images.py
 ```
 
-### Newsletter scripts (in `newsletter/`)
+### Newsletter (Buttondown)
 
-Plain-text subscriber management and email sending. No database required.
+Subscribers are managed via Buttondown. The footer form posts directly to Buttondown's embed API endpoint. Double opt-in is enabled by default — subscribers must confirm via email before they are activated.
 
-**SMTP configuration** — set environment variables before sending:
+Manage subscribers, send issues, and view analytics at [buttondown.com](https://buttondown.com).
 
-```bash
-export SMTP_HOST="smtp2go.com"
-export SMTP_PORT="2525"
-export SMTP_USERNAME="your_username"
-export SMTP_PASSWORD="your_password"
-export FROM_EMAIL="your@email.com"
-export FROM_NAME="Alexander Saavedra"
-```
-
-**Manage subscribers:**
-
-```bash
-# Add a confirmed subscriber
-python newsletter/manage-subscribers.py add john@example.com
-
-# Remove a subscriber
-python newsletter/manage-subscribers.py remove john@example.com
-
-# List all subscribers
-python newsletter/manage-subscribers.py list
-
-# Export to CSV (for Listmonk import)
-python newsletter/manage-subscribers.py export subscribers.csv
-```
-
-Subscribers are stored in `newsletter/subscribers.txt` (one email per line).
-
-**Send a newsletter:**
-
-Create a plain-text message file, e.g. `new-article.txt`:
-
-```
-Subject: New article: My Post Title
-
-Hi there,
-
-I just published a new article about [topic].
-
-Read it here: https://awsaavedra.com/posts/my-post-title/
-
-- Alex
-```
-
-```bash
-# Dry run — preview output without sending
-python newsletter/send-newsletter.py new-article.txt --dry-run
-
-# Send to all subscribers
-python newsletter/send-newsletter.py new-article.txt
-```
-
-**Export for Listmonk** (optional, for advanced sending features):
-
-```bash
-python newsletter/export-to-listmonk.py
-# Then import the generated CSV via Listmonk admin → Subscribers → Import
-```
-
-### Subscriber workflow (double opt-in)
-
-1. User submits the footer form → Netlify sends you a notification.
-2. Send a personal welcome email and wait for a reply to confirm.
-3. Add the confirmed address: `python newsletter/manage-subscribers.py add email@example.com`
-4. When a new article publishes, draft a message file and run `send-newsletter.py`.
+**Note:** `security.txt` expires annually — update `Expires` in `static/.well-known/security.txt` each year.
 
 ---
 
