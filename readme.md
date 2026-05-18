@@ -209,8 +209,10 @@ python newsletter/export-to-listmonk.py
 - [x] Local dev server security headers (`hugo server` mirrors production)
 - [x] `static/.well-known/security.txt`
 - [x] AI crawler blocking (`robots.txt`, `noai` meta tag, `tdm-reservation`)
+- [x] Dependabot enabled for GitHub Actions (weekly SHA pinning) and theme submodule
+- [x] Minimal `permissions` blocks on all GitHub Actions workflows
 
-### TODO (requires Cloudflare / DNS dashboard)
+### TODO (requires GitHub / Cloudflare / DNS dashboard)
 1. **Cloudflare — Response Header Transform Rule**: set `Strict-Transport-Security`, `X-Frame-Options`, `X-Content-Type-Options`, `Permissions-Policy`, `Cross-Origin-Opener-Policy`, `Cross-Origin-Embedder-Policy`, `Cross-Origin-Resource-Policy`, and production CSP (see corrected CSP in commit `8f2358a`)
 2. **Cloudflare — DNSSEC**: DNS → Settings → DNSSEC → Enable
 3. **Cloudflare — SSL mode**: SSL/TLS → Full (Strict); confirm GitHub Pages → Enforce HTTPS is checked
@@ -218,6 +220,8 @@ python newsletter/export-to-listmonk.py
 5. **DNS — SPF hard-fail**: update `awsaavedra.com` TXT record, change `~all` to `-all`
 6. **DNS — CAA records**: restrict certificate issuance to known CAs; add `iodef` alert address
 7. **HSTS Preload**: submit at `https://hstspreload.org` after Cloudflare HSTS header is confirmed live
+8. **GitHub — Branch protection**: Settings → Branches → require PR + review on `main`; prevent force-push
+9. **GitHub — Secret scanning**: Settings → Security → Secret scanning → Enable
 
 ---
 
