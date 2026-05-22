@@ -458,6 +458,9 @@ Seriously, as someone whose well versed with argumentation and debate it's
 hilarious how bad it is. The people that naively believe it's the bedrock of 
 being objectively correct are usually glib, ignorant, or something more hopeless.
 
+
+https://blog.cosmos-institute.org/p/are-you-a-philosophical-zombie-driven
+
 [People who send me AI slop are either dumb or lazy](https://open.spotify.com/episode/1pV3rQS5SXItADmj5njjZy?si=SrsGdX58QHyNo5vEyRCDoQ )
 
 
