@@ -5,7 +5,6 @@ author: Alexander Saavedra
 
 tags: [creativity, productivity]
 draft: false
-enableDisqus : true
 enableMathJax: false
 disableToC: false
 disableAutoCollapse: true

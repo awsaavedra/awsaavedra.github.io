@@ -5,7 +5,6 @@ author: Alexander Saavedra
 
 tags: [productivity, lifestyle, career]
 draft: false
-enableDisqus : true
 enableMathJax: false
 disableToC: false
 disableAutoCollapse: true

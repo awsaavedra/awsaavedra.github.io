@@ -1,5 +1,5 @@
 baseURL = "https://awsaavedra.com/"
-languageCode = "en"
+locale = "en"
 DefaultContentLanguage = "en"
 enableInlineShortcodes = true
 enableEmoji = true
@@ -31,7 +31,7 @@ enableRobotsTXT = true
       X-Frame-Options = "DENY"
       Referrer-Policy = "strict-origin-when-cross-origin"
       Permissions-Policy = "geolocation=(), microphone=(), camera=(), payment=(), usb=(), fullscreen=(self)"
-      Content-Security-Policy = "default-src 'self'; script-src 'self' 'unsafe-inline' https://cdn.jsdelivr.net; style-src 'self' 'unsafe-inline' https://cdn.jsdelivr.net; img-src 'self' https://img.youtube.com data:; font-src 'self'; form-action https://buttondown.com; object-src 'none'; base-uri 'self'; frame-ancestors 'none'"
+      Content-Security-Policy = "default-src 'self'; script-src 'self' 'unsafe-inline' https://cdn.jsdelivr.net; style-src 'self' 'unsafe-inline' https://cdn.jsdelivr.net; img-src 'self' https://img.youtube.com data:; font-src 'self'; frame-src https://www.youtube.com https://www.youtube-nocookie.com; form-action https://buttondown.com; object-src 'none'; base-uri 'self'; frame-ancestors 'none'"
 
 [menu]
   # [[menu.main]]
@@ -111,6 +111,10 @@ tag = "tags"
     startLevel = 2
     endLevel = 6
     ordered = false
+
+[privacy]
+  [privacy.youtube]
+    privacyEnhanced = true
 
 [security]
   enableInlineShortcodes = false

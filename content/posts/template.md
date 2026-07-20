@@ -7,7 +7,6 @@ author: Alexander Saavedra
 categories: [Hugo]
 tags: [blank]
 draft: true
-enableDisqus : true
 enableMathJax: false
 disableToC: false
 disableAutoCollapse: true

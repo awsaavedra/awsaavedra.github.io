@@ -1,3 +1,22 @@
+# Skills
+
+Drop into any AI tool's skills dir. Writing cluster + dependencies for a Hugo blog.
+
+| Skill | Trigger | Purpose |
+|---|---|---|
+| [`writing`](skills/writing/SKILL.md) | `/writing` · "edit my writing" · "proofread this" | Type-first prose craft — thesis, structure, sentences, revision protocol |
+| [`writing-draft`](skills/writing-draft/SKILL.md) | `/writing-draft` · "here's my outline" · "trim this draft" | Author-first loop: outline → angles → expand/trim → hand off |
+| [`writing-ship`](skills/writing-ship/SKILL.md) | `/writing-ship` · "is this post ready" | Blocking publish gate: substance → craft → adversarial → clarity → rights → privacy → mechanics |
+| [`research`](skills/research/SKILL.md) | "research" · "compare" · "literature review" | Multi-source web research, cross-validated citations, named gaps |
+| [`argumentation`](skills/argumentation/SKILL.md) | `/steelyman` · "you sure?" · "tear this apart" | Argument hygiene, self-audit, adversarial review, double-crux |
+| [`diagnostic`](skills/diagnostic/SKILL.md) | `/pre-mortem` · `/feynman-test` · "what could go wrong" | Pre-mortem, five-whys, clarity audit, decision journal |
+| [`legal`](skills/legal/SKILL.md) | `/legal` · "disclaimer" · "no warranty" | Protective boilerplate — AS-IS, attribution, trademark |
+| [`privacy`](skills/privacy/SKILL.md) | `/privacy` · "is this PII" · "should this be public" | PII hygiene for public posts — never auto-fill personal identifiers |
+| [`communication`](skills/communication/SKILL.md) | `/communication` · "status update" · "draft an RFC" | BLUF short-form — one message, one ask, deadline + default |
+| [`planning`](skills/planning/SKILL.md) | `/planning` · "break this down" · "scope this" | Ambiguous goal → done-checks, milestones, NOT-doing list |
+
+---
+
 # Rules
 
 0. No internet without permission.

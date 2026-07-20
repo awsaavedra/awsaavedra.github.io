@@ -5,7 +5,6 @@ lastmod: 2026-04-11T00:00:00-08:00
 author: Alexander Saavedra
 tags: [learning, productivity]
 draft: false
-enableDisqus : true
 enableMathJax: false
 disableToC: false
 disableAutoCollapse: true

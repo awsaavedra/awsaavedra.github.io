@@ -5,7 +5,6 @@ lastmod: 2025-10-15T21:13:48-07:00
 author: Alexander Saavedra
 tags: [Philosophy, entrepeneurship]
 draft: false
-enableDisqus : true
 enableMathJax: false
 disableToC: false
 disableAutoCollapse: true

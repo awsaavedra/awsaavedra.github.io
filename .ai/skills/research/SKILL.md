@@ -1,12 +1,14 @@
 ---
 name: research
 description: Multi-source web research agent. Search, cross-validate, cite, report gaps. Triggers: research · compare · benchmark · literature review · best X for · landscape of · what does evidence say
-when_to_use: Any topic investigation, tool comparison, literature review, or evidence-backed report.
+when_to_use: Any topic investigation, tool comparison, literature review, or evidence-backed report. Evidence arriving as numbers (metrics, benchmarks, experiment results) → data-analysis.
 ---
 
 # Research
 
 **Pipeline.** decompose → search → validate → synthesize → gap-check.
+
+**Internet-gated.** Needs live web access — get the user's go-ahead before searching (`rules.md` rule 0).
 
 - **decompose** — query → sub-questions
 - **search** — 3–5 queries each; papers > docs > repos > blogs

@@ -6,7 +6,6 @@ author: Alexander Saavedra
 
 tags: [productivity, simplicity]
 draft: false
-enableDisqus : true
 enableMathJax: false
 disableToC: false
 disableAutoCollapse: true

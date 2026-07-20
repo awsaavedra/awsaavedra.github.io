@@ -5,7 +5,6 @@ lastmod: 2026-02-28T19:04:21-08:00
 author: Alexander Saavedra
 tags: [Math, Philosophy]
 draft: false
-enableDisqus: true
 enableMathJax: false
 disableToC: false
 disableAutoCollapse: true

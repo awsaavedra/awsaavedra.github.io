@@ -1,4 +1,4 @@
-Contact: mailto:security@awsaavedra.com
+Contact: https://github.com/awsaavedra/awsaavedra.github.io/issues
 Expires: 2027-05-31T00:00:00.000Z
 Canonical: https://awsaavedra.com/.well-known/security.txt
 Preferred-Languages: en

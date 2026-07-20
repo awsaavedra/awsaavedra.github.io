@@ -7,7 +7,6 @@ description:
 categories: []
 tags: []
 draft: false
-enableDisqus : true
 enableMathJax: false
 disableToC: false
 disableAutoCollapse: true

@@ -11,6 +11,8 @@ Live at: [awsaavedra.com](https://awsaavedra.com)
 A fast, minimal, self-hosted personal site for publishing articles, documentation, projects, and notes. 
 The design philosophy prioritizes simplicity: plain text where possible, no tracking, ejectable from anywhere, no JavaScript ever, and full ownership of content and subscriber data.
 
+This is a broadcasting site, not a collaboration space. Writing flows one way, outward. No comments, no accounts, nothing to tend. Just finished work, sent into the world.
+
 ---
 
 ## Quickstart
@@ -29,13 +31,13 @@ The site will be available at `http://localhost:1313`. The `-D` flag includes dr
 
 ## Features & Design
 
-- **Minimal theme** — uses [hugo-bearblog](https://github.com/janraasch/hugo-bearblog), a bear-bones theme with no bloat. Customized via `layouts/` and `static/`.
-- **Server-side LaTeX** — math equations rendered at build time using Hugo's Goldmark passthrough extension. No MathJax JavaScript shipped to the browser. Enable per-post with `enableMathJax: true` in front matter.
-- **WebP image pipeline** — all images in `static/` are served as WebP. The `convert-images.py` script converts PNG/JPG/JPEG/GIF to WebP at quality 80, skipping animated GIFs and already-converted files.
-- **Newsletter** — subscribers managed via [Buttondown](https://buttondown.com). Footer embed form posts directly to Buttondown's API. Double opt-in enabled by default; honeypot field provides basic bot mitigation.
-- **Reading time** — enabled globally via `enableReadingTime = true` in `config.toml`.
-- **Syntax highlighting** — Dracula theme, rendered server-side (no client-side highlight.js).
-- **Privacy-first** — no analytics, no tracking pixels, no ads.
+- **Minimal theme**: uses [hugo-bearblog](https://github.com/janraasch/hugo-bearblog), a bear-bones theme with no bloat. Customized via `layouts/` and `static/`.
+- **Server-side LaTeX**: math equations rendered at build time using Hugo's Goldmark passthrough extension. No MathJax JavaScript shipped to the browser. Enable per-post with `enableMathJax: true` in front matter.
+- **WebP image pipeline**: all images in `static/` are served as WebP. The `convert-images.py` script converts PNG/JPG/JPEG/GIF to WebP at quality 80, skipping animated GIFs and already-converted files.
+- **Newsletter**: subscribers managed via [Buttondown](https://buttondown.com). Footer embed form posts directly to Buttondown's API. Double opt-in enabled by default; honeypot field provides basic bot mitigation.
+- **Reading time**: enabled globally via `enableReadingTime = true` in `config.toml`.
+- **Syntax highlighting**: Dracula theme, rendered server-side (no client-side highlight.js).
+- **Privacy-first**: no analytics, no tracking pixels, no ads.
 
 ---
 
@@ -108,7 +110,7 @@ A convenience wrapper is also available:
 
 ## Scripts & Usage
 
-### `convert-images.py` — WebP image conversion
+### `convert-images.py`: WebP image conversion
 
 Converts PNG, JPG, JPEG, and static GIF files under `static/` to WebP (quality 80). Originals are deleted after successful conversion. Animated GIFs and already-converted files are skipped.
 
@@ -124,11 +126,11 @@ python3 convert-images.py
 
 ### Newsletter (Buttondown)
 
-Subscribers are managed via Buttondown. The footer form posts directly to Buttondown's embed API endpoint. Double opt-in is enabled by default — subscribers must confirm via email before they are activated.
+Subscribers are managed via Buttondown. The footer form posts directly to Buttondown's embed API endpoint. Double opt-in is enabled by default; subscribers must confirm via email before they are activated.
 
 Manage subscribers, send issues, and view analytics at [buttondown.com](https://buttondown.com).
 
-**Note:** `security.txt` expires annually — update `Expires` in `static/.well-known/security.txt` each year.
+**Note:** `security.txt` expires annually; update `Expires` in `static/.well-known/security.txt` each year.
 
 ---
 

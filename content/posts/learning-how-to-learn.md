@@ -5,7 +5,6 @@ author: Alexander Saavedra
 lastmod: 2018-01-26T10:13:38+08:00
 tags: [learning]
 draft: false
-enableDisqus : true
 enableMathJax: false
 disableToC: false
 disableAutoCollapse: true

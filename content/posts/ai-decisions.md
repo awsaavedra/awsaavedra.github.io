@@ -5,7 +5,6 @@ lastmod: 2026-05-04T09:00:00-07:00
 author: Alexander Saavedra
 tags: [ai, philosophy, productivity]
 draft: false
-enableDisqus: true
 enableMathJax: false
 math: false  # set to true to load KaTeX on this page
 disableToC: false

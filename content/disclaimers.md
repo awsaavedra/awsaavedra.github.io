@@ -73,3 +73,20 @@ This website is provided for educational and informational purposes only.
 While best efforts have been made to fact-check the content, readers should independently verify all data points and claims. Noting that the text may contain inaccuracies.
 
 </details>
+
+---
+
+## Privacy Notice
+
+<details>
+<summary><strong>What this site does with your data</strong></summary>
+
+This is a static site with no analytics, no ads, and no cookies of its own. Three things involve third parties:
+
+- **Hosting**: GitHub Pages serves the site and, like any host, may log IP addresses ([GitHub's Privacy Statement](https://docs.github.com/en/site-policy/privacy-policies/github-general-privacy-statement)).
+- **Embedded videos**: pages with a YouTube embed connect your browser to Google ([Google's Privacy Policy](https://policies.google.com/privacy)); other pages don't.
+- **Newsletter**: subscribing sends the email address you enter to [Buttondown](https://buttondown.com/legal/privacy); every email includes an unsubscribe link.
+
+Questions about data these services hold are best raised with them directly; see the linked policies. This site itself stores nothing about you.
+
+</details>

@@ -5,7 +5,6 @@ author: Alexander Saavedra
 
 tags: [learning, focus]
 draft: false
-enableDisqus : true
 enableMathJax: false
 disableToC: false
 disableAutoCollapse: true

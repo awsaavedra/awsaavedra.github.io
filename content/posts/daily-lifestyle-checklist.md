@@ -5,7 +5,6 @@ lastmod: 2025-01-24
 author: Alexander Saavedra
 tags: [health, longevity]
 draft: false
-enableDisqus : true
 enableMathJax: false
 disableToC: false
 disableAutoCollapse: true

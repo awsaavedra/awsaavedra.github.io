@@ -5,7 +5,6 @@ lastmod: 2026-03-29T21:15:31-07:00
 author: Alexander Saavedra
 tags: [philosophy, art, spirituality]
 draft: false
-enableDisqus: true
 enableMathJax: false
 math: false  # set to true to load KaTeX on this page
 disableToC: false

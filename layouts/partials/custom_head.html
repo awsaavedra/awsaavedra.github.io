@@ -5,7 +5,7 @@
 <!-- Stricter referrer policy: full URL same-origin, origin-only cross-origin, nothing on downgrade -->
 <meta name="referrer" content="strict-origin-when-cross-origin">
 <!-- CSP: restrict resource loading to known-good origins; upgrade-insecure-requests covers any remaining http:// links -->
-<meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self' 'unsafe-inline' https://cdn.jsdelivr.net; style-src 'self' 'unsafe-inline' https://cdn.jsdelivr.net; img-src 'self' https://img.youtube.com data:; font-src 'self'; form-action https://buttondown.com; object-src 'none'; base-uri 'self'; upgrade-insecure-requests">
+<meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self' 'unsafe-inline' https://cdn.jsdelivr.net; style-src 'self' 'unsafe-inline' https://cdn.jsdelivr.net; img-src 'self' https://img.youtube.com data:; font-src 'self'; frame-src https://www.youtube.com https://www.youtube-nocookie.com; form-action https://buttondown.com; object-src 'none'; base-uri 'self'; upgrade-insecure-requests">
 
 <link rel="preload" href="/fonts/Scriptin.woff2" as="font" type="font/woff2" crossorigin>
 <style>

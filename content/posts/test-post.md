@@ -5,7 +5,6 @@ lastmod: 2025-11-10T19:58:37-08:00
 author: Alexander Saavedra
 tags: ["math", "latex"]
 draft: true
-enableDisqus: false
 enableMathJax: false
 disableToC: false
 disableAutoCollapse: true

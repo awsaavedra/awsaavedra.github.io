@@ -7,7 +7,6 @@ author: Alexander Saavedra
 tags: [interviewing]
 
 draft: false
-enableDisqus : true
 enableMathJax: false
 disableToC: false
 disableAutoCollapse: true

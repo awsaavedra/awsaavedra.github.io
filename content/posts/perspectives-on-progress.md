@@ -6,7 +6,6 @@ lastmod: 2021-05-31
 
 tags: [forecasting, technology]
 draft: false
-enableDisqus : true
 enableMathJax: false
 disableToC: false
 disableAutoCollapse: true

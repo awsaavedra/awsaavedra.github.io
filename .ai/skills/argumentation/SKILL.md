@@ -1,11 +1,12 @@
 ---
 name: argumentation
 description: Four argumentation skills. /argumentation-hygiene (or "is this argument clean?", "what's that move where...") — audit arguments via good-faith principles, bad-faith taxonomy, self-audit checks. /you-sure (or "you sure?", "really?", "hold on") — self-audit a confident claim via ITT before doubling down. /steelyman (or "tear this apart", "devil's advocate", "poke holes") — consensual adversarial review of user's writing/code/plan/design. /double-crux (or "we disagree", "we're stuck", "let's find the actual disagreement") — symmetric disagreement where both sides name a crux. Tool-agnostic.
+when_to_use: Reasoning about contested claims, auditing an argument's honesty, stress-testing your own or the user's position, or locating the real point of a disagreement. Sub-skills self-trigger on the phrases above.
 ---
 
 # Argumentation Skills
 
-Four skills sharing core moves (ITT, cruxes, bet-grade confidence): rulebook, self-audit, adversarial challenge, symmetric disagreement.
+Four skills sharing core moves (ITT, cruxes, bet-grade confidence): hygiene = rulebook · you-sure = self-audit · steelyman = adversarial sparring · double-crux = symmetric disagreement.
 
 **Rhetoric vs. philosophy:** Rhetoric = persuasion. Philosophy = truth, then clarity. Sophistry = rhetoric masquerading as philosophy. These skills are philosophical. Test: *is this right?* not *does this sound right?* Constructing an argument you'd find persuasive but don't believe → stop; that's the failure mode these skills exist to prevent.
 
@@ -21,6 +22,7 @@ Rulebook for honest argument. Umbrella for the other three skills. Three parts: 
 ### Good-Faith Principles
 - **Spirit vs. letter.** Engage meaning, not just literal words.
 - **Charity.** Default to strongest plausible reading; name ambiguity when it's itself a tell.
+- **Hanlon's razor.** Error before malice — charity extended to motives, not just readings.
 - **Translation test.** Restate in different vocabulary — if you can only repeat exact words, you may be parroting.
 - **Cruxes.** Name what evidence would flip your position; without cruxes, no path to resolution.
 - **Bet-grade confidence.** "90% sure" = willing to take 9:1 odds.
@@ -42,7 +44,7 @@ Rulebook for honest argument. Umbrella for the other three skills. Three parts: 
 - **Whataboutism.** Deflect with unrelated issue. *Fix:* finish current argument first.
 - **No true Scotsman.** Definition tightens after evidence surfaces. *Fix:* define before evidence comes in.
 - **Goalpost shifting.** Change criteria after the fact. *Fix:* commit before the test.
-- **Burden-of-proof flipping.** Demand others disprove. *Fix:* claimant defends.
+- **Burden-of-proof flipping.** Demand others disprove. *Fix:* claimant defends — Hitchens's razor: asserted without evidence, dismissible without evidence.
 - **False dichotomy.** Two options when more exist. *Fix:* name the missing options.
 - **Gish gallop.** Many weak arguments faster than refutation. *Fix:* pick the strongest two; require defense.
 - **Galaxy-brained reasoning.** Plausible chain → wild conclusion. *Tell:* conclusion more surprising than any step warrants. *Fix:* trust the surprise; audit the chain.
@@ -64,8 +66,6 @@ Rulebook for honest argument. Umbrella for the other three skills. Three parts: 
 - **Team of Rivals:** embed disagreement structurally inside one decision system.
 
 ITT > steelman: requires understanding *why* a thoughtful person holds the view, not just that it has defensible form.
-
-**Skill map:** hygiene = rulebook · you-sure = self-audit · steelyman = sparring · double-crux = symmetric disagreement.
 
 **Prompt seed:** State the other side's position so they'd endorse it; name your crux; check whether your response engages substance or deflects.
 

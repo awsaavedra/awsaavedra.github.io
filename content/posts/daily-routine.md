@@ -5,7 +5,6 @@ lastmod: 2026-04-11T11:30:02-08:00
 author: Alexander Saavedra
 tags: [health, productivity]
 draft: false
-enableDisqus: false
 enableMathJax: false
 disableToC: false
 disableAutoCollapse: true
@@ -83,19 +82,24 @@ Focus on core work tasks without interruptions.
 <details>
 <summary><strong>12:00-12:30 | Lunch</strong></summary>
 **Eating Order:** Greens, Proteins, carbohydrates, then liquids (not too fast)
+
 **1. 🍜 Ramen:**
 - 🍜 Sun Ramen naked noodles, no sauces
 - 🍄 Mushrooms freshly cut: oyster and shiitake (sliced)
 - 🌿 Spices:
-  - 🫚 Cut fresh ginger root
-  - 🧄 Cut fresh 3 cloves of garlic
+  - 🫚 Frozen ginger root grated
+    - Peeled, then frozen ahead of time 
+  - 🧄 Garlic Confit, one (tea/table)spoon
+    - 3 garlic heads baked in oil 40 minutes and then stuck in fridge for that week only
   - 🧅 Cut fresh 1/4 onion
   - 🌿 Cumin by Simply Organic
   - 🌿 Black cumin by Simply Organic
   - 🌶️ Pepper + long pepper by Simply Organic
   - 🌿 Coriander by Simply Organic
 - 🫒 Cooking oil: avocado oil
-- 🍗 Protein: duck/chicken/tofu
+- Chicken stock + 50 percent boiled water from scratch put in after frying items above in oil
+  -  [recipe here](https://www.youtube.com/watch?v=3k20zFlbFfE)
+- 🍗 Protein: duck/chicken/tofu/none
 
 **2. 🍵 Tea:**
 - 🍵 Numi Organic Rooibos Chai. Drank throughout rest of day until ~17:00 when fasting starts

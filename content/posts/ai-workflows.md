@@ -5,7 +5,6 @@ lastmod: 2026-04-30T00:00:00-08:00
 author: Alexander Saavedra
 tags: [ai, software]
 draft: false
-enableDisqus: true
 enableMathJax: false
 math: false  # set to true to load KaTeX on this page
 disableToC: false

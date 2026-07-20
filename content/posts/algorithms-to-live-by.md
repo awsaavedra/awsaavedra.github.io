@@ -4,7 +4,6 @@ date: 2018-01-08
 author: Alexander Saavedra
 tags: [productivity, computer science]
 draft: false
-enableDisqus : true
 enableMathJax: false
 disableToC: false
 disableAutoCollapse: true
