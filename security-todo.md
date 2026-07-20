@@ -20,7 +20,7 @@
 - **`security.txt` expires annually**: update `Expires` in `static/.well-known/security.txt` each year.
 
 ## TODO (requires GitHub / Cloudflare / DNS dashboard)
-1. **Cloudflare - Response Header Transform Rule**: set `Strict-Transport-Security`, `X-Frame-Options`, `X-Content-Type-Options`, `Permissions-Policy`, `Cross-Origin-Opener-Policy`, `Cross-Origin-Embedder-Policy`, `Cross-Origin-Resource-Policy`, and production CSP (see corrected CSP in commit `8f2358a`)
+1. **Cloudflare - Response Header Transform Rule**: set `Strict-Transport-Security`, `X-Frame-Options`, `X-Content-Type-Options`, `Permissions-Policy`, `Cross-Origin-Opener-Policy`, `Cross-Origin-Embedder-Policy`, `Cross-Origin-Resource-Policy`, and production CSP (mirror `Content-Security-Policy` under `[server.headers]` in `config.toml`)
 2. **Cloudflare - DNSSEC**: DNS → Settings → DNSSEC → Enable
 3. **Cloudflare - SSL mode**: SSL/TLS → Full (Strict); confirm GitHub Pages → Enforce HTTPS is checked
 4. **DNS - DMARC**: add `_dmarc.awsaavedra.com` TXT record; start `p=none` to monitor, escalate to `p=quarantine` → `p=reject`
