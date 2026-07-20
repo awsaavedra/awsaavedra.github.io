@@ -74,7 +74,7 @@ awsaavedra.github.io/
 
 | Layer | Tool |
 |---|---|
-| Static site generator | [Hugo extended](https://gohugo.io/) v0.143.0 |
+| Static site generator | [Hugo extended](https://gohugo.io/) v0.161.1 |
 | Theme | [hugo-bearblog](https://github.com/janraasch/hugo-bearblog) |
 | Hosting | GitHub Pages |
 | CI/CD | GitHub Actions |

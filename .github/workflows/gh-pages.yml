@@ -38,8 +38,8 @@ jobs:
 
       - name: Setup Hugo
         env:
-          HUGO_VERSION: '0.143.0'
-          HUGO_SHA256: 'e72b3c374348240cfb21cf16a395d8722505b5ff3b1742012b9b3d0a53eaa886'
+          HUGO_VERSION: '0.161.1'
+          HUGO_SHA256: 'c89632f5bd7727746df2560313dc5dbeebef0a8823566c6479dbdd3c4f06aad9'
         run: |
           wget -q -O ${{ runner.temp }}/hugo.deb https://github.com/gohugoio/hugo/releases/download/v${HUGO_VERSION}/hugo_extended_${HUGO_VERSION}_linux-amd64.deb
           echo "${HUGO_SHA256}  ${{ runner.temp }}/hugo.deb" | sha256sum -c
