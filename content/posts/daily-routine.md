@@ -1,7 +1,7 @@
 ---
 title: "Daily Routine"
 date: 2026-02-13T11:30:02-08:00
-lastmod: 2026-04-11T11:30:02-08:00
+lastmod: 2026-08-03
 author: Alexander Saavedra
 tags: [health, productivity]
 draft: false
@@ -14,7 +14,7 @@ As a followup to the [Daily Lifestyle Checklist](/posts/daily-lifestyle-checklis
 
 # 24-Hour Weekday Schedule
 
-## 🌅 Morning (6:00 - 8:00)
+## 🌅 Morning 
 
 <details>
 <summary><strong>6:00-6:10 | Wake Up & Hygiene</strong></summary>
@@ -67,7 +67,7 @@ As a followup to the [Daily Lifestyle Checklist](/posts/daily-lifestyle-checklis
 
 ---
 
-## 💼 Work Session 1 (8:00 - 12:00)
+## 💼 Work Session 1 
 
 <details>
 <summary><strong>8:00-12:00 | Deep Work</strong></summary>
@@ -77,7 +77,7 @@ Focus on core work tasks without interruptions.
 
 ---
 
-## 🍜 Midday Break (12:00 - 13:30)
+## 🍜 Midday Break 
 
 <details>
 <summary><strong>12:00-12:30 | Lunch</strong></summary>
@@ -126,7 +126,7 @@ Focus on core work tasks without interruptions.
 
 ---
 
-## 💼 Work Session 2 (13:30 - 17:30)
+## 💼 Work Session 2 
 
 <details>
 <summary><strong>13:30-17:30 | Work + Studying</strong></summary>
@@ -136,7 +136,7 @@ Afternoon work and learning session.
 
 ---
 
-## 🍝 Evening (17:00 - 19:30)
+## 🍝 Evening 
 
 <details>
 <summary><strong>17:00-17:30 | Dinner (Fasting Begins)</strong></summary>
@@ -195,7 +195,7 @@ Evening activities and preparation for wind down.
 
 ---
 
-## 😴 Night Routine (19:30 - 22:00)
+## 😴 Night 
 
 <details>
 <summary><strong>19:30-22:00 | Wind Down & Sleep</strong></summary>
@@ -216,7 +216,7 @@ Evening activities and preparation for wind down.
 
 ---
 
-## 🌙 Sleep (22:00 - 6:00)
+## 🌙 Sleep 
 
 <details>
 <summary><strong>22:00-6:00 | Rest & Recovery</strong></summary>

@@ -1,9 +1,9 @@
 ---
 title: "Documentaries Worth Watching"
 date: 2025-05-23
-lastmod: 2025-05-23
+lastmod: 2026-08-03
 author: Alexander Saavedra
-tags: [art]
+tags: [art, software, ai]
 draft: false
 ---
 I watched a lot of documentaries, especially of artists and people who are driven into magnificient madness towards something greater than themselves.
@@ -27,7 +27,7 @@ Pause, look around, stop to wonder and be is awe.
 
 Stop to be amused and meander a little longer in a cabinet of curiosities.
 
-1. The Thinking Game
+## 1. The Thinking Game
 
 “Everybody’s realized what Shane and I have known for over 20 years. AI is the most important technology humanity’s going to invent. [...] This is the moment I have been living my whole life for." ~ Demis Hassabis
 
@@ -41,7 +41,7 @@ as a chess player that's plausible, but it's bigger than that.
 He believes this game, and the meta-problem of intelligence, is more than that.
 It's the most important question and problem he can solve in his lifetime.
 
-2. [Under Construction](https://m.imdb.com/title/tt3880930/) 
+## 2. [Under Construction](https://m.imdb.com/title/tt3880930/) 
 
 "I don't believe is setting limits, I find them." ~ Dave Crosland
 
@@ -54,7 +54,7 @@ It's a brutal and realistic documentary of the day in the life of his journey.
 I preferred it to others because it is more gritty, brutal, and real. 
 He has a lot of demons and similar to Dorian Yates does not live in a glamorous area.
 
-3. [The Struggle](https://en.m.wikipedia.org/wiki/Struggle:_The_Life_and_Lost_Art_of_Szukalski) 
+## 3. [The Struggle](https://en.m.wikipedia.org/wiki/Struggle:_The_Life_and_Lost_Art_of_Szukalski) 
 
 
 ![The Struggle](/stanislav-szukalski-struggle.webp "Struggle")
@@ -69,13 +69,13 @@ A true artistic genius, perhaps driven to the brink of madness by his art being 
 A backstory and tremendous regret. 
 The story of someone who could change and realize his mistakes.
 
-4. [Channel Z: A Magnificient Obsession](https://en.m.wikipedia.org/wiki/Z_Channel:_A_Magnificent_Obsession)
+## 4. [Channel Z: A Magnificient Obsession](https://en.m.wikipedia.org/wiki/Z_Channel:_A_Magnificent_Obsession)
 
 One of the greatest cinephiles ever. 
 Magnificient taste.
 A tragic ending.
 
-5. [The Transcendent Man](https://en.wikipedia.org/wiki/Transcendent_Man)
+## 5. [The Transcendent Man](https://en.wikipedia.org/wiki/Transcendent_Man)
 
 "Does God exist? My answer is not yet." ~ Ray Kurzweil. It's not easy to convey to people how far outside the overton window, the window is which "respectable" public discourse takes places, the concept of the Singularity was when Ray Kurzweil predicted it back in 1999 in the Age of Spiritual Machines book.s
 
@@ -92,7 +92,7 @@ My favorite part of this story is that his job title is a single sentence at
 Google.
 The title is "to bring natural language understanding to Google".
 
-6. [Judowsky's Dune](https://en.m.wikipedia.org/wiki/Jodorowsky's_Dune)
+## 6. [Judowsky's Dune](https://en.m.wikipedia.org/wiki/Jodorowsky's_Dune)
 
 ![Judowsky](/judowsky-dune.webp "Struggle")
 
@@ -104,7 +104,7 @@ The creative team behind this movie were some of the great artistic geniuses of 
 Many of the team members went onto create many magnificient motion pictures 
 that may not have existed without him.
 
-7. [Phil Tippett: Mad Dreams and Monsters](https://www.imdb.com/title/tt8421278/)
+## 7. [Phil Tippett: Mad Dreams and Monsters](https://www.imdb.com/title/tt8421278/)
 
 Claymation, movies like starship troopers, and numerous other works are the 
 product of Phil Tippet's work. 
@@ -113,7 +113,7 @@ He is a master of his creative craft, most importantly his specialty was animati
 His movie __Mad God__ is an expression of this. 
 Everything in that movie is gooey.
 
-8. [Requiem for the American Dream](https://m.imdb.com/title/tt3270538/)
+## 8. [Requiem for the American Dream](https://m.imdb.com/title/tt3270538/)
 
 "Renowned academic and author Noam Chomsky elucidates 10 principles of concentration of wealth and power that have led to unprecedented inequality and the hollowing out of the American middle class."
 
@@ -125,7 +125,7 @@ A nightmare into a reality because debt, wealth, and other factors are at the wh
 
 Or at least that's what he believes.
 
-9. [The Mindscape of Alan Moore](https://en.wikipedia.org/wiki/The_Mindscape_of_Alan_Moore)
+## 9. [The Mindscape of Alan Moore](https://en.wikipedia.org/wiki/The_Mindscape_of_Alan_Moore)
 
  "Quitting my day job and starting my life as a writer was a tremendous risk. It was a fool's leap. A shot in the dark. But, anything of any value in our lives, whether that be a career, a work of art, a relationship, will always start with such a leap. And in order to be able to make it, you have to put aside the fear of failing and the DESIRE of SUCCEEDING. You have to do these things completely purely, without fear, without desire. Because things that we do without lust of result are the purest actions that we shall ever take." ~ Alan Moore
 
@@ -138,7 +138,7 @@ Or at least that's what he believes.
  The foundation of persuasion and past power.
 
 
- 10. [Dream Dangerously](https://en.wikipedia.org/wiki/Neil_Gaiman:_Dream_Dangerously)
+## 10. [Dream Dangerously](https://en.wikipedia.org/wiki/Neil_Gaiman:_Dream_Dangerously)
 
 This is the story of Neil Gaiman's writing and work.
 
@@ -146,7 +146,7 @@ I thought about whether or not to include it then I remembered that
 anyones whose going to judge 9 year old me for enjoying Sandman and his stories growing is a moral puritan. 
 I am not excusing anybody.
 
- 11. [Won't You Be My Neighbor?](https://en.wikipedia.org/wiki/Won%27t_You_Be_My_Neighbor%3F_(film))
+## 11. [Won't You Be My Neighbor?](https://en.wikipedia.org/wiki/Won%27t_You_Be_My_Neighbor%3F_(film))
 
 **"Love as at the root of everything. All learning. All relationships. 
 Love or the lack of it."** 
@@ -167,7 +167,7 @@ on the world and why he matters.
 The most important part is that he helped so many with kindness.
 Hatred and anger don't provide a medium for constructive change.
 
-12. [Worlds of Ursula K. Le Guin](https://www.imdb.com/title/tt10022158/)
+## 12. [Worlds of Ursula K. Le Guin](https://www.imdb.com/title/tt10022158/)
 "We read books to find out who we are." 
 ~ Ursula Le Guin
 
@@ -185,7 +185,7 @@ The writer that most influenced my life to this day.
 
 She's is a badass.
 
-13. [Is the man who is tall, happy?](https://m.imdb.com/title/tt1817287/)
+## 13. [Is the man who is tall, happy?](https://m.imdb.com/title/tt1817287/)
 
 Is he happy? So important, much wow.
 
@@ -203,4 +203,24 @@ I will skip the details a bit, but the idea is whether continuity exists in obje
 
 On the same topic, how many holes does a pair of pants have? This is not as trivial as you may think.
 https://en.wikipedia.org/wiki/Pair_of_pants_(mathematics)
+
+## 14. [Revolution OS](https://en.wikipedia.org/wiki/Revolution_OS)
+
+This is the tale of how Linux plus GNU got started into a full blown movement.
+It goes over the philosophy of free as in freedom (libre).
+
+If you want a book specifically on Stallman I'd recommend the 
+book [Free as in Freedom](https://en.wikipedia.org/wiki/Free_as_in_Freedom)
+
+"Without the right to tinker and explore, we risk becoming enslaved by technology; and the more we exercise the right to hack, the harder it will be to take that right away" 
+- [Andre "Bunnie" Huang](https://en.wikipedia.org/wiki/Andrew_Huang_(hacker))
+https://en.wikipedia.org/wiki/Right_to_repair
+
+Stallman's [4 essential freedoms](https://edtechbooks.org/openedreader/stallmans-four-freedom)
+1. The freedom to run the program as you wish, for any purpose.
+2. The freedom to study how the program works, and change it so it does your computing as you wish. Access to the source code is a precondition for this.
+3. The freedom to redistribute copies so you can help your neighbor.
+4. The freedom to distribute copies of your modified versions to others. By doing this you can give the whole community a chance to benefit from your changes. Access to the source code is a precondition for this.
+
+[His criminally underrated TEDx Talk](https://www.fsf.org/blogs/rms/20140407-geneva-tedx-talk-free-software-free-society)
 
