@@ -537,3 +537,5 @@ Training data largely reflects the world, and so LLMs are relatively good at pro
 
 [source](https://x.com/testingham/status/2046249838313099670?s=20)
 
+https://blog.fogus.me/llm/born-against.html
+https://news.ycombinator.com/item?id=49187061 
