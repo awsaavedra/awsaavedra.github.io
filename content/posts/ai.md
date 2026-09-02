@@ -1,7 +1,7 @@
 ---
 title: "AI"
 date: 2025-02-28T16:39:08-08:00
-lastmod: 2026-03-25T00:00:00-08:00
+lastmod: 2026-09-01T00:00:00-08:00
 author: Alexander Saavedra
 tags: [philosophy,ai, software]
 draft: false
@@ -367,7 +367,11 @@ https://ai-timeline.org/ ai timeline of the past 10 years in pretty high resolut
 https://www.simonsfoundation.org/event/the-next-great-scientific-theory-is-hiding-inside-a-neural-network
 AI will fuel scientific discovery massively
 
-https://theinnermostloop.substack.com/
+“We propose that a 2 month, 10 man study of ‘artificial intelligence’ be carried out during the summer of 1956 at Dartmouth College. The study is to proceed on the basis of the conjecture that every aspect of learning or any other feature of intelligence can in principle be so precisely described that a machine can be made to simulate it. An attempt will be made to find how to make machines use language, form abstractions and concepts, solve kinds of problems now reserved for humans, and improve themselves. We think that a significant advance can be made in one or more of these problems if a carefully selected group of scientists work on it together for a summer.”
+
+Extract from Founding Statement of Dartmouth Conference, McCarthy et al, 1955
+
+"it's not that hard" apparently has been the default mode for awhile. I think this many false starts are necessary reasons for people to be skeptical but not sufficient given the current rate of progress.
 
 
 
